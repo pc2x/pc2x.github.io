@@ -1,0 +1,3171 @@
+{
+  "generatedAt": "2026-09-18T22:34:34Z",
+  "count": 633,
+  "images": [
+    {
+      "name": "affogato cafe",
+      "file": "affogato cafe.webp",
+      "path": "opt/affogato cafe.webp"
+    },
+    {
+      "name": "agua 355",
+      "file": "agua 355.webp",
+      "path": "opt/agua 355.webp"
+    },
+    {
+      "name": "agua 600 ml",
+      "file": "agua 600 ml.webp",
+      "path": "opt/agua 600 ml.webp"
+    },
+    {
+      "name": "agua caliente para cafe",
+      "file": "agua caliente para cafe.webp",
+      "path": "opt/agua caliente para cafe.webp"
+    },
+    {
+      "name": "agua de sabor 2",
+      "file": "agua de sabor 2.webp",
+      "path": "opt/agua de sabor 2.webp"
+    },
+    {
+      "name": "agua de sabor",
+      "file": "agua de sabor.webp",
+      "path": "opt/agua de sabor.webp"
+    },
+    {
+      "name": "agua de sandia",
+      "file": "agua de sandia.webp",
+      "path": "opt/agua de sandia.webp"
+    },
+    {
+      "name": "agua de taxco",
+      "file": "agua de taxco.webp",
+      "path": "opt/agua de taxco.webp"
+    },
+    {
+      "name": "aguacate 2",
+      "file": "aguacate 2.webp",
+      "path": "opt/aguacate 2.webp"
+    },
+    {
+      "name": "aguacate",
+      "file": "aguacate.webp",
+      "path": "opt/aguacate.webp"
+    },
+    {
+      "name": "aguachile negro",
+      "file": "aguachile negro.webp",
+      "path": "opt/aguachile negro.webp"
+    },
+    {
+      "name": "aguachile rojo",
+      "file": "aguachile rojo.webp",
+      "path": "opt/aguachile rojo.webp"
+    },
+    {
+      "name": "aguachile verde",
+      "file": "aguachile verde.webp",
+      "path": "opt/aguachile verde.webp"
+    },
+    {
+      "name": "alitas bbq",
+      "file": "alitas bbq.webp",
+      "path": "opt/alitas bbq.webp"
+    },
+    {
+      "name": "alitas cayena",
+      "file": "alitas cayena.webp",
+      "path": "opt/alitas cayena.webp"
+    },
+    {
+      "name": "alitas chipotle",
+      "file": "alitas chipotle.webp",
+      "path": "opt/alitas chipotle.webp"
+    },
+    {
+      "name": "alitas con papas",
+      "file": "alitas con papas.webp",
+      "path": "opt/alitas con papas.webp"
+    },
+    {
+      "name": "alitas en salsa agridulce",
+      "file": "alitas en salsa agridulce.webp",
+      "path": "opt/alitas en salsa agridulce.webp"
+    },
+    {
+      "name": "alitas en salsa general",
+      "file": "alitas en salsa general.webp",
+      "path": "opt/alitas en salsa general.webp"
+    },
+    {
+      "name": "alitas lemon pepper",
+      "file": "alitas lemon pepper.webp",
+      "path": "opt/alitas lemon pepper.webp"
+    },
+    {
+      "name": "alitas mango habanero",
+      "file": "alitas mango habanero.webp",
+      "path": "opt/alitas mango habanero.webp"
+    },
+    {
+      "name": "alitas miel picante",
+      "file": "alitas miel picante.webp",
+      "path": "opt/alitas miel picante.webp"
+    },
+    {
+      "name": "alitas naturales",
+      "file": "alitas naturales.webp",
+      "path": "opt/alitas naturales.webp"
+    },
+    {
+      "name": "alitas parmesano",
+      "file": "alitas parmesano.webp",
+      "path": "opt/alitas parmesano.webp"
+    },
+    {
+      "name": "alitas picosas",
+      "file": "alitas picosas.webp",
+      "path": "opt/alitas picosas.webp"
+    },
+    {
+      "name": "almendras",
+      "file": "almendras.webp",
+      "path": "opt/almendras.webp"
+    },
+    {
+      "name": "aperol",
+      "file": "aperol.webp",
+      "path": "opt/aperol.webp"
+    },
+    {
+      "name": "arizona",
+      "file": "arizona.webp",
+      "path": "opt/arizona.webp"
+    },
+    {
+      "name": "aros de cebolla",
+      "file": "aros de cebolla.webp",
+      "path": "opt/aros de cebolla.webp"
+    },
+    {
+      "name": "arroz blanco",
+      "file": "arroz blanco.webp",
+      "path": "opt/arroz blanco.webp"
+    },
+    {
+      "name": "arroz con curry media orden",
+      "file": "arroz con curry media orden.webp",
+      "path": "opt/arroz con curry media orden.webp"
+    },
+    {
+      "name": "arroz con curry",
+      "file": "arroz con curry.webp",
+      "path": "opt/arroz con curry.webp"
+    },
+    {
+      "name": "arroz con mariscos",
+      "file": "arroz con mariscos.webp",
+      "path": "opt/arroz con mariscos.webp"
+    },
+    {
+      "name": "arroz frito",
+      "file": "arroz frito.webp",
+      "path": "opt/arroz frito.webp"
+    },
+    {
+      "name": "arroz vegetariano media orden",
+      "file": "arroz vegetariano media orden.webp",
+      "path": "opt/arroz vegetariano media orden.webp"
+    },
+    {
+      "name": "arroz vegetariano",
+      "file": "arroz vegetariano.webp",
+      "path": "opt/arroz vegetariano.webp"
+    },
+    {
+      "name": "arroz vietnami media orden",
+      "file": "arroz vietnami media orden.webp",
+      "path": "opt/arroz vietnami media orden.webp"
+    },
+    {
+      "name": "arroz vietnami",
+      "file": "arroz vietnami.webp",
+      "path": "opt/arroz vietnami.webp"
+    },
+    {
+      "name": "azulito",
+      "file": "azulito.webp",
+      "path": "opt/azulito.webp"
+    },
+    {
+      "name": "baby mangos",
+      "file": "baby mangos.webp",
+      "path": "opt/baby mangos.webp"
+    },
+    {
+      "name": "baguette 2",
+      "file": "baguette 2.webp",
+      "path": "opt/baguette 2.webp"
+    },
+    {
+      "name": "baguette 3",
+      "file": "baguette 3.webp",
+      "path": "opt/baguette 3.webp"
+    },
+    {
+      "name": "baguette de arrachera",
+      "file": "baguette de arrachera.webp",
+      "path": "opt/baguette de arrachera.webp"
+    },
+    {
+      "name": "baguette italiano",
+      "file": "baguette italiano.webp",
+      "path": "opt/baguette italiano.webp"
+    },
+    {
+      "name": "baguette pechuga de pollo",
+      "file": "baguette pechuga de pollo.webp",
+      "path": "opt/baguette pechuga de pollo.webp"
+    },
+    {
+      "name": "baguette",
+      "file": "baguette.webp",
+      "path": "opt/baguette.webp"
+    },
+    {
+      "name": "banderillas coreanas",
+      "file": "banderillas coreanas.webp",
+      "path": "opt/banderillas coreanas.webp"
+    },
+    {
+      "name": "bebidas",
+      "file": "bebidas.webp",
+      "path": "opt/bebidas.webp"
+    },
+    {
+      "name": "bolillo con mantequilla",
+      "file": "bolillo con mantequilla.webp",
+      "path": "opt/bolillo con mantequilla.webp"
+    },
+    {
+      "name": "bolillo",
+      "file": "bolillo.webp",
+      "path": "opt/bolillo.webp"
+    },
+    {
+      "name": "boneless bbq",
+      "file": "boneless bbq.webp",
+      "path": "opt/boneless bbq.webp"
+    },
+    {
+      "name": "boneless buffalo",
+      "file": "boneless buffalo.webp",
+      "path": "opt/boneless buffalo.webp"
+    },
+    {
+      "name": "boneless cayenne",
+      "file": "boneless cayenne.webp",
+      "path": "opt/boneless cayenne.webp"
+    },
+    {
+      "name": "boneless chipotle",
+      "file": "boneless chipotle.webp",
+      "path": "opt/boneless chipotle.webp"
+    },
+    {
+      "name": "boneless habanero",
+      "file": "boneless habanero.webp",
+      "path": "opt/boneless habanero.webp"
+    },
+    {
+      "name": "boneless lemon pepper",
+      "file": "boneless lemon pepper.webp",
+      "path": "opt/boneless lemon pepper.webp"
+    },
+    {
+      "name": "boneless miel",
+      "file": "boneless miel.webp",
+      "path": "opt/boneless miel.webp"
+    },
+    {
+      "name": "boneless parmesano",
+      "file": "boneless parmesano.webp",
+      "path": "opt/boneless parmesano.webp"
+    },
+    {
+      "name": "botella de agua 1 litro",
+      "file": "botella de agua 1 litro.webp",
+      "path": "opt/botella de agua 1 litro.webp"
+    },
+    {
+      "name": "botella de agua 2",
+      "file": "botella de agua 2.webp",
+      "path": "opt/botella de agua 2.webp"
+    },
+    {
+      "name": "botella de agua",
+      "file": "botella de agua.webp",
+      "path": "opt/botella de agua.webp"
+    },
+    {
+      "name": "brocheta de pollo",
+      "file": "brocheta de pollo.webp",
+      "path": "opt/brocheta de pollo.webp"
+    },
+    {
+      "name": "brocheta de res",
+      "file": "brocheta de res.webp",
+      "path": "opt/brocheta de res.webp"
+    },
+    {
+      "name": "brochetas de puerco",
+      "file": "brochetas de puerco.webp",
+      "path": "opt/brochetas de puerco.webp"
+    },
+    {
+      "name": "brocoli",
+      "file": "brocoli.webp",
+      "path": "opt/brocoli.webp"
+    },
+    {
+      "name": "brownie con helado",
+      "file": "brownie con helado.webp",
+      "path": "opt/brownie con helado.webp"
+    },
+    {
+      "name": "buffet adulto",
+      "file": "buffet adulto.webp",
+      "path": "opt/buffet adulto.webp"
+    },
+    {
+      "name": "buffet niños",
+      "file": "buffet niños.webp",
+      "path": "opt/buffet niños.webp"
+    },
+    {
+      "name": "burrito de arrachera",
+      "file": "burrito de arrachera.webp",
+      "path": "opt/burrito de arrachera.webp"
+    },
+    {
+      "name": "cafe americano de maquina",
+      "file": "cafe americano de maquina.webp",
+      "path": "opt/cafe americano de maquina.webp"
+    },
+    {
+      "name": "cafe americano expresso",
+      "file": "cafe americano expresso.webp",
+      "path": "opt/cafe americano expresso.webp"
+    },
+    {
+      "name": "cafe americano",
+      "file": "cafe americano.webp",
+      "path": "opt/cafe americano.webp"
+    },
+    {
+      "name": "cafe cappuccino",
+      "file": "cafe cappuccino.webp",
+      "path": "opt/cafe cappuccino.webp"
+    },
+    {
+      "name": "cafe de olla",
+      "file": "cafe de olla.webp",
+      "path": "opt/cafe de olla.webp"
+    },
+    {
+      "name": "cafe expresso doble",
+      "file": "cafe expresso doble.webp",
+      "path": "opt/cafe expresso doble.webp"
+    },
+    {
+      "name": "cafe expresso",
+      "file": "cafe expresso.webp",
+      "path": "opt/cafe expresso.webp"
+    },
+    {
+      "name": "cafe frio",
+      "file": "cafe frio.webp",
+      "path": "opt/cafe frio.webp"
+    },
+    {
+      "name": "cafe latte",
+      "file": "cafe latte.webp",
+      "path": "opt/cafe latte.webp"
+    },
+    {
+      "name": "cafe lechero",
+      "file": "cafe lechero.webp",
+      "path": "opt/cafe lechero.webp"
+    },
+    {
+      "name": "cafe taza",
+      "file": "cafe taza.webp",
+      "path": "opt/cafe taza.webp"
+    },
+    {
+      "name": "caldo tlalpeño",
+      "file": "caldo tlalpeño.webp",
+      "path": "opt/caldo tlalpeño.webp"
+    },
+    {
+      "name": "caldo verde de camaron",
+      "file": "caldo verde de camaron.webp",
+      "path": "opt/caldo verde de camaron.webp"
+    },
+    {
+      "name": "caldo",
+      "file": "caldo.webp",
+      "path": "opt/caldo.webp"
+    },
+    {
+      "name": "camaron a la naranja",
+      "file": "camaron a la naranja.webp",
+      "path": "opt/camaron a la naranja.webp"
+    },
+    {
+      "name": "camaron con ajonjoli",
+      "file": "camaron con ajonjoli.webp",
+      "path": "opt/camaron con ajonjoli.webp"
+    },
+    {
+      "name": "camaron con almendras",
+      "file": "camaron con almendras.webp",
+      "path": "opt/camaron con almendras.webp"
+    },
+    {
+      "name": "camaron con brocoli",
+      "file": "camaron con brocoli.webp",
+      "path": "opt/camaron con brocoli.webp"
+    },
+    {
+      "name": "camaron con champiñones",
+      "file": "camaron con champiñones.webp",
+      "path": "opt/camaron con champiñones.webp"
+    },
+    {
+      "name": "camaron con frijoles chinos",
+      "file": "camaron con frijoles chinos.webp",
+      "path": "opt/camaron con frijoles chinos.webp"
+    },
+    {
+      "name": "camaron con salsa curry",
+      "file": "camaron con salsa curry.webp",
+      "path": "opt/camaron con salsa curry.webp"
+    },
+    {
+      "name": "camaron con salsa de langosta",
+      "file": "camaron con salsa de langosta.webp",
+      "path": "opt/camaron con salsa de langosta.webp"
+    },
+    {
+      "name": "camaron con verduras",
+      "file": "camaron con verduras.webp",
+      "path": "opt/camaron con verduras.webp"
+    },
+    {
+      "name": "camaron empanizado con papas",
+      "file": "camaron empanizado con papas.webp",
+      "path": "opt/camaron empanizado con papas.webp"
+    },
+    {
+      "name": "camaron en salsa agridulce",
+      "file": "camaron en salsa agridulce.webp",
+      "path": "opt/camaron en salsa agridulce.webp"
+    },
+    {
+      "name": "camaron en salsa de ajo",
+      "file": "camaron en salsa de ajo.webp",
+      "path": "opt/camaron en salsa de ajo.webp"
+    },
+    {
+      "name": "camaron en salsa de langosta",
+      "file": "camaron en salsa de langosta.webp",
+      "path": "opt/camaron en salsa de langosta.webp"
+    },
+    {
+      "name": "camaron en salsa general",
+      "file": "camaron en salsa general.webp",
+      "path": "opt/camaron en salsa general.webp"
+    },
+    {
+      "name": "camaron enamorado",
+      "file": "camaron enamorado.webp",
+      "path": "opt/camaron enamorado.webp"
+    },
+    {
+      "name": "camaron",
+      "file": "camaron.webp",
+      "path": "opt/camaron.webp"
+    },
+    {
+      "name": "camaron2",
+      "file": "camaron2.webp",
+      "path": "opt/camaron2.webp"
+    },
+    {
+      "name": "camarones a la crema",
+      "file": "camarones a la crema.webp",
+      "path": "opt/camarones a la crema.webp"
+    },
+    {
+      "name": "camarones al coco",
+      "file": "camarones al coco.webp",
+      "path": "opt/camarones al coco.webp"
+    },
+    {
+      "name": "camarones con almendras",
+      "file": "camarones con almendras.webp",
+      "path": "opt/camarones con almendras.webp"
+    },
+    {
+      "name": "camarones empanizados",
+      "file": "camarones empanizados.webp",
+      "path": "opt/camarones empanizados.webp"
+    },
+    {
+      "name": "camarones empapelados",
+      "file": "camarones empapelados.webp",
+      "path": "opt/camarones empapelados.webp"
+    },
+    {
+      "name": "camarones envueltos con tocino",
+      "file": "camarones envueltos con tocino.webp",
+      "path": "opt/camarones envueltos con tocino.webp"
+    },
+    {
+      "name": "camarones gratinados",
+      "file": "camarones gratinados.webp",
+      "path": "opt/camarones gratinados.webp"
+    },
+    {
+      "name": "camarones picosos",
+      "file": "camarones picosos.webp",
+      "path": "opt/camarones picosos.webp"
+    },
+    {
+      "name": "camarones",
+      "file": "camarones.webp",
+      "path": "opt/camarones.webp"
+    },
+    {
+      "name": "carajillo",
+      "file": "carajillo.webp",
+      "path": "opt/carajillo.webp"
+    },
+    {
+      "name": "caribean burguer",
+      "file": "caribean burguer.webp",
+      "path": "opt/caribean burguer.webp"
+    },
+    {
+      "name": "carne asada",
+      "file": "carne asada.webp",
+      "path": "opt/carne asada.webp"
+    },
+    {
+      "name": "carne frita",
+      "file": "carne frita.webp",
+      "path": "opt/carne frita.webp"
+    },
+    {
+      "name": "cecina con guacamole",
+      "file": "cecina con guacamole.webp",
+      "path": "opt/cecina con guacamole.webp"
+    },
+    {
+      "name": "cerry soda",
+      "file": "cerry soda.webp",
+      "path": "opt/cerry soda.webp"
+    },
+    {
+      "name": "cerveza 1 litro",
+      "file": "cerveza 1 litro.webp",
+      "path": "opt/cerveza 1 litro.webp"
+    },
+    {
+      "name": "cerveza 3 4",
+      "file": "cerveza 3 4.webp",
+      "path": "opt/cerveza 3 4.webp"
+    },
+    {
+      "name": "cerveza artesanal 2",
+      "file": "cerveza artesanal 2.webp",
+      "path": "opt/cerveza artesanal 2.webp"
+    },
+    {
+      "name": "cerveza artesanal",
+      "file": "cerveza artesanal.webp",
+      "path": "opt/cerveza artesanal.webp"
+    },
+    {
+      "name": "cerveza blue moon",
+      "file": "cerveza blue moon.webp",
+      "path": "opt/cerveza blue moon.webp"
+    },
+    {
+      "name": "cerveza corona",
+      "file": "cerveza corona.webp",
+      "path": "opt/cerveza corona.webp"
+    },
+    {
+      "name": "cerveza estrella galicia",
+      "file": "cerveza estrella galicia.webp",
+      "path": "opt/cerveza estrella galicia.webp"
+    },
+    {
+      "name": "cerveza machelob ultra",
+      "file": "cerveza machelob ultra.webp",
+      "path": "opt/cerveza machelob ultra.webp"
+    },
+    {
+      "name": "cerveza modelo especial",
+      "file": "cerveza modelo especial.webp",
+      "path": "opt/cerveza modelo especial.webp"
+    },
+    {
+      "name": "cerveza modelo negra",
+      "file": "cerveza modelo negra.webp",
+      "path": "opt/cerveza modelo negra.webp"
+    },
+    {
+      "name": "cerveza pacifico",
+      "file": "cerveza pacifico.webp",
+      "path": "opt/cerveza pacifico.webp"
+    },
+    {
+      "name": "cerveza paulaner",
+      "file": "cerveza paulaner.webp",
+      "path": "opt/cerveza paulaner.webp"
+    },
+    {
+      "name": "cerveza stella artois",
+      "file": "cerveza stella artois.webp",
+      "path": "opt/cerveza stella artois.webp"
+    },
+    {
+      "name": "cerveza ultra",
+      "file": "cerveza ultra.webp",
+      "path": "opt/cerveza ultra.webp"
+    },
+    {
+      "name": "cerveza victoria",
+      "file": "cerveza victoria.webp",
+      "path": "opt/cerveza victoria.webp"
+    },
+    {
+      "name": "ceviche de camaron",
+      "file": "ceviche de camaron.webp",
+      "path": "opt/ceviche de camaron.webp"
+    },
+    {
+      "name": "ceviche de pescado",
+      "file": "ceviche de pescado.webp",
+      "path": "opt/ceviche de pescado.webp"
+    },
+    {
+      "name": "chamochela",
+      "file": "chamochela.webp",
+      "path": "opt/chamochela.webp"
+    },
+    {
+      "name": "champiñones",
+      "file": "champiñones.webp",
+      "path": "opt/champiñones.webp"
+    },
+    {
+      "name": "chao_fan",
+      "file": "chao_fan.webp",
+      "path": "opt/chao_fan.webp"
+    },
+    {
+      "name": "chao_fan_media_orden",
+      "file": "chao_fan_media_orden.webp",
+      "path": "opt/chao_fan_media_orden.webp"
+    },
+    {
+      "name": "charola snacks",
+      "file": "charola snacks.webp",
+      "path": "opt/charola snacks.webp"
+    },
+    {
+      "name": "cheese wonton",
+      "file": "cheese wonton.webp",
+      "path": "opt/cheese wonton.webp"
+    },
+    {
+      "name": "cheesy burguer",
+      "file": "cheesy burguer.webp",
+      "path": "opt/cheesy burguer.webp"
+    },
+    {
+      "name": "cherry soda",
+      "file": "cherry soda.webp",
+      "path": "opt/cherry soda.webp"
+    },
+    {
+      "name": "chesnuts con camaron",
+      "file": "chesnuts con camaron.webp",
+      "path": "opt/chesnuts con camaron.webp"
+    },
+    {
+      "name": "chesnuts con pollo",
+      "file": "chesnuts con pollo.webp",
+      "path": "opt/chesnuts con pollo.webp"
+    },
+    {
+      "name": "chesnuts con res",
+      "file": "chesnuts con res.webp",
+      "path": "opt/chesnuts con res.webp"
+    },
+    {
+      "name": "chesnuts mixto",
+      "file": "chesnuts mixto.webp",
+      "path": "opt/chesnuts mixto.webp"
+    },
+    {
+      "name": "chicken burguer",
+      "file": "chicken burguer.webp",
+      "path": "opt/chicken burguer.webp"
+    },
+    {
+      "name": "chilaquiles divorciados",
+      "file": "chilaquiles divorciados.webp",
+      "path": "opt/chilaquiles divorciados.webp"
+    },
+    {
+      "name": "chilaquiles gratinados rojos 2",
+      "file": "chilaquiles gratinados rojos 2.webp",
+      "path": "opt/chilaquiles gratinados rojos 2.webp"
+    },
+    {
+      "name": "chilaquiles gratinados rojos",
+      "file": "chilaquiles gratinados rojos.webp",
+      "path": "opt/chilaquiles gratinados rojos.webp"
+    },
+    {
+      "name": "chilaquiles gratinados verdes 2",
+      "file": "chilaquiles gratinados verdes 2.webp",
+      "path": "opt/chilaquiles gratinados verdes 2.webp"
+    },
+    {
+      "name": "chilaquiles gratinados verdes",
+      "file": "chilaquiles gratinados verdes.webp",
+      "path": "opt/chilaquiles gratinados verdes.webp"
+    },
+    {
+      "name": "chilaquiles rojos 2",
+      "file": "chilaquiles rojos 2.webp",
+      "path": "opt/chilaquiles rojos 2.webp"
+    },
+    {
+      "name": "chilaquiles rojos",
+      "file": "chilaquiles rojos.webp",
+      "path": "opt/chilaquiles rojos.webp"
+    },
+    {
+      "name": "chilaquiles suizos",
+      "file": "chilaquiles suizos.webp",
+      "path": "opt/chilaquiles suizos.webp"
+    },
+    {
+      "name": "chilaquiles verdes 2",
+      "file": "chilaquiles verdes 2.webp",
+      "path": "opt/chilaquiles verdes 2.webp"
+    },
+    {
+      "name": "chilaquiles verdes",
+      "file": "chilaquiles verdes.webp",
+      "path": "opt/chilaquiles verdes.webp"
+    },
+    {
+      "name": "chocolate abuelita",
+      "file": "chocolate abuelita.webp",
+      "path": "opt/chocolate abuelita.webp"
+    },
+    {
+      "name": "chomey de camaron",
+      "file": "chomey de camaron.webp",
+      "path": "opt/chomey de camaron.webp"
+    },
+    {
+      "name": "chomey de pollo",
+      "file": "chomey de pollo.webp",
+      "path": "opt/chomey de pollo.webp"
+    },
+    {
+      "name": "chomey mixto",
+      "file": "chomey mixto.webp",
+      "path": "opt/chomey mixto.webp"
+    },
+    {
+      "name": "chop suey con camaron",
+      "file": "chop suey con camaron.webp",
+      "path": "opt/chop suey con camaron.webp"
+    },
+    {
+      "name": "chop suey con pollo",
+      "file": "chop suey con pollo.webp",
+      "path": "opt/chop suey con pollo.webp"
+    },
+    {
+      "name": "chop suey con res",
+      "file": "chop suey con res.webp",
+      "path": "opt/chop suey con res.webp"
+    },
+    {
+      "name": "chop suey mixto",
+      "file": "chop suey mixto.webp",
+      "path": "opt/chop suey mixto.webp"
+    },
+    {
+      "name": "claras de huevo 2",
+      "file": "claras de huevo 2.webp",
+      "path": "opt/claras de huevo 2.webp"
+    },
+    {
+      "name": "claras de huevo",
+      "file": "claras de huevo.webp",
+      "path": "opt/claras de huevo.webp"
+    },
+    {
+      "name": "classic burguer",
+      "file": "classic burguer.webp",
+      "path": "opt/classic burguer.webp"
+    },
+    {
+      "name": "clericot copa",
+      "file": "clericot copa.webp",
+      "path": "opt/clericot copa.webp"
+    },
+    {
+      "name": "clericot jarra",
+      "file": "clericot jarra.webp",
+      "path": "opt/clericot jarra.webp"
+    },
+    {
+      "name": "club sandwich 2",
+      "file": "club sandwich 2.webp",
+      "path": "opt/club sandwich 2.webp"
+    },
+    {
+      "name": "club sandwich 3",
+      "file": "club sandwich 3.webp",
+      "path": "opt/club sandwich 3.webp"
+    },
+    {
+      "name": "club sandwich",
+      "file": "club sandwich.webp",
+      "path": "opt/club sandwich.webp"
+    },
+    {
+      "name": "cocacola 355",
+      "file": "cocacola 355.webp",
+      "path": "opt/cocacola 355.webp"
+    },
+    {
+      "name": "cocacola light",
+      "file": "cocacola light.webp",
+      "path": "opt/cocacola light.webp"
+    },
+    {
+      "name": "cocacola zero",
+      "file": "cocacola zero.webp",
+      "path": "opt/cocacola zero.webp"
+    },
+    {
+      "name": "coctel alfonso 13",
+      "file": "coctel alfonso 13.webp",
+      "path": "opt/coctel alfonso 13.webp"
+    },
+    {
+      "name": "coctel campechana",
+      "file": "coctel campechana.webp",
+      "path": "opt/coctel campechana.webp"
+    },
+    {
+      "name": "coctel carajillo",
+      "file": "coctel carajillo.webp",
+      "path": "opt/coctel carajillo.webp"
+    },
+    {
+      "name": "coctel de camarón",
+      "file": "coctel de camarón.webp",
+      "path": "opt/coctel de camarón.webp"
+    },
+    {
+      "name": "coctel de frutas",
+      "file": "coctel de frutas.webp",
+      "path": "opt/coctel de frutas.webp"
+    },
+    {
+      "name": "coctel viagra",
+      "file": "coctel viagra.webp",
+      "path": "opt/coctel viagra.webp"
+    },
+    {
+      "name": "coctel vuelve a la vida",
+      "file": "coctel vuelve a la vida.webp",
+      "path": "opt/coctel vuelve a la vida.webp"
+    },
+    {
+      "name": "coditos",
+      "file": "coditos.webp",
+      "path": "opt/coditos.webp"
+    },
+    {
+      "name": "comandas cocina",
+      "file": "comandas cocina.webp",
+      "path": "opt/comandas cocina.webp"
+    },
+    {
+      "name": "conga bebida",
+      "file": "conga bebida.webp",
+      "path": "opt/conga bebida.webp"
+    },
+    {
+      "name": "consome de pollo",
+      "file": "consome de pollo.webp",
+      "path": "opt/consome de pollo.webp"
+    },
+    {
+      "name": "copa clericot",
+      "file": "copa clericot.webp",
+      "path": "opt/copa clericot.webp"
+    },
+    {
+      "name": "copa de fruta",
+      "file": "copa de fruta.webp",
+      "path": "opt/copa de fruta.webp"
+    },
+    {
+      "name": "copa de helado",
+      "file": "copa de helado.webp",
+      "path": "opt/copa de helado.webp"
+    },
+    {
+      "name": "copa de sangria",
+      "file": "copa de sangria.webp",
+      "path": "opt/copa de sangria.webp"
+    },
+    {
+      "name": "copa de vino 2",
+      "file": "copa de vino 2.webp",
+      "path": "opt/copa de vino 2.webp"
+    },
+    {
+      "name": "costillas baby backs",
+      "file": "costillas baby backs.webp",
+      "path": "opt/costillas baby backs.webp"
+    },
+    {
+      "name": "crepa con nutella",
+      "file": "crepa con nutella.webp",
+      "path": "opt/crepa con nutella.webp"
+    },
+    {
+      "name": "crepas con cajeta 2",
+      "file": "crepas con cajeta 2.webp",
+      "path": "opt/crepas con cajeta 2.webp"
+    },
+    {
+      "name": "crepas con cajeta",
+      "file": "crepas con cajeta.webp",
+      "path": "opt/crepas con cajeta.webp"
+    },
+    {
+      "name": "crepas saladas",
+      "file": "crepas saladas.webp",
+      "path": "opt/crepas saladas.webp"
+    },
+    {
+      "name": "crepas",
+      "file": "crepas.webp",
+      "path": "opt/crepas.webp"
+    },
+    {
+      "name": "crispy burguer",
+      "file": "crispy burguer.webp",
+      "path": "opt/crispy burguer.webp"
+    },
+    {
+      "name": "croissant americano",
+      "file": "croissant americano.webp",
+      "path": "opt/croissant americano.webp"
+    },
+    {
+      "name": "croissant iberico",
+      "file": "croissant iberico.webp",
+      "path": "opt/croissant iberico.webp"
+    },
+    {
+      "name": "croque madame",
+      "file": "croque madame.webp",
+      "path": "opt/croque madame.webp"
+    },
+    {
+      "name": "crostini",
+      "file": "crostini.webp",
+      "path": "opt/crostini.webp"
+    },
+    {
+      "name": "crunch burguer",
+      "file": "crunch burguer.webp",
+      "path": "opt/crunch burguer.webp"
+    },
+    {
+      "name": "cuarto de pollo rostizado",
+      "file": "cuarto de pollo rostizado.webp",
+      "path": "opt/cuarto de pollo rostizado.webp"
+    },
+    {
+      "name": "cubetazo",
+      "file": "cubetazo.webp",
+      "path": "opt/cubetazo.webp"
+    },
+    {
+      "name": "curry mixto",
+      "file": "curry mixto.webp",
+      "path": "opt/curry mixto.webp"
+    },
+    {
+      "name": "dedos de queso",
+      "file": "dedos de queso.webp",
+      "path": "opt/dedos de queso.webp"
+    },
+    {
+      "name": "default2",
+      "file": "default2.webp",
+      "path": "opt/default2.webp"
+    },
+    {
+      "name": "delaware punch",
+      "file": "delaware punch.webp",
+      "path": "opt/delaware punch.webp"
+    },
+    {
+      "name": "desayuno amanecer en la canoa",
+      "file": "desayuno amanecer en la canoa.webp",
+      "path": "opt/desayuno amanecer en la canoa.webp"
+    },
+    {
+      "name": "desayuno americano",
+      "file": "desayuno americano.webp",
+      "path": "opt/desayuno americano.webp"
+    },
+    {
+      "name": "desayuno combinado",
+      "file": "desayuno combinado.webp",
+      "path": "opt/desayuno combinado.webp"
+    },
+    {
+      "name": "desayuno familiar",
+      "file": "desayuno familiar.webp",
+      "path": "opt/desayuno familiar.webp"
+    },
+    {
+      "name": "desayuno la canoa",
+      "file": "desayuno la canoa.webp",
+      "path": "opt/desayuno la canoa.webp"
+    },
+    {
+      "name": "descorche",
+      "file": "descorche.webp",
+      "path": "opt/descorche.webp"
+    },
+    {
+      "name": "desechable hamburguesero",
+      "file": "desechable hamburguesero.webp",
+      "path": "opt/desechable hamburguesero.webp"
+    },
+    {
+      "name": "desechable termico 8x8",
+      "file": "desechable termico 8x8.webp",
+      "path": "opt/desechable termico 8x8.webp"
+    },
+    {
+      "name": "dogo clasico",
+      "file": "dogo clasico.webp",
+      "path": "opt/dogo clasico.webp"
+    },
+    {
+      "name": "dogo con champiñones",
+      "file": "dogo con champiñones.webp",
+      "path": "opt/dogo con champiñones.webp"
+    },
+    {
+      "name": "dogo con chili",
+      "file": "dogo con chili.webp",
+      "path": "opt/dogo con chili.webp"
+    },
+    {
+      "name": "dogo con sabritas",
+      "file": "dogo con sabritas.webp",
+      "path": "opt/dogo con sabritas.webp"
+    },
+    {
+      "name": "dogo tocino",
+      "file": "dogo tocino.webp",
+      "path": "opt/dogo tocino.webp"
+    },
+    {
+      "name": "doritos",
+      "file": "doritos.webp",
+      "path": "opt/doritos.webp"
+    },
+    {
+      "name": "dos hamburguesas",
+      "file": "dos hamburguesas.webp",
+      "path": "opt/dos hamburguesas.webp"
+    },
+    {
+      "name": "egg roll 1 pieza",
+      "file": "egg roll 1 pieza.webp",
+      "path": "opt/egg roll 1 pieza.webp"
+    },
+    {
+      "name": "egg roll 2 piezas",
+      "file": "egg roll 2 piezas.webp",
+      "path": "opt/egg roll 2 piezas.webp"
+    },
+    {
+      "name": "empty image 2",
+      "file": "empty image 2.webp",
+      "path": "opt/empty image 2.webp"
+    },
+    {
+      "name": "empty image",
+      "file": "empty image.webp",
+      "path": "opt/empty image.webp"
+    },
+    {
+      "name": "enchiladas guajillo",
+      "file": "enchiladas guajillo.webp",
+      "path": "opt/enchiladas guajillo.webp"
+    },
+    {
+      "name": "enchiladas jitomate",
+      "file": "enchiladas jitomate.webp",
+      "path": "opt/enchiladas jitomate.webp"
+    },
+    {
+      "name": "enchiladas poblanas",
+      "file": "enchiladas poblanas.webp",
+      "path": "opt/enchiladas poblanas.webp"
+    },
+    {
+      "name": "enchiladas suizas",
+      "file": "enchiladas suizas.webp",
+      "path": "opt/enchiladas suizas.webp"
+    },
+    {
+      "name": "enchiladas verdes",
+      "file": "enchiladas verdes.webp",
+      "path": "opt/enchiladas verdes.webp"
+    },
+    {
+      "name": "enmoladas 2",
+      "file": "enmoladas 2.webp",
+      "path": "opt/enmoladas 2.webp"
+    },
+    {
+      "name": "enmoladas",
+      "file": "enmoladas.webp",
+      "path": "opt/enmoladas.webp"
+    },
+    {
+      "name": "ensalada cesar",
+      "file": "ensalada cesar.webp",
+      "path": "opt/ensalada cesar.webp"
+    },
+    {
+      "name": "ensalada de manzana",
+      "file": "ensalada de manzana.webp",
+      "path": "opt/ensalada de manzana.webp"
+    },
+    {
+      "name": "ensalada de salmon",
+      "file": "ensalada de salmon.webp",
+      "path": "opt/ensalada de salmon.webp"
+    },
+    {
+      "name": "ensalada del dia",
+      "file": "ensalada del dia.webp",
+      "path": "opt/ensalada del dia.webp"
+    },
+    {
+      "name": "ensalada especial",
+      "file": "ensalada especial.webp",
+      "path": "opt/ensalada especial.webp"
+    },
+    {
+      "name": "ensalada guayaba",
+      "file": "ensalada guayaba.webp",
+      "path": "opt/ensalada guayaba.webp"
+    },
+    {
+      "name": "ensalada la copa",
+      "file": "ensalada la copa.webp",
+      "path": "opt/ensalada la copa.webp"
+    },
+    {
+      "name": "ensalada mediterranea",
+      "file": "ensalada mediterranea.webp",
+      "path": "opt/ensalada mediterranea.webp"
+    },
+    {
+      "name": "ensalada primavera",
+      "file": "ensalada primavera.webp",
+      "path": "opt/ensalada primavera.webp"
+    },
+    {
+      "name": "ensalada rusa",
+      "file": "ensalada rusa.webp",
+      "path": "opt/ensalada rusa.webp"
+    },
+    {
+      "name": "extra de huevo",
+      "file": "extra de huevo.webp",
+      "path": "opt/extra de huevo.webp"
+    },
+    {
+      "name": "extra de mixto",
+      "file": "extra de mixto.webp",
+      "path": "opt/extra de mixto.webp"
+    },
+    {
+      "name": "extra de pollo",
+      "file": "extra de pollo.webp",
+      "path": "opt/extra de pollo.webp"
+    },
+    {
+      "name": "extra de puerco",
+      "file": "extra de puerco.webp",
+      "path": "opt/extra de puerco.webp"
+    },
+    {
+      "name": "extra de queso",
+      "file": "extra de queso.webp",
+      "path": "opt/extra de queso.webp"
+    },
+    {
+      "name": "extra de res",
+      "file": "extra de res.webp",
+      "path": "opt/extra de res.webp"
+    },
+    {
+      "name": "extra pollo empanizado",
+      "file": "extra pollo empanizado.webp",
+      "path": "opt/extra pollo empanizado.webp"
+    },
+    {
+      "name": "fajitas de arrachera",
+      "file": "fajitas de arrachera.webp",
+      "path": "opt/fajitas de arrachera.webp"
+    },
+    {
+      "name": "familia feliz",
+      "file": "familia feliz.webp",
+      "path": "opt/familia feliz.webp"
+    },
+    {
+      "name": "fanta 355",
+      "file": "fanta 355.webp",
+      "path": "opt/fanta 355.webp"
+    },
+    {
+      "name": "fideos fritos",
+      "file": "fideos fritos.webp",
+      "path": "opt/fideos fritos.webp"
+    },
+    {
+      "name": "filete de pescado 1",
+      "file": "filete de pescado 1.webp",
+      "path": "opt/filete de pescado 1.webp"
+    },
+    {
+      "name": "filete de pescado 2",
+      "file": "filete de pescado 2.webp",
+      "path": "opt/filete de pescado 2.webp"
+    },
+    {
+      "name": "filete relleno de mariscos",
+      "file": "filete relleno de mariscos.webp",
+      "path": "opt/filete relleno de mariscos.webp"
+    },
+    {
+      "name": "flamingo cocktel",
+      "file": "flamingo cocktel.webp",
+      "path": "opt/flamingo cocktel.webp"
+    },
+    {
+      "name": "flautas de pollo",
+      "file": "flautas de pollo.webp",
+      "path": "opt/flautas de pollo.webp"
+    },
+    {
+      "name": "fortachon",
+      "file": "fortachon.webp",
+      "path": "opt/fortachon.webp"
+    },
+    {
+      "name": "frappe",
+      "file": "frappe.webp",
+      "path": "opt/frappe.webp"
+    },
+    {
+      "name": "fresada",
+      "file": "fresada.webp",
+      "path": "opt/fresada.webp"
+    },
+    {
+      "name": "fresca 355",
+      "file": "fresca 355.webp",
+      "path": "opt/fresca 355.webp"
+    },
+    {
+      "name": "frijoles con totopos",
+      "file": "frijoles con totopos.webp",
+      "path": "opt/frijoles con totopos.webp"
+    },
+    {
+      "name": "frutas",
+      "file": "frutas.webp",
+      "path": "opt/frutas.webp"
+    },
+    {
+      "name": "galleta de la suerte",
+      "file": "galleta de la suerte.webp",
+      "path": "opt/galleta de la suerte.webp"
+    },
+    {
+      "name": "gin tonic",
+      "file": "gin tonic.webp",
+      "path": "opt/gin tonic.webp"
+    },
+    {
+      "name": "gringa",
+      "file": "gringa.webp",
+      "path": "opt/gringa.webp"
+    },
+    {
+      "name": "guacamoles",
+      "file": "guacamoles.webp",
+      "path": "opt/guacamoles.webp"
+    },
+    {
+      "name": "guiso del dia",
+      "file": "guiso del dia.webp",
+      "path": "opt/guiso del dia.webp"
+    },
+    {
+      "name": "hamburguesa americana",
+      "file": "hamburguesa americana.webp",
+      "path": "opt/hamburguesa americana.webp"
+    },
+    {
+      "name": "hamburguesa bbq 1",
+      "file": "hamburguesa bbq 1.webp",
+      "path": "opt/hamburguesa bbq 1.webp"
+    },
+    {
+      "name": "hamburguesa buffalo",
+      "file": "hamburguesa buffalo.webp",
+      "path": "opt/hamburguesa buffalo.webp"
+    },
+    {
+      "name": "hamburguesa chipotle",
+      "file": "hamburguesa chipotle.webp",
+      "path": "opt/hamburguesa chipotle.webp"
+    },
+    {
+      "name": "hamburguesa clasica",
+      "file": "hamburguesa clasica.webp",
+      "path": "opt/hamburguesa clasica.webp"
+    },
+    {
+      "name": "hamburguesa con champiñones",
+      "file": "hamburguesa con champiñones.webp",
+      "path": "opt/hamburguesa con champiñones.webp"
+    },
+    {
+      "name": "hamburguesa de pollo con aderezo",
+      "file": "hamburguesa de pollo con aderezo.webp",
+      "path": "opt/hamburguesa de pollo con aderezo.webp"
+    },
+    {
+      "name": "hamburguesa de pollo",
+      "file": "hamburguesa de pollo.webp",
+      "path": "opt/hamburguesa de pollo.webp"
+    },
+    {
+      "name": "hamburguesa dedos de queso",
+      "file": "hamburguesa dedos de queso.webp",
+      "path": "opt/hamburguesa dedos de queso.webp"
+    },
+    {
+      "name": "hamburguesa doble bbq",
+      "file": "hamburguesa doble bbq.webp",
+      "path": "opt/hamburguesa doble bbq.webp"
+    },
+    {
+      "name": "hamburguesa doble tocino",
+      "file": "hamburguesa doble tocino.webp",
+      "path": "opt/hamburguesa doble tocino.webp"
+    },
+    {
+      "name": "hamburguesa extra queso",
+      "file": "hamburguesa extra queso.webp",
+      "path": "opt/hamburguesa extra queso.webp"
+    },
+    {
+      "name": "hamburguesa guacamole",
+      "file": "hamburguesa guacamole.webp",
+      "path": "opt/hamburguesa guacamole.webp"
+    },
+    {
+      "name": "hamburguesa hawaiana",
+      "file": "hamburguesa hawaiana.webp",
+      "path": "opt/hamburguesa hawaiana.webp"
+    },
+    {
+      "name": "hamburguesa infantil",
+      "file": "hamburguesa infantil.webp",
+      "path": "opt/hamburguesa infantil.webp"
+    },
+    {
+      "name": "helados",
+      "file": "helados.webp",
+      "path": "opt/helados.webp"
+    },
+    {
+      "name": "hot cakes 2 piezas",
+      "file": "hot cakes 2 piezas.webp",
+      "path": "opt/hot cakes 2 piezas.webp"
+    },
+    {
+      "name": "hot cakes",
+      "file": "hot cakes.webp",
+      "path": "opt/hot cakes.webp"
+    },
+    {
+      "name": "hot dog clasico",
+      "file": "hot dog clasico.webp",
+      "path": "opt/hot dog clasico.webp"
+    },
+    {
+      "name": "hot dog especial",
+      "file": "hot dog especial.webp",
+      "path": "opt/hot dog especial.webp"
+    },
+    {
+      "name": "huachinango frito",
+      "file": "huachinango frito.webp",
+      "path": "opt/huachinango frito.webp"
+    },
+    {
+      "name": "huaraches",
+      "file": "huaraches.webp",
+      "path": "opt/huaraches.webp"
+    },
+    {
+      "name": "huevos a la mexicana",
+      "file": "huevos a la mexicana.webp",
+      "path": "opt/huevos a la mexicana.webp"
+    },
+    {
+      "name": "huevos al gusto",
+      "file": "huevos al gusto.webp",
+      "path": "opt/huevos al gusto.webp"
+    },
+    {
+      "name": "huevos al sarten 1",
+      "file": "huevos al sarten 1.webp",
+      "path": "opt/huevos al sarten 1.webp"
+    },
+    {
+      "name": "huevos benedictinos",
+      "file": "huevos benedictinos.webp",
+      "path": "opt/huevos benedictinos.webp"
+    },
+    {
+      "name": "huevos con chorizo",
+      "file": "huevos con chorizo.webp",
+      "path": "opt/huevos con chorizo.webp"
+    },
+    {
+      "name": "huevos con jamon",
+      "file": "huevos con jamon.webp",
+      "path": "opt/huevos con jamon.webp"
+    },
+    {
+      "name": "huevos con tocino",
+      "file": "huevos con tocino.webp",
+      "path": "opt/huevos con tocino.webp"
+    },
+    {
+      "name": "huevos divorciados",
+      "file": "huevos divorciados.webp",
+      "path": "opt/huevos divorciados.webp"
+    },
+    {
+      "name": "huevos piezas",
+      "file": "huevos piezas.webp",
+      "path": "opt/huevos piezas.webp"
+    },
+    {
+      "name": "huevos rancheros",
+      "file": "huevos rancheros.webp",
+      "path": "opt/huevos rancheros.webp"
+    },
+    {
+      "name": "hunan beef",
+      "file": "hunan beef.webp",
+      "path": "opt/hunan beef.webp"
+    },
+    {
+      "name": "hunan chicken",
+      "file": "hunan chicken.webp",
+      "path": "opt/hunan chicken.webp"
+    },
+    {
+      "name": "hunan con camaron",
+      "file": "hunan con camaron.webp",
+      "path": "opt/hunan con camaron.webp"
+    },
+    {
+      "name": "hunan con puerco",
+      "file": "hunan con puerco.webp",
+      "path": "opt/hunan con puerco.webp"
+    },
+    {
+      "name": "ingrediente extra",
+      "file": "ingrediente extra.webp",
+      "path": "opt/ingrediente extra.webp"
+    },
+    {
+      "name": "jarra agua de sandia",
+      "file": "jarra agua de sandia.webp",
+      "path": "opt/jarra agua de sandia.webp"
+    },
+    {
+      "name": "jarra de agua",
+      "file": "jarra de agua.webp",
+      "path": "opt/jarra de agua.webp"
+    },
+    {
+      "name": "jarra de clericot",
+      "file": "jarra de clericot.webp",
+      "path": "opt/jarra de clericot.webp"
+    },
+    {
+      "name": "jarra de sangria",
+      "file": "jarra de sangria.webp",
+      "path": "opt/jarra de sangria.webp"
+    },
+    {
+      "name": "jarra naranjada",
+      "file": "jarra naranjada.webp",
+      "path": "opt/jarra naranjada.webp"
+    },
+    {
+      "name": "jugo antioxidante",
+      "file": "jugo antioxidante.webp",
+      "path": "opt/jugo antioxidante.webp"
+    },
+    {
+      "name": "jugo betabel y zanahoria",
+      "file": "jugo betabel y zanahoria.webp",
+      "path": "opt/jugo betabel y zanahoria.webp"
+    },
+    {
+      "name": "jugo buena vista",
+      "file": "jugo buena vista.webp",
+      "path": "opt/jugo buena vista.webp"
+    },
+    {
+      "name": "jugo de betabel",
+      "file": "jugo de betabel.webp",
+      "path": "opt/jugo de betabel.webp"
+    },
+    {
+      "name": "jugo de kiwi",
+      "file": "jugo de kiwi.webp",
+      "path": "opt/jugo de kiwi.webp"
+    },
+    {
+      "name": "jugo de mandarina",
+      "file": "jugo de mandarina.webp",
+      "path": "opt/jugo de mandarina.webp"
+    },
+    {
+      "name": "jugo de naranja vaso",
+      "file": "jugo de naranja vaso.webp",
+      "path": "opt/jugo de naranja vaso.webp"
+    },
+    {
+      "name": "jugo de piña",
+      "file": "jugo de piña.webp",
+      "path": "opt/jugo de piña.webp"
+    },
+    {
+      "name": "jugo de zanahoria",
+      "file": "jugo de zanahoria.webp",
+      "path": "opt/jugo de zanahoria.webp"
+    },
+    {
+      "name": "jugo jumex lata",
+      "file": "jugo jumex lata.webp",
+      "path": "opt/jugo jumex lata.webp"
+    },
+    {
+      "name": "jugo manzana verde",
+      "file": "jugo manzana verde.webp",
+      "path": "opt/jugo manzana verde.webp"
+    },
+    {
+      "name": "jugo popeye",
+      "file": "jugo popeye.webp",
+      "path": "opt/jugo popeye.webp"
+    },
+    {
+      "name": "jugo relajante",
+      "file": "jugo relajante.webp",
+      "path": "opt/jugo relajante.webp"
+    },
+    {
+      "name": "jugo resfriado",
+      "file": "jugo resfriado.webp",
+      "path": "opt/jugo resfriado.webp"
+    },
+    {
+      "name": "jugo toronja",
+      "file": "jugo toronja.webp",
+      "path": "opt/jugo toronja.webp"
+    },
+    {
+      "name": "jugo verde",
+      "file": "jugo verde.webp",
+      "path": "opt/jugo verde.webp"
+    },
+    {
+      "name": "jugo zanahoria y jengibre",
+      "file": "jugo zanahoria y jengibre.webp",
+      "path": "opt/jugo zanahoria y jengibre.webp"
+    },
+    {
+      "name": "jugos",
+      "file": "jugos.webp",
+      "path": "opt/jugos.webp"
+    },
+    {
+      "name": "kung pao con camaron",
+      "file": "kung pao con camaron.webp",
+      "path": "opt/kung pao con camaron.webp"
+    },
+    {
+      "name": "kung pao con pollo",
+      "file": "kung pao con pollo.webp",
+      "path": "opt/kung pao con pollo.webp"
+    },
+    {
+      "name": "kung pao con puerco",
+      "file": "kung pao con puerco.webp",
+      "path": "opt/kung pao con puerco.webp"
+    },
+    {
+      "name": "kung pao con res",
+      "file": "kung pao con res.webp",
+      "path": "opt/kung pao con res.webp"
+    },
+    {
+      "name": "kung pao mixto",
+      "file": "kung pao mixto.webp",
+      "path": "opt/kung pao mixto.webp"
+    },
+    {
+      "name": "la canoa gratinada",
+      "file": "la canoa gratinada.webp",
+      "path": "opt/la canoa gratinada.webp"
+    },
+    {
+      "name": "lasaña",
+      "file": "lasaña.webp",
+      "path": "opt/lasaña.webp"
+    },
+    {
+      "name": "licuado de avena",
+      "file": "licuado de avena.webp",
+      "path": "opt/licuado de avena.webp"
+    },
+    {
+      "name": "licuado de fresa",
+      "file": "licuado de fresa.webp",
+      "path": "opt/licuado de fresa.webp"
+    },
+    {
+      "name": "licuado de frutos rojos",
+      "file": "licuado de frutos rojos.webp",
+      "path": "opt/licuado de frutos rojos.webp"
+    },
+    {
+      "name": "licuado de manzana verde",
+      "file": "licuado de manzana verde.webp",
+      "path": "opt/licuado de manzana verde.webp"
+    },
+    {
+      "name": "licuado de melon",
+      "file": "licuado de melon.webp",
+      "path": "opt/licuado de melon.webp"
+    },
+    {
+      "name": "licuado de papaya",
+      "file": "licuado de papaya.webp",
+      "path": "opt/licuado de papaya.webp"
+    },
+    {
+      "name": "licuado de platano 2",
+      "file": "licuado de platano 2.webp",
+      "path": "opt/licuado de platano 2.webp"
+    },
+    {
+      "name": "licuado de platano",
+      "file": "licuado de platano.webp",
+      "path": "opt/licuado de platano.webp"
+    },
+    {
+      "name": "licuado manzana verde",
+      "file": "licuado manzana verde.webp",
+      "path": "opt/licuado manzana verde.webp"
+    },
+    {
+      "name": "limonada frutos rojos",
+      "file": "limonada frutos rojos.webp",
+      "path": "opt/limonada frutos rojos.webp"
+    },
+    {
+      "name": "limonada jarra",
+      "file": "limonada jarra.webp",
+      "path": "opt/limonada jarra.webp"
+    },
+    {
+      "name": "limonada rosa",
+      "file": "limonada rosa.webp",
+      "path": "opt/limonada rosa.webp"
+    },
+    {
+      "name": "limonada vaso 2",
+      "file": "limonada vaso 2.webp",
+      "path": "opt/limonada vaso 2.webp"
+    },
+    {
+      "name": "limonada vaso",
+      "file": "limonada vaso.webp",
+      "path": "opt/limonada vaso.webp"
+    },
+    {
+      "name": "lomein 2",
+      "file": "lomein 2.webp",
+      "path": "opt/lomein 2.webp"
+    },
+    {
+      "name": "lomein vegetariano",
+      "file": "lomein vegetariano.webp",
+      "path": "opt/lomein vegetariano.webp"
+    },
+    {
+      "name": "lomein",
+      "file": "lomein.webp",
+      "path": "opt/lomein.webp"
+    },
+    {
+      "name": "macarrones con tocino",
+      "file": "macarrones con tocino.webp",
+      "path": "opt/macarrones con tocino.webp"
+    },
+    {
+      "name": "malteadas",
+      "file": "malteadas.webp",
+      "path": "opt/malteadas.webp"
+    },
+    {
+      "name": "mango chela",
+      "file": "mango chela.webp",
+      "path": "opt/mango chela.webp"
+    },
+    {
+      "name": "manzana en tocino",
+      "file": "manzana en tocino.webp",
+      "path": "opt/manzana en tocino.webp"
+    },
+    {
+      "name": "medio pollo rostizado",
+      "file": "medio pollo rostizado.webp",
+      "path": "opt/medio pollo rostizado.webp"
+    },
+    {
+      "name": "michelada 2",
+      "file": "michelada 2.webp",
+      "path": "opt/michelada 2.webp"
+    },
+    {
+      "name": "michelada",
+      "file": "michelada.webp",
+      "path": "opt/michelada.webp"
+    },
+    {
+      "name": "michelato",
+      "file": "michelato.webp",
+      "path": "opt/michelato.webp"
+    },
+    {
+      "name": "milanesa suiza",
+      "file": "milanesa suiza.webp",
+      "path": "opt/milanesa suiza.webp"
+    },
+    {
+      "name": "milanesa",
+      "file": "milanesa.webp",
+      "path": "opt/milanesa.webp"
+    },
+    {
+      "name": "mini burguers",
+      "file": "mini burguers.webp",
+      "path": "opt/mini burguers.webp"
+    },
+    {
+      "name": "mini hot cakes",
+      "file": "mini hot cakes.webp",
+      "path": "opt/mini hot cakes.webp"
+    },
+    {
+      "name": "mini tacos dorados",
+      "file": "mini tacos dorados.webp",
+      "path": "opt/mini tacos dorados.webp"
+    },
+    {
+      "name": "mixto a la naranja",
+      "file": "mixto a la naranja.webp",
+      "path": "opt/mixto a la naranja.webp"
+    },
+    {
+      "name": "mixto agridulce",
+      "file": "mixto agridulce.webp",
+      "path": "opt/mixto agridulce.webp"
+    },
+    {
+      "name": "mixto con ajonjoli",
+      "file": "mixto con ajonjoli.webp",
+      "path": "opt/mixto con ajonjoli.webp"
+    },
+    {
+      "name": "mixto con almendras",
+      "file": "mixto con almendras.webp",
+      "path": "opt/mixto con almendras.webp"
+    },
+    {
+      "name": "mixto con brocoli",
+      "file": "mixto con brocoli.webp",
+      "path": "opt/mixto con brocoli.webp"
+    },
+    {
+      "name": "mixto en salsa general",
+      "file": "mixto en salsa general.webp",
+      "path": "opt/mixto en salsa general.webp"
+    },
+    {
+      "name": "mixto picoso",
+      "file": "mixto picoso.webp",
+      "path": "opt/mixto picoso.webp"
+    },
+    {
+      "name": "mixto",
+      "file": "mixto.webp",
+      "path": "opt/mixto.webp"
+    },
+    {
+      "name": "mojito",
+      "file": "mojito.webp",
+      "path": "opt/mojito.webp"
+    },
+    {
+      "name": "molcajete gratinado de mariscos",
+      "file": "molcajete gratinado de mariscos.webp",
+      "path": "opt/molcajete gratinado de mariscos.webp"
+    },
+    {
+      "name": "molletes con chorizo 2",
+      "file": "molletes con chorizo 2.webp",
+      "path": "opt/molletes con chorizo 2.webp"
+    },
+    {
+      "name": "molletes con chorizo",
+      "file": "molletes con chorizo.webp",
+      "path": "opt/molletes con chorizo.webp"
+    },
+    {
+      "name": "molletes con tocino 2",
+      "file": "molletes con tocino 2.webp",
+      "path": "opt/molletes con tocino 2.webp"
+    },
+    {
+      "name": "molletes con tocino",
+      "file": "molletes con tocino.webp",
+      "path": "opt/molletes con tocino.webp"
+    },
+    {
+      "name": "molletes tradicionales",
+      "file": "molletes tradicionales.webp",
+      "path": "opt/molletes tradicionales.webp"
+    },
+    {
+      "name": "mongolia con camaron",
+      "file": "mongolia con camaron.webp",
+      "path": "opt/mongolia con camaron.webp"
+    },
+    {
+      "name": "mongolia con pollo",
+      "file": "mongolia con pollo.webp",
+      "path": "opt/mongolia con pollo.webp"
+    },
+    {
+      "name": "mongolia con res",
+      "file": "mongolia con res.webp",
+      "path": "opt/mongolia con res.webp"
+    },
+    {
+      "name": "mongolia mixto",
+      "file": "mongolia mixto.webp",
+      "path": "opt/mongolia mixto.webp"
+    },
+    {
+      "name": "Moogo gay pen con pollo",
+      "file": "Moogo gay pen con pollo.webp",
+      "path": "opt/Moogo gay pen con pollo.webp"
+    },
+    {
+      "name": "mundet 355",
+      "file": "mundet 355.webp",
+      "path": "opt/mundet 355.webp"
+    },
+    {
+      "name": "nachos con chili",
+      "file": "nachos con chili.webp",
+      "path": "opt/nachos con chili.webp"
+    },
+    {
+      "name": "nachos",
+      "file": "nachos.webp",
+      "path": "opt/nachos.webp"
+    },
+    {
+      "name": "naranjada jarra 2",
+      "file": "naranjada jarra 2.webp",
+      "path": "opt/naranjada jarra 2.webp"
+    },
+    {
+      "name": "naranjada",
+      "file": "naranjada.webp",
+      "path": "opt/naranjada.webp"
+    },
+    {
+      "name": "nudos fritos",
+      "file": "nudos fritos.webp",
+      "path": "opt/nudos fritos.webp"
+    },
+    {
+      "name": "nuez de la india",
+      "file": "nuez de la india.webp",
+      "path": "opt/nuez de la india.webp"
+    },
+    {
+      "name": "nuggets de pollo",
+      "file": "nuggets de pollo.webp",
+      "path": "opt/nuggets de pollo.webp"
+    },
+    {
+      "name": "omelette con espinacas",
+      "file": "omelette con espinacas.webp",
+      "path": "opt/omelette con espinacas.webp"
+    },
+    {
+      "name": "omelette con jamon y queso",
+      "file": "omelette con jamon y queso.webp",
+      "path": "opt/omelette con jamon y queso.webp"
+    },
+    {
+      "name": "omelette con tocino",
+      "file": "omelette con tocino.webp",
+      "path": "opt/omelette con tocino.webp"
+    },
+    {
+      "name": "omelette de claras",
+      "file": "omelette de claras.webp",
+      "path": "opt/omelette de claras.webp"
+    },
+    {
+      "name": "omelette del huerto",
+      "file": "omelette del huerto.webp",
+      "path": "opt/omelette del huerto.webp"
+    },
+    {
+      "name": "omelette magari",
+      "file": "omelette magari.webp",
+      "path": "opt/omelette magari.webp"
+    },
+    {
+      "name": "omelette poblano",
+      "file": "omelette poblano.webp",
+      "path": "opt/omelette poblano.webp"
+    },
+    {
+      "name": "omelette ranchero",
+      "file": "omelette ranchero.webp",
+      "path": "opt/omelette ranchero.webp"
+    },
+    {
+      "name": "omelette",
+      "file": "omelette.webp",
+      "path": "opt/omelette.webp"
+    },
+    {
+      "name": "pan de ajo gratinado",
+      "file": "pan de ajo gratinado.webp",
+      "path": "opt/pan de ajo gratinado.webp"
+    },
+    {
+      "name": "pan de ajo",
+      "file": "pan de ajo.webp",
+      "path": "opt/pan de ajo.webp"
+    },
+    {
+      "name": "pan de elote con helado",
+      "file": "pan de elote con helado.webp",
+      "path": "opt/pan de elote con helado.webp"
+    },
+    {
+      "name": "pan de muerto",
+      "file": "pan de muerto.webp",
+      "path": "opt/pan de muerto.webp"
+    },
+    {
+      "name": "pan frances 2",
+      "file": "pan frances 2.webp",
+      "path": "opt/pan frances 2.webp"
+    },
+    {
+      "name": "pan frances americano",
+      "file": "pan frances americano.webp",
+      "path": "opt/pan frances americano.webp"
+    },
+    {
+      "name": "pan frances tiramisu",
+      "file": "pan frances tiramisu.webp",
+      "path": "opt/pan frances tiramisu.webp"
+    },
+    {
+      "name": "pan frances",
+      "file": "pan frances.webp",
+      "path": "opt/pan frances.webp"
+    },
+    {
+      "name": "pan hogaza con pechuga",
+      "file": "pan hogaza con pechuga.webp",
+      "path": "opt/pan hogaza con pechuga.webp"
+    },
+    {
+      "name": "pantera rosa",
+      "file": "pantera rosa.webp",
+      "path": "opt/pantera rosa.webp"
+    },
+    {
+      "name": "papas cesta",
+      "file": "papas cesta.webp",
+      "path": "opt/papas cesta.webp"
+    },
+    {
+      "name": "papas fritas con queso 1",
+      "file": "papas fritas con queso 1.webp",
+      "path": "opt/papas fritas con queso 1.webp"
+    },
+    {
+      "name": "papas fritas con queso 2",
+      "file": "papas fritas con queso 2.webp",
+      "path": "opt/papas fritas con queso 2.webp"
+    },
+    {
+      "name": "papas fritas con tocino",
+      "file": "papas fritas con tocino.webp",
+      "path": "opt/papas fritas con tocino.webp"
+    },
+    {
+      "name": "Papas fritas",
+      "file": "Papas fritas.webp",
+      "path": "opt/Papas fritas.webp"
+    },
+    {
+      "name": "papas gajo",
+      "file": "papas gajo.webp",
+      "path": "opt/papas gajo.webp"
+    },
+    {
+      "name": "papas gajos",
+      "file": "papas gajos.webp",
+      "path": "opt/papas gajos.webp"
+    },
+    {
+      "name": "pasta alfredo con camarones",
+      "file": "pasta alfredo con camarones.webp",
+      "path": "opt/pasta alfredo con camarones.webp"
+    },
+    {
+      "name": "pasta alfredo con pollo",
+      "file": "pasta alfredo con pollo.webp",
+      "path": "opt/pasta alfredo con pollo.webp"
+    },
+    {
+      "name": "pasta alfredo",
+      "file": "pasta alfredo.webp",
+      "path": "opt/pasta alfredo.webp"
+    },
+    {
+      "name": "pasta arrabiata",
+      "file": "pasta arrabiata.webp",
+      "path": "opt/pasta arrabiata.webp"
+    },
+    {
+      "name": "pasta boloñesa",
+      "file": "pasta boloñesa.webp",
+      "path": "opt/pasta boloñesa.webp"
+    },
+    {
+      "name": "pasta carbonara",
+      "file": "pasta carbonara.webp",
+      "path": "opt/pasta carbonara.webp"
+    },
+    {
+      "name": "pasta champiñones",
+      "file": "pasta champiñones.webp",
+      "path": "opt/pasta champiñones.webp"
+    },
+    {
+      "name": "pasta peperoncino",
+      "file": "pasta peperoncino.webp",
+      "path": "opt/pasta peperoncino.webp"
+    },
+    {
+      "name": "pasta pesto",
+      "file": "pasta pesto.webp",
+      "path": "opt/pasta pesto.webp"
+    },
+    {
+      "name": "pasta pomodoro",
+      "file": "pasta pomodoro.webp",
+      "path": "opt/pasta pomodoro.webp"
+    },
+    {
+      "name": "pasta primavera",
+      "file": "pasta primavera.webp",
+      "path": "opt/pasta primavera.webp"
+    },
+    {
+      "name": "pasta",
+      "file": "pasta.webp",
+      "path": "opt/pasta.webp"
+    },
+    {
+      "name": "pastel de chocolate",
+      "file": "pastel de chocolate.webp",
+      "path": "opt/pastel de chocolate.webp"
+    },
+    {
+      "name": "pechuga a la crema con camarones",
+      "file": "pechuga a la crema con camarones.webp",
+      "path": "opt/pechuga a la crema con camarones.webp"
+    },
+    {
+      "name": "pechuga a la plancha con quinoa",
+      "file": "pechuga a la plancha con quinoa.webp",
+      "path": "opt/pechuga a la plancha con quinoa.webp"
+    },
+    {
+      "name": "pechuga asada light",
+      "file": "pechuga asada light.webp",
+      "path": "opt/pechuga asada light.webp"
+    },
+    {
+      "name": "pechuga asada",
+      "file": "pechuga asada.webp",
+      "path": "opt/pechuga asada.webp"
+    },
+    {
+      "name": "pechuga caprese",
+      "file": "pechuga caprese.webp",
+      "path": "opt/pechuga caprese.webp"
+    },
+    {
+      "name": "pechuga empanizada 2",
+      "file": "pechuga empanizada 2.webp",
+      "path": "opt/pechuga empanizada 2.webp"
+    },
+    {
+      "name": "pechuga empanizada",
+      "file": "pechuga empanizada.webp",
+      "path": "opt/pechuga empanizada.webp"
+    },
+    {
+      "name": "pechuga gratinada",
+      "file": "pechuga gratinada.webp",
+      "path": "opt/pechuga gratinada.webp"
+    },
+    {
+      "name": "pechuga rellena 2",
+      "file": "pechuga rellena 2.webp",
+      "path": "opt/pechuga rellena 2.webp"
+    },
+    {
+      "name": "pechuga rellena",
+      "file": "pechuga rellena.webp",
+      "path": "opt/pechuga rellena.webp"
+    },
+    {
+      "name": "pepper steak",
+      "file": "pepper steak.webp",
+      "path": "opt/pepper steak.webp"
+    },
+    {
+      "name": "pepsi",
+      "file": "pepsi.webp",
+      "path": "opt/pepsi.webp"
+    },
+    {
+      "name": "pescadillas con ceviche",
+      "file": "pescadillas con ceviche.webp",
+      "path": "opt/pescadillas con ceviche.webp"
+    },
+    {
+      "name": "pescadillas de masa",
+      "file": "pescadillas de masa.webp",
+      "path": "opt/pescadillas de masa.webp"
+    },
+    {
+      "name": "pescadillas de tortilla",
+      "file": "pescadillas de tortilla.webp",
+      "path": "opt/pescadillas de tortilla.webp"
+    },
+    {
+      "name": "pescadillas de tortilla2",
+      "file": "pescadillas de tortilla2.webp",
+      "path": "opt/pescadillas de tortilla2.webp"
+    },
+    {
+      "name": "pescado en chile verde",
+      "file": "pescado en chile verde.webp",
+      "path": "opt/pescado en chile verde.webp"
+    },
+    {
+      "name": "pescado enjitomatado",
+      "file": "pescado enjitomatado.webp",
+      "path": "opt/pescado enjitomatado.webp"
+    },
+    {
+      "name": "pescado frito",
+      "file": "pescado frito.webp",
+      "path": "opt/pescado frito.webp"
+    },
+    {
+      "name": "pescado relleno de mariscos",
+      "file": "pescado relleno de mariscos.webp",
+      "path": "opt/pescado relleno de mariscos.webp"
+    },
+    {
+      "name": "peñafieal",
+      "file": "peñafieal.webp",
+      "path": "opt/peñafieal.webp"
+    },
+    {
+      "name": "picaditas",
+      "file": "picaditas.webp",
+      "path": "opt/picaditas.webp"
+    },
+    {
+      "name": "pieza de pan",
+      "file": "pieza de pan.webp",
+      "path": "opt/pieza de pan.webp"
+    },
+    {
+      "name": "pizza dog",
+      "file": "pizza dog.webp",
+      "path": "opt/pizza dog.webp"
+    },
+    {
+      "name": "pizza familiar",
+      "file": "pizza familiar.webp",
+      "path": "opt/pizza familiar.webp"
+    },
+    {
+      "name": "pizza grande",
+      "file": "pizza grande.webp",
+      "path": "opt/pizza grande.webp"
+    },
+    {
+      "name": "pizza mediana",
+      "file": "pizza mediana.webp",
+      "path": "opt/pizza mediana.webp"
+    },
+    {
+      "name": "pizza mostrador",
+      "file": "pizza mostrador.webp",
+      "path": "opt/pizza mostrador.webp"
+    },
+    {
+      "name": "piña colada 2",
+      "file": "piña colada 2.webp",
+      "path": "opt/piña colada 2.webp"
+    },
+    {
+      "name": "piña colada",
+      "file": "piña colada.webp",
+      "path": "opt/piña colada.webp"
+    },
+    {
+      "name": "piñada",
+      "file": "piñada.webp",
+      "path": "opt/piñada.webp"
+    },
+    {
+      "name": "plato caliente con camarones",
+      "file": "plato caliente con camarones.webp",
+      "path": "opt/plato caliente con camarones.webp"
+    },
+    {
+      "name": "plato caliente con mariscos",
+      "file": "plato caliente con mariscos.webp",
+      "path": "opt/plato caliente con mariscos.webp"
+    },
+    {
+      "name": "plato caliente en salsa blanca",
+      "file": "plato caliente en salsa blanca.webp",
+      "path": "opt/plato caliente en salsa blanca.webp"
+    },
+    {
+      "name": "plato caliente en salsa de ostion",
+      "file": "plato caliente en salsa de ostion.webp",
+      "path": "opt/plato caliente en salsa de ostion.webp"
+    },
+    {
+      "name": "pollo a la naranja",
+      "file": "pollo a la naranja.webp",
+      "path": "opt/pollo a la naranja.webp"
+    },
+    {
+      "name": "pollo agridulce",
+      "file": "pollo agridulce.webp",
+      "path": "opt/pollo agridulce.webp"
+    },
+    {
+      "name": "pollo al limon",
+      "file": "pollo al limon.webp",
+      "path": "opt/pollo al limon.webp"
+    },
+    {
+      "name": "pollo con ajonjoli",
+      "file": "pollo con ajonjoli.webp",
+      "path": "opt/pollo con ajonjoli.webp"
+    },
+    {
+      "name": "pollo con almendras",
+      "file": "pollo con almendras.webp",
+      "path": "opt/pollo con almendras.webp"
+    },
+    {
+      "name": "pollo con brocoli",
+      "file": "pollo con brocoli.webp",
+      "path": "opt/pollo con brocoli.webp"
+    },
+    {
+      "name": "pollo con champiñones",
+      "file": "pollo con champiñones.webp",
+      "path": "opt/pollo con champiñones.webp"
+    },
+    {
+      "name": "pollo con esparragos",
+      "file": "pollo con esparragos.webp",
+      "path": "opt/pollo con esparragos.webp"
+    },
+    {
+      "name": "pollo con frijoles chinos",
+      "file": "pollo con frijoles chinos.webp",
+      "path": "opt/pollo con frijoles chinos.webp"
+    },
+    {
+      "name": "pollo con salsa curry",
+      "file": "pollo con salsa curry.webp",
+      "path": "opt/pollo con salsa curry.webp"
+    },
+    {
+      "name": "pollo con verduras",
+      "file": "pollo con verduras.webp",
+      "path": "opt/pollo con verduras.webp"
+    },
+    {
+      "name": "pollo empanizado con papas",
+      "file": "pollo empanizado con papas.webp",
+      "path": "opt/pollo empanizado con papas.webp"
+    },
+    {
+      "name": "pollo empanizado picoso",
+      "file": "pollo empanizado picoso.webp",
+      "path": "opt/pollo empanizado picoso.webp"
+    },
+    {
+      "name": "pollo en salsa de aoj",
+      "file": "pollo en salsa de aoj.webp",
+      "path": "opt/pollo en salsa de aoj.webp"
+    },
+    {
+      "name": "pollo en salsa general",
+      "file": "pollo en salsa general.webp",
+      "path": "opt/pollo en salsa general.webp"
+    },
+    {
+      "name": "pollo picoso",
+      "file": "pollo picoso.webp",
+      "path": "opt/pollo picoso.webp"
+    },
+    {
+      "name": "pollo rostizado 1 cuarto",
+      "file": "pollo rostizado 1 cuarto.webp",
+      "path": "opt/pollo rostizado 1 cuarto.webp"
+    },
+    {
+      "name": "pollo rostizado 2",
+      "file": "pollo rostizado 2.webp",
+      "path": "opt/pollo rostizado 2.webp"
+    },
+    {
+      "name": "pollo rostizado medio",
+      "file": "pollo rostizado medio.webp",
+      "path": "opt/pollo rostizado medio.webp"
+    },
+    {
+      "name": "pollo rostizado paquete",
+      "file": "pollo rostizado paquete.webp",
+      "path": "opt/pollo rostizado paquete.webp"
+    },
+    {
+      "name": "pollo rostizado",
+      "file": "pollo rostizado.webp",
+      "path": "opt/pollo rostizado.webp"
+    },
+    {
+      "name": "pollo",
+      "file": "pollo.webp",
+      "path": "opt/pollo.webp"
+    },
+    {
+      "name": "postre cumpleaños",
+      "file": "postre cumpleaños.webp",
+      "path": "opt/postre cumpleaños.webp"
+    },
+    {
+      "name": "postre del dia",
+      "file": "postre del dia.webp",
+      "path": "opt/postre del dia.webp"
+    },
+    {
+      "name": "postre",
+      "file": "postre.webp",
+      "path": "opt/postre.webp"
+    },
+    {
+      "name": "puerco a la naranja",
+      "file": "puerco a la naranja.webp",
+      "path": "opt/puerco a la naranja.webp"
+    },
+    {
+      "name": "puerco con ajonjoli",
+      "file": "puerco con ajonjoli.webp",
+      "path": "opt/puerco con ajonjoli.webp"
+    },
+    {
+      "name": "puerco con frijoles chinos",
+      "file": "puerco con frijoles chinos.webp",
+      "path": "opt/puerco con frijoles chinos.webp"
+    },
+    {
+      "name": "puerco en salsa agridulce",
+      "file": "puerco en salsa agridulce.webp",
+      "path": "opt/puerco en salsa agridulce.webp"
+    },
+    {
+      "name": "puerco en salsa de ajo",
+      "file": "puerco en salsa de ajo.webp",
+      "path": "opt/puerco en salsa de ajo.webp"
+    },
+    {
+      "name": "puerco en salsa general",
+      "file": "puerco en salsa general.webp",
+      "path": "opt/puerco en salsa general.webp"
+    },
+    {
+      "name": "puerco",
+      "file": "puerco.webp",
+      "path": "opt/puerco.webp"
+    },
+    {
+      "name": "pulpo",
+      "file": "pulpo.webp",
+      "path": "opt/pulpo.webp"
+    },
+    {
+      "name": "pure de papa",
+      "file": "pure de papa.webp",
+      "path": "opt/pure de papa.webp"
+    },
+    {
+      "name": "que me ves",
+      "file": "que me ves.webp",
+      "path": "opt/que me ves.webp"
+    },
+    {
+      "name": "quesadillas de pollo",
+      "file": "quesadillas de pollo.webp",
+      "path": "opt/quesadillas de pollo.webp"
+    },
+    {
+      "name": "ravioles",
+      "file": "ravioles.webp",
+      "path": "opt/ravioles.webp"
+    },
+    {
+      "name": "refrescos",
+      "file": "refrescos.webp",
+      "path": "opt/refrescos.webp"
+    },
+    {
+      "name": "reporte caja",
+      "file": "reporte caja.webp",
+      "path": "opt/reporte caja.webp"
+    },
+    {
+      "name": "res con almendras",
+      "file": "res con almendras.webp",
+      "path": "opt/res con almendras.webp"
+    },
+    {
+      "name": "res con brocoli",
+      "file": "res con brocoli.webp",
+      "path": "opt/res con brocoli.webp"
+    },
+    {
+      "name": "res con champiñones",
+      "file": "res con champiñones.webp",
+      "path": "opt/res con champiñones.webp"
+    },
+    {
+      "name": "res con curry",
+      "file": "res con curry.webp",
+      "path": "opt/res con curry.webp"
+    },
+    {
+      "name": "res con frijoles chinos",
+      "file": "res con frijoles chinos.webp",
+      "path": "opt/res con frijoles chinos.webp"
+    },
+    {
+      "name": "res con verduras",
+      "file": "res con verduras.webp",
+      "path": "opt/res con verduras.webp"
+    },
+    {
+      "name": "res en salsa de aoj",
+      "file": "res en salsa de aoj.webp",
+      "path": "opt/res en salsa de aoj.webp"
+    },
+    {
+      "name": "res",
+      "file": "res.webp",
+      "path": "opt/res.webp"
+    },
+    {
+      "name": "ron punch",
+      "file": "ron punch.webp",
+      "path": "opt/ron punch.webp"
+    },
+    {
+      "name": "rufles",
+      "file": "rufles.webp",
+      "path": "opt/rufles.webp"
+    },
+    {
+      "name": "ruso blanco",
+      "file": "ruso blanco.webp",
+      "path": "opt/ruso blanco.webp"
+    },
+    {
+      "name": "ruso negro",
+      "file": "ruso negro.webp",
+      "path": "opt/ruso negro.webp"
+    },
+    {
+      "name": "salmon a la plancha",
+      "file": "salmon a la plancha.webp",
+      "path": "opt/salmon a la plancha.webp"
+    },
+    {
+      "name": "salmon a la toscana",
+      "file": "salmon a la toscana.webp",
+      "path": "opt/salmon a la toscana.webp"
+    },
+    {
+      "name": "salmon con maracuya",
+      "file": "salmon con maracuya.webp",
+      "path": "opt/salmon con maracuya.webp"
+    },
+    {
+      "name": "salmon con piña",
+      "file": "salmon con piña.webp",
+      "path": "opt/salmon con piña.webp"
+    },
+    {
+      "name": "Salmon en salsa de jamaica",
+      "file": "Salmon en salsa de jamaica.webp",
+      "path": "opt/Salmon en salsa de jamaica.webp"
+    },
+    {
+      "name": "salsa de ostion",
+      "file": "salsa de ostion.webp",
+      "path": "opt/salsa de ostion.webp"
+    },
+    {
+      "name": "salsa ranch",
+      "file": "salsa ranch.webp",
+      "path": "opt/salsa ranch.webp"
+    },
+    {
+      "name": "salsa sriracha",
+      "file": "salsa sriracha.webp",
+      "path": "opt/salsa sriracha.webp"
+    },
+    {
+      "name": "salsa vasito",
+      "file": "salsa vasito.webp",
+      "path": "opt/salsa vasito.webp"
+    },
+    {
+      "name": "salsa",
+      "file": "salsa.webp",
+      "path": "opt/salsa.webp"
+    },
+    {
+      "name": "sandwich arrachera",
+      "file": "sandwich arrachera.webp",
+      "path": "opt/sandwich arrachera.webp"
+    },
+    {
+      "name": "sandwich de centeno con jamon",
+      "file": "sandwich de centeno con jamon.webp",
+      "path": "opt/sandwich de centeno con jamon.webp"
+    },
+    {
+      "name": "sandwich masa madre",
+      "file": "sandwich masa madre.webp",
+      "path": "opt/sandwich masa madre.webp"
+    },
+    {
+      "name": "sandwich pan integral",
+      "file": "sandwich pan integral.webp",
+      "path": "opt/sandwich pan integral.webp"
+    },
+    {
+      "name": "sandwich tocino",
+      "file": "sandwich tocino.webp",
+      "path": "opt/sandwich tocino.webp"
+    },
+    {
+      "name": "sandwich",
+      "file": "sandwich.webp",
+      "path": "opt/sandwich.webp"
+    },
+    {
+      "name": "sangria 600",
+      "file": "sangria 600.webp",
+      "path": "opt/sangria 600.webp"
+    },
+    {
+      "name": "skimos",
+      "file": "skimos.webp",
+      "path": "opt/skimos.webp"
+    },
+    {
+      "name": "smoothie fresa",
+      "file": "smoothie fresa.webp",
+      "path": "opt/smoothie fresa.webp"
+    },
+    {
+      "name": "soda italiana fresa",
+      "file": "soda italiana fresa.webp",
+      "path": "opt/soda italiana fresa.webp"
+    },
+    {
+      "name": "soda italiana lavanda",
+      "file": "soda italiana lavanda.webp",
+      "path": "opt/soda italiana lavanda.webp"
+    },
+    {
+      "name": "soda italiana mandarina",
+      "file": "soda italiana mandarina.webp",
+      "path": "opt/soda italiana mandarina.webp"
+    },
+    {
+      "name": "soda italiana mango",
+      "file": "soda italiana mango.webp",
+      "path": "opt/soda italiana mango.webp"
+    },
+    {
+      "name": "soda italiana mora azul",
+      "file": "soda italiana mora azul.webp",
+      "path": "opt/soda italiana mora azul.webp"
+    },
+    {
+      "name": "sopa agria 1 persona",
+      "file": "sopa agria 1 persona.webp",
+      "path": "opt/sopa agria 1 persona.webp"
+    },
+    {
+      "name": "sopa agria grande",
+      "file": "sopa agria grande.webp",
+      "path": "opt/sopa agria grande.webp"
+    },
+    {
+      "name": "sopa con noodles y verduras",
+      "file": "sopa con noodles y verduras.webp",
+      "path": "opt/sopa con noodles y verduras.webp"
+    },
+    {
+      "name": "sopa de fideos",
+      "file": "sopa de fideos.webp",
+      "path": "opt/sopa de fideos.webp"
+    },
+    {
+      "name": "sopa de flor 1 persona",
+      "file": "sopa de flor 1 persona.webp",
+      "path": "opt/sopa de flor 1 persona.webp"
+    },
+    {
+      "name": "sopa de flor grande",
+      "file": "sopa de flor grande.webp",
+      "path": "opt/sopa de flor grande.webp"
+    },
+    {
+      "name": "sopa de noodles con mariscos",
+      "file": "sopa de noodles con mariscos.webp",
+      "path": "opt/sopa de noodles con mariscos.webp"
+    },
+    {
+      "name": "sopa vegetariana",
+      "file": "sopa vegetariana.webp",
+      "path": "opt/sopa vegetariana.webp"
+    },
+    {
+      "name": "sopa vietnami",
+      "file": "sopa vietnami.webp",
+      "path": "opt/sopa vietnami.webp"
+    },
+    {
+      "name": "sopes",
+      "file": "sopes.webp",
+      "path": "opt/sopes.webp"
+    },
+    {
+      "name": "sopes2",
+      "file": "sopes2.webp",
+      "path": "opt/sopes2.webp"
+    },
+    {
+      "name": "sopes3",
+      "file": "sopes3.webp",
+      "path": "opt/sopes3.webp"
+    },
+    {
+      "name": "spaghetti",
+      "file": "spaghetti.webp",
+      "path": "opt/spaghetti.webp"
+    },
+    {
+      "name": "spaghetti2",
+      "file": "spaghetti2.webp",
+      "path": "opt/spaghetti2.webp"
+    },
+    {
+      "name": "spicy beef",
+      "file": "spicy beef.webp",
+      "path": "opt/spicy beef.webp"
+    },
+    {
+      "name": "spicy chicken",
+      "file": "spicy chicken.webp",
+      "path": "opt/spicy chicken.webp"
+    },
+    {
+      "name": "spicy mixto",
+      "file": "spicy mixto.webp",
+      "path": "opt/spicy mixto.webp"
+    },
+    {
+      "name": "spicy pork",
+      "file": "spicy pork.webp",
+      "path": "opt/spicy pork.webp"
+    },
+    {
+      "name": "sprite 355",
+      "file": "sprite 355.webp",
+      "path": "opt/sprite 355.webp"
+    },
+    {
+      "name": "star",
+      "file": "star.webp",
+      "path": "opt/star.webp"
+    },
+    {
+      "name": "strudel de manzana",
+      "file": "strudel de manzana.webp",
+      "path": "opt/strudel de manzana.webp"
+    },
+    {
+      "name": "suero hidratante",
+      "file": "suero hidratante.webp",
+      "path": "opt/suero hidratante.webp"
+    },
+    {
+      "name": "szechuan de camaron",
+      "file": "szechuan de camaron.webp",
+      "path": "opt/szechuan de camaron.webp"
+    },
+    {
+      "name": "szechuan de pollo",
+      "file": "szechuan de pollo.webp",
+      "path": "opt/szechuan de pollo.webp"
+    },
+    {
+      "name": "szechuan de puerco",
+      "file": "szechuan de puerco.webp",
+      "path": "opt/szechuan de puerco.webp"
+    },
+    {
+      "name": "szechuan de res",
+      "file": "szechuan de res.webp",
+      "path": "opt/szechuan de res.webp"
+    },
+    {
+      "name": "tabla de queso chica",
+      "file": "tabla de queso chica.webp",
+      "path": "opt/tabla de queso chica.webp"
+    },
+    {
+      "name": "tabla de queso grande",
+      "file": "tabla de queso grande.webp",
+      "path": "opt/tabla de queso grande.webp"
+    },
+    {
+      "name": "tabla de queso individual",
+      "file": "tabla de queso individual.webp",
+      "path": "opt/tabla de queso individual.webp"
+    },
+    {
+      "name": "tabla de queso mediana",
+      "file": "tabla de queso mediana.webp",
+      "path": "opt/tabla de queso mediana.webp"
+    },
+    {
+      "name": "Tacos al pastor",
+      "file": "Tacos al pastor.webp",
+      "path": "opt/Tacos al pastor.webp"
+    },
+    {
+      "name": "tacos de camaron empanizado",
+      "file": "tacos de camaron empanizado.webp",
+      "path": "opt/tacos de camaron empanizado.webp"
+    },
+    {
+      "name": "tacos de camaron",
+      "file": "tacos de camaron.webp",
+      "path": "opt/tacos de camaron.webp"
+    },
+    {
+      "name": "tacos dorados con consome",
+      "file": "tacos dorados con consome.webp",
+      "path": "opt/tacos dorados con consome.webp"
+    },
+    {
+      "name": "tacos_1",
+      "file": "tacos_1.webp",
+      "path": "opt/tacos_1.webp"
+    },
+    {
+      "name": "tacos_2",
+      "file": "tacos_2.webp",
+      "path": "opt/tacos_2.webp"
+    },
+    {
+      "name": "tampiqueña 2",
+      "file": "tampiqueña 2.webp",
+      "path": "opt/tampiqueña 2.webp"
+    },
+    {
+      "name": "tampiqueña",
+      "file": "tampiqueña.webp",
+      "path": "opt/tampiqueña.webp"
+    },
+    {
+      "name": "taquitos dorados",
+      "file": "taquitos dorados.webp",
+      "path": "opt/taquitos dorados.webp"
+    },
+    {
+      "name": "tarro michelado",
+      "file": "tarro michelado.webp",
+      "path": "opt/tarro michelado.webp"
+    },
+    {
+      "name": "te caliente",
+      "file": "te caliente.webp",
+      "path": "opt/te caliente.webp"
+    },
+    {
+      "name": "te de frutos rojos",
+      "file": "te de frutos rojos.webp",
+      "path": "opt/te de frutos rojos.webp"
+    },
+    {
+      "name": "te frio de durazno",
+      "file": "te frio de durazno.webp",
+      "path": "opt/te frio de durazno.webp"
+    },
+    {
+      "name": "te frio de limon",
+      "file": "te frio de limon.webp",
+      "path": "opt/te frio de limon.webp"
+    },
+    {
+      "name": "te frio jarra",
+      "file": "te frio jarra.webp",
+      "path": "opt/te frio jarra.webp"
+    },
+    {
+      "name": "te frio media jarra",
+      "file": "te frio media jarra.webp",
+      "path": "opt/te frio media jarra.webp"
+    },
+    {
+      "name": "te frio vaso",
+      "file": "te frio vaso.webp",
+      "path": "opt/te frio vaso.webp"
+    },
+    {
+      "name": "tempura",
+      "file": "tempura.webp",
+      "path": "opt/tempura.webp"
+    },
+    {
+      "name": "tequila derecho",
+      "file": "tequila derecho.webp",
+      "path": "opt/tequila derecho.webp"
+    },
+    {
+      "name": "tequila margarita",
+      "file": "tequila margarita.webp",
+      "path": "opt/tequila margarita.webp"
+    },
+    {
+      "name": "tequila paloma",
+      "file": "tequila paloma.webp",
+      "path": "opt/tequila paloma.webp"
+    },
+    {
+      "name": "tequila sunrise",
+      "file": "tequila sunrise.webp",
+      "path": "opt/tequila sunrise.webp"
+    },
+    {
+      "name": "tinto de verano copa",
+      "file": "tinto de verano copa.webp",
+      "path": "opt/tinto de verano copa.webp"
+    },
+    {
+      "name": "tinto de verano jarra",
+      "file": "tinto de verano jarra.webp",
+      "path": "opt/tinto de verano jarra.webp"
+    },
+    {
+      "name": "tiritas de pescado",
+      "file": "tiritas de pescado.webp",
+      "path": "opt/tiritas de pescado.webp"
+    },
+    {
+      "name": "tisan amareto",
+      "file": "tisan amareto.webp",
+      "path": "opt/tisan amareto.webp"
+    },
+    {
+      "name": "tisana blue eye",
+      "file": "tisana blue eye.webp",
+      "path": "opt/tisana blue eye.webp"
+    },
+    {
+      "name": "tisana blue eyes",
+      "file": "tisana blue eyes.webp",
+      "path": "opt/tisana blue eyes.webp"
+    },
+    {
+      "name": "tisana limon",
+      "file": "tisana limon.webp",
+      "path": "opt/tisana limon.webp"
+    },
+    {
+      "name": "tisana manzana",
+      "file": "tisana manzana.webp",
+      "path": "opt/tisana manzana.webp"
+    },
+    {
+      "name": "tisana piña",
+      "file": "tisana piña.webp",
+      "path": "opt/tisana piña.webp"
+    },
+    {
+      "name": "tisana relajante",
+      "file": "tisana relajante.webp",
+      "path": "opt/tisana relajante.webp"
+    },
+    {
+      "name": "tisana tutti frutti",
+      "file": "tisana tutti frutti.webp",
+      "path": "opt/tisana tutti frutti.webp"
+    },
+    {
+      "name": "tisana",
+      "file": "tisana.webp",
+      "path": "opt/tisana.webp"
+    },
+    {
+      "name": "topochico 600",
+      "file": "topochico 600.webp",
+      "path": "opt/topochico 600.webp"
+    },
+    {
+      "name": "tortillas a mano",
+      "file": "tortillas a mano.webp",
+      "path": "opt/tortillas a mano.webp"
+    },
+    {
+      "name": "tostadas de aguacate",
+      "file": "tostadas de aguacate.webp",
+      "path": "opt/tostadas de aguacate.webp"
+    },
+    {
+      "name": "tostadas de pollo",
+      "file": "tostadas de pollo.webp",
+      "path": "opt/tostadas de pollo.webp"
+    },
+    {
+      "name": "tostadas de pulpo enamorado",
+      "file": "tostadas de pulpo enamorado.webp",
+      "path": "opt/tostadas de pulpo enamorado.webp"
+    },
+    {
+      "name": "tostadas de pulpo",
+      "file": "tostadas de pulpo.webp",
+      "path": "opt/tostadas de pulpo.webp"
+    },
+    {
+      "name": "valle frut",
+      "file": "valle frut.webp",
+      "path": "opt/valle frut.webp"
+    },
+    {
+      "name": "vaso con hielo",
+      "file": "vaso con hielo.webp",
+      "path": "opt/vaso con hielo.webp"
+    },
+    {
+      "name": "vaso tarro",
+      "file": "vaso tarro.webp",
+      "path": "opt/vaso tarro.webp"
+    },
+    {
+      "name": "vegetales",
+      "file": "vegetales.webp",
+      "path": "opt/vegetales.webp"
+    },
+    {
+      "name": "Verduras mixtas en salsa blanca con almendras",
+      "file": "Verduras mixtas en salsa blanca con almendras.webp",
+      "path": "opt/Verduras mixtas en salsa blanca con almendras.webp"
+    },
+    {
+      "name": "verduras mixtas en salsa de ostion",
+      "file": "verduras mixtas en salsa de ostion.webp",
+      "path": "opt/verduras mixtas en salsa de ostion.webp"
+    },
+    {
+      "name": "vino blanco",
+      "file": "vino blanco.webp",
+      "path": "opt/vino blanco.webp"
+    },
+    {
+      "name": "vino botella",
+      "file": "vino botella.webp",
+      "path": "opt/vino botella.webp"
+    },
+    {
+      "name": "vino tinto",
+      "file": "vino tinto.webp",
+      "path": "opt/vino tinto.webp"
+    },
+    {
+      "name": "vodka con agua quina",
+      "file": "vodka con agua quina.webp",
+      "path": "opt/vodka con agua quina.webp"
+    },
+    {
+      "name": "waffles",
+      "file": "waffles.webp",
+      "path": "opt/waffles.webp"
+    },
+    {
+      "name": "whisky derecho",
+      "file": "whisky derecho.webp",
+      "path": "opt/whisky derecho.webp"
+    },
+    {
+      "name": "whisky rocas",
+      "file": "whisky rocas.webp",
+      "path": "opt/whisky rocas.webp"
+    },
+    {
+      "name": "wonton soup 1 persona",
+      "file": "wonton soup 1 persona.webp",
+      "path": "opt/wonton soup 1 persona.webp"
+    },
+    {
+      "name": "wonton soup 2 personas",
+      "file": "wonton soup 2 personas.webp",
+      "path": "opt/wonton soup 2 personas.webp"
+    },
+    {
+      "name": "wonton",
+      "file": "wonton.webp",
+      "path": "opt/wonton.webp"
+    },
+    {
+      "name": "yoli 355",
+      "file": "yoli 355.webp",
+      "path": "opt/yoli 355.webp"
+    },
+    {
+      "name": "zarape",
+      "file": "zarape.webp",
+      "path": "opt/zarape.webp"
+    }
+  ]
+}
