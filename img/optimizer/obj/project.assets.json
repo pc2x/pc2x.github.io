@@ -126,7 +126,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\AppData\\Local\\Temp\\cursor-sandbox-cache\\b8b2e4c2fa5612c763755296249c500e\\nuget": {},
+    "C:\\Users\\Usuario\\AppData\\Local\\Temp\\cursor-sandbox-cache\\70a955adb83a73baab79f63b14452176\\nuget": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -135,7 +135,7 @@
       "projectUniqueName": "C:\\Proyectos\\pc2x.github.io\\img\\optimizer\\ImageOptimizer.csproj",
       "projectName": "ImageOptimizer",
       "projectPath": "C:\\Proyectos\\pc2x.github.io\\img\\optimizer\\ImageOptimizer.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\cursor-sandbox-cache\\b8b2e4c2fa5612c763755296249c500e\\nuget",
+      "packagesPath": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\cursor-sandbox-cache\\70a955adb83a73baab79f63b14452176\\nuget",
       "outputPath": "C:\\Proyectos\\pc2x.github.io\\img\\optimizer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [

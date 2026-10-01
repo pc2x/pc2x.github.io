@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T06:31:19Z",
-  "count": 19,
+  "generatedAt": "2026-10-01T07:24:00Z",
+  "count": 20,
   "folders": [
     {
       "name": "bebes_y_accesorios",
@@ -71,6 +71,13 @@
       "optPath": "frutas_y_verduras/opt",
       "indexPath": "frutas_y_verduras/opt/index.json",
       "imageCount": 76
+    },
+    {
+      "name": "General",
+      "path": "General",
+      "optPath": "General/opt",
+      "indexPath": "General/opt/index.json",
+      "imageCount": 16326
     },
     {
       "name": "higiene_y_belleza",

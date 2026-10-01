@@ -4,13 +4,13 @@
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
-    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\AppData\Local\Temp\cursor-sandbox-cache\b8b2e4c2fa5612c763755296249c500e\nuget</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Usuario\AppData\Local\Temp\cursor-sandbox-cache\b8b2e4c2fa5612c763755296249c500e\nuget;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\AppData\Local\Temp\cursor-sandbox-cache\70a955adb83a73baab79f63b14452176\nuget</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Usuario\AppData\Local\Temp\cursor-sandbox-cache\70a955adb83a73baab79f63b14452176\nuget;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.14.3</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\Usuario\AppData\Local\Temp\cursor-sandbox-cache\b8b2e4c2fa5612c763755296249c500e\nuget\" />
+    <SourceRoot Include="C:\Users\Usuario\AppData\Local\Temp\cursor-sandbox-cache\70a955adb83a73baab79f63b14452176\nuget\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
@@ -18,6 +18,6 @@
     <Import Project="$(NuGetPackageRoot)\microsoft.net.illink.tasks\9.0.20\build\Microsoft.NET.ILLink.Tasks.props" Condition="Exists('$(NuGetPackageRoot)\microsoft.net.illink.tasks\9.0.20\build\Microsoft.NET.ILLink.Tasks.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\Usuario\AppData\Local\Temp\cursor-sandbox-cache\b8b2e4c2fa5612c763755296249c500e\nuget\microsoft.net.illink.tasks\9.0.20</PkgMicrosoft_NET_ILLink_Tasks>
+    <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\Usuario\AppData\Local\Temp\cursor-sandbox-cache\70a955adb83a73baab79f63b14452176\nuget\microsoft.net.illink.tasks\9.0.20</PkgMicrosoft_NET_ILLink_Tasks>
   </PropertyGroup>
 </Project>
