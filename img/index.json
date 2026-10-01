@@ -1,13 +1,139 @@
 {
-  "generatedAt": "2026-09-18T22:49:45Z",
-  "count": 1,
+  "generatedAt": "2026-10-01T05:50:04Z",
+  "count": 19,
   "folders": [
+    {
+      "name": "bebes_y_accesorios",
+      "path": "bebes_y_accesorios",
+      "optPath": "bebes_y_accesorios/opt",
+      "indexPath": "bebes_y_accesorios/opt/index.json",
+      "imageCount": 292
+    },
+    {
+      "name": "bebidas",
+      "path": "bebidas",
+      "optPath": "bebidas/opt",
+      "indexPath": "bebidas/opt/index.json",
+      "imageCount": 211
+    },
+    {
+      "name": "canes_y_pescados",
+      "path": "canes_y_pescados",
+      "optPath": "canes_y_pescados/opt",
+      "indexPath": "canes_y_pescados/opt/index.json",
+      "imageCount": 54
+    },
+    {
+      "name": "cerveza_vinos_y_licores",
+      "path": "cerveza_vinos_y_licores",
+      "optPath": "cerveza_vinos_y_licores/opt",
+      "indexPath": "cerveza_vinos_y_licores/opt/index.json",
+      "imageCount": 253
+    },
     {
       "name": "comidas",
       "path": "comidas",
       "optPath": "comidas/opt",
       "indexPath": "comidas/opt/index.json",
       "imageCount": 633
+    },
+    {
+      "name": "congelados",
+      "path": "congelados",
+      "optPath": "congelados/opt",
+      "indexPath": "congelados/opt/index.json",
+      "imageCount": 34
+    },
+    {
+      "name": "despensa",
+      "path": "despensa",
+      "optPath": "despensa/opt",
+      "indexPath": "despensa/opt/index.json",
+      "imageCount": 600
+    },
+    {
+      "name": "dulceria",
+      "path": "dulceria",
+      "optPath": "dulceria/opt",
+      "indexPath": "dulceria/opt/index.json",
+      "imageCount": 100
+    },
+    {
+      "name": "farmacia",
+      "path": "farmacia",
+      "optPath": "farmacia/opt",
+      "indexPath": "farmacia/opt/index.json",
+      "imageCount": 334
+    },
+    {
+      "name": "frutas_y_verduras",
+      "path": "frutas_y_verduras",
+      "optPath": "frutas_y_verduras/opt",
+      "indexPath": "frutas_y_verduras/opt/index.json",
+      "imageCount": 76
+    },
+    {
+      "name": "higiene_y_belleza",
+      "path": "higiene_y_belleza",
+      "optPath": "higiene_y_belleza/opt",
+      "indexPath": "higiene_y_belleza/opt/index.json",
+      "imageCount": 420
+    },
+    {
+      "name": "jugos_y_bebidas",
+      "path": "jugos_y_bebidas",
+      "optPath": "jugos_y_bebidas/opt",
+      "indexPath": "jugos_y_bebidas/opt/index.json",
+      "imageCount": 313
+    },
+    {
+      "name": "lacteos",
+      "path": "lacteos",
+      "optPath": "lacteos/opt",
+      "indexPath": "lacteos/opt/index.json",
+      "imageCount": 411
+    },
+    {
+      "name": "limpieza_y_mascotas",
+      "path": "limpieza_y_mascotas",
+      "optPath": "limpieza_y_mascotas/opt",
+      "indexPath": "limpieza_y_mascotas/opt/index.json",
+      "imageCount": 600
+    },
+    {
+      "name": "mascotas",
+      "path": "mascotas",
+      "optPath": "mascotas/opt",
+      "indexPath": "mascotas/opt/index.json",
+      "imageCount": 30
+    },
+    {
+      "name": "panaderia_y_tortilleria",
+      "path": "panaderia_y_tortilleria",
+      "optPath": "panaderia_y_tortilleria/opt",
+      "indexPath": "panaderia_y_tortilleria/opt/index.json",
+      "imageCount": 91
+    },
+    {
+      "name": "salchichoneria",
+      "path": "salchichoneria",
+      "optPath": "salchichoneria/opt",
+      "indexPath": "salchichoneria/opt/index.json",
+      "imageCount": 157
+    },
+    {
+      "name": "snacks",
+      "path": "snacks",
+      "optPath": "snacks/opt",
+      "indexPath": "snacks/opt/index.json",
+      "imageCount": 42
+    },
+    {
+      "name": "utensilios_domesticos",
+      "path": "utensilios_domesticos",
+      "optPath": "utensilios_domesticos/opt",
+      "indexPath": "utensilios_domesticos/opt/index.json",
+      "imageCount": 132
     }
   ]
 }

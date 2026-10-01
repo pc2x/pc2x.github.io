@@ -1,0 +1,326 @@
+[
+  {
+    "sku": "999940",
+    "nombre": "Fajita pechuga de pollo",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/289035-300-300/999940.jpg?v=638018875888930000",
+    "imagen_descargada": "999940___fajita-pechuga-de-pollo.jpg"
+  },
+  {
+    "sku": "999317",
+    "nombre": "Bistec norteño  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/214925-300-300/999317.png?v=636798188207600000",
+    "imagen_descargada": "999317___bistec-norteño-peso-aproximado-500-g.png"
+  },
+  {
+    "sku": "7501007809809",
+    "nombre": "Atún Calmex ventresca en aceite 120 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/303483-300-300/7501007809809.jpg?v=638851073730300000",
+    "imagen_descargada": "7501007809809___atún-calmex-ventresca-en-aceite-120-g.jpg"
+  },
+  {
+    "sku": "999905",
+    "nombre": "Ala de pollo marinada 500 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/302140-300-300/999905.jpg?v=638684229373870000",
+    "imagen_descargada": "999905___ala-de-pollo-marinada-500-g-aproximado.jpg"
+  },
+  {
+    "sku": "999374",
+    "nombre": "Boneless Grillers natural 500 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/302139-300-300/999374.jpg?v=638684223007970000",
+    "imagen_descargada": "999374___boneless-grillers-natural-500-g-aproximado.jpg"
+  },
+  {
+    "sku": "7501518464009",
+    "nombre": "Chicharrón Bafar prensado 454 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/302122-300-300/7501518464009.jpg?v=638684074245030000",
+    "imagen_descargada": "7501518464009___chicharrón-bafar-prensado-454-g.jpg"
+  },
+  {
+    "sku": "999362",
+    "nombre": "Huacal de pollo kilo",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/300260-300-300/999362.jpg?v=638515625778000000",
+    "imagen_descargada": "999362___huacal-de-pollo-kilo.jpg"
+  },
+  {
+    "sku": "999958",
+    "nombre": "Jamón Alpino virginia pavo 250 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/298229-300-300/999958.jpg?v=638451791976400000",
+    "imagen_descargada": "999958___jamón-alpino-virginia-pavo-250-g-aproximado.jpg"
+  },
+  {
+    "sku": "999331",
+    "nombre": "Molida de pollo 250 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/304780-300-300/999331.jpg?v=638929741369630000",
+    "imagen_descargada": "999331___molida-de-pollo-250-g-aproximado.jpg"
+  },
+  {
+    "sku": "999740",
+    "nombre": "Roas beef de res 500 g aprox",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/296925-300-300/999740.jpg?v=638412809292200000",
+    "imagen_descargada": "999740___roas-beef-de-res-500-g-aprox.jpg"
+  },
+  {
+    "sku": "7506276782273",
+    "nombre": "Hamburguesa Bachoco de arrachera mayoreo 904 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/296278-300-300/7506276782273.jpg?v=638381644517330000",
+    "imagen_descargada": "7506276782273___hamburguesa-bachoco-de-arrachera-mayoreo-904-g.jpg"
+  },
+  {
+    "sku": "7201",
+    "nombre": "Bacalao desmigado Morhua charola 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/302049-300-300/7201.jpg?v=638676527202400000",
+    "imagen_descargada": "7201___bacalao-desmigado-morhua-charola-500-g.jpg"
+  },
+  {
+    "sku": "7501040047817",
+    "nombre": "Deshebrada Chimex 450 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/296471-300-300/7501040047817.jpg?v=638399013696370000",
+    "imagen_descargada": "7501040047817___deshebrada-chimex-450-g.jpg"
+  },
+  {
+    "sku": "7503024659016",
+    "nombre": "Boquerón Barajas enchilado 250 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/299629-300-300/7503024659016.jpg?v=638488078759000000",
+    "imagen_descargada": "7503024659016___boquerón-barajas-enchilado-250-g.jpg"
+  },
+  {
+    "sku": "7503024659009",
+    "nombre": "Boquerón Barajas Frito 200 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/298938-300-300/7503024659009.jpg?v=638467440633330000",
+    "imagen_descargada": "7503024659009___boquerón-barajas-frito-200-g.jpg"
+  },
+  {
+    "sku": "999204",
+    "nombre": "Pescado para caldo Bagre peso aproximado 250 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/286069-300-300/999204.jpg?v=637816601664530000",
+    "imagen_descargada": "999204___pescado-para-caldo-bagre-peso-aproximado-250-g.jpg"
+  },
+  {
+    "sku": "72APYM026",
+    "nombre": "Camaron seco molido peso aproximado 250 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285987-300-300/72APYM026.jpg?v=637808048243730000",
+    "imagen_descargada": "72APYM026___camaron-seco-molido-peso-aproximado-250-g.jpg"
+  },
+  {
+    "sku": "999515",
+    "nombre": "Mojarra limpia entera peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285986-300-300/999515.jpg?v=637808043563900000",
+    "imagen_descargada": "999515___mojarra-limpia-entera-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "999512",
+    "nombre": "Porción de pescado empanizado peso aproximado 250 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285945-300-300/999512.jpg?v=637807305745170000",
+    "imagen_descargada": "999512___porción-de-pescado-empanizado-peso-aproximado-250-g.jpg"
+  },
+  {
+    "sku": "72APYM036",
+    "nombre": "Salmon chileno lonja peso aproximado 250 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285932-300-300/72APYM036.jpg?v=637806384808300000",
+    "imagen_descargada": "72APYM036___salmon-chileno-lonja-peso-aproximado-250-g.jpg"
+  },
+  {
+    "sku": "999500",
+    "nombre": "Camaron con cabeza 50/60 peso aproximado 250 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285931-300-300/999500.jpg?v=637806374814530000",
+    "imagen_descargada": "999500___camaron-con-cabeza-5060-peso-aproximado-250-g.jpg"
+  },
+  {
+    "sku": "72APYM055",
+    "nombre": "Filete de pescado Basa 5/7 peso aproximado 250 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285909-300-300/72APYM055.jpg?v=637806277929630000",
+    "imagen_descargada": "72APYM055___filete-de-pescado-basa-57-peso-aproximado-250-g.jpg"
+  },
+  {
+    "sku": "72APYM022",
+    "nombre": "Filete Tilapia peso aproximado 250 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285908-300-300/72APYM022.jpg?v=637806272157000000",
+    "imagen_descargada": "72APYM022___filete-tilapia-peso-aproximado-250-g.jpg"
+  },
+  {
+    "sku": "999501",
+    "nombre": "Camaron pacotilla Chiapas 250 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285635-300-300/999501.jpg?v=637794252413200000",
+    "imagen_descargada": "999501___camaron-pacotilla-chiapas-250-g-aproximado.jpg"
+  },
+  {
+    "sku": "999884",
+    "nombre": "Camaron 100-200 pacotilla 250 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285946-300-300/999884.jpg?v=637807315742100000",
+    "imagen_descargada": "999884___camaron-100-200-pacotilla-250-g-aproximado.jpg"
+  },
+  {
+    "sku": "999505",
+    "nombre": "Surimi americano 250 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285631-300-300/999505.jpg?v=637794243927130000",
+    "imagen_descargada": "999505___surimi-americano-250-g-aproximado.jpg"
+  },
+  {
+    "sku": "7501736225598",
+    "nombre": "Arrachera Frontera marinada 480 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285549-300-300/7501736225598.jpg?v=637788315410970000",
+    "imagen_descargada": "7501736225598___arrachera-frontera-marinada-480-g.jpg"
+  },
+  {
+    "sku": "999320",
+    "nombre": "Retazo con hueso peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/286636-300-300/999320.png?v=637862430010200000",
+    "imagen_descargada": "999320___retazo-con-hueso-peso-aproximado-500-g.png"
+  },
+  {
+    "sku": "999661",
+    "nombre": "Queso El Cerdito de puerco 250 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/297785-300-300/999661.jpg?v=638435395036670000",
+    "imagen_descargada": "999661___queso-el-cerdito-de-puerco-250-g-aproximado.jpg"
+  },
+  {
+    "sku": "999301",
+    "nombre": "Pierna de cerdo sin hueso  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/278608-300-300/999301.jpg?v=637214389582470000",
+    "imagen_descargada": "999301___pierna-de-cerdo-sin-hueso-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "999329",
+    "nombre": "Pierna con muslo 500 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/289047-300-300/999329.jpg?v=638018965334100000",
+    "imagen_descargada": "999329___pierna-con-muslo-500-g-aproximado.jpg"
+  },
+  {
+    "sku": "999371",
+    "nombre": "Pata de res picada 250 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/298362-300-300/999371.jpg?v=638453501787670000",
+    "imagen_descargada": "999371___pata-de-res-picada-250-g-aproximado.jpg"
+  },
+  {
+    "sku": "81FCAR010",
+    "nombre": "Carne molida mixta peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/286862-300-300/81FCAR010.png?v=637873579477070000",
+    "imagen_descargada": "81FCAR010___carne-molida-mixta-peso-aproximado-500-g.png"
+  },
+  {
+    "sku": "9900292",
+    "nombre": "Milanesa de cerdo  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/277284-300-300/9900292.jpg?v=636924943558800000",
+    "imagen_descargada": "9900292___milanesa-de-cerdo-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "999335",
+    "nombre": "Longaniza casera 500 g aprox",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/296542-300-300/999335.jpg?v=638403425362330000",
+    "imagen_descargada": "999335___longaniza-casera-500-g-aprox.jpg"
+  },
+  {
+    "sku": "664177000012",
+    "nombre": "Hamburguesa La tejana con 16 piezas",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/285607-300-300/664177000012.jpg?v=637792698161800000",
+    "imagen_descargada": "664177000012___hamburguesa-la-tejana-con-16-piezas.jpg"
+  },
+  {
+    "sku": "999386",
+    "nombre": "Espaldilla con hueso de cerdo 500 g aproximado",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/296541-300-300/999386.jpg?v=638403417326300000",
+    "imagen_descargada": "999386___espaldilla-con-hueso-de-cerdo-500-g-aproximado.jpg"
+  },
+  {
+    "sku": "999339",
+    "nombre": "Chuleta ahumada cerdo peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/288820-300-300/999339.jpg?v=638006057339800000",
+    "imagen_descargada": "999339___chuleta-ahumada-cerdo-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "999531",
+    "nombre": "Carne molida popular peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/286860-300-300/999531.jpg?v=637873577523730000",
+    "imagen_descargada": "999531___carne-molida-popular-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "999925",
+    "nombre": "Carne enchilada de cerdo 500 g aproximadamente",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/300939-300-300/999925.jpg?v=638572782796970000",
+    "imagen_descargada": "999925___carne-enchilada-de-cerdo-500-g-aproximadamente.jpg"
+  },
+  {
+    "sku": "999392",
+    "nombre": "Molida comercial res  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/214923-300-300/999392.png?v=636798187387570000",
+    "imagen_descargada": "999392___molida-comercial-res-peso-aproximado-500-g.png"
+  },
+  {
+    "sku": "999325",
+    "nombre": "Menudo res  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/214929-300-300/999325.png?v=636798190411300000",
+    "imagen_descargada": "999325___menudo-res-peso-aproximado-500-g.png"
+  },
+  {
+    "sku": "999322",
+    "nombre": "Molida sirloin de res  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/214927-300-300/999322.png?v=636798188874430000",
+    "imagen_descargada": "999322___molida-sirloin-de-res-peso-aproximado-500-g.png"
+  },
+  {
+    "sku": "81ACAR012",
+    "nombre": "Molida de cerdo  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/205646-300-300/81ACAR012_1.jpg?v=636790624527130000",
+    "imagen_descargada": "81ACAR012___molida-de-cerdo-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "81ACAR009",
+    "nombre": "Codillo de cerdo  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/205645-300-300/81ACAR009_1.jpg?v=636790624498600000",
+    "imagen_descargada": "81ACAR009___codillo-de-cerdo-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "81ACAR008",
+    "nombre": "Bistec de cerdo  peso aproximado 250 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/205644-300-300/81ACAR008_1.jpg?v=636790624468200000",
+    "imagen_descargada": "81ACAR008___bistec-de-cerdo-peso-aproximado-250-g.jpg"
+  },
+  {
+    "sku": "81ACAR007",
+    "nombre": "Espinazo de cerdo  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/205643-300-300/81ACAR007_1.jpg?v=636790624443630000",
+    "imagen_descargada": "81ACAR007___espinazo-de-cerdo-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "81ACAR006",
+    "nombre": "Pulpa de cerdo  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/205642-300-300/81ACAR006_1.jpg?v=636790624410300000",
+    "imagen_descargada": "81ACAR006___pulpa-de-cerdo-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "81ACAR004",
+    "nombre": "Chuleta natural  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/205641-300-300/81ACAR004_1.jpg?v=636790624379830000",
+    "imagen_descargada": "81ACAR004___chuleta-natural-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "81ACAR002",
+    "nombre": "Costilla de cerdo  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/205640-300-300/81ACAR002_1.jpg?v=636790624347730000",
+    "imagen_descargada": "81ACAR002___costilla-de-cerdo-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "999349",
+    "nombre": "Pechuga con hueso  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/214936-300-300/999349.jpg?v=636798194369200000",
+    "imagen_descargada": "999349___pechuga-con-hueso-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "999910",
+    "nombre": "Milanesa de pollo peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/214852-300-300/999910.jpg?v=636798180182970000",
+    "imagen_descargada": "999910___milanesa-de-pollo-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "999904",
+    "nombre": "Muslo de pollo  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/214935-300-300/999904.jpg?v=636798193438470000",
+    "imagen_descargada": "999904___muslo-de-pollo-peso-aproximado-500-g.jpg"
+  },
+  {
+    "sku": "999903",
+    "nombre": "Pierna de pollo  peso aproximado 500 g",
+    "imagen_original": "https://lagranbodega.vteximg.com.br/arquivos/ids/214934-300-300/999903.jpg?v=636798192963930000",
+    "imagen_descargada": "999903___pierna-de-pollo-peso-aproximado-500-g.jpg"
+  }
+]

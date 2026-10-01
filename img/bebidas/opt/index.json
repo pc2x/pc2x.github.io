@@ -1,0 +1,1062 @@
+{
+  "generatedAt": "2026-10-01T05:48:27Z",
+  "folder": "bebidas",
+  "count": 211,
+  "images": [
+    {
+      "name": "014800000276___clamato-bebida-de-jugo-de-tomate-cubano-473-ml",
+      "file": "014800000276___clamato-bebida-de-jugo-de-tomate-cubano-473-ml.webp",
+      "path": "bebidas/opt/014800000276___clamato-bebida-de-jugo-de-tomate-cubano-473-ml.webp"
+    },
+    {
+      "name": "014800515329___clamato-el-original-jugo-de-tomate-con-almeja-473-ml",
+      "file": "014800515329___clamato-el-original-jugo-de-tomate-con-almeja-473-ml.webp",
+      "path": "bebidas/opt/014800515329___clamato-el-original-jugo-de-tomate-con-almeja-473-ml.webp"
+    },
+    {
+      "name": "014800515343___clamato-bebida-de-jugo-de-tomate-1.89-l",
+      "file": "014800515343___clamato-bebida-de-jugo-de-tomate-1.89-l.webp",
+      "path": "bebidas/opt/014800515343___clamato-bebida-de-jugo-de-tomate-1.89-l.webp"
+    },
+    {
+      "name": "019836200218___boing-bebida-de-durazno-brick-500-ml",
+      "file": "019836200218___boing-bebida-de-durazno-brick-500-ml.webp",
+      "path": "bebidas/opt/019836200218___boing-bebida-de-durazno-brick-500-ml.webp"
+    },
+    {
+      "name": "019836500011___boing-fresa-lata-340-ml",
+      "file": "019836500011___boing-fresa-lata-340-ml.webp",
+      "path": "bebidas/opt/019836500011___boing-fresa-lata-340-ml.webp"
+    },
+    {
+      "name": "019836500028___boing-mango-lata-340-ml",
+      "file": "019836500028___boing-mango-lata-340-ml.webp",
+      "path": "bebidas/opt/019836500028___boing-mango-lata-340-ml.webp"
+    },
+    {
+      "name": "019836500035___boing-guayaba-lata-340-ml",
+      "file": "019836500035___boing-guayaba-lata-340-ml.webp",
+      "path": "bebidas/opt/019836500035___boing-guayaba-lata-340-ml.webp"
+    },
+    {
+      "name": "019836500301___boing-manzana-lata-340-ml",
+      "file": "019836500301___boing-manzana-lata-340-ml.webp",
+      "path": "bebidas/opt/019836500301___boing-manzana-lata-340-ml.webp"
+    },
+    {
+      "name": "074780162340___agua-mineral-perrier-lata-330-ml",
+      "file": "074780162340___agua-mineral-perrier-lata-330-ml.webp",
+      "path": "bebidas/opt/074780162340___agua-mineral-perrier-lata-330-ml.webp"
+    },
+    {
+      "name": "076183000830___té-snapple-durazno-473-ml",
+      "file": "076183000830___té-snapple-durazno-473-ml.webp",
+      "path": "bebidas/opt/076183000830___té-snapple-durazno-473-ml.webp"
+    },
+    {
+      "name": "076183000854___te-snapple-limón-473-ml",
+      "file": "076183000854___te-snapple-limón-473-ml.webp",
+      "path": "bebidas/opt/076183000854___te-snapple-limón-473-ml.webp"
+    },
+    {
+      "name": "076183000892___té-snapple-frambuesa-473-ml",
+      "file": "076183000892___té-snapple-frambuesa-473-ml.webp",
+      "path": "bebidas/opt/076183000892___té-snapple-frambuesa-473-ml.webp"
+    },
+    {
+      "name": "0815154025744___energizante-predator-purple-rain-473-ml",
+      "file": "0815154025744___energizante-predator-purple-rain-473-ml.webp",
+      "path": "bebidas/opt/0815154025744___energizante-predator-purple-rain-473-ml.webp"
+    },
+    {
+      "name": "29CBNF032___agua-bonafont-juizzy-piña-1000-ml",
+      "file": "29CBNF032___agua-bonafont-juizzy-piña-1000-ml.webp",
+      "path": "bebidas/opt/29CBNF032___agua-bonafont-juizzy-piña-1000-ml.webp"
+    },
+    {
+      "name": "30131___refresco-coca-cola-sin-azúcar-2000-ml",
+      "file": "30131___refresco-coca-cola-sin-azúcar-2000-ml.webp",
+      "path": "bebidas/opt/30131___refresco-coca-cola-sin-azúcar-2000-ml.webp"
+    },
+    {
+      "name": "5099873006849___bebida-alcohólica-jack-daniels-ginger-473-ml",
+      "file": "5099873006849___bebida-alcohólica-jack-daniels-ginger-473-ml.webp",
+      "path": "bebidas/opt/5099873006849___bebida-alcohólica-jack-daniels-ginger-473-ml.webp"
+    },
+    {
+      "name": "5900685006197___vodka-wyborowa-700-ml",
+      "file": "5900685006197___vodka-wyborowa-700-ml.webp",
+      "path": "bebidas/opt/5900685006197___vodka-wyborowa-700-ml.webp"
+    },
+    {
+      "name": "613008772871___bebida-arizona-ponche-de-frutas-570-ml",
+      "file": "613008772871___bebida-arizona-ponche-de-frutas-570-ml.webp",
+      "path": "bebidas/opt/613008772871___bebida-arizona-ponche-de-frutas-570-ml.webp"
+    },
+    {
+      "name": "650240072147___suerox-vitamins-defense-naranja-mango-630-ml",
+      "file": "650240072147___suerox-vitamins-defense-naranja-mango-630-ml.webp",
+      "path": "bebidas/opt/650240072147___suerox-vitamins-defense-naranja-mango-630-ml.webp"
+    },
+    {
+      "name": "70847036715___energizante-monster-paradise-ultra-437-ml",
+      "file": "70847036715___energizante-monster-paradise-ultra-437-ml.webp",
+      "path": "bebidas/opt/70847036715___energizante-monster-paradise-ultra-437-ml.webp"
+    },
+    {
+      "name": "729090046001___jugo-frutte-gasificado-manzana-700-ml",
+      "file": "729090046001___jugo-frutte-gasificado-manzana-700-ml.webp",
+      "path": "bebidas/opt/729090046001___jugo-frutte-gasificado-manzana-700-ml.webp"
+    },
+    {
+      "name": "729090046018___jugo-frutte-gasificado-uva-700-ml",
+      "file": "729090046018___jugo-frutte-gasificado-uva-700-ml.webp",
+      "path": "bebidas/opt/729090046018___jugo-frutte-gasificado-uva-700-ml.webp"
+    },
+    {
+      "name": "7401001584255___néctar-fruvita-manzana-200-ml",
+      "file": "7401001584255___néctar-fruvita-manzana-200-ml.webp",
+      "path": "bebidas/opt/7401001584255___néctar-fruvita-manzana-200-ml.webp"
+    },
+    {
+      "name": "7401001584262___nectar-fruvita-durazno-200-ml",
+      "file": "7401001584262___nectar-fruvita-durazno-200-ml.webp",
+      "path": "bebidas/opt/7401001584262___nectar-fruvita-durazno-200-ml.webp"
+    },
+    {
+      "name": "7401001585207___néctar-fruvita-mango-200-ml",
+      "file": "7401001585207___néctar-fruvita-mango-200-ml.webp",
+      "path": "bebidas/opt/7401001585207___néctar-fruvita-mango-200-ml.webp"
+    },
+    {
+      "name": "7401001585610___néctar-fruvita-mango-946-ml",
+      "file": "7401001585610___néctar-fruvita-mango-946-ml.webp",
+      "path": "bebidas/opt/7401001585610___néctar-fruvita-mango-946-ml.webp"
+    },
+    {
+      "name": "7401001585658___néctar-fruvita-manzana-946-ml",
+      "file": "7401001585658___néctar-fruvita-manzana-946-ml.webp",
+      "path": "bebidas/opt/7401001585658___néctar-fruvita-manzana-946-ml.webp"
+    },
+    {
+      "name": "7401001585665___néctar-fruvita-durazno-946-ml",
+      "file": "7401001585665___néctar-fruvita-durazno-946-ml.webp",
+      "path": "bebidas/opt/7401001585665___néctar-fruvita-durazno-946-ml.webp"
+    },
+    {
+      "name": "7401001585795___néctar-fruvita-pera-200-ml",
+      "file": "7401001585795___néctar-fruvita-pera-200-ml.webp",
+      "path": "bebidas/opt/7401001585795___néctar-fruvita-pera-200-ml.webp"
+    },
+    {
+      "name": "7401001586860___néctar-fruvita-pack-6-piezas-de-200ml",
+      "file": "7401001586860___néctar-fruvita-pack-6-piezas-de-200ml.webp",
+      "path": "bebidas/opt/7401001586860___néctar-fruvita-pack-6-piezas-de-200ml.webp"
+    },
+    {
+      "name": "742097352029___fersan-manzana-500-ml",
+      "file": "742097352029___fersan-manzana-500-ml.webp",
+      "path": "bebidas/opt/742097352029___fersan-manzana-500-ml.webp"
+    },
+    {
+      "name": "742097352036___fersan-naranja-500-ml",
+      "file": "742097352036___fersan-naranja-500-ml.webp",
+      "path": "bebidas/opt/742097352036___fersan-naranja-500-ml.webp"
+    },
+    {
+      "name": "742097352074___fersan-fresa-500-ml",
+      "file": "742097352074___fersan-fresa-500-ml.webp",
+      "path": "bebidas/opt/742097352074___fersan-fresa-500-ml.webp"
+    },
+    {
+      "name": "744607008358___bebida-alcohólica-jack-daniels-mineral-473-ml",
+      "file": "744607008358___bebida-alcohólica-jack-daniels-mineral-473-ml.webp",
+      "path": "bebidas/opt/744607008358___bebida-alcohólica-jack-daniels-mineral-473-ml.webp"
+    },
+    {
+      "name": "75001957___jugo-frutsi-uva-250-ml",
+      "file": "75001957___jugo-frutsi-uva-250-ml.webp",
+      "path": "bebidas/opt/75001957___jugo-frutsi-uva-250-ml.webp"
+    },
+    {
+      "name": "75001964___jugo-frutsi-manzana-250-ml",
+      "file": "75001964___jugo-frutsi-manzana-250-ml.webp",
+      "path": "bebidas/opt/75001964___jugo-frutsi-manzana-250-ml.webp"
+    },
+    {
+      "name": "75001988___jugo-frutsi-ponche-250-ml",
+      "file": "75001988___jugo-frutsi-ponche-250-ml.webp",
+      "path": "bebidas/opt/75001988___jugo-frutsi-ponche-250-ml.webp"
+    },
+    {
+      "name": "75003111___boing-bebida-de-guanábana-brick-500-ml",
+      "file": "75003111___boing-bebida-de-guanábana-brick-500-ml.webp",
+      "path": "bebidas/opt/75003111___boing-bebida-de-guanábana-brick-500-ml.webp"
+    },
+    {
+      "name": "7500326103339___refresco-señorial-sangría-2000-ml",
+      "file": "7500326103339___refresco-señorial-sangría-2000-ml.webp",
+      "path": "bebidas/opt/7500326103339___refresco-señorial-sangría-2000-ml.webp"
+    },
+    {
+      "name": "7500326103360___refresco-señorial-sangría-600-ml",
+      "file": "7500326103360___refresco-señorial-sangría-600-ml.webp",
+      "path": "bebidas/opt/7500326103360___refresco-señorial-sangría-600-ml.webp"
+    },
+    {
+      "name": "7501003106155___néctar-herdez-tomate-con-verdura-y-salsa-búfalo-330-ml",
+      "file": "7501003106155___néctar-herdez-tomate-con-verdura-y-salsa-búfalo-330-ml.webp",
+      "path": "bebidas/opt/7501003106155___néctar-herdez-tomate-con-verdura-y-salsa-búfalo-330-ml.webp"
+    },
+    {
+      "name": "7501003106223___néctar-herdez-tomate-con-verdura-y-condimentado-original-330-ml",
+      "file": "7501003106223___néctar-herdez-tomate-con-verdura-y-condimentado-original-330-ml.webp",
+      "path": "bebidas/opt/7501003106223___néctar-herdez-tomate-con-verdura-y-condimentado-original-330-ml.webp"
+    },
+    {
+      "name": "7501011181755___agua-be-light-limón-1500-ml",
+      "file": "7501011181755___agua-be-light-limón-1500-ml.webp",
+      "path": "bebidas/opt/7501011181755___agua-be-light-limón-1500-ml.webp"
+    },
+    {
+      "name": "7501011181762___agua-be-light-toronja-1500-ml",
+      "file": "7501011181762___agua-be-light-toronja-1500-ml.webp",
+      "path": "bebidas/opt/7501011181762___agua-be-light-toronja-1500-ml.webp"
+    },
+    {
+      "name": "7501011181809___agua-be-light-jamaica-1500-ml",
+      "file": "7501011181809___agua-be-light-jamaica-1500-ml.webp",
+      "path": "bebidas/opt/7501011181809___agua-be-light-jamaica-1500-ml.webp"
+    },
+    {
+      "name": "7501013100556___jugo-kermato-nestlé-1800-ml",
+      "file": "7501013100556___jugo-kermato-nestlé-1800-ml.webp",
+      "path": "bebidas/opt/7501013100556___jugo-kermato-nestlé-1800-ml.webp"
+    },
+    {
+      "name": "7501013101607___jugo-pau-pau-minibrick-uva-125-ml",
+      "file": "7501013101607___jugo-pau-pau-minibrick-uva-125-ml.webp",
+      "path": "bebidas/opt/7501013101607___jugo-pau-pau-minibrick-uva-125-ml.webp"
+    },
+    {
+      "name": "7501013101614___jugo-pau-pau-minibrick-manzana-125-ml",
+      "file": "7501013101614___jugo-pau-pau-minibrick-manzana-125-ml.webp",
+      "path": "bebidas/opt/7501013101614___jugo-pau-pau-minibrick-manzana-125-ml.webp"
+    },
+    {
+      "name": "7501013102789___jugo-jumex-mango-brick-960-ml",
+      "file": "7501013102789___jugo-jumex-mango-brick-960-ml.webp",
+      "path": "bebidas/opt/7501013102789___jugo-jumex-mango-brick-960-ml.webp"
+    },
+    {
+      "name": "7501013102949___néctar-jumex-surtido-4-latas-de-335-ml",
+      "file": "7501013102949___néctar-jumex-surtido-4-latas-de-335-ml.webp",
+      "path": "bebidas/opt/7501013102949___néctar-jumex-surtido-4-latas-de-335-ml.webp"
+    },
+    {
+      "name": "7501013104066___jugo-jumex-durazno-brick-960-ml",
+      "file": "7501013104066___jugo-jumex-durazno-brick-960-ml.webp",
+      "path": "bebidas/opt/7501013104066___jugo-jumex-durazno-brick-960-ml.webp"
+    },
+    {
+      "name": "7501013104073___jugo-jumex-manzana-brick-960-ml",
+      "file": "7501013104073___jugo-jumex-manzana-brick-960-ml.webp",
+      "path": "bebidas/opt/7501013104073___jugo-jumex-manzana-brick-960-ml.webp"
+    },
+    {
+      "name": "7501013104455___jugo-jumex-único-fresco-prisma-arándano-475-ml",
+      "file": "7501013104455___jugo-jumex-único-fresco-prisma-arándano-475-ml.webp",
+      "path": "bebidas/opt/7501013104455___jugo-jumex-único-fresco-prisma-arándano-475-ml.webp"
+    },
+    {
+      "name": "7501013104653___néctar-jumex-prisma-piña-coco-475-ml",
+      "file": "7501013104653___néctar-jumex-prisma-piña-coco-475-ml.webp",
+      "path": "bebidas/opt/7501013104653___néctar-jumex-prisma-piña-coco-475-ml.webp"
+    },
+    {
+      "name": "7501013104691___néctar-jumex-prisma-mango-475-ml",
+      "file": "7501013104691___néctar-jumex-prisma-mango-475-ml.webp",
+      "path": "bebidas/opt/7501013104691___néctar-jumex-prisma-mango-475-ml.webp"
+    },
+    {
+      "name": "7501013104707___jugo-jumex-prisma-manzana-475-ml",
+      "file": "7501013104707___jugo-jumex-prisma-manzana-475-ml.webp",
+      "path": "bebidas/opt/7501013104707___jugo-jumex-prisma-manzana-475-ml.webp"
+    },
+    {
+      "name": "7501013104714___jugo-jumex-prisma-durazno-475-ml",
+      "file": "7501013104714___jugo-jumex-prisma-durazno-475-ml.webp",
+      "path": "bebidas/opt/7501013104714___jugo-jumex-prisma-durazno-475-ml.webp"
+    },
+    {
+      "name": "7501013104875___bebida-jumex-bida-icee-cereza-500-ml",
+      "file": "7501013104875___bebida-jumex-bida-icee-cereza-500-ml.webp",
+      "path": "bebidas/opt/7501013104875___bebida-jumex-bida-icee-cereza-500-ml.webp"
+    },
+    {
+      "name": "7501013105414___jugo-jumex-manzana-clarificada-brick-960-ml",
+      "file": "7501013105414___jugo-jumex-manzana-clarificada-brick-960-ml.webp",
+      "path": "bebidas/opt/7501013105414___jugo-jumex-manzana-clarificada-brick-960-ml.webp"
+    },
+    {
+      "name": "7501013105469___jugo-jumex-naranja-brick-960-ml",
+      "file": "7501013105469___jugo-jumex-naranja-brick-960-ml.webp",
+      "path": "bebidas/opt/7501013105469___jugo-jumex-naranja-brick-960-ml.webp"
+    },
+    {
+      "name": "7501013105483___jugo-jumex-piña-coco-brick-960-ml",
+      "file": "7501013105483___jugo-jumex-piña-coco-brick-960-ml.webp",
+      "path": "bebidas/opt/7501013105483___jugo-jumex-piña-coco-brick-960-ml.webp"
+    },
+    {
+      "name": "7501013105506___jugo-jumex-uva-brick-960-ml",
+      "file": "7501013105506___jugo-jumex-uva-brick-960-ml.webp",
+      "path": "bebidas/opt/7501013105506___jugo-jumex-uva-brick-960-ml.webp"
+    },
+    {
+      "name": "7501013105520___néctar-jumex-manzana-clarificada-413-ml",
+      "file": "7501013105520___néctar-jumex-manzana-clarificada-413-ml.webp",
+      "path": "bebidas/opt/7501013105520___néctar-jumex-manzana-clarificada-413-ml.webp"
+    },
+    {
+      "name": "7501013105537___néctar-jumex-durazno-413-ml",
+      "file": "7501013105537___néctar-jumex-durazno-413-ml.webp",
+      "path": "bebidas/opt/7501013105537___néctar-jumex-durazno-413-ml.webp"
+    },
+    {
+      "name": "7501013105544___néctar-jumex-guayaba-413-ml",
+      "file": "7501013105544___néctar-jumex-guayaba-413-ml.webp",
+      "path": "bebidas/opt/7501013105544___néctar-jumex-guayaba-413-ml.webp"
+    },
+    {
+      "name": "7501013105551___néctar-jumex-mango-413-ml",
+      "file": "7501013105551___néctar-jumex-mango-413-ml.webp",
+      "path": "bebidas/opt/7501013105551___néctar-jumex-mango-413-ml.webp"
+    },
+    {
+      "name": "7501013105568___néctar-jumex-manzana-413-ml",
+      "file": "7501013105568___néctar-jumex-manzana-413-ml.webp",
+      "path": "bebidas/opt/7501013105568___néctar-jumex-manzana-413-ml.webp"
+    },
+    {
+      "name": "7501013105575___néctar-jumex-uva-413-ml",
+      "file": "7501013105575___néctar-jumex-uva-413-ml.webp",
+      "path": "bebidas/opt/7501013105575___néctar-jumex-uva-413-ml.webp"
+    },
+    {
+      "name": "7501013105582___jugo-jumex-mini-durazno-237-ml",
+      "file": "7501013105582___jugo-jumex-mini-durazno-237-ml.webp",
+      "path": "bebidas/opt/7501013105582___jugo-jumex-mini-durazno-237-ml.webp"
+    },
+    {
+      "name": "7501013105599___jugo-jumex-mini-mango-237-ml",
+      "file": "7501013105599___jugo-jumex-mini-mango-237-ml.webp",
+      "path": "bebidas/opt/7501013105599___jugo-jumex-mini-mango-237-ml.webp"
+    },
+    {
+      "name": "7501013105605___jugo-jumex-mini-manzana-237-ml",
+      "file": "7501013105605___jugo-jumex-mini-manzana-237-ml.webp",
+      "path": "bebidas/opt/7501013105605___jugo-jumex-mini-manzana-237-ml.webp"
+    },
+    {
+      "name": "7501013105667___néctar-jumex-mini-surtido-4-piezas-de-237-ml",
+      "file": "7501013105667___néctar-jumex-mini-surtido-4-piezas-de-237-ml.webp",
+      "path": "bebidas/opt/7501013105667___néctar-jumex-mini-surtido-4-piezas-de-237-ml.webp"
+    },
+    {
+      "name": "7501013105841___jugo-jumex-amí-naranja-591-ml",
+      "file": "7501013105841___jugo-jumex-amí-naranja-591-ml.webp",
+      "path": "bebidas/opt/7501013105841___jugo-jumex-amí-naranja-591-ml.webp"
+    },
+    {
+      "name": "7501013105858___jugo-jumex-amí-manzana-591-ml",
+      "file": "7501013105858___jugo-jumex-amí-manzana-591-ml.webp",
+      "path": "bebidas/opt/7501013105858___jugo-jumex-amí-manzana-591-ml.webp"
+    },
+    {
+      "name": "7501013105865___jugo-jumex-amí-mandarina-591-ml",
+      "file": "7501013105865___jugo-jumex-amí-mandarina-591-ml.webp",
+      "path": "bebidas/opt/7501013105865___jugo-jumex-amí-mandarina-591-ml.webp"
+    },
+    {
+      "name": "7501013106077___energizante-xot-jumex-energy-frutas-mixtas-470-ml",
+      "file": "7501013106077___energizante-xot-jumex-energy-frutas-mixtas-470-ml.webp",
+      "path": "bebidas/opt/7501013106077___energizante-xot-jumex-energy-frutas-mixtas-470-ml.webp"
+    },
+    {
+      "name": "7501013106725___bebida-jumex-xoda-naranja-hierbabuena-355-ml",
+      "file": "7501013106725___bebida-jumex-xoda-naranja-hierbabuena-355-ml.webp",
+      "path": "bebidas/opt/7501013106725___bebida-jumex-xoda-naranja-hierbabuena-355-ml.webp"
+    },
+    {
+      "name": "7501013106732___bebida-jumex-xoda-toronja-hierbabuena-355-ml",
+      "file": "7501013106732___bebida-jumex-xoda-toronja-hierbabuena-355-ml.webp",
+      "path": "bebidas/opt/7501013106732___bebida-jumex-xoda-toronja-hierbabuena-355-ml.webp"
+    },
+    {
+      "name": "7501013106749___bebida-jumex-xoda-manzana-hierbabuena-355-ml",
+      "file": "7501013106749___bebida-jumex-xoda-manzana-hierbabuena-355-ml.webp",
+      "path": "bebidas/opt/7501013106749___bebida-jumex-xoda-manzana-hierbabuena-355-ml.webp"
+    },
+    {
+      "name": "7501013106794___jugo-jumex-bida-mini-mango-237-ml",
+      "file": "7501013106794___jugo-jumex-bida-mini-mango-237-ml.webp",
+      "path": "bebidas/opt/7501013106794___jugo-jumex-bida-mini-mango-237-ml.webp"
+    },
+    {
+      "name": "7501013106800___jugo-jumex-bida-mini-guayaba-237-ml",
+      "file": "7501013106800___jugo-jumex-bida-mini-guayaba-237-ml.webp",
+      "path": "bebidas/opt/7501013106800___jugo-jumex-bida-mini-guayaba-237-ml.webp"
+    },
+    {
+      "name": "7501013106824___jugo-jumex-bida-mini-fresa-237-ml",
+      "file": "7501013106824___jugo-jumex-bida-mini-fresa-237-ml.webp",
+      "path": "bebidas/opt/7501013106824___jugo-jumex-bida-mini-fresa-237-ml.webp"
+    },
+    {
+      "name": "7501013106831___jugo-jumex-bida-manzana-237-ml",
+      "file": "7501013106831___jugo-jumex-bida-manzana-237-ml.webp",
+      "path": "bebidas/opt/7501013106831___jugo-jumex-bida-manzana-237-ml.webp"
+    },
+    {
+      "name": "7501013106848___agua-mineral-jumex-mía-355-ml",
+      "file": "7501013106848___agua-mineral-jumex-mía-355-ml.webp",
+      "path": "bebidas/opt/7501013106848___agua-mineral-jumex-mía-355-ml.webp"
+    },
+    {
+      "name": "7501013106893___jugo-jumex-unico-fresco-arándano-960-ml",
+      "file": "7501013106893___jugo-jumex-unico-fresco-arándano-960-ml.webp",
+      "path": "bebidas/opt/7501013106893___jugo-jumex-unico-fresco-arándano-960-ml.webp"
+    },
+    {
+      "name": "7501013106909___jugo-jumex-único-fresco-granada-960-ml",
+      "file": "7501013106909___jugo-jumex-único-fresco-granada-960-ml.webp",
+      "path": "bebidas/opt/7501013106909___jugo-jumex-único-fresco-granada-960-ml.webp"
+    },
+    {
+      "name": "7501013106930___jugo-jumex-único-fresco-naranja-sin-pulpa-960-ml",
+      "file": "7501013106930___jugo-jumex-único-fresco-naranja-sin-pulpa-960-ml.webp",
+      "path": "bebidas/opt/7501013106930___jugo-jumex-único-fresco-naranja-sin-pulpa-960-ml.webp"
+    },
+    {
+      "name": "7501013106947___jugo-jumex-unico-fresco-naranja-con-pulpa-960-ml",
+      "file": "7501013106947___jugo-jumex-unico-fresco-naranja-con-pulpa-960-ml.webp",
+      "path": "bebidas/opt/7501013106947___jugo-jumex-unico-fresco-naranja-con-pulpa-960-ml.webp"
+    },
+    {
+      "name": "7501013106978___nectar-jumex-prisma-piña-475-ml",
+      "file": "7501013106978___nectar-jumex-prisma-piña-475-ml.webp",
+      "path": "bebidas/opt/7501013106978___nectar-jumex-prisma-piña-475-ml.webp"
+    },
+    {
+      "name": "7501013107289___jugo-jumexito-mix-manzanas-200-ml",
+      "file": "7501013107289___jugo-jumexito-mix-manzanas-200-ml.webp",
+      "path": "bebidas/opt/7501013107289___jugo-jumexito-mix-manzanas-200-ml.webp"
+    },
+    {
+      "name": "7501013107296___jugo-jumexito-mango-manzana-200-ml",
+      "file": "7501013107296___jugo-jumexito-mango-manzana-200-ml.webp",
+      "path": "bebidas/opt/7501013107296___jugo-jumexito-mango-manzana-200-ml.webp"
+    },
+    {
+      "name": "7501013107302___jugo-jumexito-frutas-tropicales-200-ml",
+      "file": "7501013107302___jugo-jumexito-frutas-tropicales-200-ml.webp",
+      "path": "bebidas/opt/7501013107302___jugo-jumexito-frutas-tropicales-200-ml.webp"
+    },
+    {
+      "name": "7501013107319___néctar-jumex-mango-lata-botella-460-ml",
+      "file": "7501013107319___néctar-jumex-mango-lata-botella-460-ml.webp",
+      "path": "bebidas/opt/7501013107319___néctar-jumex-mango-lata-botella-460-ml.webp"
+    },
+    {
+      "name": "7501013107326___néctar-jumex-manzana-lata-botella-460-ml",
+      "file": "7501013107326___néctar-jumex-manzana-lata-botella-460-ml.webp",
+      "path": "bebidas/opt/7501013107326___néctar-jumex-manzana-lata-botella-460-ml.webp"
+    },
+    {
+      "name": "7501013107869___bebida-jumex-sport-frutas-tropicales-591-ml",
+      "file": "7501013107869___bebida-jumex-sport-frutas-tropicales-591-ml.webp",
+      "path": "bebidas/opt/7501013107869___bebida-jumex-sport-frutas-tropicales-591-ml.webp"
+    },
+    {
+      "name": "7501013107876___bebida-jumex-sport-lima-limón-591-ml",
+      "file": "7501013107876___bebida-jumex-sport-lima-limón-591-ml.webp",
+      "path": "bebidas/opt/7501013107876___bebida-jumex-sport-lima-limón-591-ml.webp"
+    },
+    {
+      "name": "7501013107883___bebida-jumex-sport-mora-azul-591-ml",
+      "file": "7501013107883___bebida-jumex-sport-mora-azul-591-ml.webp",
+      "path": "bebidas/opt/7501013107883___bebida-jumex-sport-mora-azul-591-ml.webp"
+    },
+    {
+      "name": "7501013107890___bebida-jumex-sport-naranja-591-ml",
+      "file": "7501013107890___bebida-jumex-sport-naranja-591-ml.webp",
+      "path": "bebidas/opt/7501013107890___bebida-jumex-sport-naranja-591-ml.webp"
+    },
+    {
+      "name": "7501013107906___bebida-jumex-sport-uva-591-ml",
+      "file": "7501013107906___bebida-jumex-sport-uva-591-ml.webp",
+      "path": "bebidas/opt/7501013107906___bebida-jumex-sport-uva-591-ml.webp"
+    },
+    {
+      "name": "7501013108057.jpg___jugo-jumex-amí-naranja-946-ml",
+      "file": "7501013108057.jpg___jugo-jumex-amí-naranja-946-ml.webp",
+      "path": "bebidas/opt/7501013108057.jpg___jugo-jumex-amí-naranja-946-ml.webp"
+    },
+    {
+      "name": "7501013109689___jugo-jumex-piña-brick-960-ml",
+      "file": "7501013109689___jugo-jumex-piña-brick-960-ml.webp",
+      "path": "bebidas/opt/7501013109689___jugo-jumex-piña-brick-960-ml.webp"
+    },
+    {
+      "name": "7501013140033___jumex-néctar-mango-1.89-lt",
+      "file": "7501013140033___jumex-néctar-mango-1.89-lt.webp",
+      "path": "bebidas/opt/7501013140033___jumex-néctar-mango-1.89-lt.webp"
+    },
+    {
+      "name": "7501013140149___néctar-jumex-uva-1890-ml",
+      "file": "7501013140149___néctar-jumex-uva-1890-ml.webp",
+      "path": "bebidas/opt/7501013140149___néctar-jumex-uva-1890-ml.webp"
+    },
+    {
+      "name": "7501013156003___jugo-pau-pau-surtido-6-piezas-de-250-ml",
+      "file": "7501013156003___jugo-pau-pau-surtido-6-piezas-de-250-ml.webp",
+      "path": "bebidas/opt/7501013156003___jugo-pau-pau-surtido-6-piezas-de-250-ml.webp"
+    },
+    {
+      "name": "7501022009857___bebida-hidratante-gatorade-moras-1000-ml",
+      "file": "7501022009857___bebida-hidratante-gatorade-moras-1000-ml.webp",
+      "path": "bebidas/opt/7501022009857___bebida-hidratante-gatorade-moras-1000-ml.webp"
+    },
+    {
+      "name": "7501022010341.jpg___jugo-jumex-fresh-conga-3-l",
+      "file": "7501022010341.jpg___jugo-jumex-fresh-conga-3-l.webp",
+      "path": "bebidas/opt/7501022010341.jpg___jugo-jumex-fresh-conga-3-l.webp"
+    },
+    {
+      "name": "7501022013052.jpg___refresco-pepsi-black-600-ml",
+      "file": "7501022013052.jpg___refresco-pepsi-black-600-ml.webp",
+      "path": "bebidas/opt/7501022013052.jpg___refresco-pepsi-black-600-ml.webp"
+    },
+    {
+      "name": "7501031311309___pepsi-355-ml",
+      "file": "7501031311309___pepsi-355-ml.webp",
+      "path": "bebidas/opt/7501031311309___pepsi-355-ml.webp"
+    },
+    {
+      "name": "7501031322558___seven-up-600-ml",
+      "file": "7501031322558___seven-up-600-ml.webp",
+      "path": "bebidas/opt/7501031322558___seven-up-600-ml.webp"
+    },
+    {
+      "name": "7501031322718___seven-up-2.5-l",
+      "file": "7501031322718___seven-up-2.5-l.webp",
+      "path": "bebidas/opt/7501031322718___seven-up-2.5-l.webp"
+    },
+    {
+      "name": "7501031323302___seven-7-up-355-ml",
+      "file": "7501031323302___seven-7-up-355-ml.webp",
+      "path": "bebidas/opt/7501031323302___seven-7-up-355-ml.webp"
+    },
+    {
+      "name": "7501033962530___ensure-advance-café-plastico-237-ml",
+      "file": "7501033962530___ensure-advance-café-plastico-237-ml.webp",
+      "path": "bebidas/opt/7501033962530___ensure-advance-café-plastico-237-ml.webp"
+    },
+    {
+      "name": "7501035046269___energizante-boost-355-ml",
+      "file": "7501035046269___energizante-boost-355-ml.webp",
+      "path": "bebidas/opt/7501035046269___energizante-boost-355-ml.webp"
+    },
+    {
+      "name": "7501039400074___bebida-boing-fresa-vidrio-354-ml",
+      "file": "7501039400074___bebida-boing-fresa-vidrio-354-ml.webp",
+      "path": "bebidas/opt/7501039400074___bebida-boing-fresa-vidrio-354-ml.webp"
+    },
+    {
+      "name": "7501039400098___bebida-boing-de-uva-vidrio-354-ml",
+      "file": "7501039400098___bebida-boing-de-uva-vidrio-354-ml.webp",
+      "path": "bebidas/opt/7501039400098___bebida-boing-de-uva-vidrio-354-ml.webp"
+    },
+    {
+      "name": "7501055304653___refresco-delaware-punch-uva-600-ml",
+      "file": "7501055304653___refresco-delaware-punch-uva-600-ml.webp",
+      "path": "bebidas/opt/7501055304653___refresco-delaware-punch-uva-600-ml.webp"
+    },
+    {
+      "name": "7501055304691___refresco-delaware-uva-2-l",
+      "file": "7501055304691___refresco-delaware-uva-2-l.webp",
+      "path": "bebidas/opt/7501055304691___refresco-delaware-uva-2-l.webp"
+    },
+    {
+      "name": "7501055307906___agua-ciel-natural-600-ml",
+      "file": "7501055307906___agua-ciel-natural-600-ml.webp",
+      "path": "bebidas/opt/7501055307906___agua-ciel-natural-600-ml.webp"
+    },
+    {
+      "name": "7501055313532___coca-cola-original-1.75-l",
+      "file": "7501055313532___coca-cola-original-1.75-l.webp",
+      "path": "bebidas/opt/7501055313532___coca-cola-original-1.75-l.webp"
+    },
+    {
+      "name": "7501055317455___fanta-piña-3-l",
+      "file": "7501055317455___fanta-piña-3-l.webp",
+      "path": "bebidas/opt/7501055317455___fanta-piña-3-l.webp"
+    },
+    {
+      "name": "7501055335060___refresco-coca-cola-original-2750-ml",
+      "file": "7501055335060___refresco-coca-cola-original-2750-ml.webp",
+      "path": "bebidas/opt/7501055335060___refresco-coca-cola-original-2750-ml.webp"
+    },
+    {
+      "name": "7501055335961___jugo-del-valle-mini-brick-mango-250-ml",
+      "file": "7501055335961___jugo-del-valle-mini-brick-mango-250-ml.webp",
+      "path": "bebidas/opt/7501055335961___jugo-del-valle-mini-brick-mango-250-ml.webp"
+    },
+    {
+      "name": "7501055335978___jugo-del-valle-mini-brick-durazno-250-ml",
+      "file": "7501055335978___jugo-del-valle-mini-brick-durazno-250-ml.webp",
+      "path": "bebidas/opt/7501055335978___jugo-del-valle-mini-brick-durazno-250-ml.webp"
+    },
+    {
+      "name": "7501055340002___refresco-sidral-mundet-2-l",
+      "file": "7501055340002___refresco-sidral-mundet-2-l.webp",
+      "path": "bebidas/opt/7501055340002___refresco-sidral-mundet-2-l.webp"
+    },
+    {
+      "name": "7501055342730___bebida-del-valle-frut-guayaba-2-l",
+      "file": "7501055342730___bebida-del-valle-frut-guayaba-2-l.webp",
+      "path": "bebidas/opt/7501055342730___bebida-del-valle-frut-guayaba-2-l.webp"
+    },
+    {
+      "name": "7501055372126___refresco-2-pack-coca-cola-3-l",
+      "file": "7501055372126___refresco-2-pack-coca-cola-3-l.webp",
+      "path": "bebidas/opt/7501055372126___refresco-2-pack-coca-cola-3-l.webp"
+    },
+    {
+      "name": "7501055376803___refresco-fresca-sin-azúcar-355-ml",
+      "file": "7501055376803___refresco-fresca-sin-azúcar-355-ml.webp",
+      "path": "bebidas/opt/7501055376803___refresco-fresca-sin-azúcar-355-ml.webp"
+    },
+    {
+      "name": "7501055379491___refresco-del-valle-fizz-naranjada-2-l",
+      "file": "7501055379491___refresco-del-valle-fizz-naranjada-2-l.webp",
+      "path": "bebidas/opt/7501055379491___refresco-del-valle-fizz-naranjada-2-l.webp"
+    },
+    {
+      "name": "7501055379538___refresco-del-valle-fizz-limonada-2-l",
+      "file": "7501055379538___refresco-del-valle-fizz-limonada-2-l.webp",
+      "path": "bebidas/opt/7501055379538___refresco-del-valle-fizz-limonada-2-l.webp"
+    },
+    {
+      "name": "7501055379941___refresco-fresca-fusion-2-l",
+      "file": "7501055379941___refresco-fresca-fusion-2-l.webp",
+      "path": "bebidas/opt/7501055379941___refresco-fresca-fusion-2-l.webp"
+    },
+    {
+      "name": "7501058623447___agua-nestle-pureza-vital-pack-355-ml",
+      "file": "7501058623447___agua-nestle-pureza-vital-pack-355-ml.webp",
+      "path": "bebidas/opt/7501058623447___agua-nestle-pureza-vital-pack-355-ml.webp"
+    },
+    {
+      "name": "7501059274488___agua-nestlé-pureza-vital-600-ml",
+      "file": "7501059274488___agua-nestlé-pureza-vital-600-ml.webp",
+      "path": "bebidas/opt/7501059274488___agua-nestlé-pureza-vital-600-ml.webp"
+    },
+    {
+      "name": "7501059276369___agua-mineral-nestlé-pureza-vital-355-ml",
+      "file": "7501059276369___agua-mineral-nestlé-pureza-vital-355-ml.webp",
+      "path": "bebidas/opt/7501059276369___agua-mineral-nestlé-pureza-vital-355-ml.webp"
+    },
+    {
+      "name": "7501071122040___refresco-squirt-toronja-lata-355-ml",
+      "file": "7501071122040___refresco-squirt-toronja-lata-355-ml.webp",
+      "path": "bebidas/opt/7501071122040___refresco-squirt-toronja-lata-355-ml.webp"
+    },
+    {
+      "name": "7501073830028___peñafiel-agua-mineral-1-l",
+      "file": "7501073830028___peñafiel-agua-mineral-1-l.webp",
+      "path": "bebidas/opt/7501073830028___peñafiel-agua-mineral-1-l.webp"
+    },
+    {
+      "name": "7501073831148___agua-mineral-peñafiel-pet-355-ml",
+      "file": "7501073831148___agua-mineral-peñafiel-pet-355-ml.webp",
+      "path": "bebidas/opt/7501073831148___agua-mineral-peñafiel-pet-355-ml.webp"
+    },
+    {
+      "name": "7501073833739___schweppes-ginger-ale-1-l",
+      "file": "7501073833739___schweppes-ginger-ale-1-l.webp",
+      "path": "bebidas/opt/7501073833739___schweppes-ginger-ale-1-l.webp"
+    },
+    {
+      "name": "7501073839212___peñafiel-twist-limon-1-l",
+      "file": "7501073839212___peñafiel-twist-limon-1-l.webp",
+      "path": "bebidas/opt/7501073839212___peñafiel-twist-limon-1-l.webp"
+    },
+    {
+      "name": "7501073839885___peñafiel-agua-mineral-limonada-600-ml",
+      "file": "7501073839885___peñafiel-agua-mineral-limonada-600-ml.webp",
+      "path": "bebidas/opt/7501073839885___peñafiel-agua-mineral-limonada-600-ml.webp"
+    },
+    {
+      "name": "7501073841338___refresco-peñafiel-naranjada-355-ml",
+      "file": "7501073841338___refresco-peñafiel-naranjada-355-ml.webp",
+      "path": "bebidas/opt/7501073841338___refresco-peñafiel-naranjada-355-ml.webp"
+    },
+    {
+      "name": "7501073841345___refresco-peñafiel-limonada-355-ml",
+      "file": "7501073841345___refresco-peñafiel-limonada-355-ml.webp",
+      "path": "bebidas/opt/7501073841345___refresco-peñafiel-limonada-355-ml.webp"
+    },
+    {
+      "name": "7501073841901___refresco-peñafiel-piñada-355-ml",
+      "file": "7501073841901___refresco-peñafiel-piñada-355-ml.webp",
+      "path": "bebidas/opt/7501073841901___refresco-peñafiel-piñada-355-ml.webp"
+    },
+    {
+      "name": "7501073841925___peñafiel-agua-mineral-piñada-600-ml",
+      "file": "7501073841925___peñafiel-agua-mineral-piñada-600-ml.webp",
+      "path": "bebidas/opt/7501073841925___peñafiel-agua-mineral-piñada-600-ml.webp"
+    },
+    {
+      "name": "7501073842670___refresco-peñafiel-mangada-600-ml",
+      "file": "7501073842670___refresco-peñafiel-mangada-600-ml.webp",
+      "path": "bebidas/opt/7501073842670___refresco-peñafiel-mangada-600-ml.webp"
+    },
+    {
+      "name": "7501073842717___refresco-peñafiel-manzanada-600-ml",
+      "file": "7501073842717___refresco-peñafiel-manzanada-600-ml.webp",
+      "path": "bebidas/opt/7501073842717___refresco-peñafiel-manzanada-600-ml.webp"
+    },
+    {
+      "name": "7501073843189___refresco-peñafiel-manzanada-2000-ml",
+      "file": "7501073843189___refresco-peñafiel-manzanada-2000-ml.webp",
+      "path": "bebidas/opt/7501073843189___refresco-peñafiel-manzanada-2000-ml.webp"
+    },
+    {
+      "name": "7501073844162___agua-mineral-peñafiel-lata-355-ml",
+      "file": "7501073844162___agua-mineral-peñafiel-lata-355-ml.webp",
+      "path": "bebidas/opt/7501073844162___agua-mineral-peñafiel-lata-355-ml.webp"
+    },
+    {
+      "name": "7501073844506___refresco-peñafiel-manzanita-clásica-2-l",
+      "file": "7501073844506___refresco-peñafiel-manzanita-clásica-2-l.webp",
+      "path": "bebidas/opt/7501073844506___refresco-peñafiel-manzanita-clásica-2-l.webp"
+    },
+    {
+      "name": "7501073844513___refresco-peñafiel-manzanita-clasica-600-ml",
+      "file": "7501073844513___refresco-peñafiel-manzanita-clasica-600-ml.webp",
+      "path": "bebidas/opt/7501073844513___refresco-peñafiel-manzanita-clasica-600-ml.webp"
+    },
+    {
+      "name": "7501073845015___agua-mineral-schweppes-600-ml",
+      "file": "7501073845015___agua-mineral-schweppes-600-ml.webp",
+      "path": "bebidas/opt/7501073845015___agua-mineral-schweppes-600-ml.webp"
+    },
+    {
+      "name": "7501073845510___refresco-peñafiel-manzana-roja-3000-ml",
+      "file": "7501073845510___refresco-peñafiel-manzana-roja-3000-ml.webp",
+      "path": "bebidas/opt/7501073845510___refresco-peñafiel-manzana-roja-3000-ml.webp"
+    },
+    {
+      "name": "7501073845534___refresco-peñafiel-manzana-roja-2000-ml",
+      "file": "7501073845534___refresco-peñafiel-manzana-roja-2000-ml.webp",
+      "path": "bebidas/opt/7501073845534___refresco-peñafiel-manzana-roja-2000-ml.webp"
+    },
+    {
+      "name": "7501073845565___refresco-peñafiel-manzana-roja-600-ml",
+      "file": "7501073845565___refresco-peñafiel-manzana-roja-600-ml.webp",
+      "path": "bebidas/opt/7501073845565___refresco-peñafiel-manzana-roja-600-ml.webp"
+    },
+    {
+      "name": "7501073845572___refresco-peñafiel-manzanita-clásica-3000-ml",
+      "file": "7501073845572___refresco-peñafiel-manzanita-clásica-3000-ml.webp",
+      "path": "bebidas/opt/7501073845572___refresco-peñafiel-manzanita-clásica-3000-ml.webp"
+    },
+    {
+      "name": "7501198300024___crush-multisabor-2-l",
+      "file": "7501198300024___crush-multisabor-2-l.webp",
+      "path": "bebidas/opt/7501198300024___crush-multisabor-2-l.webp"
+    },
+    {
+      "name": "7501198355444___refresco-crush-orange-2000-ml",
+      "file": "7501198355444___refresco-crush-orange-2000-ml.webp",
+      "path": "bebidas/opt/7501198355444___refresco-crush-orange-2000-ml.webp"
+    },
+    {
+      "name": "7501198355451___refresco-crush-orange-600-ml",
+      "file": "7501198355451___refresco-crush-orange-600-ml.webp",
+      "path": "bebidas/opt/7501198355451___refresco-crush-orange-600-ml.webp"
+    },
+    {
+      "name": "7501198355574___refresco-dr.-pepper-cream-lata-355-ml",
+      "file": "7501198355574___refresco-dr.-pepper-cream-lata-355-ml.webp",
+      "path": "bebidas/opt/7501198355574___refresco-dr.-pepper-cream-lata-355-ml.webp"
+    },
+    {
+      "name": "7501438303884___gel-barracuda-fortalecedor-220-g",
+      "file": "7501438303884___gel-barracuda-fortalecedor-220-g.webp",
+      "path": "bebidas/opt/7501438303884___gel-barracuda-fortalecedor-220-g.webp"
+    },
+    {
+      "name": "7501441615226___jarritos-durazno-3-l",
+      "file": "7501441615226___jarritos-durazno-3-l.webp",
+      "path": "bebidas/opt/7501441615226___jarritos-durazno-3-l.webp"
+    },
+    {
+      "name": "7501480700075___brillante-agua-mineral-600-ml",
+      "file": "7501480700075___brillante-agua-mineral-600-ml.webp",
+      "path": "bebidas/opt/7501480700075___brillante-agua-mineral-600-ml.webp"
+    },
+    {
+      "name": "7501480730027___refresco-brillante-tehuacan-sangría-3000-ml",
+      "file": "7501480730027___refresco-brillante-tehuacan-sangría-3000-ml.webp",
+      "path": "bebidas/opt/7501480730027___refresco-brillante-tehuacan-sangría-3000-ml.webp"
+    },
+    {
+      "name": "7501505630035___sangria-casera-355-ml",
+      "file": "7501505630035___sangria-casera-355-ml.webp",
+      "path": "bebidas/opt/7501505630035___sangria-casera-355-ml.webp"
+    },
+    {
+      "name": "7502213343316___licor-de-caña-el-jefe-960-ml",
+      "file": "7502213343316___licor-de-caña-el-jefe-960-ml.webp",
+      "path": "bebidas/opt/7502213343316___licor-de-caña-el-jefe-960-ml.webp"
+    },
+    {
+      "name": "7502247080454___whisky-citric-douglas-euphoric-473-ml",
+      "file": "7502247080454___whisky-citric-douglas-euphoric-473-ml.webp",
+      "path": "bebidas/opt/7502247080454___whisky-citric-douglas-euphoric-473-ml.webp"
+    },
+    {
+      "name": "7502252480928___bebida-almendra-sin-azúcar-natures-heart-946-ml",
+      "file": "7502252480928___bebida-almendra-sin-azúcar-natures-heart-946-ml.webp",
+      "path": "bebidas/opt/7502252480928___bebida-almendra-sin-azúcar-natures-heart-946-ml.webp"
+    },
+    {
+      "name": "7503018023786___refresco-chaparritas-vidrio-mandarina-255-ml",
+      "file": "7503018023786___refresco-chaparritas-vidrio-mandarina-255-ml.webp",
+      "path": "bebidas/opt/7503018023786___refresco-chaparritas-vidrio-mandarina-255-ml.webp"
+    },
+    {
+      "name": "7503018023793___refresco-chaparritas-vidrio-uva-255-ml",
+      "file": "7503018023793___refresco-chaparritas-vidrio-uva-255-ml.webp",
+      "path": "bebidas/opt/7503018023793___refresco-chaparritas-vidrio-uva-255-ml.webp"
+    },
+    {
+      "name": "7503018023809___refresco-chaparritas-vidrio-piña-255-ml",
+      "file": "7503018023809___refresco-chaparritas-vidrio-piña-255-ml.webp",
+      "path": "bebidas/opt/7503018023809___refresco-chaparritas-vidrio-piña-255-ml.webp"
+    },
+    {
+      "name": "7503018023847.jpg___refresco-chaparritas-6-pack-pet-de-250-ml",
+      "file": "7503018023847.jpg___refresco-chaparritas-6-pack-pet-de-250-ml.webp",
+      "path": "bebidas/opt/7503018023847.jpg___refresco-chaparritas-6-pack-pet-de-250-ml.webp"
+    },
+    {
+      "name": "7503027753629___energizante-volt-guarana-473-ml",
+      "file": "7503027753629___energizante-volt-guarana-473-ml.webp",
+      "path": "bebidas/opt/7503027753629___energizante-volt-guarana-473-ml.webp"
+    },
+    {
+      "name": "7503027753650___energizante-volt-mora-473-ml",
+      "file": "7503027753650___energizante-volt-mora-473-ml.webp",
+      "path": "bebidas/opt/7503027753650___energizante-volt-mora-473-ml.webp"
+    },
+    {
+      "name": "7503027753667___energizante-volt-mora-400-ml",
+      "file": "7503027753667___energizante-volt-mora-400-ml.webp",
+      "path": "bebidas/opt/7503027753667___energizante-volt-mora-400-ml.webp"
+    },
+    {
+      "name": "7503029481452___sangría-señorial-sin-azúcar-2-l",
+      "file": "7503029481452___sangría-señorial-sin-azúcar-2-l.webp",
+      "path": "bebidas/opt/7503029481452___sangría-señorial-sin-azúcar-2-l.webp"
+    },
+    {
+      "name": "7503033076118___bebida-cifrut-uva-3.03-l",
+      "file": "7503033076118___bebida-cifrut-uva-3.03-l.webp",
+      "path": "bebidas/opt/7503033076118___bebida-cifrut-uva-3.03-l.webp"
+    },
+    {
+      "name": "7503033076859___bebida-cifrut-naranja-mandarina-y-limón-300-ml",
+      "file": "7503033076859___bebida-cifrut-naranja-mandarina-y-limón-300-ml.webp",
+      "path": "bebidas/opt/7503033076859___bebida-cifrut-naranja-mandarina-y-limón-300-ml.webp"
+    },
+    {
+      "name": "7503033076873___bebida-cifrut-uva-300-ml",
+      "file": "7503033076873___bebida-cifrut-uva-300-ml.webp",
+      "path": "bebidas/opt/7503033076873___bebida-cifrut-uva-300-ml.webp"
+    },
+    {
+      "name": "7503035530373___bebida-alcohólica-vmc-jamaica-355-ml",
+      "file": "7503035530373___bebida-alcohólica-vmc-jamaica-355-ml.webp",
+      "path": "bebidas/opt/7503035530373___bebida-alcohólica-vmc-jamaica-355-ml.webp"
+    },
+    {
+      "name": "7503035530397___bebida-alcohólica-vmc-margarita-355-ml",
+      "file": "7503035530397___bebida-alcohólica-vmc-margarita-355-ml.webp",
+      "path": "bebidas/opt/7503035530397___bebida-alcohólica-vmc-margarita-355-ml.webp"
+    },
+    {
+      "name": "7503035530410___bebida-alcohólica-vmc-paloma-355-ml",
+      "file": "7503035530410___bebida-alcohólica-vmc-paloma-355-ml.webp",
+      "path": "bebidas/opt/7503035530410___bebida-alcohólica-vmc-paloma-355-ml.webp"
+    },
+    {
+      "name": "7503049695099___bebida-cifrut-mora-azul-300-ml",
+      "file": "7503049695099___bebida-cifrut-mora-azul-300-ml.webp",
+      "path": "bebidas/opt/7503049695099___bebida-cifrut-mora-azul-300-ml.webp"
+    },
+    {
+      "name": "75034917___refresco-coca-cola-pet-nr-200-ml",
+      "file": "75034917___refresco-coca-cola-pet-nr-200-ml.webp",
+      "path": "bebidas/opt/75034917___refresco-coca-cola-pet-nr-200-ml.webp"
+    },
+    {
+      "name": "7506192506816___bebida-vitaloe-con-sábila-320-ml",
+      "file": "7506192506816___bebida-vitaloe-con-sábila-320-ml.webp",
+      "path": "bebidas/opt/7506192506816___bebida-vitaloe-con-sábila-320-ml.webp"
+    },
+    {
+      "name": "7506192507561___bebida-vitaloe-con-sábila-500-ml",
+      "file": "7506192507561___bebida-vitaloe-con-sábila-500-ml.webp",
+      "path": "bebidas/opt/7506192507561___bebida-vitaloe-con-sábila-500-ml.webp"
+    },
+    {
+      "name": "7506192507714___energizante-amper-blueberry-473-ml",
+      "file": "7506192507714___energizante-amper-blueberry-473-ml.webp",
+      "path": "bebidas/opt/7506192507714___energizante-amper-blueberry-473-ml.webp"
+    },
+    {
+      "name": "7506192508216___energizante-amper-predator-473-ml",
+      "file": "7506192508216___energizante-amper-predator-473-ml.webp",
+      "path": "bebidas/opt/7506192508216___energizante-amper-predator-473-ml.webp"
+    },
+    {
+      "name": "7506192508520___energizante-amper-speed-473-ml",
+      "file": "7506192508520___energizante-amper-speed-473-ml.webp",
+      "path": "bebidas/opt/7506192508520___energizante-amper-speed-473-ml.webp"
+    },
+    {
+      "name": "7506192508711___energizante-vive-100-%-xtreme-473-ml",
+      "file": "7506192508711___energizante-vive-100-%-xtreme-473-ml.webp",
+      "path": "bebidas/opt/7506192508711___energizante-vive-100-%-xtreme-473-ml.webp"
+    },
+    {
+      "name": "7506192510295___energizante-vive-100-blueberry-600-ml",
+      "file": "7506192510295___energizante-vive-100-blueberry-600-ml.webp",
+      "path": "bebidas/opt/7506192510295___energizante-vive-100-blueberry-600-ml.webp"
+    },
+    {
+      "name": "7506192510301___energizante-vive-100-ultra-600-ml",
+      "file": "7506192510301___energizante-vive-100-ultra-600-ml.webp",
+      "path": "bebidas/opt/7506192510301___energizante-vive-100-ultra-600-ml.webp"
+    },
+    {
+      "name": "7506192510325___bebida-alcoholica-kool-mango-spicy-355-ml",
+      "file": "7506192510325___bebida-alcoholica-kool-mango-spicy-355-ml.webp",
+      "path": "bebidas/opt/7506192510325___bebida-alcoholica-kool-mango-spicy-355-ml.webp"
+    },
+    {
+      "name": "7506192510684___energizante-vive-100-%-300-+-100-ml-gratis",
+      "file": "7506192510684___energizante-vive-100-%-300-+-100-ml-gratis.webp",
+      "path": "bebidas/opt/7506192510684___energizante-vive-100-%-300-+-100-ml-gratis.webp"
+    },
+    {
+      "name": "7506241205646___energizante-volt-pink-473-ml",
+      "file": "7506241205646___energizante-volt-pink-473-ml.webp",
+      "path": "bebidas/opt/7506241205646___energizante-volt-pink-473-ml.webp"
+    },
+    {
+      "name": "758104001972___agua-bonafont-natural-2000-ml",
+      "file": "758104001972___agua-bonafont-natural-2000-ml.webp",
+      "path": "bebidas/opt/758104001972___agua-bonafont-natural-2000-ml.webp"
+    },
+    {
+      "name": "758104003174___agua-bonafont-6-l",
+      "file": "758104003174___agua-bonafont-6-l.webp",
+      "path": "bebidas/opt/758104003174___agua-bonafont-6-l.webp"
+    },
+    {
+      "name": "758104003921___agua-levite-pepino-con-limón-1000-ml",
+      "file": "758104003921___agua-levite-pepino-con-limón-1000-ml.webp",
+      "path": "bebidas/opt/758104003921___agua-levite-pepino-con-limón-1000-ml.webp"
+    },
+    {
+      "name": "758104006113___agua-bonafont-natural-500-ml",
+      "file": "758104006113___agua-bonafont-natural-500-ml.webp",
+      "path": "bebidas/opt/758104006113___agua-bonafont-natural-500-ml.webp"
+    },
+    {
+      "name": "758104006281.jpg___agua-bonafont-con-jugo-de-guayaba-1000-ml",
+      "file": "758104006281.jpg___agua-bonafont-con-jugo-de-guayaba-1000-ml.webp",
+      "path": "bebidas/opt/758104006281.jpg___agua-bonafont-con-jugo-de-guayaba-1000-ml.webp"
+    },
+    {
+      "name": "758104006472___agua-bonafont-juizzy-tamarindo-1000-ml",
+      "file": "758104006472___agua-bonafont-juizzy-tamarindo-1000-ml.webp",
+      "path": "bebidas/opt/758104006472___agua-bonafont-juizzy-tamarindo-1000-ml.webp"
+    },
+    {
+      "name": "758104006755___agua-bonafont-juizzy-uva-1000-ml",
+      "file": "758104006755___agua-bonafont-juizzy-uva-1000-ml.webp",
+      "path": "bebidas/opt/758104006755___agua-bonafont-juizzy-uva-1000-ml.webp"
+    },
+    {
+      "name": "758104007097___agua-levite-piña-y-coco-1000-ml",
+      "file": "758104007097___agua-levite-piña-y-coco-1000-ml.webp",
+      "path": "bebidas/opt/758104007097___agua-levite-piña-y-coco-1000-ml.webp"
+    },
+    {
+      "name": "758104007899___agua-levite-clásica-pepino-limón-1400-ml",
+      "file": "758104007899___agua-levite-clásica-pepino-limón-1400-ml.webp",
+      "path": "bebidas/opt/758104007899___agua-levite-clásica-pepino-limón-1400-ml.webp"
+    },
+    {
+      "name": "758104007936___agua-bonafont-juizzy-tamarindo-1400-ml",
+      "file": "758104007936___agua-bonafont-juizzy-tamarindo-1400-ml.webp",
+      "path": "bebidas/opt/758104007936___agua-bonafont-juizzy-tamarindo-1400-ml.webp"
+    },
+    {
+      "name": "758104007943___agua-bonafont-juizzy-guayaba-1400-ml",
+      "file": "758104007943___agua-bonafont-juizzy-guayaba-1400-ml.webp",
+      "path": "bebidas/opt/758104007943___agua-bonafont-juizzy-guayaba-1400-ml.webp"
+    },
+    {
+      "name": "758104007950___agua-bonafont-juizzy-piña-1400-ml",
+      "file": "758104007950___agua-bonafont-juizzy-piña-1400-ml.webp",
+      "path": "bebidas/opt/758104007950___agua-bonafont-juizzy-piña-1400-ml.webp"
+    },
+    {
+      "name": "764009048356___smirnoff-tamarindo-picosito-355-ml",
+      "file": "764009048356___smirnoff-tamarindo-picosito-355-ml.webp",
+      "path": "bebidas/opt/764009048356___smirnoff-tamarindo-picosito-355-ml.webp"
+    },
+    {
+      "name": "764009049940___smirnoff-smash-lemon-lime-355-ml",
+      "file": "764009049940___smirnoff-smash-lemon-lime-355-ml.webp",
+      "path": "bebidas/opt/764009049940___smirnoff-smash-lemon-lime-355-ml.webp"
+    },
+    {
+      "name": "8002270496813___san-pellegrino-natural-aranciata-330-ml",
+      "file": "8002270496813___san-pellegrino-natural-aranciata-330-ml.webp",
+      "path": "bebidas/opt/8002270496813___san-pellegrino-natural-aranciata-330-ml.webp"
+    },
+    {
+      "name": "8002270526817___bebida-san-pellegrino-naturali-limonata-330-ml",
+      "file": "8002270526817___bebida-san-pellegrino-naturali-limonata-330-ml.webp",
+      "path": "bebidas/opt/8002270526817___bebida-san-pellegrino-naturali-limonata-330-ml.webp"
+    },
+    {
+      "name": "8002270566813___bebida-san-pellegrino-clementina-330-ml",
+      "file": "8002270566813___bebida-san-pellegrino-clementina-330-ml.webp",
+      "path": "bebidas/opt/8002270566813___bebida-san-pellegrino-clementina-330-ml.webp"
+    },
+    {
+      "name": "815154025096___energizante-predator-red-apple-473-ml",
+      "file": "815154025096___energizante-predator-red-apple-473-ml.webp",
+      "path": "bebidas/opt/815154025096___energizante-predator-red-apple-473-ml.webp"
+    }
+  ]
+}

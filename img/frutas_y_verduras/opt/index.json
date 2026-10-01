@@ -1,0 +1,387 @@
+{
+  "generatedAt": "2026-10-01T05:48:55Z",
+  "folder": "frutas_y_verduras",
+  "count": 76,
+  "images": [
+    {
+      "name": "081___hierba-de-olor-manojo",
+      "file": "081___hierba-de-olor-manojo.webp",
+      "path": "frutas_y_verduras/opt/081___hierba-de-olor-manojo.webp"
+    },
+    {
+      "name": "1000087___jitomate-bola-500-g-aproximado",
+      "file": "1000087___jitomate-bola-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/1000087___jitomate-bola-500-g-aproximado.webp"
+    },
+    {
+      "name": "1000102.jpg___mango-ataulfo-1-kg-aproximado",
+      "file": "1000102.jpg___mango-ataulfo-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/1000102.jpg___mango-ataulfo-1-kg-aproximado.webp"
+    },
+    {
+      "name": "1000109___mango-oro-peso-aproximado-1-kilo",
+      "file": "1000109___mango-oro-peso-aproximado-1-kilo.webp",
+      "path": "frutas_y_verduras/opt/1000109___mango-oro-peso-aproximado-1-kilo.webp"
+    },
+    {
+      "name": "1001102___pimiento-amarillo-500-g-aproximado",
+      "file": "1001102___pimiento-amarillo-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/1001102___pimiento-amarillo-500-g-aproximado.webp"
+    },
+    {
+      "name": "1001187___manzana-granny-smith-kilo",
+      "file": "1001187___manzana-granny-smith-kilo.webp",
+      "path": "frutas_y_verduras/opt/1001187___manzana-granny-smith-kilo.webp"
+    },
+    {
+      "name": "169___tamarindo-250-g-aproximado",
+      "file": "169___tamarindo-250-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/169___tamarindo-250-g-aproximado.webp"
+    },
+    {
+      "name": "196___manzanilla-manojo",
+      "file": "196___manzanilla-manojo.webp",
+      "path": "frutas_y_verduras/opt/196___manzanilla-manojo.webp"
+    },
+    {
+      "name": "58AFYV002___aguacate-hass-500-g-aproximado",
+      "file": "58AFYV002___aguacate-hass-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV002___aguacate-hass-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV004___ajo-200-g-aproximado",
+      "file": "58AFYV004___ajo-200-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV004___ajo-200-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV009___apio-500-g-aproximado",
+      "file": "58AFYV009___apio-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV009___apio-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV015___betabel-500-g-aproximado",
+      "file": "58AFYV015___betabel-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV015___betabel-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV016___brócoli-500-g-aproximado",
+      "file": "58AFYV016___brócoli-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV016___brócoli-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV018___calabaza-italiana-500-g-aproximado",
+      "file": "58AFYV018___calabaza-italiana-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV018___calabaza-italiana-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV028___cebolla-blanca-500-g-aproximado",
+      "file": "58AFYV028___cebolla-blanca-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV028___cebolla-blanca-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV030___cebolla-cambray-manojo",
+      "file": "58AFYV030___cebolla-cambray-manojo.webp",
+      "path": "frutas_y_verduras/opt/58AFYV030___cebolla-cambray-manojo.webp"
+    },
+    {
+      "name": "58AFYV031___cebolla-morada-500-g-aproximado",
+      "file": "58AFYV031___cebolla-morada-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV031___cebolla-morada-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV034___cilantro-manojo",
+      "file": "58AFYV034___cilantro-manojo.webp",
+      "path": "frutas_y_verduras/opt/58AFYV034___cilantro-manojo.webp"
+    },
+    {
+      "name": "58AFYV042___coco-de-agua-pieza",
+      "file": "58AFYV042___coco-de-agua-pieza.webp",
+      "path": "frutas_y_verduras/opt/58AFYV042___coco-de-agua-pieza.webp"
+    },
+    {
+      "name": "58AFYV044___col-blanca-500-g-aproximado",
+      "file": "58AFYV044___col-blanca-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV044___col-blanca-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV046___coliflor",
+      "file": "58AFYV046___coliflor.webp",
+      "path": "frutas_y_verduras/opt/58AFYV046___coliflor.webp"
+    },
+    {
+      "name": "58AFYV050___champiñones-500-g-aproximado",
+      "file": "58AFYV050___champiñones-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV050___champiñones-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV052___chayote-sin-espinas-500-g-aproximado",
+      "file": "58AFYV052___chayote-sin-espinas-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV052___chayote-sin-espinas-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV053___chicharo-250-g-aproximado",
+      "file": "58AFYV053___chicharo-250-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV053___chicharo-250-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV056___chile-cuaresmeño-500-g-aproximado",
+      "file": "58AFYV056___chile-cuaresmeño-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV056___chile-cuaresmeño-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV065___chile-poblano-500-g-aproximado",
+      "file": "58AFYV065___chile-poblano-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV065___chile-poblano-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV067___chile-serrano-250-g-aproximado",
+      "file": "58AFYV067___chile-serrano-250-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV067___chile-serrano-250-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV073___ejote-verde-500-g-aproximado",
+      "file": "58AFYV073___ejote-verde-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV073___ejote-verde-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV074___elote-pieza",
+      "file": "58AFYV074___elote-pieza.webp",
+      "path": "frutas_y_verduras/opt/58AFYV074___elote-pieza.webp"
+    },
+    {
+      "name": "58AFYV076___epazote-manojo",
+      "file": "58AFYV076___epazote-manojo.webp",
+      "path": "frutas_y_verduras/opt/58AFYV076___epazote-manojo.webp"
+    },
+    {
+      "name": "58AFYV077___espinaca-manojo",
+      "file": "58AFYV077___espinaca-manojo.webp",
+      "path": "frutas_y_verduras/opt/58AFYV077___espinaca-manojo.webp"
+    },
+    {
+      "name": "58AFYV093___jicama-1-kg-aproximado",
+      "file": "58AFYV093___jicama-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV093___jicama-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV097___jitomate-saladet-500-g-aproximado",
+      "file": "58AFYV097___jitomate-saladet-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV097___jitomate-saladet-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV098___kiwi-500-g-aproximado",
+      "file": "58AFYV098___kiwi-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV098___kiwi-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV100___lechuga-romana-pieza",
+      "file": "58AFYV100___lechuga-romana-pieza.webp",
+      "path": "frutas_y_verduras/opt/58AFYV100___lechuga-romana-pieza.webp"
+    },
+    {
+      "name": "58AFYV102___limon-agrio-500-g-aproximado",
+      "file": "58AFYV102___limon-agrio-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV102___limon-agrio-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV104___limon-sin-semilla-500-g-aproximado",
+      "file": "58AFYV104___limon-sin-semilla-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV104___limon-sin-semilla-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV116___mango-manila-1-kg-aproximado",
+      "file": "58AFYV116___mango-manila-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV116___mango-manila-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV118___mango-paraíso-1-kg-aproximado",
+      "file": "58AFYV118___mango-paraíso-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV118___mango-paraíso-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV127___manzana-royal-gala-1-kg-aproximado",
+      "file": "58AFYV127___manzana-royal-gala-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV127___manzana-royal-gala-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV132___melon-chino-500-g-aproximado",
+      "file": "58AFYV132___melon-chino-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV132___melon-chino-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV137___naranja-para-jugo-1-kg-aproximado",
+      "file": "58AFYV137___naranja-para-jugo-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV137___naranja-para-jugo-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV141___nopalitos-500-g-aproximado",
+      "file": "58AFYV141___nopalitos-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV141___nopalitos-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV147___papaya-maradol-1-kg-aproximado",
+      "file": "58AFYV147___papaya-maradol-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV147___papaya-maradol-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV148___pepino-1-kg-aproximado",
+      "file": "58AFYV148___pepino-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV148___pepino-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV151___pera-anjou-500-g-aproximado",
+      "file": "58AFYV151___pera-anjou-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV151___pera-anjou-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV157___perejil-manojo",
+      "file": "58AFYV157___perejil-manojo.webp",
+      "path": "frutas_y_verduras/opt/58AFYV157___perejil-manojo.webp"
+    },
+    {
+      "name": "58AFYV160___pimiento-rojo-500-g-aproximado",
+      "file": "58AFYV160___pimiento-rojo-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV160___pimiento-rojo-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV161___pimiento-verde-500-g-aproximado",
+      "file": "58AFYV161___pimiento-verde-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV161___pimiento-verde-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV163___piña-pieza",
+      "file": "58AFYV163___piña-pieza.webp",
+      "path": "frutas_y_verduras/opt/58AFYV163___piña-pieza.webp"
+    },
+    {
+      "name": "58AFYV168___plátano-dominico-1-kg-aproximado",
+      "file": "58AFYV168___plátano-dominico-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV168___plátano-dominico-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV169___platano-macho-500-g-aproximado",
+      "file": "58AFYV169___platano-macho-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV169___platano-macho-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV171___plátano-tabasco-1-kg-aproximado",
+      "file": "58AFYV171___plátano-tabasco-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV171___plátano-tabasco-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV172___poro-pieza",
+      "file": "58AFYV172___poro-pieza.webp",
+      "path": "frutas_y_verduras/opt/58AFYV172___poro-pieza.webp"
+    },
+    {
+      "name": "58AFYV185___tomate-verde-500-g-aproximado",
+      "file": "58AFYV185___tomate-verde-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV185___tomate-verde-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV186___toronja-500-g-aproximado",
+      "file": "58AFYV186___toronja-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV186___toronja-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV198___zanahoria-500-g-aproximado",
+      "file": "58AFYV198___zanahoria-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV198___zanahoria-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV232___papa-cambray-500-g-aproximado",
+      "file": "58AFYV232___papa-cambray-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV232___papa-cambray-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV234___chile-habanero-250-g-aproximado",
+      "file": "58AFYV234___chile-habanero-250-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV234___chile-habanero-250-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV236___germen-alfalfa-200-g-aproximado",
+      "file": "58AFYV236___germen-alfalfa-200-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV236___germen-alfalfa-200-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV241___chile-tampico-250-g-aproximado",
+      "file": "58AFYV241___chile-tampico-250-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV241___chile-tampico-250-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV243___rabanitos-manojo",
+      "file": "58AFYV243___rabanitos-manojo.webp",
+      "path": "frutas_y_verduras/opt/58AFYV243___rabanitos-manojo.webp"
+    },
+    {
+      "name": "58AFYV257___uva-verde-superior-250-g-aproximado",
+      "file": "58AFYV257___uva-verde-superior-250-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV257___uva-verde-superior-250-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV279___manzana-red-delicius-peso-aproximado-1-kilo",
+      "file": "58AFYV279___manzana-red-delicius-peso-aproximado-1-kilo.webp",
+      "path": "frutas_y_verduras/opt/58AFYV279___manzana-red-delicius-peso-aproximado-1-kilo.webp"
+    },
+    {
+      "name": "58AFYV280___manzana-golden-nacional-1-kg-aproximado",
+      "file": "58AFYV280___manzana-golden-nacional-1-kg-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV280___manzana-golden-nacional-1-kg-aproximado.webp"
+    },
+    {
+      "name": "58AFYV299___lechuga-italiana-pieza",
+      "file": "58AFYV299___lechuga-italiana-pieza.webp",
+      "path": "frutas_y_verduras/opt/58AFYV299___lechuga-italiana-pieza.webp"
+    },
+    {
+      "name": "58AFYV339___tomatillo-500-g-aproximado",
+      "file": "58AFYV339___tomatillo-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV339___tomatillo-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV360___papa-500-g-aproximado",
+      "file": "58AFYV360___papa-500-g-aproximado.webp",
+      "path": "frutas_y_verduras/opt/58AFYV360___papa-500-g-aproximado.webp"
+    },
+    {
+      "name": "58AFYV369___jengibre-250g-aprox.",
+      "file": "58AFYV369___jengibre-250g-aprox..webp",
+      "path": "frutas_y_verduras/opt/58AFYV369___jengibre-250g-aprox..webp"
+    },
+    {
+      "name": "58AFYV372___piña-miel-pieza",
+      "file": "58AFYV372___piña-miel-pieza.webp",
+      "path": "frutas_y_verduras/opt/58AFYV372___piña-miel-pieza.webp"
+    },
+    {
+      "name": "715756200023___fresa-driscolls-454-g",
+      "file": "715756200023___fresa-driscolls-454-g.webp",
+      "path": "frutas_y_verduras/opt/715756200023___fresa-driscolls-454-g.webp"
+    },
+    {
+      "name": "7500326759987___zarzamoras-frescas-moraleza-del-campo-170-g",
+      "file": "7500326759987___zarzamoras-frescas-moraleza-del-campo-170-g.webp",
+      "path": "frutas_y_verduras/opt/7500326759987___zarzamoras-frescas-moraleza-del-campo-170-g.webp"
+    },
+    {
+      "name": "7500462271794___frambuesa-moraleza-del-campo-170-g",
+      "file": "7500462271794___frambuesa-moraleza-del-campo-170-g.webp",
+      "path": "frutas_y_verduras/opt/7500462271794___frambuesa-moraleza-del-campo-170-g.webp"
+    },
+    {
+      "name": "7500462817695___fresa-moraleza-450-g",
+      "file": "7500462817695___fresa-moraleza-450-g.webp",
+      "path": "frutas_y_verduras/opt/7500462817695___fresa-moraleza-450-g.webp"
+    },
+    {
+      "name": "7501003308351___aderezo-mccormick-light-limón-315-g",
+      "file": "7501003308351___aderezo-mccormick-light-limón-315-g.webp",
+      "path": "frutas_y_verduras/opt/7501003308351___aderezo-mccormick-light-limón-315-g.webp"
+    },
+    {
+      "name": "7501062703104___aderezo-la-morena-de-mayonesa-190-g",
+      "file": "7501062703104___aderezo-la-morena-de-mayonesa-190-g.webp",
+      "path": "frutas_y_verduras/opt/7501062703104___aderezo-la-morena-de-mayonesa-190-g.webp"
+    }
+  ]
+}

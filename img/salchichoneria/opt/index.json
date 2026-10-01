@@ -1,0 +1,792 @@
+{
+  "generatedAt": "2026-10-01T05:50:00Z",
+  "folder": "salchichoneria",
+  "count": 157,
+  "images": [
+    {
+      "name": "07501079460794___maiz-casa-real-pozolero-kilo",
+      "file": "07501079460794___maiz-casa-real-pozolero-kilo.webp",
+      "path": "salchichoneria/opt/07501079460794___maiz-casa-real-pozolero-kilo.webp"
+    },
+    {
+      "name": "0953___jamón-sanni-virginia-de-pavo-250-g-aproximado",
+      "file": "0953___jamón-sanni-virginia-de-pavo-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/0953___jamón-sanni-virginia-de-pavo-250-g-aproximado.webp"
+    },
+    {
+      "name": "0955___salchicha-sanni-con-pavo-250-g-aproximado",
+      "file": "0955___salchicha-sanni-con-pavo-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/0955___salchicha-sanni-con-pavo-250-g-aproximado.webp"
+    },
+    {
+      "name": "0960___jamón-sanni-de-pierna-horneado-250-g-aproximado",
+      "file": "0960___jamón-sanni-de-pierna-horneado-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/0960___jamón-sanni-de-pierna-horneado-250-g-aproximado.webp"
+    },
+    {
+      "name": "61LMAH001___maiz-mahis-pozolero-kg",
+      "file": "61LMAH001___maiz-mahis-pozolero-kg.webp",
+      "path": "salchichoneria/opt/61LMAH001___maiz-mahis-pozolero-kg.webp"
+    },
+    {
+      "name": "7501002204296___queso-zwan-americano-red-grasa-144-g",
+      "file": "7501002204296___queso-zwan-americano-red-grasa-144-g.webp",
+      "path": "salchichoneria/opt/7501002204296___queso-zwan-americano-red-grasa-144-g.webp"
+    },
+    {
+      "name": "7501020513295___queso-cottage-lala-350-g",
+      "file": "7501020513295___queso-cottage-lala-350-g.webp",
+      "path": "salchichoneria/opt/7501020513295___queso-cottage-lala-350-g.webp"
+    },
+    {
+      "name": "7501040000782___jamón-barcelona-pavo-iberomex-250-g",
+      "file": "7501040000782___jamón-barcelona-pavo-iberomex-250-g.webp",
+      "path": "salchichoneria/opt/7501040000782___jamón-barcelona-pavo-iberomex-250-g.webp"
+    },
+    {
+      "name": "7501040001161___jamón-pechuga-de-pavo-virginia-fud-250-g",
+      "file": "7501040001161___jamón-pechuga-de-pavo-virginia-fud-250-g.webp",
+      "path": "salchichoneria/opt/7501040001161___jamón-pechuga-de-pavo-virginia-fud-250-g.webp"
+    },
+    {
+      "name": "7501040001598___pechuga-pavo-balance-san-rafael-250-g",
+      "file": "7501040001598___pechuga-pavo-balance-san-rafael-250-g.webp",
+      "path": "salchichoneria/opt/7501040001598___pechuga-pavo-balance-san-rafael-250-g.webp"
+    },
+    {
+      "name": "7501040001642___jamón-de-pierna-fud-rebanado-peso-aproximado-de-250-g",
+      "file": "7501040001642___jamón-de-pierna-fud-rebanado-peso-aproximado-de-250-g.webp",
+      "path": "salchichoneria/opt/7501040001642___jamón-de-pierna-fud-rebanado-peso-aproximado-de-250-g.webp"
+    },
+    {
+      "name": "7501040001673___jamón-de-pavo-rebanado-chimex-250-g-aproximado",
+      "file": "7501040001673___jamón-de-pavo-rebanado-chimex-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501040001673___jamón-de-pavo-rebanado-chimex-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501040002441___chorizo-chimex-ranchero-250-g",
+      "file": "7501040002441___chorizo-chimex-ranchero-250-g.webp",
+      "path": "salchichoneria/opt/7501040002441___chorizo-chimex-ranchero-250-g.webp"
+    },
+    {
+      "name": "7501040003073___salchicha-chimex-para-asar-800-g",
+      "file": "7501040003073___salchicha-chimex-para-asar-800-g.webp",
+      "path": "salchichoneria/opt/7501040003073___salchicha-chimex-para-asar-800-g.webp"
+    },
+    {
+      "name": "7501040003844___jamón-de-pavo-virginia-fud-450-g",
+      "file": "7501040003844___jamón-de-pavo-virginia-fud-450-g.webp",
+      "path": "salchichoneria/opt/7501040003844___jamón-de-pavo-virginia-fud-450-g.webp"
+    },
+    {
+      "name": "7501040004537___jamón-de-pierna-rebanado-san-rafael-250-g-aproximado",
+      "file": "7501040004537___jamón-de-pierna-rebanado-san-rafael-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501040004537___jamón-de-pierna-rebanado-san-rafael-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501040005428___tocino-fud-250-g",
+      "file": "7501040005428___tocino-fud-250-g.webp",
+      "path": "salchichoneria/opt/7501040005428___tocino-fud-250-g.webp"
+    },
+    {
+      "name": "7501040005824___jamón-virginia-de-pavo-rebanado-fud-250-g-aproximado",
+      "file": "7501040005824___jamón-virginia-de-pavo-rebanado-fud-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501040005824___jamón-virginia-de-pavo-rebanado-fud-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501040005831___jamón-fud-virginia-de-pavo-290-g",
+      "file": "7501040005831___jamón-fud-virginia-de-pavo-290-g.webp",
+      "path": "salchichoneria/opt/7501040005831___jamón-fud-virginia-de-pavo-290-g.webp"
+    },
+    {
+      "name": "7501040005855___chorizo-de-pavo-fud-200-g",
+      "file": "7501040005855___chorizo-de-pavo-fud-200-g.webp",
+      "path": "salchichoneria/opt/7501040005855___chorizo-de-pavo-fud-200-g.webp"
+    },
+    {
+      "name": "7501040006753___pechuga-san-rafael-pavo-balan-gruesa-250-g",
+      "file": "7501040006753___pechuga-san-rafael-pavo-balan-gruesa-250-g.webp",
+      "path": "salchichoneria/opt/7501040006753___pechuga-san-rafael-pavo-balan-gruesa-250-g.webp"
+    },
+    {
+      "name": "7501040006975___jamón-pierna-chimex-225-g",
+      "file": "7501040006975___jamón-pierna-chimex-225-g.webp",
+      "path": "salchichoneria/opt/7501040006975___jamón-pierna-chimex-225-g.webp"
+    },
+    {
+      "name": "7501040007613___salchicha-chimex-viena-1200-g",
+      "file": "7501040007613___salchicha-chimex-viena-1200-g.webp",
+      "path": "salchichoneria/opt/7501040007613___salchicha-chimex-viena-1200-g.webp"
+    },
+    {
+      "name": "7501040007934-___tocino-ahumado-chimex-170-g",
+      "file": "7501040007934-___tocino-ahumado-chimex-170-g.webp",
+      "path": "salchichoneria/opt/7501040007934-___tocino-ahumado-chimex-170-g.webp"
+    },
+    {
+      "name": "7501040008870___salchicha-iberomex-viena-800-g",
+      "file": "7501040008870___salchicha-iberomex-viena-800-g.webp",
+      "path": "salchichoneria/opt/7501040008870___salchicha-iberomex-viena-800-g.webp"
+    },
+    {
+      "name": "7501040009020___queso-de-puerco-rebanado-fud-250-g-aproximado",
+      "file": "7501040009020___queso-de-puerco-rebanado-fud-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501040009020___queso-de-puerco-rebanado-fud-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501040009754___salchicha-fud-viena-266-g",
+      "file": "7501040009754___salchicha-fud-viena-266-g.webp",
+      "path": "salchichoneria/opt/7501040009754___salchicha-fud-viena-266-g.webp"
+    },
+    {
+      "name": "7501040009761___salchicha-pavo-fud-266-g",
+      "file": "7501040009761___salchicha-pavo-fud-266-g.webp",
+      "path": "salchichoneria/opt/7501040009761___salchicha-pavo-fud-266-g.webp"
+    },
+    {
+      "name": "7501040009839___salchicha-de-pavo-fud-para-hot-dog-500-g",
+      "file": "7501040009839___salchicha-de-pavo-fud-para-hot-dog-500-g.webp",
+      "path": "salchichoneria/opt/7501040009839___salchicha-de-pavo-fud-para-hot-dog-500-g.webp"
+    },
+    {
+      "name": "7501040009921___salchicha-chimex-pavo-400-g",
+      "file": "7501040009921___salchicha-chimex-pavo-400-g.webp",
+      "path": "salchichoneria/opt/7501040009921___salchicha-chimex-pavo-400-g.webp"
+    },
+    {
+      "name": "7501040023989___jamón-san-rafael-real-pierna-250-g",
+      "file": "7501040023989___jamón-san-rafael-real-pierna-250-g.webp",
+      "path": "salchichoneria/opt/7501040023989___jamón-san-rafael-real-pierna-250-g.webp"
+    },
+    {
+      "name": "7501040024047___salchicha-fud-frankfurt-ahum-500-g",
+      "file": "7501040024047___salchicha-fud-frankfurt-ahum-500-g.webp",
+      "path": "salchichoneria/opt/7501040024047___salchicha-fud-frankfurt-ahum-500-g.webp"
+    },
+    {
+      "name": "7501040027185___jamón-de-pierna-horneado-fud-430-g",
+      "file": "7501040027185___jamón-de-pierna-horneado-fud-430-g.webp",
+      "path": "salchichoneria/opt/7501040027185___jamón-de-pierna-horneado-fud-430-g.webp"
+    },
+    {
+      "name": "7501040027413___jamón-san-rafael-real-pavo-rebanado-250-g",
+      "file": "7501040027413___jamón-san-rafael-real-pavo-rebanado-250-g.webp",
+      "path": "salchichoneria/opt/7501040027413___jamón-san-rafael-real-pavo-rebanado-250-g.webp"
+    },
+    {
+      "name": "7501040027499___salchicha-de-pavo-san-rafael-para-hot-dog-500-g",
+      "file": "7501040027499___salchicha-de-pavo-san-rafael-para-hot-dog-500-g.webp",
+      "path": "salchichoneria/opt/7501040027499___salchicha-de-pavo-san-rafael-para-hot-dog-500-g.webp"
+    },
+    {
+      "name": "7501040027598___pechuga-fud-pavo-450-g",
+      "file": "7501040027598___pechuga-fud-pavo-450-g.webp",
+      "path": "salchichoneria/opt/7501040027598___pechuga-fud-pavo-450-g.webp"
+    },
+    {
+      "name": "7501040078002___queso-fud-americano-16-rebanadas-224-g",
+      "file": "7501040078002___queso-fud-americano-16-rebanadas-224-g.webp",
+      "path": "salchichoneria/opt/7501040078002___queso-fud-americano-16-rebanadas-224-g.webp"
+    },
+    {
+      "name": "7501040083136___queso-la-villita-manchego-rebanado-200-g",
+      "file": "7501040083136___queso-la-villita-manchego-rebanado-200-g.webp",
+      "path": "salchichoneria/opt/7501040083136___queso-la-villita-manchego-rebanado-200-g.webp"
+    },
+    {
+      "name": "7501040084492___queso-la-villita-americano-rebanado-210-g",
+      "file": "7501040084492___queso-la-villita-americano-rebanado-210-g.webp",
+      "path": "salchichoneria/opt/7501040084492___queso-la-villita-americano-rebanado-210-g.webp"
+    },
+    {
+      "name": "7501057600227___jamón-carneli-serrano-100-g",
+      "file": "7501057600227___jamón-carneli-serrano-100-g.webp",
+      "path": "salchichoneria/opt/7501057600227___jamón-carneli-serrano-100-g.webp"
+    },
+    {
+      "name": "7501057601729___pepperoni-el-cerdito-500-g",
+      "file": "7501057601729___pepperoni-el-cerdito-500-g.webp",
+      "path": "salchichoneria/opt/7501057601729___pepperoni-el-cerdito-500-g.webp"
+    },
+    {
+      "name": "7501057710155___jamón-pavo-virginia-zwan-250-g",
+      "file": "7501057710155___jamón-pavo-virginia-zwan-250-g.webp",
+      "path": "salchichoneria/opt/7501057710155___jamón-pavo-virginia-zwan-250-g.webp"
+    },
+    {
+      "name": "7501057710506___jamón-pierna-zwan-250-g",
+      "file": "7501057710506___jamón-pierna-zwan-250-g.webp",
+      "path": "salchichoneria/opt/7501057710506___jamón-pierna-zwan-250-g.webp"
+    },
+    {
+      "name": "7501057711015___jamón-zwan-virginia-pavo-150-g",
+      "file": "7501057711015___jamón-zwan-virginia-pavo-150-g.webp",
+      "path": "salchichoneria/opt/7501057711015___jamón-zwan-virginia-pavo-150-g.webp"
+    },
+    {
+      "name": "7501057711022___jamón-zwan-virginia-pavo-400-g",
+      "file": "7501057711022___jamón-zwan-virginia-pavo-400-g.webp",
+      "path": "salchichoneria/opt/7501057711022___jamón-zwan-virginia-pavo-400-g.webp"
+    },
+    {
+      "name": "7501057720192___salchicha-cocktail-pavo-zwan-500-g",
+      "file": "7501057720192___salchicha-cocktail-pavo-zwan-500-g.webp",
+      "path": "salchichoneria/opt/7501057720192___salchicha-cocktail-pavo-zwan-500-g.webp"
+    },
+    {
+      "name": "7501057720253___salchicha-pavo-zwan-500-g",
+      "file": "7501057720253___salchicha-pavo-zwan-500-g.webp",
+      "path": "salchichoneria/opt/7501057720253___salchicha-pavo-zwan-500-g.webp"
+    },
+    {
+      "name": "7501057720734___salchicha-zwan-hot-dog-pavo-500-g",
+      "file": "7501057720734___salchicha-zwan-hot-dog-pavo-500-g.webp",
+      "path": "salchichoneria/opt/7501057720734___salchicha-zwan-hot-dog-pavo-500-g.webp"
+    },
+    {
+      "name": "7501057730207___pate-higado-de-cerdo-zwan-220-g",
+      "file": "7501057730207___pate-higado-de-cerdo-zwan-220-g.webp",
+      "path": "salchichoneria/opt/7501057730207___pate-higado-de-cerdo-zwan-220-g.webp"
+    },
+    {
+      "name": "7501057730245___zwancito-endiablado-100-g",
+      "file": "7501057730245___zwancito-endiablado-100-g.webp",
+      "path": "salchichoneria/opt/7501057730245___zwancito-endiablado-100-g.webp"
+    },
+    {
+      "name": "7501057740411___peperami-natural-zwan-salami-23-g",
+      "file": "7501057740411___peperami-natural-zwan-salami-23-g.webp",
+      "path": "salchichoneria/opt/7501057740411___peperami-natural-zwan-salami-23-g.webp"
+    },
+    {
+      "name": "7501077505830___queso-noche-buena-manchego-rallado-250-g",
+      "file": "7501077505830___queso-noche-buena-manchego-rallado-250-g.webp",
+      "path": "salchichoneria/opt/7501077505830___queso-noche-buena-manchego-rallado-250-g.webp"
+    },
+    {
+      "name": "7501092106050___queso-lyncott-cottage-americano-380-g",
+      "file": "7501092106050___queso-lyncott-cottage-americano-380-g.webp",
+      "path": "salchichoneria/opt/7501092106050___queso-lyncott-cottage-americano-380-g.webp"
+    },
+    {
+      "name": "7501092106142___queso-lyncott-cottage-reducido-110-gr",
+      "file": "7501092106142___queso-lyncott-cottage-reducido-110-gr.webp",
+      "path": "salchichoneria/opt/7501092106142___queso-lyncott-cottage-reducido-110-gr.webp"
+    },
+    {
+      "name": "7501092106289___queso-lyncott-cottage-individual-110-g",
+      "file": "7501092106289___queso-lyncott-cottage-individual-110-g.webp",
+      "path": "salchichoneria/opt/7501092106289___queso-lyncott-cottage-individual-110-g.webp"
+    },
+    {
+      "name": "7501147510443___salchicha-kir-pavo-500-g",
+      "file": "7501147510443___salchicha-kir-pavo-500-g.webp",
+      "path": "salchichoneria/opt/7501147510443___salchicha-kir-pavo-500-g.webp"
+    },
+    {
+      "name": "7501147510474___salchicha-hot-dog-kir-500-g",
+      "file": "7501147510474___salchicha-hot-dog-kir-500-g.webp",
+      "path": "salchichoneria/opt/7501147510474___salchicha-hot-dog-kir-500-g.webp"
+    },
+    {
+      "name": "7501147511358___jamón-kir-lunch-pavo-220-g",
+      "file": "7501147511358___jamón-kir-lunch-pavo-220-g.webp",
+      "path": "salchichoneria/opt/7501147511358___jamón-kir-lunch-pavo-220-g.webp"
+    },
+    {
+      "name": "7501147515035___salchicha-para-asar-kir-800-g",
+      "file": "7501147515035___salchicha-para-asar-kir-800-g.webp",
+      "path": "salchichoneria/opt/7501147515035___salchicha-para-asar-kir-800-g.webp"
+    },
+    {
+      "name": "7501147519248___chorizo-kir-taquero-250-g",
+      "file": "7501147519248___chorizo-kir-taquero-250-g.webp",
+      "path": "salchichoneria/opt/7501147519248___chorizo-kir-taquero-250-g.webp"
+    },
+    {
+      "name": "7501147520862___jamón-cocido-duby-500-g",
+      "file": "7501147520862___jamón-cocido-duby-500-g.webp",
+      "path": "salchichoneria/opt/7501147520862___jamón-cocido-duby-500-g.webp"
+    },
+    {
+      "name": "7501147535194___jamón-virginia-pavo-kir-250-g",
+      "file": "7501147535194___jamón-virginia-pavo-kir-250-g.webp",
+      "path": "salchichoneria/opt/7501147535194___jamón-virginia-pavo-kir-250-g.webp"
+    },
+    {
+      "name": "7501303991994___queso-crema-chilchota-tina-250-g",
+      "file": "7501303991994___queso-crema-chilchota-tina-250-g.webp",
+      "path": "salchichoneria/opt/7501303991994___queso-crema-chilchota-tina-250-g.webp"
+    },
+    {
+      "name": "7501303995534___queso-crema-rebanado-chilchota-175-g",
+      "file": "7501303995534___queso-crema-rebanado-chilchota-175-g.webp",
+      "path": "salchichoneria/opt/7501303995534___queso-crema-rebanado-chilchota-175-g.webp"
+    },
+    {
+      "name": "7501303995558___queso-manchego-rebanado-chilchota-175-g",
+      "file": "7501303995558___queso-manchego-rebanado-chilchota-175-g.webp",
+      "path": "salchichoneria/opt/7501303995558___queso-manchego-rebanado-chilchota-175-g.webp"
+    },
+    {
+      "name": "7501325700208___salchicha-alpino-frankfurt-de-pavo-1-kg",
+      "file": "7501325700208___salchicha-alpino-frankfurt-de-pavo-1-kg.webp",
+      "path": "salchichoneria/opt/7501325700208___salchicha-alpino-frankfurt-de-pavo-1-kg.webp"
+    },
+    {
+      "name": "7501325700338___salchicha-frankfurt-de-pavo-alpino-500-g",
+      "file": "7501325700338___salchicha-frankfurt-de-pavo-alpino-500-g.webp",
+      "path": "salchichoneria/opt/7501325700338___salchicha-frankfurt-de-pavo-alpino-500-g.webp"
+    },
+    {
+      "name": "7501325701793___jamón-alpino-pavo-400-g",
+      "file": "7501325701793___jamón-alpino-pavo-400-g.webp",
+      "path": "salchichoneria/opt/7501325701793___jamón-alpino-pavo-400-g.webp"
+    },
+    {
+      "name": "75013820___salchicha-pavo-san-rafael-500-g",
+      "file": "75013820___salchicha-pavo-san-rafael-500-g.webp",
+      "path": "salchichoneria/opt/75013820___salchicha-pavo-san-rafael-500-g.webp"
+    },
+    {
+      "name": "7501518460421___jamón-de-pavo-virginia-bafar-rebanado-250-g-aproximado",
+      "file": "7501518460421___jamón-de-pavo-virginia-bafar-rebanado-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518460421___jamón-de-pavo-virginia-bafar-rebanado-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518460506___jamón-de-pierna-rebanado-bafar-250-g-aproximado",
+      "file": "7501518460506___jamón-de-pierna-rebanado-bafar-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518460506___jamón-de-pierna-rebanado-bafar-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518461190___salchicha-viena-bafar-400-g",
+      "file": "7501518461190___salchicha-viena-bafar-400-g.webp",
+      "path": "salchichoneria/opt/7501518461190___salchicha-viena-bafar-400-g.webp"
+    },
+    {
+      "name": "7501518461206___salchicha-viena-bafar-250-g-aproximado",
+      "file": "7501518461206___salchicha-viena-bafar-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518461206___salchicha-viena-bafar-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518461213___salchicha-bafar-franfort-pavo-250-g-aproximado",
+      "file": "7501518461213___salchicha-bafar-franfort-pavo-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518461213___salchicha-bafar-franfort-pavo-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518461435___salchicha-bafar-para-asar-con-tocino-400-g",
+      "file": "7501518461435___salchicha-bafar-para-asar-con-tocino-400-g.webp",
+      "path": "salchichoneria/opt/7501518461435___salchicha-bafar-para-asar-con-tocino-400-g.webp"
+    },
+    {
+      "name": "7501518461527___salchicha-para-asar-campestre-bafar-con-8-piezas",
+      "file": "7501518461527___salchicha-para-asar-campestre-bafar-con-8-piezas.webp",
+      "path": "salchichoneria/opt/7501518461527___salchicha-para-asar-campestre-bafar-con-8-piezas.webp"
+    },
+    {
+      "name": "7501518463156___jamón-bafar-virginia-250-g",
+      "file": "7501518463156___jamón-bafar-virginia-250-g.webp",
+      "path": "salchichoneria/opt/7501518463156___jamón-bafar-virginia-250-g.webp"
+    },
+    {
+      "name": "7501518463378___pechuga-de-pavo-bafar-250-g",
+      "file": "7501518463378___pechuga-de-pavo-bafar-250-g.webp",
+      "path": "salchichoneria/opt/7501518463378___pechuga-de-pavo-bafar-250-g.webp"
+    },
+    {
+      "name": "7501518463415___salchicha-frankfort-pavo-bafar-500-g",
+      "file": "7501518463415___salchicha-frankfort-pavo-bafar-500-g.webp",
+      "path": "salchichoneria/opt/7501518463415___salchicha-frankfort-pavo-bafar-500-g.webp"
+    },
+    {
+      "name": "7501518463606___tocino-ahumado-bafar-250-g",
+      "file": "7501518463606___tocino-ahumado-bafar-250-g.webp",
+      "path": "salchichoneria/opt/7501518463606___tocino-ahumado-bafar-250-g.webp"
+    },
+    {
+      "name": "7501518466072___chorizo-burr-bolita-200-g",
+      "file": "7501518466072___chorizo-burr-bolita-200-g.webp",
+      "path": "salchichoneria/opt/7501518466072___chorizo-burr-bolita-200-g.webp"
+    },
+    {
+      "name": "7501518466348___tocino-ahumado-burr-170-g",
+      "file": "7501518466348___tocino-ahumado-burr-170-g.webp",
+      "path": "salchichoneria/opt/7501518466348___tocino-ahumado-burr-170-g.webp"
+    },
+    {
+      "name": "7501518476057___queso-amarillo-8-rebanadas-gurr-150-g",
+      "file": "7501518476057___queso-amarillo-8-rebanadas-gurr-150-g.webp",
+      "path": "salchichoneria/opt/7501518476057___queso-amarillo-8-rebanadas-gurr-150-g.webp"
+    },
+    {
+      "name": "7501518476347___queso-parmesano-parma-227-g",
+      "file": "7501518476347___queso-parmesano-parma-227-g.webp",
+      "path": "salchichoneria/opt/7501518476347___queso-parmesano-parma-227-g.webp"
+    },
+    {
+      "name": "7501518476583___queso-montebello-chihuahua-500-g",
+      "file": "7501518476583___queso-montebello-chihuahua-500-g.webp",
+      "path": "salchichoneria/opt/7501518476583___queso-montebello-chihuahua-500-g.webp"
+    },
+    {
+      "name": "7501518476606___queso-manchego-8-rebanadas-burr-150-g",
+      "file": "7501518476606___queso-manchego-8-rebanadas-burr-150-g.webp",
+      "path": "salchichoneria/opt/7501518476606___queso-manchego-8-rebanadas-burr-150-g.webp"
+    },
+    {
+      "name": "7501518476699___queso-manchego-sabori-250-g-aproximado",
+      "file": "7501518476699___queso-manchego-sabori-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518476699___queso-manchego-sabori-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518485301___jamón-bafar-de-pavo-400-g",
+      "file": "7501518485301___jamón-bafar-de-pavo-400-g.webp",
+      "path": "salchichoneria/opt/7501518485301___jamón-bafar-de-pavo-400-g.webp"
+    },
+    {
+      "name": "7501518489583___salchicha-hot-dog-tres-castillos-250-g-aproximado",
+      "file": "7501518489583___salchicha-hot-dog-tres-castillos-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518489583___salchicha-hot-dog-tres-castillos-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518491357___jamón-cerrano-parma-charola-100-g",
+      "file": "7501518491357___jamón-cerrano-parma-charola-100-g.webp",
+      "path": "salchichoneria/opt/7501518491357___jamón-cerrano-parma-charola-100-g.webp"
+    },
+    {
+      "name": "7501518491654___jamón-serrano-parma-charola-150-g",
+      "file": "7501518491654___jamón-serrano-parma-charola-150-g.webp",
+      "path": "salchichoneria/opt/7501518491654___jamón-serrano-parma-charola-150-g.webp"
+    },
+    {
+      "name": "7501518492088___pechuga-extrafina-de-pavo-rebanado-sabori-250-g-aproximado",
+      "file": "7501518492088___pechuga-extrafina-de-pavo-rebanado-sabori-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518492088___pechuga-extrafina-de-pavo-rebanado-sabori-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518492125___jamon-extrafino-rebanado-sabori-250-g-aproximado",
+      "file": "7501518492125___jamon-extrafino-rebanado-sabori-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518492125___jamon-extrafino-rebanado-sabori-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518492200___jamón-rebanado-virginia-sabori-250-g-aproximado",
+      "file": "7501518492200___jamón-rebanado-virginia-sabori-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518492200___jamón-rebanado-virginia-sabori-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518492293___salchicha-sabori-omega-500-g",
+      "file": "7501518492293___salchicha-sabori-omega-500-g.webp",
+      "path": "salchichoneria/opt/7501518492293___salchicha-sabori-omega-500-g.webp"
+    },
+    {
+      "name": "7501518492323___salchicha-de-pavo-sabori-500-g",
+      "file": "7501518492323___salchicha-de-pavo-sabori-500-g.webp",
+      "path": "salchichoneria/opt/7501518492323___salchicha-de-pavo-sabori-500-g.webp"
+    },
+    {
+      "name": "7501518492385___tocino-sabori-ahumado-200-g",
+      "file": "7501518492385___tocino-sabori-ahumado-200-g.webp",
+      "path": "salchichoneria/opt/7501518492385___tocino-sabori-ahumado-200-g.webp"
+    },
+    {
+      "name": "7501518492460___chorizo-sabori-de-pavo-200-g",
+      "file": "7501518492460___chorizo-sabori-de-pavo-200-g.webp",
+      "path": "salchichoneria/opt/7501518492460___chorizo-sabori-de-pavo-200-g.webp"
+    },
+    {
+      "name": "7501518492484___pechuga-de-pavo-sabori-250-g",
+      "file": "7501518492484___pechuga-de-pavo-sabori-250-g.webp",
+      "path": "salchichoneria/opt/7501518492484___pechuga-de-pavo-sabori-250-g.webp"
+    },
+    {
+      "name": "7501518493108___jamón-de-pierna-rebanado-campestre-250-g-aproximado",
+      "file": "7501518493108___jamón-de-pierna-rebanado-campestre-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518493108___jamón-de-pierna-rebanado-campestre-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518493252___queso-de-puerco-rebanado-campestre-250-g-aproximado",
+      "file": "7501518493252___queso-de-puerco-rebanado-campestre-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518493252___queso-de-puerco-rebanado-campestre-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518493566___jamón-lunch-bafar-rebanado-250-g-aproximado",
+      "file": "7501518493566___jamón-lunch-bafar-rebanado-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/7501518493566___jamón-lunch-bafar-rebanado-250-g-aproximado.webp"
+    },
+    {
+      "name": "7501518493634___tocino-de-pierna-campestre-250-g",
+      "file": "7501518493634___tocino-de-pierna-campestre-250-g.webp",
+      "path": "salchichoneria/opt/7501518493634___tocino-de-pierna-campestre-250-g.webp"
+    },
+    {
+      "name": "7501518493962___tocino-de-pierna-rebanado-campestre-250-g",
+      "file": "7501518493962___tocino-de-pierna-rebanado-campestre-250-g.webp",
+      "path": "salchichoneria/opt/7501518493962___tocino-de-pierna-rebanado-campestre-250-g.webp"
+    },
+    {
+      "name": "7501518494013___tocino-campestre-pierna-ahumado-rebanado-200-g",
+      "file": "7501518494013___tocino-campestre-pierna-ahumado-rebanado-200-g.webp",
+      "path": "salchichoneria/opt/7501518494013___tocino-campestre-pierna-ahumado-rebanado-200-g.webp"
+    },
+    {
+      "name": "750151849448___boneless-pimienta-limón-griller´s-700-g",
+      "file": "750151849448___boneless-pimienta-limón-griller´s-700-g.webp",
+      "path": "salchichoneria/opt/750151849448___boneless-pimienta-limón-griller´s-700-g.webp"
+    },
+    {
+      "name": "7501669802408___queso-esmeralda-manchego-molletero-200-g",
+      "file": "7501669802408___queso-esmeralda-manchego-molletero-200-g.webp",
+      "path": "salchichoneria/opt/7501669802408___queso-esmeralda-manchego-molletero-200-g.webp"
+    },
+    {
+      "name": "7501669892201___queso-lanzarote-de-cabra-arándano-200-g",
+      "file": "7501669892201___queso-lanzarote-de-cabra-arándano-200-g.webp",
+      "path": "salchichoneria/opt/7501669892201___queso-lanzarote-de-cabra-arándano-200-g.webp"
+    },
+    {
+      "name": "7501669893154___queso-lanzarote-de-cabra-ceniza200g",
+      "file": "7501669893154___queso-lanzarote-de-cabra-ceniza200g.webp",
+      "path": "salchichoneria/opt/7501669893154___queso-lanzarote-de-cabra-ceniza200g.webp"
+    },
+    {
+      "name": "7501689000884___salchicha-capistrano-de-pavo-266-g",
+      "file": "7501689000884___salchicha-capistrano-de-pavo-266-g.webp",
+      "path": "salchichoneria/opt/7501689000884___salchicha-capistrano-de-pavo-266-g.webp"
+    },
+    {
+      "name": "7501689001379___jamón-capistrano-de-pavo-receta-familiar-290-g",
+      "file": "7501689001379___jamón-capistrano-de-pavo-receta-familiar-290-g.webp",
+      "path": "salchichoneria/opt/7501689001379___jamón-capistrano-de-pavo-receta-familiar-290-g.webp"
+    },
+    {
+      "name": "7501689022022___chorizo-de-pavo-capistrano-200-g",
+      "file": "7501689022022___chorizo-de-pavo-capistrano-200-g.webp",
+      "path": "salchichoneria/opt/7501689022022___chorizo-de-pavo-capistrano-200-g.webp"
+    },
+    {
+      "name": "75021153___pechuga-de-pavo-rebanado-san-rafael-250-g-aproximado",
+      "file": "75021153___pechuga-de-pavo-rebanado-san-rafael-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/75021153___pechuga-de-pavo-rebanado-san-rafael-250-g-aproximado.webp"
+    },
+    {
+      "name": "7503003312840___queso-kroon-gouda-holandes-400-g",
+      "file": "7503003312840___queso-kroon-gouda-holandes-400-g.webp",
+      "path": "salchichoneria/opt/7503003312840___queso-kroon-gouda-holandes-400-g.webp"
+    },
+    {
+      "name": "7503011169061___maíz-pozolero-la-abuela-1000-g",
+      "file": "7503011169061___maíz-pozolero-la-abuela-1000-g.webp",
+      "path": "salchichoneria/opt/7503011169061___maíz-pozolero-la-abuela-1000-g.webp"
+    },
+    {
+      "name": "7506276782280___hamburguesa-bachoco-de-sirlon-900-g",
+      "file": "7506276782280___hamburguesa-bachoco-de-sirlon-900-g.webp",
+      "path": "salchichoneria/opt/7506276782280___hamburguesa-bachoco-de-sirlon-900-g.webp"
+    },
+    {
+      "name": "81FCAR061___chorizo-serrano-rojo-peso-aproximado-250-g",
+      "file": "81FCAR061___chorizo-serrano-rojo-peso-aproximado-250-g.webp",
+      "path": "salchichoneria/opt/81FCAR061___chorizo-serrano-rojo-peso-aproximado-250-g.webp"
+    },
+    {
+      "name": "823703803569___maíz-pozolero-máxima-blanco-822-g",
+      "file": "823703803569___maíz-pozolero-máxima-blanco-822-g.webp",
+      "path": "salchichoneria/opt/823703803569___maíz-pozolero-máxima-blanco-822-g.webp"
+    },
+    {
+      "name": "999001___pepperoni-riojano-reb-250-g-aproximado",
+      "file": "999001___pepperoni-riojano-reb-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999001___pepperoni-riojano-reb-250-g-aproximado.webp"
+    },
+    {
+      "name": "999010___jamón-alpino-de-pierna-250-g-aprox",
+      "file": "999010___jamón-alpino-de-pierna-250-g-aprox.webp",
+      "path": "salchichoneria/opt/999010___jamón-alpino-de-pierna-250-g-aprox.webp"
+    },
+    {
+      "name": "999013___salchicha-kir-frankfurt-de-pavo-250-g-aproximadamente",
+      "file": "999013___salchicha-kir-frankfurt-de-pavo-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999013___salchicha-kir-frankfurt-de-pavo-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999045___jamón-viva-cocido-250-g-aproximado",
+      "file": "999045___jamón-viva-cocido-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999045___jamón-viva-cocido-250-g-aproximado.webp"
+    },
+    {
+      "name": "999048___chorizo-ranchero-campestre-250-g-aproximado",
+      "file": "999048___chorizo-ranchero-campestre-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999048___chorizo-ranchero-campestre-250-g-aproximado.webp"
+    },
+    {
+      "name": "999052___tocino-chimex-ahumado-rebanado-250-g-aproximado",
+      "file": "999052___tocino-chimex-ahumado-rebanado-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999052___tocino-chimex-ahumado-rebanado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999070___pepperoni-campestre-250-g-aproximadamente",
+      "file": "999070___pepperoni-campestre-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999070___pepperoni-campestre-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999071___queso-pizzero-tres-castillos-250-g-aproximado",
+      "file": "999071___queso-pizzero-tres-castillos-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999071___queso-pizzero-tres-castillos-250-g-aproximado.webp"
+    },
+    {
+      "name": "999138___salchicha-viena-de-pavo-torino-500-g-aproximado",
+      "file": "999138___salchicha-viena-de-pavo-torino-500-g-aproximado.webp",
+      "path": "salchichoneria/opt/999138___salchicha-viena-de-pavo-torino-500-g-aproximado.webp"
+    },
+    {
+      "name": "999143___longaniza-ryc-250-g-aproximado",
+      "file": "999143___longaniza-ryc-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999143___longaniza-ryc-250-g-aproximado.webp"
+    },
+    {
+      "name": "999146___longaniza-serrana-roja-peso-aproximado-250-g",
+      "file": "999146___longaniza-serrana-roja-peso-aproximado-250-g.webp",
+      "path": "salchichoneria/opt/999146___longaniza-serrana-roja-peso-aproximado-250-g.webp"
+    },
+    {
+      "name": "999152___salchicha-alpino-viena-de-pavo-250-g-aproximado",
+      "file": "999152___salchicha-alpino-viena-de-pavo-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999152___salchicha-alpino-viena-de-pavo-250-g-aproximado.webp"
+    },
+    {
+      "name": "999160___jamón-duby-de-espaldilla-250-g-aproximadamente",
+      "file": "999160___jamón-duby-de-espaldilla-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999160___jamón-duby-de-espaldilla-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999164___jamón-zwan-pavo-virginia-250-g-aproximado",
+      "file": "999164___jamón-zwan-pavo-virginia-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999164___jamón-zwan-pavo-virginia-250-g-aproximado.webp"
+    },
+    {
+      "name": "999199___salchicha-viena-viva-500-g-aproximado",
+      "file": "999199___salchicha-viena-viva-500-g-aproximado.webp",
+      "path": "salchichoneria/opt/999199___salchicha-viena-viva-500-g-aproximado.webp"
+    },
+    {
+      "name": "999218___soya-texturizada-500-g-aproximado",
+      "file": "999218___soya-texturizada-500-g-aproximado.webp",
+      "path": "salchichoneria/opt/999218___soya-texturizada-500-g-aproximado.webp"
+    },
+    {
+      "name": "999281___jamón-kir-lunch-de-pavo-250-g-aproximadamente",
+      "file": "999281___jamón-kir-lunch-de-pavo-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999281___jamón-kir-lunch-de-pavo-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999286___jamón-kir-pierna-tradicional-250-g-aproximadamente",
+      "file": "999286___jamón-kir-pierna-tradicional-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999286___jamón-kir-pierna-tradicional-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999300___queso-masatepec-añejo-tipo-cotija-artesanal-250-g-aproximadamente",
+      "file": "999300___queso-masatepec-añejo-tipo-cotija-artesanal-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999300___queso-masatepec-añejo-tipo-cotija-artesanal-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999328___queso-caperucita-manchego-250-g-aproximado",
+      "file": "999328___queso-caperucita-manchego-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999328___queso-caperucita-manchego-250-g-aproximado.webp"
+    },
+    {
+      "name": "999367___queso-gouda-quesadilla-bafar-250-g-aproximado",
+      "file": "999367___queso-gouda-quesadilla-bafar-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999367___queso-gouda-quesadilla-bafar-250-g-aproximado.webp"
+    },
+    {
+      "name": "999448___jamón-alpino-pechuga-pavo-250-g-aproximado",
+      "file": "999448___jamón-alpino-pechuga-pavo-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999448___jamón-alpino-pechuga-pavo-250-g-aproximado.webp"
+    },
+    {
+      "name": "999464___salchicha-zwan-de-pavo-250-g-aproximado",
+      "file": "999464___salchicha-zwan-de-pavo-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999464___salchicha-zwan-de-pavo-250-g-aproximado.webp"
+    },
+    {
+      "name": "999498___jamon-fud-de-pavo-americano-250-g-aproximado",
+      "file": "999498___jamon-fud-de-pavo-americano-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999498___jamon-fud-de-pavo-americano-250-g-aproximado.webp"
+    },
+    {
+      "name": "999563___chorizo-fud-cantimpalo-250-g-aproximadamente",
+      "file": "999563___chorizo-fud-cantimpalo-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999563___chorizo-fud-cantimpalo-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999642___salchicha-fud-pavo-250-g-aproximado",
+      "file": "999642___salchicha-fud-pavo-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999642___salchicha-fud-pavo-250-g-aproximado.webp"
+    },
+    {
+      "name": "999652___tocino-el-cerdito-ahumado-rebanado-250-g-aproximado",
+      "file": "999652___tocino-el-cerdito-ahumado-rebanado-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999652___tocino-el-cerdito-ahumado-rebanado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999686___mortadela-duby-tipo-americano-250-g-aprox",
+      "file": "999686___mortadela-duby-tipo-americano-250-g-aprox.webp",
+      "path": "salchichoneria/opt/999686___mortadela-duby-tipo-americano-250-g-aprox.webp"
+    },
+    {
+      "name": "999688___jamón-zwan-pierna-250-g-aproximado",
+      "file": "999688___jamón-zwan-pierna-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999688___jamón-zwan-pierna-250-g-aproximado.webp"
+    },
+    {
+      "name": "999694___jamón-pechuga-pavo-zwan-250-g-aproximadamente",
+      "file": "999694___jamón-pechuga-pavo-zwan-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999694___jamón-pechuga-pavo-zwan-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999694___pechuga-san-rafael-clásico-pavo-250-g-aproximadamente",
+      "file": "999694___pechuga-san-rafael-clásico-pavo-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999694___pechuga-san-rafael-clásico-pavo-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999725___jamón-kir-virginia-de-pavo-250-g-aprox",
+      "file": "999725___jamón-kir-virginia-de-pavo-250-g-aprox.webp",
+      "path": "salchichoneria/opt/999725___jamón-kir-virginia-de-pavo-250-g-aprox.webp"
+    },
+    {
+      "name": "999727___queso-de-puerco-alpino-250-g-aproximado",
+      "file": "999727___queso-de-puerco-alpino-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999727___queso-de-puerco-alpino-250-g-aproximado.webp"
+    },
+    {
+      "name": "999737___salchicha-alpino-frankfurt-de-pavo-250-g-aproximado",
+      "file": "999737___salchicha-alpino-frankfurt-de-pavo-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999737___salchicha-alpino-frankfurt-de-pavo-250-g-aproximado.webp"
+    },
+    {
+      "name": "999774___chorizo-ryc-250-g-aproximado",
+      "file": "999774___chorizo-ryc-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999774___chorizo-ryc-250-g-aproximado.webp"
+    },
+    {
+      "name": "999791___chorizo-alpino-comercial-250-g-aproximado",
+      "file": "999791___chorizo-alpino-comercial-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999791___chorizo-alpino-comercial-250-g-aproximado.webp"
+    },
+    {
+      "name": "999800___tocino-de-pierna-cerdo-250-g-aproximadamente",
+      "file": "999800___tocino-de-pierna-cerdo-250-g-aproximadamente.webp",
+      "path": "salchichoneria/opt/999800___tocino-de-pierna-cerdo-250-g-aproximadamente.webp"
+    },
+    {
+      "name": "999863___queso-duby-americano-250-g-aproximado",
+      "file": "999863___queso-duby-americano-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999863___queso-duby-americano-250-g-aproximado.webp"
+    },
+    {
+      "name": "999997___salchicha-any-de-pavo-pelada-250-g-aproximado",
+      "file": "999997___salchicha-any-de-pavo-pelada-250-g-aproximado.webp",
+      "path": "salchichoneria/opt/999997___salchicha-any-de-pavo-pelada-250-g-aproximado.webp"
+    }
+  ]
+}

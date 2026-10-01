@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "puipuiMdGMw=",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\pc2x.github.io\\img\\optimizer\\ImageOptimizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\AppData\\Local\\Temp\\cursor-sandbox-cache\\b8b2e4c2fa5612c763755296249c500e\\nuget\\microsoft.net.illink.tasks\\9.0.20\\microsoft.net.illink.tasks.9.0.20.nupkg.sha512",
+    "C:\\Users\\Usuario\\AppData\\Local\\Temp\\cursor-sandbox-cache\\b8b2e4c2fa5612c763755296249c500e\\nuget\\sixlabors.imagesharp\\3.1.12\\sixlabors.imagesharp.3.1.12.nupkg.sha512",
+    "C:\\Users\\Usuario\\AppData\\Local\\Temp\\cursor-sandbox-cache\\b8b2e4c2fa5612c763755296249c500e\\nuget\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.20\\microsoft.aspnetcore.app.runtime.win-x64.9.0.20.nupkg.sha512",
+    "C:\\Users\\Usuario\\AppData\\Local\\Temp\\cursor-sandbox-cache\\b8b2e4c2fa5612c763755296249c500e\\nuget\\microsoft.netcore.app.runtime.win-x64\\9.0.20\\microsoft.netcore.app.runtime.win-x64.9.0.20.nupkg.sha512",
+    "C:\\Users\\Usuario\\AppData\\Local\\Temp\\cursor-sandbox-cache\\b8b2e4c2fa5612c763755296249c500e\\nuget\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.20\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

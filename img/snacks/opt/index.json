@@ -1,0 +1,217 @@
+{
+  "generatedAt": "2026-10-01T05:50:01Z",
+  "folder": "snacks",
+  "count": 42,
+  "images": [
+    {
+      "name": "barcel adobo",
+      "file": "barcel adobo.webp",
+      "path": "snacks/opt/barcel adobo.webp"
+    },
+    {
+      "name": "big mix azul",
+      "file": "big mix azul.webp",
+      "path": "snacks/opt/big mix azul.webp"
+    },
+    {
+      "name": "big mix fuego",
+      "file": "big mix fuego.webp",
+      "path": "snacks/opt/big mix fuego.webp"
+    },
+    {
+      "name": "big mix salsas negras",
+      "file": "big mix salsas negras.webp",
+      "path": "snacks/opt/big mix salsas negras.webp"
+    },
+    {
+      "name": "bolsa de dulces",
+      "file": "bolsa de dulces.webp",
+      "path": "snacks/opt/bolsa de dulces.webp"
+    },
+    {
+      "name": "cacahuates golden fuego",
+      "file": "cacahuates golden fuego.webp",
+      "path": "snacks/opt/cacahuates golden fuego.webp"
+    },
+    {
+      "name": "cacahuates golden limon",
+      "file": "cacahuates golden limon.webp",
+      "path": "snacks/opt/cacahuates golden limon.webp"
+    },
+    {
+      "name": "cheetos colmillos",
+      "file": "cheetos colmillos.webp",
+      "path": "snacks/opt/cheetos colmillos.webp"
+    },
+    {
+      "name": "cheetos torciditos",
+      "file": "cheetos torciditos.webp",
+      "path": "snacks/opt/cheetos torciditos.webp"
+    },
+    {
+      "name": "chicharron grande",
+      "file": "chicharron grande.webp",
+      "path": "snacks/opt/chicharron grande.webp"
+    },
+    {
+      "name": "chips fuego grande",
+      "file": "chips fuego grande.webp",
+      "path": "snacks/opt/chips fuego grande.webp"
+    },
+    {
+      "name": "chips fuego",
+      "file": "chips fuego.webp",
+      "path": "snacks/opt/chips fuego.webp"
+    },
+    {
+      "name": "chips jalapeño",
+      "file": "chips jalapeño.webp",
+      "path": "snacks/opt/chips jalapeño.webp"
+    },
+    {
+      "name": "chips originales grande",
+      "file": "chips originales grande.webp",
+      "path": "snacks/opt/chips originales grande.webp"
+    },
+    {
+      "name": "chips originales",
+      "file": "chips originales.webp",
+      "path": "snacks/opt/chips originales.webp"
+    },
+    {
+      "name": "crujitos",
+      "file": "crujitos.webp",
+      "path": "snacks/opt/crujitos.webp"
+    },
+    {
+      "name": "doritos jalapeño",
+      "file": "doritos jalapeño.webp",
+      "path": "snacks/opt/doritos jalapeño.webp"
+    },
+    {
+      "name": "doritos negros",
+      "file": "doritos negros.webp",
+      "path": "snacks/opt/doritos negros.webp"
+    },
+    {
+      "name": "fritos",
+      "file": "fritos.webp",
+      "path": "snacks/opt/fritos.webp"
+    },
+    {
+      "name": "hot nuts fuego grande",
+      "file": "hot nuts fuego grande.webp",
+      "path": "snacks/opt/hot nuts fuego grande.webp"
+    },
+    {
+      "name": "hot nuts fuego",
+      "file": "hot nuts fuego.webp",
+      "path": "snacks/opt/hot nuts fuego.webp"
+    },
+    {
+      "name": "hot nuts original grande",
+      "file": "hot nuts original grande.webp",
+      "path": "snacks/opt/hot nuts original grande.webp"
+    },
+    {
+      "name": "hot nuts original",
+      "file": "hot nuts original.webp",
+      "path": "snacks/opt/hot nuts original.webp"
+    },
+    {
+      "name": "kiyakis grande",
+      "file": "kiyakis grande.webp",
+      "path": "snacks/opt/kiyakis grande.webp"
+    },
+    {
+      "name": "kiyakis",
+      "file": "kiyakis.webp",
+      "path": "snacks/opt/kiyakis.webp"
+    },
+    {
+      "name": "paketaxo amarillo",
+      "file": "paketaxo amarillo.webp",
+      "path": "snacks/opt/paketaxo amarillo.webp"
+    },
+    {
+      "name": "palomitas",
+      "file": "palomitas.webp",
+      "path": "snacks/opt/palomitas.webp"
+    },
+    {
+      "name": "papatinas fuego",
+      "file": "papatinas fuego.webp",
+      "path": "snacks/opt/papatinas fuego.webp"
+    },
+    {
+      "name": "papatinas jalapeño",
+      "file": "papatinas jalapeño.webp",
+      "path": "snacks/opt/papatinas jalapeño.webp"
+    },
+    {
+      "name": "pop cheddar",
+      "file": "pop cheddar.webp",
+      "path": "snacks/opt/pop cheddar.webp"
+    },
+    {
+      "name": "pop karameladas",
+      "file": "pop karameladas.webp",
+      "path": "snacks/opt/pop karameladas.webp"
+    },
+    {
+      "name": "rancheritos",
+      "file": "rancheritos.webp",
+      "path": "snacks/opt/rancheritos.webp"
+    },
+    {
+      "name": "runners",
+      "file": "runners.webp",
+      "path": "snacks/opt/runners.webp"
+    },
+    {
+      "name": "sabrita chipotle",
+      "file": "sabrita chipotle.webp",
+      "path": "snacks/opt/sabrita chipotle.webp"
+    },
+    {
+      "name": "takis azul",
+      "file": "takis azul.webp",
+      "path": "snacks/opt/takis azul.webp"
+    },
+    {
+      "name": "takis fuego grande",
+      "file": "takis fuego grande.webp",
+      "path": "snacks/opt/takis fuego grande.webp"
+    },
+    {
+      "name": "takis fuego",
+      "file": "takis fuego.webp",
+      "path": "snacks/opt/takis fuego.webp"
+    },
+    {
+      "name": "takis guacamole",
+      "file": "takis guacamole.webp",
+      "path": "snacks/opt/takis guacamole.webp"
+    },
+    {
+      "name": "takis jalapeño",
+      "file": "takis jalapeño.webp",
+      "path": "snacks/opt/takis jalapeño.webp"
+    },
+    {
+      "name": "tostachos",
+      "file": "tostachos.webp",
+      "path": "snacks/opt/tostachos.webp"
+    },
+    {
+      "name": "vaso de dulces",
+      "file": "vaso de dulces.webp",
+      "path": "snacks/opt/vaso de dulces.webp"
+    },
+    {
+      "name": "wapas",
+      "file": "wapas.webp",
+      "path": "snacks/opt/wapas.webp"
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "generatedAt": "2026-10-01T05:50:04Z",
+  "folder": "utensilios_domesticos",
+  "count": 132,
+  "images": [
+    {
+      "name": "010900000437___papel-aluminio-reynolds-15.2x30.4-cm",
+      "file": "010900000437___papel-aluminio-reynolds-15.2x30.4-cm.webp",
+      "path": "utensilios_domesticos/opt/010900000437___papel-aluminio-reynolds-15.2x30.4-cm.webp"
+    },
+    {
+      "name": "010900248860___aluminio-reynolds-4.6-metros-pieza",
+      "file": "010900248860___aluminio-reynolds-4.6-metros-pieza.webp",
+      "path": "utensilios_domesticos/opt/010900248860___aluminio-reynolds-4.6-metros-pieza.webp"
+    },
+    {
+      "name": "010900305457___envolt-plástica-adher-reynol-30.4x30-cm",
+      "file": "010900305457___envolt-plástica-adher-reynol-30.4x30-cm.webp",
+      "path": "utensilios_domesticos/opt/010900305457___envolt-plástica-adher-reynol-30.4x30-cm.webp"
+    },
+    {
+      "name": "10900034005___bolsas-herméticas-reynolds-con-cierre-para-sándwich-50-pzas",
+      "file": "10900034005___bolsas-herméticas-reynolds-con-cierre-para-sándwich-50-pzas.webp",
+      "path": "utensilios_domesticos/opt/10900034005___bolsas-herméticas-reynolds-con-cierre-para-sándwich-50-pzas.webp"
+    },
+    {
+      "name": "24BARA084___veladora-refaccion-aramo-#4",
+      "file": "24BARA084___veladora-refaccion-aramo-#4.webp",
+      "path": "utensilios_domesticos/opt/24BARA084___veladora-refaccion-aramo-#4.webp"
+    },
+    {
+      "name": "616276400019___vaso-bosscup-traslúcido-8-oz-con-50-piezas",
+      "file": "616276400019___vaso-bosscup-traslúcido-8-oz-con-50-piezas.webp",
+      "path": "utensilios_domesticos/opt/616276400019___vaso-bosscup-traslúcido-8-oz-con-50-piezas.webp"
+    },
+    {
+      "name": "744831122219___veladora-repuesto-#18-luz-eternaterna",
+      "file": "744831122219___veladora-repuesto-#18-luz-eternaterna.webp",
+      "path": "utensilios_domesticos/opt/744831122219___veladora-repuesto-#18-luz-eternaterna.webp"
+    },
+    {
+      "name": "744831124022___veladora-repuesto-#24-rosita-luz-eterna",
+      "file": "744831124022___veladora-repuesto-#24-rosita-luz-eterna.webp",
+      "path": "utensilios_domesticos/opt/744831124022___veladora-repuesto-#24-rosita-luz-eterna.webp"
+    },
+    {
+      "name": "744831124039___veladora-repuesto-#24-luz-eternaterna",
+      "file": "744831124039___veladora-repuesto-#24-luz-eternaterna.webp",
+      "path": "utensilios_domesticos/opt/744831124039___veladora-repuesto-#24-luz-eternaterna.webp"
+    },
+    {
+      "name": "744831151868___veladora-copa-normandia-luz-eterna",
+      "file": "744831151868___veladora-copa-normandia-luz-eterna.webp",
+      "path": "utensilios_domesticos/opt/744831151868___veladora-copa-normandia-luz-eterna.webp"
+    },
+    {
+      "name": "7500326361807.jpg___carbón-valiente-3-k",
+      "file": "7500326361807.jpg___carbón-valiente-3-k.webp",
+      "path": "utensilios_domesticos/opt/7500326361807.jpg___carbón-valiente-3-k.webp"
+    },
+    {
+      "name": "75009300053___botella-dispensador-natural-para-salsa-350-ml",
+      "file": "75009300053___botella-dispensador-natural-para-salsa-350-ml.webp",
+      "path": "utensilios_domesticos/opt/75009300053___botella-dispensador-natural-para-salsa-350-ml.webp"
+    },
+    {
+      "name": "7501014400686___palillero-pinguini-madera-150-palillos",
+      "file": "7501014400686___palillero-pinguini-madera-150-palillos.webp",
+      "path": "utensilios_domesticos/opt/7501014400686___palillero-pinguini-madera-150-palillos.webp"
+    },
+    {
+      "name": "7501017362998___pañuelos-kleenex-8-piezas-con-15-pañuelos-cada-uno",
+      "file": "7501017362998___pañuelos-kleenex-8-piezas-con-15-pañuelos-cada-uno.webp",
+      "path": "utensilios_domesticos/opt/7501017362998___pañuelos-kleenex-8-piezas-con-15-pañuelos-cada-uno.webp"
+    },
+    {
+      "name": "7501032990046___bolsa-ziploc-grande-colgelar-15-piezas",
+      "file": "7501032990046___bolsa-ziploc-grande-colgelar-15-piezas.webp",
+      "path": "utensilios_domesticos/opt/7501032990046___bolsa-ziploc-grande-colgelar-15-piezas.webp"
+    },
+    {
+      "name": "7501060415399___globo-payaso-corazón-rojo-cereza-número-10-con-50-piezas",
+      "file": "7501060415399___globo-payaso-corazón-rojo-cereza-número-10-con-50-piezas.webp",
+      "path": "utensilios_domesticos/opt/7501060415399___globo-payaso-corazón-rojo-cereza-número-10-con-50-piezas.webp"
+    },
+    {
+      "name": "7501060418888___globo-payaso-surtido-zeppelin-número-270-con-50-piezas",
+      "file": "7501060418888___globo-payaso-surtido-zeppelin-número-270-con-50-piezas.webp",
+      "path": "utensilios_domesticos/opt/7501060418888___globo-payaso-surtido-zeppelin-número-270-con-50-piezas.webp"
+    },
+    {
+      "name": "7501102212207___veladora-farolito-#2-con-envoltura-profina",
+      "file": "7501102212207___veladora-farolito-#2-con-envoltura-profina.webp",
+      "path": "utensilios_domesticos/opt/7501102212207___veladora-farolito-#2-con-envoltura-profina.webp"
+    },
+    {
+      "name": "7501102280985___veladora-limonero-farolito-profina",
+      "file": "7501102280985___veladora-limonero-farolito-profina.webp",
+      "path": "utensilios_domesticos/opt/7501102280985___veladora-limonero-farolito-profina.webp"
+    },
+    {
+      "name": "7501102614001___kola-loka-goterito-3.5-g",
+      "file": "7501102614001___kola-loka-goterito-3.5-g.webp",
+      "path": "utensilios_domesticos/opt/7501102614001___kola-loka-goterito-3.5-g.webp"
+    },
+    {
+      "name": "7501139510536___licuadora-day-to-vaso-de-plastico-3-velocidades",
+      "file": "7501139510536___licuadora-day-to-vaso-de-plastico-3-velocidades.webp",
+      "path": "utensilios_domesticos/opt/7501139510536___licuadora-day-to-vaso-de-plastico-3-velocidades.webp"
+    },
+    {
+      "name": "7501139521334___plancha-de-vapor-antiadherente-day-to",
+      "file": "7501139521334___plancha-de-vapor-antiadherente-day-to.webp",
+      "path": "utensilios_domesticos/opt/7501139521334___plancha-de-vapor-antiadherente-day-to.webp"
+    },
+    {
+      "name": "7501139530077___jarra-hervidor-de-agua-day-to-2-litros",
+      "file": "7501139530077___jarra-hervidor-de-agua-day-to-2-litros.webp",
+      "path": "utensilios_domesticos/opt/7501139530077___jarra-hervidor-de-agua-day-to-2-litros.webp"
+    },
+    {
+      "name": "7501139549116___nutri-procesador-american",
+      "file": "7501139549116___nutri-procesador-american.webp",
+      "path": "utensilios_domesticos/opt/7501139549116___nutri-procesador-american.webp"
+    },
+    {
+      "name": "7501139598715___batidora-day-to-7-velocidades",
+      "file": "7501139598715___batidora-day-to-7-velocidades.webp",
+      "path": "utensilios_domesticos/opt/7501139598715___batidora-day-to-7-velocidades.webp"
+    },
+    {
+      "name": "7501166505031___recipiente-cubasa-brooch-rectangular-600-ml",
+      "file": "7501166505031___recipiente-cubasa-brooch-rectangular-600-ml.webp",
+      "path": "utensilios_domesticos/opt/7501166505031___recipiente-cubasa-brooch-rectangular-600-ml.webp"
+    },
+    {
+      "name": "7501166505062___recipiente-cubasa-refri-practic-triple-1000-ml",
+      "file": "7501166505062___recipiente-cubasa-refri-practic-triple-1000-ml.webp",
+      "path": "utensilios_domesticos/opt/7501166505062___recipiente-cubasa-refri-practic-triple-1000-ml.webp"
+    },
+    {
+      "name": "7501166505079___recipiente-cubasa-refripractic-cuadrado-330-ml",
+      "file": "7501166505079___recipiente-cubasa-refripractic-cuadrado-330-ml.webp",
+      "path": "utensilios_domesticos/opt/7501166505079___recipiente-cubasa-refripractic-cuadrado-330-ml.webp"
+    },
+    {
+      "name": "7501166505086___recipiente-cubasa-refri-practic-cuadrado-número-1",
+      "file": "7501166505086___recipiente-cubasa-refri-practic-cuadrado-número-1.webp",
+      "path": "utensilios_domesticos/opt/7501166505086___recipiente-cubasa-refri-practic-cuadrado-número-1.webp"
+    },
+    {
+      "name": "7501166505093___recipiente-cubasa-refri-practic-doble-mediano-pieza",
+      "file": "7501166505093___recipiente-cubasa-refri-practic-doble-mediano-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501166505093___recipiente-cubasa-refri-practic-doble-mediano-pieza.webp"
+    },
+    {
+      "name": "7501166505109___recipiente-cubasa-refri-practic-cuadrado-chico",
+      "file": "7501166505109___recipiente-cubasa-refri-practic-cuadrado-chico.webp",
+      "path": "utensilios_domesticos/opt/7501166505109___recipiente-cubasa-refri-practic-cuadrado-chico.webp"
+    },
+    {
+      "name": "7501166505123___recipiente-cubasa-refri-practic-cuadrado-grande",
+      "file": "7501166505123___recipiente-cubasa-refri-practic-cuadrado-grande.webp",
+      "path": "utensilios_domesticos/opt/7501166505123___recipiente-cubasa-refri-practic-cuadrado-grande.webp"
+    },
+    {
+      "name": "7501166505147___recipiente-cubasa-refri-practic-chico-pieza",
+      "file": "7501166505147___recipiente-cubasa-refri-practic-chico-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501166505147___recipiente-cubasa-refri-practic-chico-pieza.webp"
+    },
+    {
+      "name": "7501166505253___recipiente-cubasa-refripractic-rectangular-mini-300-ml",
+      "file": "7501166505253___recipiente-cubasa-refripractic-rectangular-mini-300-ml.webp",
+      "path": "utensilios_domesticos/opt/7501166505253___recipiente-cubasa-refripractic-rectangular-mini-300-ml.webp"
+    },
+    {
+      "name": "7501166505314___recipiente-cubasa-taparrosca-mini-pieza",
+      "file": "7501166505314___recipiente-cubasa-taparrosca-mini-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501166505314___recipiente-cubasa-taparrosca-mini-pieza.webp"
+    },
+    {
+      "name": "7501166505819___recipiente-cubasa-cierre-seguro-número-1",
+      "file": "7501166505819___recipiente-cubasa-cierre-seguro-número-1.webp",
+      "path": "utensilios_domesticos/opt/7501166505819___recipiente-cubasa-cierre-seguro-número-1.webp"
+    },
+    {
+      "name": "7501166507011___recipiente-cubasa-juguero-bongo",
+      "file": "7501166507011___recipiente-cubasa-juguero-bongo.webp",
+      "path": "utensilios_domesticos/opt/7501166507011___recipiente-cubasa-juguero-bongo.webp"
+    },
+    {
+      "name": "7501166508209___cesto-cubasa-para-ropa",
+      "file": "7501166508209___cesto-cubasa-para-ropa.webp",
+      "path": "utensilios_domesticos/opt/7501166508209___cesto-cubasa-para-ropa.webp"
+    },
+    {
+      "name": "7501166508803___recipiente-cofre-cubasa-transparente-pieza",
+      "file": "7501166508803___recipiente-cofre-cubasa-transparente-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501166508803___recipiente-cofre-cubasa-transparente-pieza.webp"
+    },
+    {
+      "name": "7501166514651___bote-cubasa-con-pedal-número-8",
+      "file": "7501166514651___bote-cubasa-con-pedal-número-8.webp",
+      "path": "utensilios_domesticos/opt/7501166514651___bote-cubasa-con-pedal-número-8.webp"
+    },
+    {
+      "name": "7501166515313___recipiente-cubasa-número-1-con-taparrosca-pieza",
+      "file": "7501166515313___recipiente-cubasa-número-1-con-taparrosca-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501166515313___recipiente-cubasa-número-1-con-taparrosca-pieza.webp"
+    },
+    {
+      "name": "7501166515320___recipiente-cubasa-#2-con-taparrosca-piezas",
+      "file": "7501166515320___recipiente-cubasa-#2-con-taparrosca-piezas.webp",
+      "path": "utensilios_domesticos/opt/7501166515320___recipiente-cubasa-#2-con-taparrosca-piezas.webp"
+    },
+    {
+      "name": "7501166515337___recipiente-cubasa-taparrosca-número-3",
+      "file": "7501166515337___recipiente-cubasa-taparrosca-número-3.webp",
+      "path": "utensilios_domesticos/opt/7501166515337___recipiente-cubasa-taparrosca-número-3.webp"
+    },
+    {
+      "name": "7501166515344___recipiente-cubasa-taparrosca-número-0",
+      "file": "7501166515344___recipiente-cubasa-taparrosca-número-0.webp",
+      "path": "utensilios_domesticos/opt/7501166515344___recipiente-cubasa-taparrosca-número-0.webp"
+    },
+    {
+      "name": "7501166515566___recipiente-cubasa-super-sello-1400-ml",
+      "file": "7501166515566___recipiente-cubasa-super-sello-1400-ml.webp",
+      "path": "utensilios_domesticos/opt/7501166515566___recipiente-cubasa-super-sello-1400-ml.webp"
+    },
+    {
+      "name": "7501166515603___recipiente-cubasa-super-sello-700-ml",
+      "file": "7501166515603___recipiente-cubasa-super-sello-700-ml.webp",
+      "path": "utensilios_domesticos/opt/7501166515603___recipiente-cubasa-super-sello-700-ml.webp"
+    },
+    {
+      "name": "7501166515641___recipiente-cubasa-super-sello-1800-ml",
+      "file": "7501166515641___recipiente-cubasa-super-sello-1800-ml.webp",
+      "path": "utensilios_domesticos/opt/7501166515641___recipiente-cubasa-super-sello-1800-ml.webp"
+    },
+    {
+      "name": "7501166517058___recipiente-cubasa-hielo-set-de-2-piezas",
+      "file": "7501166517058___recipiente-cubasa-hielo-set-de-2-piezas.webp",
+      "path": "utensilios_domesticos/opt/7501166517058___recipiente-cubasa-hielo-set-de-2-piezas.webp"
+    },
+    {
+      "name": "7501166518475___exprimidor-de-naranjas-número-2-cubasa-colores",
+      "file": "7501166518475___exprimidor-de-naranjas-número-2-cubasa-colores.webp",
+      "path": "utensilios_domesticos/opt/7501166518475___exprimidor-de-naranjas-número-2-cubasa-colores.webp"
+    },
+    {
+      "name": "7501166518703___recipiente-cubasa-hermético-473-ml",
+      "file": "7501166518703___recipiente-cubasa-hermético-473-ml.webp",
+      "path": "utensilios_domesticos/opt/7501166518703___recipiente-cubasa-hermético-473-ml.webp"
+    },
+    {
+      "name": "7501166518802___organizador-gipsie-cubasa-redondo-pieza",
+      "file": "7501166518802___organizador-gipsie-cubasa-redondo-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501166518802___organizador-gipsie-cubasa-redondo-pieza.webp"
+    },
+    {
+      "name": "7501166518901___canasta-cubasa-de-ratán-chica-pieza",
+      "file": "7501166518901___canasta-cubasa-de-ratán-chica-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501166518901___canasta-cubasa-de-ratán-chica-pieza.webp"
+    },
+    {
+      "name": "7501166518925___canasta-cubasa-de-ratan-mediana-pieza",
+      "file": "7501166518925___canasta-cubasa-de-ratan-mediana-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501166518925___canasta-cubasa-de-ratan-mediana-pieza.webp"
+    },
+    {
+      "name": "7501166578875___bote-cubasa-redondo-con-pedal-pieza",
+      "file": "7501166578875___bote-cubasa-redondo-con-pedal-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501166578875___bote-cubasa-redondo-con-pedal-pieza.webp"
+    },
+    {
+      "name": "7501353600792___vaso-jumbo-600-ml-pieza",
+      "file": "7501353600792___vaso-jumbo-600-ml-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501353600792___vaso-jumbo-600-ml-pieza.webp"
+    },
+    {
+      "name": "7501416701121___exprimidor-para-limón-plastico-1-pz",
+      "file": "7501416701121___exprimidor-para-limón-plastico-1-pz.webp",
+      "path": "utensilios_domesticos/opt/7501416701121___exprimidor-para-limón-plastico-1-pz.webp"
+    },
+    {
+      "name": "7501557200408___veladora-ecologica-aramo-#4",
+      "file": "7501557200408___veladora-ecologica-aramo-#4.webp",
+      "path": "utensilios_domesticos/opt/7501557200408___veladora-ecologica-aramo-#4.webp"
+    },
+    {
+      "name": "7501557200767___veladora-aramo-caramelo-ecológica",
+      "file": "7501557200767___veladora-aramo-caramelo-ecológica.webp",
+      "path": "utensilios_domesticos/opt/7501557200767___veladora-aramo-caramelo-ecológica.webp"
+    },
+    {
+      "name": "7501557200804___veladora-esmeralda-aramo-#2",
+      "file": "7501557200804___veladora-esmeralda-aramo-#2.webp",
+      "path": "utensilios_domesticos/opt/7501557200804___veladora-esmeralda-aramo-#2.webp"
+    },
+    {
+      "name": "7501557202907___vaso-100-exportado-virgen-guadalupe-aramo-pieza",
+      "file": "7501557202907___vaso-100-exportado-virgen-guadalupe-aramo-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501557202907___vaso-100-exportado-virgen-guadalupe-aramo-pieza.webp"
+    },
+    {
+      "name": "7501557202914___veladora-aramo-san-judas-pieza",
+      "file": "7501557202914___veladora-aramo-san-judas-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501557202914___veladora-aramo-san-judas-pieza.webp"
+    },
+    {
+      "name": "7501557205533___veladora-refaccion-aramo-#18",
+      "file": "7501557205533___veladora-refaccion-aramo-#18.webp",
+      "path": "utensilios_domesticos/opt/7501557205533___veladora-refaccion-aramo-#18.webp"
+    },
+    {
+      "name": "7501557210612___veladora-aramo-vaso-de-cartón-citronela-8-oz-pieza",
+      "file": "7501557210612___veladora-aramo-vaso-de-cartón-citronela-8-oz-pieza.webp",
+      "path": "utensilios_domesticos/opt/7501557210612___veladora-aramo-vaso-de-cartón-citronela-8-oz-pieza.webp"
+    },
+    {
+      "name": "7502210610022___plato-para-cereal-granito-pieza",
+      "file": "7502210610022___plato-para-cereal-granito-pieza.webp",
+      "path": "utensilios_domesticos/opt/7502210610022___plato-para-cereal-granito-pieza.webp"
+    },
+    {
+      "name": "7502210610138___tarro-granito-390-ml-pieza",
+      "file": "7502210610138___tarro-granito-390-ml-pieza.webp",
+      "path": "utensilios_domesticos/opt/7502210610138___tarro-granito-390-ml-pieza.webp"
+    },
+    {
+      "name": "7502210610169___plato-tampiqueno-granito-pieza",
+      "file": "7502210610169___plato-tampiqueno-granito-pieza.webp",
+      "path": "utensilios_domesticos/opt/7502210610169___plato-tampiqueno-granito-pieza.webp"
+    },
+    {
+      "name": "7502210610763___vaso-onda-varios-colores-290-ml-pieza",
+      "file": "7502210610763___vaso-onda-varios-colores-290-ml-pieza.webp",
+      "path": "utensilios_domesticos/opt/7502210610763___vaso-onda-varios-colores-290-ml-pieza.webp"
+    },
+    {
+      "name": "7502210616123___tortillero-mexicano-granito-pieza",
+      "file": "7502210616123___tortillero-mexicano-granito-pieza.webp",
+      "path": "utensilios_domesticos/opt/7502210616123___tortillero-mexicano-granito-pieza.webp"
+    },
+    {
+      "name": "7502210617090___plato-taquero-café-pieza",
+      "file": "7502210617090___plato-taquero-café-pieza.webp",
+      "path": "utensilios_domesticos/opt/7502210617090___plato-taquero-café-pieza.webp"
+    },
+    {
+      "name": "7502210617106___plato-taquero-granito-pieza",
+      "file": "7502210617106___plato-taquero-granito-pieza.webp",
+      "path": "utensilios_domesticos/opt/7502210617106___plato-taquero-granito-pieza.webp"
+    },
+    {
+      "name": "7502269061172___pinza-para-ropa-bosque-verde-bolsa-con-36-piezas",
+      "file": "7502269061172___pinza-para-ropa-bosque-verde-bolsa-con-36-piezas.webp",
+      "path": "utensilios_domesticos/opt/7502269061172___pinza-para-ropa-bosque-verde-bolsa-con-36-piezas.webp"
+    },
+    {
+      "name": "7502270222272___azucarera-vittori-lisa-con-tapa-300-ml",
+      "file": "7502270222272___azucarera-vittori-lisa-con-tapa-300-ml.webp",
+      "path": "utensilios_domesticos/opt/7502270222272___azucarera-vittori-lisa-con-tapa-300-ml.webp"
+    },
+    {
+      "name": "7502270222357___salero-vittori-espiral-60-ml",
+      "file": "7502270222357___salero-vittori-espiral-60-ml.webp",
+      "path": "utensilios_domesticos/opt/7502270222357___salero-vittori-espiral-60-ml.webp"
+    },
+    {
+      "name": "7502270223118.jpg___tarro-mason-vittori-con-popote-480-ml",
+      "file": "7502270223118.jpg___tarro-mason-vittori-con-popote-480-ml.webp",
+      "path": "utensilios_domesticos/opt/7502270223118.jpg___tarro-mason-vittori-con-popote-480-ml.webp"
+    },
+    {
+      "name": "7502270227826___molinillo-vittori-especias-con-tapa-195-ml",
+      "file": "7502270227826___molinillo-vittori-especias-con-tapa-195-ml.webp",
+      "path": "utensilios_domesticos/opt/7502270227826___molinillo-vittori-especias-con-tapa-195-ml.webp"
+    },
+    {
+      "name": "7502270229547___vaso-vittori-cooler-oslo-360-ml",
+      "file": "7502270229547___vaso-vittori-cooler-oslo-360-ml.webp",
+      "path": "utensilios_domesticos/opt/7502270229547___vaso-vittori-cooler-oslo-360-ml.webp"
+    },
+    {
+      "name": "7502311920495___taza-vittori-cafetera-360-ml",
+      "file": "7502311920495___taza-vittori-cafetera-360-ml.webp",
+      "path": "utensilios_domesticos/opt/7502311920495___taza-vittori-cafetera-360-ml.webp"
+    },
+    {
+      "name": "7502311921713___vaso-vittori-whisky-infinity-350-ml",
+      "file": "7502311921713___vaso-vittori-whisky-infinity-350-ml.webp",
+      "path": "utensilios_domesticos/opt/7502311921713___vaso-vittori-whisky-infinity-350-ml.webp"
+    },
+    {
+      "name": "7502311921751___vaso-vittori-tequilero-60-ml",
+      "file": "7502311921751___vaso-vittori-tequilero-60-ml.webp",
+      "path": "utensilios_domesticos/opt/7502311921751___vaso-vittori-tequilero-60-ml.webp"
+    },
+    {
+      "name": "7503004599172___veladora-blanca-con-etiqueta",
+      "file": "7503004599172___veladora-blanca-con-etiqueta.webp",
+      "path": "utensilios_domesticos/opt/7503004599172___veladora-blanca-con-etiqueta.webp"
+    },
+    {
+      "name": "7503015619357___trapeador-de-pabilo-bosque-verde",
+      "file": "7503015619357___trapeador-de-pabilo-bosque-verde.webp",
+      "path": "utensilios_domesticos/opt/7503015619357___trapeador-de-pabilo-bosque-verde.webp"
+    },
+    {
+      "name": "7503022208216___focos-led-hogaraki-12w-90w-luz-fría-pieza",
+      "file": "7503022208216___focos-led-hogaraki-12w-90w-luz-fría-pieza.webp",
+      "path": "utensilios_domesticos/opt/7503022208216___focos-led-hogaraki-12w-90w-luz-fría-pieza.webp"
+    },
+    {
+      "name": "7503022208223___focos-led-hogaraki-15w-100w-luz-fría-pieza",
+      "file": "7503022208223___focos-led-hogaraki-15w-100w-luz-fría-pieza.webp",
+      "path": "utensilios_domesticos/opt/7503022208223___focos-led-hogaraki-15w-100w-luz-fría-pieza.webp"
+    },
+    {
+      "name": "7503022208230___focos-led-hogaraki-18w-130w-luz-fría-pieza",
+      "file": "7503022208230___focos-led-hogaraki-18w-130w-luz-fría-pieza.webp",
+      "path": "utensilios_domesticos/opt/7503022208230___focos-led-hogaraki-18w-130w-luz-fría-pieza.webp"
+    },
+    {
+      "name": "7503022208247___focos-led-hogaraki-20w-140w-luz-fría-pieza",
+      "file": "7503022208247___focos-led-hogaraki-20w-140w-luz-fría-pieza.webp",
+      "path": "utensilios_domesticos/opt/7503022208247___focos-led-hogaraki-20w-140w-luz-fría-pieza.webp"
+    },
+    {
+      "name": "7503022208254___focos-led-hogaraki-9w-70w-luz-fría-con-3-piezas",
+      "file": "7503022208254___focos-led-hogaraki-9w-70w-luz-fría-con-3-piezas.webp",
+      "path": "utensilios_domesticos/opt/7503022208254___focos-led-hogaraki-9w-70w-luz-fría-con-3-piezas.webp"
+    },
+    {
+      "name": "7503029409067.jpg___tazón-parís-glassia-770-ml",
+      "file": "7503029409067.jpg___tazón-parís-glassia-770-ml.webp",
+      "path": "utensilios_domesticos/opt/7503029409067.jpg___tazón-parís-glassia-770-ml.webp"
+    },
+    {
+      "name": "7503034476627___bandeja-rectangular-glassia-2800-ml",
+      "file": "7503034476627___bandeja-rectangular-glassia-2800-ml.webp",
+      "path": "utensilios_domesticos/opt/7503034476627___bandeja-rectangular-glassia-2800-ml.webp"
+    },
+    {
+      "name": "7503034476818___vaso-glassia-torino-360-ml",
+      "file": "7503034476818___vaso-glassia-torino-360-ml.webp",
+      "path": "utensilios_domesticos/opt/7503034476818___vaso-glassia-torino-360-ml.webp"
+    },
+    {
+      "name": "7503040863275___veladora-aramo-vaso-de-vidrio-mini-virgen-de-guadalupe",
+      "file": "7503040863275___veladora-aramo-vaso-de-vidrio-mini-virgen-de-guadalupe.webp",
+      "path": "utensilios_domesticos/opt/7503040863275___veladora-aramo-vaso-de-vidrio-mini-virgen-de-guadalupe.webp"
+    },
+    {
+      "name": "75036546___cerillos-manola-elegante-10-cajillas",
+      "file": "75036546___cerillos-manola-elegante-10-cajillas.webp",
+      "path": "utensilios_domesticos/opt/75036546___cerillos-manola-elegante-10-cajillas.webp"
+    },
+    {
+      "name": "7506245107038___jarra-raffi-2lt-pieza",
+      "file": "7506245107038___jarra-raffi-2lt-pieza.webp",
+      "path": "utensilios_domesticos/opt/7506245107038___jarra-raffi-2lt-pieza.webp"
+    },
+    {
+      "name": "7506245113862___plato-taquero-azul-pieza",
+      "file": "7506245113862___plato-taquero-azul-pieza.webp",
+      "path": "utensilios_domesticos/opt/7506245113862___plato-taquero-azul-pieza.webp"
+    },
+    {
+      "name": "7506245113886___plato-taquero-verde-pieza",
+      "file": "7506245113886___plato-taquero-verde-pieza.webp",
+      "path": "utensilios_domesticos/opt/7506245113886___plato-taquero-verde-pieza.webp"
+    },
+    {
+      "name": "7506425602766___servilletas-delsey-220-piezas",
+      "file": "7506425602766___servilletas-delsey-220-piezas.webp",
+      "path": "utensilios_domesticos/opt/7506425602766___servilletas-delsey-220-piezas.webp"
+    },
+    {
+      "name": "7506425660483___servilleta-kleenex-elegance-black-50-piezas",
+      "file": "7506425660483___servilleta-kleenex-elegance-black-50-piezas.webp",
+      "path": "utensilios_domesticos/opt/7506425660483___servilleta-kleenex-elegance-black-50-piezas.webp"
+    },
+    {
+      "name": "7806810011822___paleta-ilko-calada-nylon-pieza",
+      "file": "7806810011822___paleta-ilko-calada-nylon-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810011822___paleta-ilko-calada-nylon-pieza.webp"
+    },
+    {
+      "name": "7806810011839___cucharón-ilko-nylon-básico-pieza",
+      "file": "7806810011839___cucharón-ilko-nylon-básico-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810011839___cucharón-ilko-nylon-básico-pieza.webp"
+    },
+    {
+      "name": "7806810011846___cuchara-ilko-lisa-nylon-básica-pieza",
+      "file": "7806810011846___cuchara-ilko-lisa-nylon-básica-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810011846___cuchara-ilko-lisa-nylon-básica-pieza.webp"
+    },
+    {
+      "name": "7806810011853___machacador-ilko-nylon-basic-pieza",
+      "file": "7806810011853___machacador-ilko-nylon-basic-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810011853___machacador-ilko-nylon-basic-pieza.webp"
+    },
+    {
+      "name": "7806810013345___colador-ilko-clásico-de-plástico-de-14-cm-pieza",
+      "file": "7806810013345___colador-ilko-clásico-de-plástico-de-14-cm-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810013345___colador-ilko-clásico-de-plástico-de-14-cm-pieza.webp"
+    },
+    {
+      "name": "7806810207546___comal-ilko-clásico-28-cm-pieza",
+      "file": "7806810207546___comal-ilko-clásico-28-cm-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810207546___comal-ilko-clásico-28-cm-pieza.webp"
+    },
+    {
+      "name": "7806810221269___rallador-ilko-clásico-piramidal-pieza",
+      "file": "7806810221269___rallador-ilko-clásico-piramidal-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810221269___rallador-ilko-clásico-piramidal-pieza.webp"
+    },
+    {
+      "name": "7806810232326___cuchara-multifuncional-ilko-pieza",
+      "file": "7806810232326___cuchara-multifuncional-ilko-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810232326___cuchara-multifuncional-ilko-pieza.webp"
+    },
+    {
+      "name": "7806810238205___sartén-wok-ilko-28-cm-elementrosso-pieza",
+      "file": "7806810238205___sartén-wok-ilko-28-cm-elementrosso-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810238205___sartén-wok-ilko-28-cm-elementrosso-pieza.webp"
+    },
+    {
+      "name": "7806810241083___pinza-ilko-metálica-de-23-cm-pieza",
+      "file": "7806810241083___pinza-ilko-metálica-de-23-cm-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810241083___pinza-ilko-metálica-de-23-cm-pieza.webp"
+    },
+    {
+      "name": "7806810251235___sacacorchos-ilko-pieza",
+      "file": "7806810251235___sacacorchos-ilko-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810251235___sacacorchos-ilko-pieza.webp"
+    },
+    {
+      "name": "7806810276955___cuchillo-ilko-chef-20.5-cm-blanco-pieza",
+      "file": "7806810276955___cuchillo-ilko-chef-20.5-cm-blanco-pieza.webp",
+      "path": "utensilios_domesticos/opt/7806810276955___cuchillo-ilko-chef-20.5-cm-blanco-pieza.webp"
+    },
+    {
+      "name": "823703160099___tenedor-tender-grande-25-piezas",
+      "file": "823703160099___tenedor-tender-grande-25-piezas.webp",
+      "path": "utensilios_domesticos/opt/823703160099___tenedor-tender-grande-25-piezas.webp"
+    },
+    {
+      "name": "823703160136___cuchara-tender-sopera-con-25-piezas",
+      "file": "823703160136___cuchara-tender-sopera-con-25-piezas.webp",
+      "path": "utensilios_domesticos/opt/823703160136___cuchara-tender-sopera-con-25-piezas.webp"
+    },
+    {
+      "name": "823703170050___lampara-enerplus-led-8.5-w-luz-fría",
+      "file": "823703170050___lampara-enerplus-led-8.5-w-luz-fría.webp",
+      "path": "utensilios_domesticos/opt/823703170050___lampara-enerplus-led-8.5-w-luz-fría.webp"
+    },
+    {
+      "name": "823703170074___lampara-enerplus-led-8.5-w-luz-cálida-1-piezas",
+      "file": "823703170074___lampara-enerplus-led-8.5-w-luz-cálida-1-piezas.webp",
+      "path": "utensilios_domesticos/opt/823703170074___lampara-enerplus-led-8.5-w-luz-cálida-1-piezas.webp"
+    },
+    {
+      "name": "823703170135___lampara-led-enerplus-5w-luz-fria-pieza",
+      "file": "823703170135___lampara-led-enerplus-5w-luz-fria-pieza.webp",
+      "path": "utensilios_domesticos/opt/823703170135___lampara-led-enerplus-5w-luz-fria-pieza.webp"
+    },
+    {
+      "name": "823703170142___lampara-led-enerplus-5w-luz-calida-pieza",
+      "file": "823703170142___lampara-led-enerplus-5w-luz-calida-pieza.webp",
+      "path": "utensilios_domesticos/opt/823703170142___lampara-led-enerplus-5w-luz-calida-pieza.webp"
+    },
+    {
+      "name": "823703170166___lampara-led-enerplus-11w-luz-cálida",
+      "file": "823703170166___lampara-led-enerplus-11w-luz-cálida.webp",
+      "path": "utensilios_domesticos/opt/823703170166___lampara-led-enerplus-11w-luz-cálida.webp"
+    },
+    {
+      "name": "823703800452___servilletas-máxima-cuadrada-500-piezas",
+      "file": "823703800452___servilletas-máxima-cuadrada-500-piezas.webp",
+      "path": "utensilios_domesticos/opt/823703800452___servilletas-máxima-cuadrada-500-piezas.webp"
+    },
+    {
+      "name": "823703800469___servilletas-máxima-cuadrada-125-piezas",
+      "file": "823703800469___servilletas-máxima-cuadrada-125-piezas.webp",
+      "path": "utensilios_domesticos/opt/823703800469___servilletas-máxima-cuadrada-125-piezas.webp"
+    },
+    {
+      "name": "8435420300782.jpg___copa-imperia-glassia-525-ml",
+      "file": "8435420300782.jpg___copa-imperia-glassia-525-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420300782.jpg___copa-imperia-glassia-525-ml.webp"
+    },
+    {
+      "name": "8435420301178.jpg___vaso-cafetero-soave-glassia-250-ml",
+      "file": "8435420301178.jpg___vaso-cafetero-soave-glassia-250-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420301178.jpg___vaso-cafetero-soave-glassia-250-ml.webp"
+    },
+    {
+      "name": "8435420301208.jpg___vaso-tequilero-glassia-doble-60-ml",
+      "file": "8435420301208.jpg___vaso-tequilero-glassia-doble-60-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420301208.jpg___vaso-tequilero-glassia-doble-60-ml.webp"
+    },
+    {
+      "name": "8435420301284.jpg___vaso-refresco-portofino-glassia-490-ml",
+      "file": "8435420301284.jpg___vaso-refresco-portofino-glassia-490-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420301284.jpg___vaso-refresco-portofino-glassia-490-ml.webp"
+    },
+    {
+      "name": "8435420301369.jpg___tarro-cervecero-360-ml",
+      "file": "8435420301369.jpg___tarro-cervecero-360-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420301369.jpg___tarro-cervecero-360-ml.webp"
+    },
+    {
+      "name": "8435420302076___vaso-glassia-tubo-soave-300-ml",
+      "file": "8435420302076___vaso-glassia-tubo-soave-300-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420302076___vaso-glassia-tubo-soave-300-ml.webp"
+    },
+    {
+      "name": "8435420304315.jpg___jarra-portofino-glassia-1.7-l",
+      "file": "8435420304315.jpg___jarra-portofino-glassia-1.7-l.webp",
+      "path": "utensilios_domesticos/opt/8435420304315.jpg___jarra-portofino-glassia-1.7-l.webp"
+    },
+    {
+      "name": "8435420306197.jpg___copa-malteada-glassia-400-ml",
+      "file": "8435420306197.jpg___copa-malteada-glassia-400-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420306197.jpg___copa-malteada-glassia-400-ml.webp"
+    },
+    {
+      "name": "8435420308580___jarra-bari-glassia-1.85-l",
+      "file": "8435420308580___jarra-bari-glassia-1.85-l.webp",
+      "path": "utensilios_domesticos/opt/8435420308580___jarra-bari-glassia-1.85-l.webp"
+    },
+    {
+      "name": "8435420308948.jpg___flanera-glassia-175-ml",
+      "file": "8435420308948.jpg___flanera-glassia-175-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420308948.jpg___flanera-glassia-175-ml.webp"
+    },
+    {
+      "name": "8435420309945.jpg___vaso-cafetero-portofino-glassia-250-ml",
+      "file": "8435420309945.jpg___vaso-cafetero-portofino-glassia-250-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420309945.jpg___vaso-cafetero-portofino-glassia-250-ml.webp"
+    },
+    {
+      "name": "8435420310569___vaso-agua-portofino-glassia-330-ml",
+      "file": "8435420310569___vaso-agua-portofino-glassia-330-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420310569___vaso-agua-portofino-glassia-330-ml.webp"
+    },
+    {
+      "name": "8435420311917.jpg___tazón-uxmal-glassia-770-ml",
+      "file": "8435420311917.jpg___tazón-uxmal-glassia-770-ml.webp",
+      "path": "utensilios_domesticos/opt/8435420311917.jpg___tazón-uxmal-glassia-770-ml.webp"
+    },
+    {
+      "name": "850020948956___vaso-glassia-napa-500-ml",
+      "file": "850020948956___vaso-glassia-napa-500-ml.webp",
+      "path": "utensilios_domesticos/opt/850020948956___vaso-glassia-napa-500-ml.webp"
+    },
+    {
+      "name": "850020948963___vaso-napa-stemless-glassia-350-ml",
+      "file": "850020948963___vaso-napa-stemless-glassia-350-ml.webp",
+      "path": "utensilios_domesticos/opt/850020948963___vaso-napa-stemless-glassia-350-ml.webp"
+    }
+  ]
+}

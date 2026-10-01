@@ -1,0 +1,462 @@
+{
+  "generatedAt": "2026-10-01T05:49:57Z",
+  "folder": "panaderia_y_tortilleria",
+  "count": 91,
+  "images": [
+    {
+      "name": "12BMIS002___tortilla-de-harina-integral-mission-250-g-con-10-piezas",
+      "file": "12BMIS002___tortilla-de-harina-integral-mission-250-g-con-10-piezas.webp",
+      "path": "panaderia_y_tortilleria/opt/12BMIS002___tortilla-de-harina-integral-mission-250-g-con-10-piezas.webp"
+    },
+    {
+      "name": "12BMIS003___tostada-amarilla-norteña-mission-300-g",
+      "file": "12BMIS003___tostada-amarilla-norteña-mission-300-g.webp",
+      "path": "panaderia_y_tortilleria/opt/12BMIS003___tostada-amarilla-norteña-mission-300-g.webp"
+    },
+    {
+      "name": "12BMIS004___tostada-horneada-mission-224-g",
+      "file": "12BMIS004___tostada-horneada-mission-224-g.webp",
+      "path": "panaderia_y_tortilleria/opt/12BMIS004___tostada-horneada-mission-224-g.webp"
+    },
+    {
+      "name": "12BMIS009___tortilla-de-harina-del-barrio-mission-con-15-piezas",
+      "file": "12BMIS009___tortilla-de-harina-del-barrio-mission-con-15-piezas.webp",
+      "path": "panaderia_y_tortilleria/opt/12BMIS009___tortilla-de-harina-del-barrio-mission-con-15-piezas.webp"
+    },
+    {
+      "name": "6310___panque",
+      "file": "6310___panque.webp",
+      "path": "panaderia_y_tortilleria/opt/6310___panque.webp"
+    },
+    {
+      "name": "6351___nacho-gb-500-g",
+      "file": "6351___nacho-gb-500-g.webp",
+      "path": "panaderia_y_tortilleria/opt/6351___nacho-gb-500-g.webp"
+    },
+    {
+      "name": "6353___tiras-de-tortilla-de-maiz-gb-500-g",
+      "file": "6353___tiras-de-tortilla-de-maiz-gb-500-g.webp",
+      "path": "panaderia_y_tortilleria/opt/6353___tiras-de-tortilla-de-maiz-gb-500-g.webp"
+    },
+    {
+      "name": "6354___tostada-gb-250-g",
+      "file": "6354___tostada-gb-250-g.webp",
+      "path": "panaderia_y_tortilleria/opt/6354___tostada-gb-250-g.webp"
+    },
+    {
+      "name": "6359___tostada-gb-500-g",
+      "file": "6359___tostada-gb-500-g.webp",
+      "path": "panaderia_y_tortilleria/opt/6359___tostada-gb-500-g.webp"
+    },
+    {
+      "name": "63APND001___baguette-grande",
+      "file": "63APND001___baguette-grande.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND001___baguette-grande.webp"
+    },
+    {
+      "name": "63APND017___hojaldra-chica-tradicional",
+      "file": "63APND017___hojaldra-chica-tradicional.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND017___hojaldra-chica-tradicional.webp"
+    },
+    {
+      "name": "63APND025___pambazo",
+      "file": "63APND025___pambazo.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND025___pambazo.webp"
+    },
+    {
+      "name": "63APND041___pay-de-queso",
+      "file": "63APND041___pay-de-queso.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND041___pay-de-queso.webp"
+    },
+    {
+      "name": "63APND043___pelona",
+      "file": "63APND043___pelona.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND043___pelona.webp"
+    },
+    {
+      "name": "63APND046___rosca-de-nuez",
+      "file": "63APND046___rosca-de-nuez.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND046___rosca-de-nuez.webp"
+    },
+    {
+      "name": "63APND053___telera",
+      "file": "63APND053___telera.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND053___telera.webp"
+    },
+    {
+      "name": "63APND075___piedra",
+      "file": "63APND075___piedra.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND075___piedra.webp"
+    },
+    {
+      "name": "63APND078___rosca-marmoleada",
+      "file": "63APND078___rosca-marmoleada.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND078___rosca-marmoleada.webp"
+    },
+    {
+      "name": "63APND096___cuerno-danes",
+      "file": "63APND096___cuerno-danes.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND096___cuerno-danes.webp"
+    },
+    {
+      "name": "63APND097___bigote-danes",
+      "file": "63APND097___bigote-danes.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND097___bigote-danes.webp"
+    },
+    {
+      "name": "63APND098___corbata-danes",
+      "file": "63APND098___corbata-danes.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND098___corbata-danes.webp"
+    },
+    {
+      "name": "63APND101___tornillo",
+      "file": "63APND101___tornillo.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND101___tornillo.webp"
+    },
+    {
+      "name": "63APND115___rebanada-con-chantilly",
+      "file": "63APND115___rebanada-con-chantilly.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND115___rebanada-con-chantilly.webp"
+    },
+    {
+      "name": "63APND116___rebanada-con-chocolate",
+      "file": "63APND116___rebanada-con-chocolate.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND116___rebanada-con-chocolate.webp"
+    },
+    {
+      "name": "63APND123___chino",
+      "file": "63APND123___chino.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND123___chino.webp"
+    },
+    {
+      "name": "63APND127___domino",
+      "file": "63APND127___domino.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND127___domino.webp"
+    },
+    {
+      "name": "63APND130___mil-hoja",
+      "file": "63APND130___mil-hoja.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND130___mil-hoja.webp"
+    },
+    {
+      "name": "63APND139___roles",
+      "file": "63APND139___roles.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND139___roles.webp"
+    },
+    {
+      "name": "63APND140___conos",
+      "file": "63APND140___conos.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND140___conos.webp"
+    },
+    {
+      "name": "63APND142___cubilete-queso",
+      "file": "63APND142___cubilete-queso.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND142___cubilete-queso.webp"
+    },
+    {
+      "name": "63APND150___chancla-pieza",
+      "file": "63APND150___chancla-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND150___chancla-pieza.webp"
+    },
+    {
+      "name": "63APND151___ojos-de-buey",
+      "file": "63APND151___ojos-de-buey.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND151___ojos-de-buey.webp"
+    },
+    {
+      "name": "63APND163___pingüi",
+      "file": "63APND163___pingüi.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND163___pingüi.webp"
+    },
+    {
+      "name": "63APND195___torta",
+      "file": "63APND195___torta.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND195___torta.webp"
+    },
+    {
+      "name": "63APND198___pan-dulce-miniatura-pieza",
+      "file": "63APND198___pan-dulce-miniatura-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND198___pan-dulce-miniatura-pieza.webp"
+    },
+    {
+      "name": "63APND278___chocolatin",
+      "file": "63APND278___chocolatin.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND278___chocolatin.webp"
+    },
+    {
+      "name": "63APND433___medias-noches-con-8-piezas",
+      "file": "63APND433___medias-noches-con-8-piezas.webp",
+      "path": "panaderia_y_tortilleria/opt/63APND433___medias-noches-con-8-piezas.webp"
+    },
+    {
+      "name": "63CPND002___galletas-de-pasta-seca-250-g-aproximado",
+      "file": "63CPND002___galletas-de-pasta-seca-250-g-aproximado.webp",
+      "path": "panaderia_y_tortilleria/opt/63CPND002___galletas-de-pasta-seca-250-g-aproximado.webp"
+    },
+    {
+      "name": "63DSMK005___tortilla-kilo",
+      "file": "63DSMK005___tortilla-kilo.webp",
+      "path": "panaderia_y_tortilleria/opt/63DSMK005___tortilla-kilo.webp"
+    },
+    {
+      "name": "658480001262___tostadas-sanissimo-horneadas-216-g",
+      "file": "658480001262___tostadas-sanissimo-horneadas-216-g.webp",
+      "path": "panaderia_y_tortilleria/opt/658480001262___tostadas-sanissimo-horneadas-216-g.webp"
+    },
+    {
+      "name": "658480001347___planitas-sanissimo-salmas-360-g",
+      "file": "658480001347___planitas-sanissimo-salmas-360-g.webp",
+      "path": "panaderia_y_tortilleria/opt/658480001347___planitas-sanissimo-salmas-360-g.webp"
+    },
+    {
+      "name": "7500810029183___pan-blanco-bimbo-620-g",
+      "file": "7500810029183___pan-blanco-bimbo-620-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7500810029183___pan-blanco-bimbo-620-g.webp"
+    },
+    {
+      "name": "7500810029947___pan-bimbo-integral-350-g",
+      "file": "7500810029947___pan-bimbo-integral-350-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7500810029947___pan-bimbo-integral-350-g.webp"
+    },
+    {
+      "name": "7500810029954___pan-bimbo-blanco-350-g",
+      "file": "7500810029954___pan-bimbo-blanco-350-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7500810029954___pan-bimbo-blanco-350-g.webp"
+    },
+    {
+      "name": "7500810036624___tortillinas-tía-rosa-382.5-g",
+      "file": "7500810036624___tortillinas-tía-rosa-382.5-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7500810036624___tortillinas-tía-rosa-382.5-g.webp"
+    },
+    {
+      "name": "7501000112333___pan-tostado-bimbo-doble-fibra-250-g",
+      "file": "7501000112333___pan-tostado-bimbo-doble-fibra-250-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501000112333___pan-tostado-bimbo-doble-fibra-250-g.webp"
+    },
+    {
+      "name": "7501030433729___pan-para-hamburguesas-bimbo-bimbollos-brioche-465-g",
+      "file": "7501030433729___pan-para-hamburguesas-bimbo-bimbollos-brioche-465-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501030433729___pan-para-hamburguesas-bimbo-bimbollos-brioche-465-g.webp"
+    },
+    {
+      "name": "7501030477327___tortillas-de-harina-tía-rosa-tortillinas-ligeras-306-g",
+      "file": "7501030477327___tortillas-de-harina-tía-rosa-tortillinas-ligeras-306-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501030477327___tortillas-de-harina-tía-rosa-tortillinas-ligeras-306-g.webp"
+    },
+    {
+      "name": "7501030477488___pan-bimbo-madalenas-93-g",
+      "file": "7501030477488___pan-bimbo-madalenas-93-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501030477488___pan-bimbo-madalenas-93-g.webp"
+    },
+    {
+      "name": "7501030491668___pan-tostado-bimbo-integral-250-g",
+      "file": "7501030491668___pan-tostado-bimbo-integral-250-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501030491668___pan-tostado-bimbo-integral-250-g.webp"
+    },
+    {
+      "name": "7501052437200___crutones-cesar-clemente-jacques-142-g",
+      "file": "7501052437200___crutones-cesar-clemente-jacques-142-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501052437200___crutones-cesar-clemente-jacques-142-g.webp"
+    },
+    {
+      "name": "7501052437217___crutones-italiana-clemente-jacques-142-g",
+      "file": "7501052437217___crutones-italiana-clemente-jacques-142-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501052437217___crutones-italiana-clemente-jacques-142-g.webp"
+    },
+    {
+      "name": "7501052437224___crutones-ranch-clemente-jacques-142-g",
+      "file": "7501052437224___crutones-ranch-clemente-jacques-142-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501052437224___crutones-ranch-clemente-jacques-142-g.webp"
+    },
+    {
+      "name": "7501052437231___crutones-queso-y-ajo-clemente-jacques-142-g",
+      "file": "7501052437231___crutones-queso-y-ajo-clemente-jacques-142-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501052437231___crutones-queso-y-ajo-clemente-jacques-142-g.webp"
+    },
+    {
+      "name": "7501054910084___tortilla-mission-de-harina-caseras-250-g",
+      "file": "7501054910084___tortilla-mission-de-harina-caseras-250-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501054910084___tortilla-mission-de-harina-caseras-250-g.webp"
+    },
+    {
+      "name": "7501054910404___wraps-de-harina-trigo-6-piezas-mission-372-g",
+      "file": "7501054910404___wraps-de-harina-trigo-6-piezas-mission-372-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7501054910404___wraps-de-harina-trigo-6-piezas-mission-372-g.webp"
+    },
+    {
+      "name": "7502270330007___tortilla-placera-tradicion-800-g",
+      "file": "7502270330007___tortilla-placera-tradicion-800-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7502270330007___tortilla-placera-tradicion-800-g.webp"
+    },
+    {
+      "name": "7502270330021___tortilla-taquera-la-tradicion-900-g",
+      "file": "7502270330021___tortilla-taquera-la-tradicion-900-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7502270330021___tortilla-taquera-la-tradicion-900-g.webp"
+    },
+    {
+      "name": "7503006703218___tortilla-fresca-de-maíz-tradicional-800-g",
+      "file": "7503006703218___tortilla-fresca-de-maíz-tradicional-800-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7503006703218___tortilla-fresca-de-maíz-tradicional-800-g.webp"
+    },
+    {
+      "name": "7503022208278___tostada-gb-325-g",
+      "file": "7503022208278___tostada-gb-325-g.webp",
+      "path": "panaderia_y_tortilleria/opt/7503022208278___tostada-gb-325-g.webp"
+    },
+    {
+      "name": "888001___baguette-chico",
+      "file": "888001___baguette-chico.webp",
+      "path": "panaderia_y_tortilleria/opt/888001___baguette-chico.webp"
+    },
+    {
+      "name": "888007___cemita-pieza",
+      "file": "888007___cemita-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888007___cemita-pieza.webp"
+    },
+    {
+      "name": "888034___hojaldra-de-guayaba-con-azúcar-chica",
+      "file": "888034___hojaldra-de-guayaba-con-azúcar-chica.webp",
+      "path": "panaderia_y_tortilleria/opt/888034___hojaldra-de-guayaba-con-azúcar-chica.webp"
+    },
+    {
+      "name": "888061___budy-pieza",
+      "file": "888061___budy-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888061___budy-pieza.webp"
+    },
+    {
+      "name": "888075___bolillo",
+      "file": "888075___bolillo.webp",
+      "path": "panaderia_y_tortilleria/opt/888075___bolillo.webp"
+    },
+    {
+      "name": "888077___concha",
+      "file": "888077___concha.webp",
+      "path": "panaderia_y_tortilleria/opt/888077___concha.webp"
+    },
+    {
+      "name": "888079___reja-pieza",
+      "file": "888079___reja-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888079___reja-pieza.webp"
+    },
+    {
+      "name": "888087___abanico-pieza",
+      "file": "888087___abanico-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888087___abanico-pieza.webp"
+    },
+    {
+      "name": "888091___orejas",
+      "file": "888091___orejas.webp",
+      "path": "panaderia_y_tortilleria/opt/888091___orejas.webp"
+    },
+    {
+      "name": "888092___besos-pieza",
+      "file": "888092___besos-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888092___besos-pieza.webp"
+    },
+    {
+      "name": "888108___polvorón",
+      "file": "888108___polvorón.webp",
+      "path": "panaderia_y_tortilleria/opt/888108___polvorón.webp"
+    },
+    {
+      "name": "888109___multis-surtido-pieza",
+      "file": "888109___multis-surtido-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888109___multis-surtido-pieza.webp"
+    },
+    {
+      "name": "888111___mantecada-pieza",
+      "file": "888111___mantecada-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888111___mantecada-pieza.webp"
+    },
+    {
+      "name": "888113___pan-calabaza-pieza",
+      "file": "888113___pan-calabaza-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888113___pan-calabaza-pieza.webp"
+    },
+    {
+      "name": "888135___polvorón-amarillo",
+      "file": "888135___polvorón-amarillo.webp",
+      "path": "panaderia_y_tortilleria/opt/888135___polvorón-amarillo.webp"
+    },
+    {
+      "name": "888136___bisquet",
+      "file": "888136___bisquet.webp",
+      "path": "panaderia_y_tortilleria/opt/888136___bisquet.webp"
+    },
+    {
+      "name": "888149___muffins-pieza",
+      "file": "888149___muffins-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888149___muffins-pieza.webp"
+    },
+    {
+      "name": "888152___borracho-pieza",
+      "file": "888152___borracho-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888152___borracho-pieza.webp"
+    },
+    {
+      "name": "888180___rollitos-de-jamón-con-queso-pieza",
+      "file": "888180___rollitos-de-jamón-con-queso-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/888180___rollitos-de-jamón-con-queso-pieza.webp"
+    },
+    {
+      "name": "888471___bastón-navideño",
+      "file": "888471___bastón-navideño.webp",
+      "path": "panaderia_y_tortilleria/opt/888471___bastón-navideño.webp"
+    },
+    {
+      "name": "888475___hojaldra-mini",
+      "file": "888475___hojaldra-mini.webp",
+      "path": "panaderia_y_tortilleria/opt/888475___hojaldra-mini.webp"
+    },
+    {
+      "name": "8888563___pastel-rich-dulce-bavaria-10-in",
+      "file": "8888563___pastel-rich-dulce-bavaria-10-in.webp",
+      "path": "panaderia_y_tortilleria/opt/8888563___pastel-rich-dulce-bavaria-10-in.webp"
+    },
+    {
+      "name": "888859___pastel-rich-durazno-10-in",
+      "file": "888859___pastel-rich-durazno-10-in.webp",
+      "path": "panaderia_y_tortilleria/opt/888859___pastel-rich-durazno-10-in.webp"
+    },
+    {
+      "name": "888862___pastel-rich-chocolate-10-in",
+      "file": "888862___pastel-rich-chocolate-10-in.webp",
+      "path": "panaderia_y_tortilleria/opt/888862___pastel-rich-chocolate-10-in.webp"
+    },
+    {
+      "name": "888996___pastel-chocolate-mediano-850-g",
+      "file": "888996___pastel-chocolate-mediano-850-g.webp",
+      "path": "panaderia_y_tortilleria/opt/888996___pastel-chocolate-mediano-850-g.webp"
+    },
+    {
+      "name": "888997___pastel-vainilla-mediano-850-g",
+      "file": "888997___pastel-vainilla-mediano-850-g.webp",
+      "path": "panaderia_y_tortilleria/opt/888997___pastel-vainilla-mediano-850-g.webp"
+    },
+    {
+      "name": "889061___rosca-de-reyes-individual-de-500-g",
+      "file": "889061___rosca-de-reyes-individual-de-500-g.webp",
+      "path": "panaderia_y_tortilleria/opt/889061___rosca-de-reyes-individual-de-500-g.webp"
+    },
+    {
+      "name": "889099___cubilete-hawaiano-pieza",
+      "file": "889099___cubilete-hawaiano-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/889099___cubilete-hawaiano-pieza.webp"
+    },
+    {
+      "name": "889100___cubilete-de-pepperoni-pieza",
+      "file": "889100___cubilete-de-pepperoni-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/889100___cubilete-de-pepperoni-pieza.webp"
+    },
+    {
+      "name": "889101___salchicha-envuelta-pieza",
+      "file": "889101___salchicha-envuelta-pieza.webp",
+      "path": "panaderia_y_tortilleria/opt/889101___salchicha-envuelta-pieza.webp"
+    },
+    {
+      "name": "RoscaChocolate___rosca-de-chocolate",
+      "file": "RoscaChocolate___rosca-de-chocolate.webp",
+      "path": "panaderia_y_tortilleria/opt/RoscaChocolate___rosca-de-chocolate.webp"
+    }
+  ]
+}

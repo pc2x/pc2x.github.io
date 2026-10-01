@@ -1,0 +1,3007 @@
+{
+  "generatedAt": "2026-10-01T05:48:45Z",
+  "folder": "despensa",
+  "count": 600,
+  "images": [
+    {
+      "name": "009542041434___chocolate-lindor-leche-bolsa-120-g",
+      "file": "009542041434___chocolate-lindor-leche-bolsa-120-g.webp",
+      "path": "despensa/opt/009542041434___chocolate-lindor-leche-bolsa-120-g.webp"
+    },
+    {
+      "name": "009542440831___chocolate-lindor-surtido-bolsa-120-g",
+      "file": "009542440831___chocolate-lindor-surtido-bolsa-120-g.webp",
+      "path": "despensa/opt/009542440831___chocolate-lindor-surtido-bolsa-120-g.webp"
+    },
+    {
+      "name": "010248765166___pasta-yemina-fideo-cambray-200-g",
+      "file": "010248765166___pasta-yemina-fideo-cambray-200-g.webp",
+      "path": "despensa/opt/010248765166___pasta-yemina-fideo-cambray-200-g.webp"
+    },
+    {
+      "name": "010248765180___pasta-yemina-codo-liso-número-2-de-200-g",
+      "file": "010248765180___pasta-yemina-codo-liso-número-2-de-200-g.webp",
+      "path": "despensa/opt/010248765180___pasta-yemina-codo-liso-número-2-de-200-g.webp"
+    },
+    {
+      "name": "010248765203___pasta-yemina-concha-número-2-de-200-g",
+      "file": "010248765203___pasta-yemina-concha-número-2-de-200-g.webp",
+      "path": "despensa/opt/010248765203___pasta-yemina-concha-número-2-de-200-g.webp"
+    },
+    {
+      "name": "010248765210___pasta-yemina-plumilla-200-g",
+      "file": "010248765210___pasta-yemina-plumilla-200-g.webp",
+      "path": "despensa/opt/010248765210___pasta-yemina-plumilla-200-g.webp"
+    },
+    {
+      "name": "010248765234___pasta-yemina-corbata-200-g",
+      "file": "010248765234___pasta-yemina-corbata-200-g.webp",
+      "path": "despensa/opt/010248765234___pasta-yemina-corbata-200-g.webp"
+    },
+    {
+      "name": "010248765241___pasta-yemina-spaghetti-200-g",
+      "file": "010248765241___pasta-yemina-spaghetti-200-g.webp",
+      "path": "despensa/opt/010248765241___pasta-yemina-spaghetti-200-g.webp"
+    },
+    {
+      "name": "010248765265___pasta-yemina-tallarín-largo-200-g",
+      "file": "010248765265___pasta-yemina-tallarín-largo-200-g.webp",
+      "path": "despensa/opt/010248765265___pasta-yemina-tallarín-largo-200-g.webp"
+    },
+    {
+      "name": "011848126616___salsa-picante-la-anita-habanero-roja-150-g",
+      "file": "011848126616___salsa-picante-la-anita-habanero-roja-150-g.webp",
+      "path": "despensa/opt/011848126616___salsa-picante-la-anita-habanero-roja-150-g.webp"
+    },
+    {
+      "name": "011848126623.jpg___salsa-picante-la-anita-habanero-verde-150-g",
+      "file": "011848126623.jpg___salsa-picante-la-anita-habanero-verde-150-g.webp",
+      "path": "despensa/opt/011848126623.jpg___salsa-picante-la-anita-habanero-verde-150-g.webp"
+    },
+    {
+      "name": "011848126630___salsa-picante-la-anita-habanero-ligera-150-g",
+      "file": "011848126630___salsa-picante-la-anita-habanero-ligera-150-g.webp",
+      "path": "despensa/opt/011848126630___salsa-picante-la-anita-habanero-ligera-150-g.webp"
+    },
+    {
+      "name": "011848126654.jpg___salsa-picante-la-anita-habanero-roja-250-g",
+      "file": "011848126654.jpg___salsa-picante-la-anita-habanero-roja-250-g.webp",
+      "path": "despensa/opt/011848126654.jpg___salsa-picante-la-anita-habanero-roja-250-g.webp"
+    },
+    {
+      "name": "011848126661.jpg___salsa-picante-la-anita-habanero-verde-250-g",
+      "file": "011848126661.jpg___salsa-picante-la-anita-habanero-verde-250-g.webp",
+      "path": "despensa/opt/011848126661.jpg___salsa-picante-la-anita-habanero-verde-250-g.webp"
+    },
+    {
+      "name": "013602000309___polvo-rexal-para-hornear-150-g",
+      "file": "013602000309___polvo-rexal-para-hornear-150-g.webp",
+      "path": "despensa/opt/013602000309___polvo-rexal-para-hornear-150-g.webp"
+    },
+    {
+      "name": "016000208018___harina-betty-crocker-pastel-chocolate-375-g",
+      "file": "016000208018___harina-betty-crocker-pastel-chocolate-375-g.webp",
+      "path": "despensa/opt/016000208018___harina-betty-crocker-pastel-chocolate-375-g.webp"
+    },
+    {
+      "name": "016000208049___harina-betty-crocker-pastel-chocolate-oscuro-375-g",
+      "file": "016000208049___harina-betty-crocker-pastel-chocolate-oscuro-375-g.webp",
+      "path": "despensa/opt/016000208049___harina-betty-crocker-pastel-chocolate-oscuro-375-g.webp"
+    },
+    {
+      "name": "016000208056___harina-betty-crocker-brownie-462-g",
+      "file": "016000208056___harina-betty-crocker-brownie-462-g.webp",
+      "path": "despensa/opt/016000208056___harina-betty-crocker-brownie-462-g.webp"
+    },
+    {
+      "name": "016000208094___harina-betty-crocker-pastel-vainilla-375-g",
+      "file": "016000208094___harina-betty-crocker-pastel-vainilla-375-g.webp",
+      "path": "despensa/opt/016000208094___harina-betty-crocker-pastel-vainilla-375-g.webp"
+    },
+    {
+      "name": "016000208131___harina-betty-crocker-pastel-vainilla-francesa-375-g",
+      "file": "016000208131___harina-betty-crocker-pastel-vainilla-francesa-375-g.webp",
+      "path": "despensa/opt/016000208131___harina-betty-crocker-pastel-vainilla-francesa-375-g.webp"
+    },
+    {
+      "name": "016000208155___harina-betty-crocker-pastel-red-velvet-375-g",
+      "file": "016000208155___harina-betty-crocker-pastel-red-velvet-375-g.webp",
+      "path": "despensa/opt/016000208155___harina-betty-crocker-pastel-red-velvet-375-g.webp"
+    },
+    {
+      "name": "018804701138___gomitas-canels-mini-cherry-cajita-ice-50-g",
+      "file": "018804701138___gomitas-canels-mini-cherry-cajita-ice-50-g.webp",
+      "path": "despensa/opt/018804701138___gomitas-canels-mini-cherry-cajita-ice-50-g.webp"
+    },
+    {
+      "name": "019521100014.jpg___aceite-carapelli-oliva-oro-verde-extra-virgen-750-ml",
+      "file": "019521100014.jpg___aceite-carapelli-oliva-oro-verde-extra-virgen-750-ml.webp",
+      "path": "despensa/opt/019521100014.jpg___aceite-carapelli-oliva-oro-verde-extra-virgen-750-ml.webp"
+    },
+    {
+      "name": "022110079806___goma-de-mascar-hubba-bubba-tutti-frutti-56.7-g",
+      "file": "022110079806___goma-de-mascar-hubba-bubba-tutti-frutti-56.7-g.webp",
+      "path": "despensa/opt/022110079806___goma-de-mascar-hubba-bubba-tutti-frutti-56.7-g.webp"
+    },
+    {
+      "name": "024142007574___caramelo-montes-damy-leche-y-cacahuate-274-g",
+      "file": "024142007574___caramelo-montes-damy-leche-y-cacahuate-274-g.webp",
+      "path": "despensa/opt/024142007574___caramelo-montes-damy-leche-y-cacahuate-274-g.webp"
+    },
+    {
+      "name": "024142020009___tomy-montes-con-100-piezas",
+      "file": "024142020009___tomy-montes-con-100-piezas.webp",
+      "path": "despensa/opt/024142020009___tomy-montes-con-100-piezas.webp"
+    },
+    {
+      "name": "036___ciruela-pasa-250-g-aproximado",
+      "file": "036___ciruela-pasa-250-g-aproximado.webp",
+      "path": "despensa/opt/036___ciruela-pasa-250-g-aproximado.webp"
+    },
+    {
+      "name": "037600104999___crema-skippy-de-cacahuate-red-grasa-462-g",
+      "file": "037600104999___crema-skippy-de-cacahuate-red-grasa-462-g.webp",
+      "path": "despensa/opt/037600104999___crema-skippy-de-cacahuate-red-grasa-462-g.webp"
+    },
+    {
+      "name": "041116206252___caramelo-ring-pop-topps-varios-sabores-14-g",
+      "file": "041116206252___caramelo-ring-pop-topps-varios-sabores-14-g.webp",
+      "path": "despensa/opt/041116206252___caramelo-ring-pop-topps-varios-sabores-14-g.webp"
+    },
+    {
+      "name": "041390001093___salsa-kikkoman-soya-red-en-sodio-148-ml",
+      "file": "041390001093___salsa-kikkoman-soya-red-en-sodio-148-ml.webp",
+      "path": "despensa/opt/041390001093___salsa-kikkoman-soya-red-en-sodio-148-ml.webp"
+    },
+    {
+      "name": "041789001864___maruchan-camaron-chile-habanero-64-g",
+      "file": "041789001864___maruchan-camaron-chile-habanero-64-g.webp",
+      "path": "despensa/opt/041789001864___maruchan-camaron-chile-habanero-64-g.webp"
+    },
+    {
+      "name": "041789003981___maruchan-bowl-camarón-limón-y-habanero-94.3-g",
+      "file": "041789003981___maruchan-bowl-camarón-limón-y-habanero-94.3-g.webp",
+      "path": "despensa/opt/041789003981___maruchan-bowl-camarón-limón-y-habanero-94.3-g.webp"
+    },
+    {
+      "name": "041789007910___maruchan-yakisoba-sabor-pollo-113.4-g",
+      "file": "041789007910___maruchan-yakisoba-sabor-pollo-113.4-g.webp",
+      "path": "despensa/opt/041789007910___maruchan-yakisoba-sabor-pollo-113.4-g.webp"
+    },
+    {
+      "name": "041789008030___maruchan-ottima-sabor-queso-93.4-g",
+      "file": "041789008030___maruchan-ottima-sabor-queso-93.4-g.webp",
+      "path": "despensa/opt/041789008030___maruchan-ottima-sabor-queso-93.4-g.webp"
+    },
+    {
+      "name": "052100324036___pimienta-mccormick-negra-molida-gruesa-453-g",
+      "file": "052100324036___pimienta-mccormick-negra-molida-gruesa-453-g.webp",
+      "path": "despensa/opt/052100324036___pimienta-mccormick-negra-molida-gruesa-453-g.webp"
+    },
+    {
+      "name": "070662248164___pasta-nissin-ufo-res-teriyaki-99-g",
+      "file": "070662248164___pasta-nissin-ufo-res-teriyaki-99-g.webp",
+      "path": "despensa/opt/070662248164___pasta-nissin-ufo-res-teriyaki-99-g.webp"
+    },
+    {
+      "name": "07501030419099___pastelito-marinela-mini-pingüino-25-g",
+      "file": "07501030419099___pastelito-marinela-mini-pingüino-25-g.webp",
+      "path": "despensa/opt/07501030419099___pastelito-marinela-mini-pingüino-25-g.webp"
+    },
+    {
+      "name": "07501058632227___cremador-coffe-mate-original-520-g",
+      "file": "07501058632227___cremador-coffe-mate-original-520-g.webp",
+      "path": "despensa/opt/07501058632227___cremador-coffe-mate-original-520-g.webp"
+    },
+    {
+      "name": "07622210575364___galleta-oreo-pay-limon-display-4-piezas-de-63-g",
+      "file": "07622210575364___galleta-oreo-pay-limon-display-4-piezas-de-63-g.webp",
+      "path": "despensa/opt/07622210575364___galleta-oreo-pay-limon-display-4-piezas-de-63-g.webp"
+    },
+    {
+      "name": "094331400257___granola-granvita-0%-azucar-arandanos-350-g",
+      "file": "094331400257___granola-granvita-0%-azucar-arandanos-350-g.webp",
+      "path": "despensa/opt/094331400257___granola-granvita-0%-azucar-arandanos-350-g.webp"
+    },
+    {
+      "name": "09511014___nido-polvo-kinder-1400-g-más-1-vaso-entrenador",
+      "file": "09511014___nido-polvo-kinder-1400-g-más-1-vaso-entrenador.webp",
+      "path": "despensa/opt/09511014___nido-polvo-kinder-1400-g-más-1-vaso-entrenador.webp"
+    },
+    {
+      "name": "10038629001693___galleta-la-moderna-marias-170-g",
+      "file": "10038629001693___galleta-la-moderna-marias-170-g.webp",
+      "path": "despensa/opt/10038629001693___galleta-la-moderna-marias-170-g.webp"
+    },
+    {
+      "name": "134___nuez-de-la-india-pelada-250-g-aproximado",
+      "file": "134___nuez-de-la-india-pelada-250-g-aproximado.webp",
+      "path": "despensa/opt/134___nuez-de-la-india-pelada-250-g-aproximado.webp"
+    },
+    {
+      "name": "14BMAR115___maruchan-queso-64-gr",
+      "file": "14BMAR115___maruchan-queso-64-gr.webp",
+      "path": "despensa/opt/14BMAR115___maruchan-queso-64-gr.webp"
+    },
+    {
+      "name": "17501003112191___pimienta-negra-molida-mccormick-10-g",
+      "file": "17501003112191___pimienta-negra-molida-mccormick-10-g.webp",
+      "path": "despensa/opt/17501003112191___pimienta-negra-molida-mccormick-10-g.webp"
+    },
+    {
+      "name": "17501079220370___galleta-anatina-coco-125-g",
+      "file": "17501079220370___galleta-anatina-coco-125-g.webp",
+      "path": "despensa/opt/17501079220370___galleta-anatina-coco-125-g.webp"
+    },
+    {
+      "name": "17501079225313___galleta-angelinas-black-&-white-105-g",
+      "file": "17501079225313___galleta-angelinas-black-&-white-105-g.webp",
+      "path": "despensa/opt/17501079225313___galleta-angelinas-black-&-white-105-g.webp"
+    },
+    {
+      "name": "17501111105108___arroz-sos-sushi-1-k",
+      "file": "17501111105108___arroz-sos-sushi-1-k.webp",
+      "path": "despensa/opt/17501111105108___arroz-sos-sushi-1-k.webp"
+    },
+    {
+      "name": "184___cacahuate-limpio-250-g-aproximado",
+      "file": "184___cacahuate-limpio-250-g-aproximado.webp",
+      "path": "despensa/opt/184___cacahuate-limpio-250-g-aproximado.webp"
+    },
+    {
+      "name": "20823703802290___malvavisco-máxima-mini-40-g",
+      "file": "20823703802290___malvavisco-máxima-mini-40-g.webp",
+      "path": "despensa/opt/20823703802290___malvavisco-máxima-mini-40-g.webp"
+    },
+    {
+      "name": "230___datil-250-g-aproximado",
+      "file": "230___datil-250-g-aproximado.webp",
+      "path": "despensa/opt/230___datil-250-g-aproximado.webp"
+    },
+    {
+      "name": "244___amaranto-250-g-aproximado",
+      "file": "244___amaranto-250-g-aproximado.webp",
+      "path": "despensa/opt/244___amaranto-250-g-aproximado.webp"
+    },
+    {
+      "name": "260___canela-molida-250-g-aproximado",
+      "file": "260___canela-molida-250-g-aproximado.webp",
+      "path": "despensa/opt/260___canela-molida-250-g-aproximado.webp"
+    },
+    {
+      "name": "269___pistache-con-cascara-250-g-aproximado",
+      "file": "269___pistache-con-cascara-250-g-aproximado.webp",
+      "path": "despensa/opt/269___pistache-con-cascara-250-g-aproximado.webp"
+    },
+    {
+      "name": "274___haba-pelada-250-g-aproximado",
+      "file": "274___haba-pelada-250-g-aproximado.webp",
+      "path": "despensa/opt/274___haba-pelada-250-g-aproximado.webp"
+    },
+    {
+      "name": "27501069213839___atole-tres-estrellas-vainilla-47-g",
+      "file": "27501069213839___atole-tres-estrellas-vainilla-47-g.webp",
+      "path": "despensa/opt/27501069213839___atole-tres-estrellas-vainilla-47-g.webp"
+    },
+    {
+      "name": "275___pepita-pelada-250-g-aproximado",
+      "file": "275___pepita-pelada-250-g-aproximado.webp",
+      "path": "despensa/opt/275___pepita-pelada-250-g-aproximado.webp"
+    },
+    {
+      "name": "289___granola-250-aproximado",
+      "file": "289___granola-250-aproximado.webp",
+      "path": "despensa/opt/289___granola-250-aproximado.webp"
+    },
+    {
+      "name": "34587030013___sal-la-fina-1-kg",
+      "file": "34587030013___sal-la-fina-1-kg.webp",
+      "path": "despensa/opt/34587030013___sal-la-fina-1-kg.webp"
+    },
+    {
+      "name": "455___cereal-corn-flakes-250-g-aproximado",
+      "file": "455___cereal-corn-flakes-250-g-aproximado.webp",
+      "path": "despensa/opt/455___cereal-corn-flakes-250-g-aproximado.webp"
+    },
+    {
+      "name": "603554027068___mini-chicle-tattoo-vitrolero-con-150-piezas",
+      "file": "603554027068___mini-chicle-tattoo-vitrolero-con-150-piezas.webp",
+      "path": "despensa/opt/603554027068___mini-chicle-tattoo-vitrolero-con-150-piezas.webp"
+    },
+    {
+      "name": "603554043068___trueno-pop-las-delicias-sabores-frutales-con-50-piezas",
+      "file": "603554043068___trueno-pop-las-delicias-sabores-frutales-con-50-piezas.webp",
+      "path": "despensa/opt/603554043068___trueno-pop-las-delicias-sabores-frutales-con-50-piezas.webp"
+    },
+    {
+      "name": "603554079210___caramelo-las-delicias-animalojos-surtido-15-g",
+      "file": "603554079210___caramelo-las-delicias-animalojos-surtido-15-g.webp",
+      "path": "despensa/opt/603554079210___caramelo-las-delicias-animalojos-surtido-15-g.webp"
+    },
+    {
+      "name": "604498235144___ganata-alimento-lácteo-1-l",
+      "file": "604498235144___ganata-alimento-lácteo-1-l.webp",
+      "path": "despensa/opt/604498235144___ganata-alimento-lácteo-1-l.webp"
+    },
+    {
+      "name": "604498702707___bebida-láctea-valais-1000-ml",
+      "file": "604498702707___bebida-láctea-valais-1000-ml.webp",
+      "path": "despensa/opt/604498702707___bebida-láctea-valais-1000-ml.webp"
+    },
+    {
+      "name": "604498703216___producto-lácteo-sanni-1500-ml",
+      "file": "604498703216___producto-lácteo-sanni-1500-ml.webp",
+      "path": "despensa/opt/604498703216___producto-lácteo-sanni-1500-ml.webp"
+    },
+    {
+      "name": "608875035099___salsa-ketchup-heinz-320-g",
+      "file": "608875035099___salsa-ketchup-heinz-320-g.webp",
+      "path": "despensa/opt/608875035099___salsa-ketchup-heinz-320-g.webp"
+    },
+    {
+      "name": "633148100136___salsa-tajín-polvo-907-g",
+      "file": "633148100136___salsa-tajín-polvo-907-g.webp",
+      "path": "despensa/opt/633148100136___salsa-tajín-polvo-907-g.webp"
+    },
+    {
+      "name": "633148101386___salsa-tajín-dulce-160-g",
+      "file": "633148101386___salsa-tajín-dulce-160-g.webp",
+      "path": "despensa/opt/633148101386___salsa-tajín-dulce-160-g.webp"
+    },
+    {
+      "name": "6355___tortilla-500-g",
+      "file": "6355___tortilla-500-g.webp",
+      "path": "despensa/opt/6355___tortilla-500-g.webp"
+    },
+    {
+      "name": "636817014253___salsa-zaaschila-chipotle-cremosa-pieza-425-g",
+      "file": "636817014253___salsa-zaaschila-chipotle-cremosa-pieza-425-g.webp",
+      "path": "despensa/opt/636817014253___salsa-zaaschila-chipotle-cremosa-pieza-425-g.webp"
+    },
+    {
+      "name": "636817044250___salsa-zaaschila-queso-y-jalapeño-pieza-425-g",
+      "file": "636817044250___salsa-zaaschila-queso-y-jalapeño-pieza-425-g.webp",
+      "path": "despensa/opt/636817044250___salsa-zaaschila-queso-y-jalapeño-pieza-425-g.webp"
+    },
+    {
+      "name": "643795541244___botana-totis-donitas-sal-limón-50-g",
+      "file": "643795541244___botana-totis-donitas-sal-limón-50-g.webp",
+      "path": "despensa/opt/643795541244___botana-totis-donitas-sal-limón-50-g.webp"
+    },
+    {
+      "name": "661440000014___azucar-standar-zulka-1-kg",
+      "file": "661440000014___azucar-standar-zulka-1-kg.webp",
+      "path": "despensa/opt/661440000014___azucar-standar-zulka-1-kg.webp"
+    },
+    {
+      "name": "6640034010824___flan-roly-180-g",
+      "file": "6640034010824___flan-roly-180-g.webp",
+      "path": "despensa/opt/6640034010824___flan-roly-180-g.webp"
+    },
+    {
+      "name": "68101___fritura-pellet-palmex-donita-a-granel-250-g-aproximado",
+      "file": "68101___fritura-pellet-palmex-donita-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/68101___fritura-pellet-palmex-donita-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "68102___fritura-pellet-palmex-rotini-a-granel-250-g-aproximado",
+      "file": "68102___fritura-pellet-palmex-rotini-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/68102___fritura-pellet-palmex-rotini-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "68104___fritura-pellet-palmex-mini-rueda-a-granel-250-g-aproximado",
+      "file": "68104___fritura-pellet-palmex-mini-rueda-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/68104___fritura-pellet-palmex-mini-rueda-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "68106___fritura-pellet-palmex-mini-cuadro-a-granel-250-g-aproximado",
+      "file": "68106___fritura-pellet-palmex-mini-cuadro-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/68106___fritura-pellet-palmex-mini-cuadro-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "714706905612___té-herbacil-limón-con-100-bolsas",
+      "file": "714706905612___té-herbacil-limón-con-100-bolsas.webp",
+      "path": "despensa/opt/714706905612___té-herbacil-limón-con-100-bolsas.webp"
+    },
+    {
+      "name": "714706905629___té-herbacil-hierbabuena-con-100-piezas",
+      "file": "714706905629___té-herbacil-hierbabuena-con-100-piezas.webp",
+      "path": "despensa/opt/714706905629___té-herbacil-hierbabuena-con-100-piezas.webp"
+    },
+    {
+      "name": "714706906428___té-herbacil-alcachofa-con-25-bolsas",
+      "file": "714706906428___té-herbacil-alcachofa-con-25-bolsas.webp",
+      "path": "despensa/opt/714706906428___té-herbacil-alcachofa-con-25-bolsas.webp"
+    },
+    {
+      "name": "714706909290___té-herbacil-manzanilla-con-anís-con-25-bolsas",
+      "file": "714706909290___té-herbacil-manzanilla-con-anís-con-25-bolsas.webp",
+      "path": "despensa/opt/714706909290___té-herbacil-manzanilla-con-anís-con-25-bolsas.webp"
+    },
+    {
+      "name": "725226000862___pulparindots-de-la-rosa-dulce-30-g",
+      "file": "725226000862___pulparindots-de-la-rosa-dulce-30-g.webp",
+      "path": "despensa/opt/725226000862___pulparindots-de-la-rosa-dulce-30-g.webp"
+    },
+    {
+      "name": "725226003351___caramelo-de-la-rosa-suave-aciduladito-con-100-piezas",
+      "file": "725226003351___caramelo-de-la-rosa-suave-aciduladito-con-100-piezas.webp",
+      "path": "despensa/opt/725226003351___caramelo-de-la-rosa-suave-aciduladito-con-100-piezas.webp"
+    },
+    {
+      "name": "735257002605___gelatina-d-gari-arándano-120-g",
+      "file": "735257002605___gelatina-d-gari-arándano-120-g.webp",
+      "path": "despensa/opt/735257002605___gelatina-d-gari-arándano-120-g.webp"
+    },
+    {
+      "name": "735257003907___flan-d-gari-vainilla-805-g",
+      "file": "735257003907___flan-d-gari-vainilla-805-g.webp",
+      "path": "despensa/opt/735257003907___flan-d-gari-vainilla-805-g.webp"
+    },
+    {
+      "name": "735257003909___flan-d-gari-vainilla-115-g",
+      "file": "735257003909___flan-d-gari-vainilla-115-g.webp",
+      "path": "despensa/opt/735257003909___flan-d-gari-vainilla-115-g.webp"
+    },
+    {
+      "name": "735257005538___gelatina-d-gari-cristalina-sabor-fresa-sin-azúcar-de-20-g",
+      "file": "735257005538___gelatina-d-gari-cristalina-sabor-fresa-sin-azúcar-de-20-g.webp",
+      "path": "despensa/opt/735257005538___gelatina-d-gari-cristalina-sabor-fresa-sin-azúcar-de-20-g.webp"
+    },
+    {
+      "name": "735257005545___gelatina-d-gari-zarzamora-sin-azucar-de-20-g",
+      "file": "735257005545___gelatina-d-gari-zarzamora-sin-azucar-de-20-g.webp",
+      "path": "despensa/opt/735257005545___gelatina-d-gari-zarzamora-sin-azucar-de-20-g.webp"
+    },
+    {
+      "name": "735257005552___gelatina-d-gari-chocolate-blanco-sin-azúcar-de-20-g",
+      "file": "735257005552___gelatina-d-gari-chocolate-blanco-sin-azúcar-de-20-g.webp",
+      "path": "despensa/opt/735257005552___gelatina-d-gari-chocolate-blanco-sin-azúcar-de-20-g.webp"
+    },
+    {
+      "name": "735257005750___gelatina-d-gari-manzana-verde-de-120-g",
+      "file": "735257005750___gelatina-d-gari-manzana-verde-de-120-g.webp",
+      "path": "despensa/opt/735257005750___gelatina-d-gari-manzana-verde-de-120-g.webp"
+    },
+    {
+      "name": "735257005767___gelatina-d-gari-limonada-lavanda-de-120-g",
+      "file": "735257005767___gelatina-d-gari-limonada-lavanda-de-120-g.webp",
+      "path": "despensa/opt/735257005767___gelatina-d-gari-limonada-lavanda-de-120-g.webp"
+    },
+    {
+      "name": "735257005774___gelatina-d-gari-leche-choco-ibarra-120-g",
+      "file": "735257005774___gelatina-d-gari-leche-choco-ibarra-120-g.webp",
+      "path": "despensa/opt/735257005774___gelatina-d-gari-leche-choco-ibarra-120-g.webp"
+    },
+    {
+      "name": "735257007143___vainilla-d-gari-240-ml",
+      "file": "735257007143___vainilla-d-gari-240-ml.webp",
+      "path": "despensa/opt/735257007143___vainilla-d-gari-240-ml.webp"
+    },
+    {
+      "name": "735257013007___grenetina-en-polvo-d-gari-sin-sabor-28-g",
+      "file": "735257013007___grenetina-en-polvo-d-gari-sin-sabor-28-g.webp",
+      "path": "despensa/opt/735257013007___grenetina-en-polvo-d-gari-sin-sabor-28-g.webp"
+    },
+    {
+      "name": "739944007246___gloria-las-sevillanas-untable-370-g",
+      "file": "739944007246___gloria-las-sevillanas-untable-370-g.webp",
+      "path": "despensa/opt/739944007246___gloria-las-sevillanas-untable-370-g.webp"
+    },
+    {
+      "name": "7401001587492___aceite-sabe-bien-vegetal-750-ml",
+      "file": "7401001587492___aceite-sabe-bien-vegetal-750-ml.webp",
+      "path": "despensa/opt/7401001587492___aceite-sabe-bien-vegetal-750-ml.webp"
+    },
+    {
+      "name": "7500366000629___paps-totis-sal-170-g",
+      "file": "7500366000629___paps-totis-sal-170-g.webp",
+      "path": "despensa/opt/7500366000629___paps-totis-sal-170-g.webp"
+    },
+    {
+      "name": "7500366000643___paps-totis-adobo-170-g",
+      "file": "7500366000643___paps-totis-adobo-170-g.webp",
+      "path": "despensa/opt/7500366000643___paps-totis-adobo-170-g.webp"
+    },
+    {
+      "name": "7500366000780___botana-top-tops-nacho-52-g",
+      "file": "7500366000780___botana-top-tops-nacho-52-g.webp",
+      "path": "despensa/opt/7500366000780___botana-top-tops-nacho-52-g.webp"
+    },
+    {
+      "name": "7500366000797___botana-top-tops-hot-chili-52-g",
+      "file": "7500366000797___botana-top-tops-hot-chili-52-g.webp",
+      "path": "despensa/opt/7500366000797___botana-top-tops-hot-chili-52-g.webp"
+    },
+    {
+      "name": "7500366001824___botana-top-tops-salsa-negra-52-g",
+      "file": "7500366001824___botana-top-tops-salsa-negra-52-g.webp",
+      "path": "despensa/opt/7500366001824___botana-top-tops-salsa-negra-52-g.webp"
+    },
+    {
+      "name": "7500366003910___papitas-totis-hot-chili-90-g",
+      "file": "7500366003910___papitas-totis-hot-chili-90-g.webp",
+      "path": "despensa/opt/7500366003910___papitas-totis-hot-chili-90-g.webp"
+    },
+    {
+      "name": "7500366003941___papitas-totis-sal-90-g",
+      "file": "7500366003941___papitas-totis-sal-90-g.webp",
+      "path": "despensa/opt/7500366003941___papitas-totis-sal-90-g.webp"
+    },
+    {
+      "name": "7500366003958___papitas-totis-adobo-90-g",
+      "file": "7500366003958___papitas-totis-adobo-90-g.webp",
+      "path": "despensa/opt/7500366003958___papitas-totis-adobo-90-g.webp"
+    },
+    {
+      "name": "7500366005303___totopos-totis-elote-52-g",
+      "file": "7500366005303___totopos-totis-elote-52-g.webp",
+      "path": "despensa/opt/7500366005303___totopos-totis-elote-52-g.webp"
+    },
+    {
+      "name": "7500463096730___granola-wands-frutos-rojos-180-g",
+      "file": "7500463096730___granola-wands-frutos-rojos-180-g.webp",
+      "path": "despensa/opt/7500463096730___granola-wands-frutos-rojos-180-g.webp"
+    },
+    {
+      "name": "7500478003679___galleta-gamesa-maravillas-100-g",
+      "file": "7500478003679___galleta-gamesa-maravillas-100-g.webp",
+      "path": "despensa/opt/7500478003679___galleta-gamesa-maravillas-100-g.webp"
+    },
+    {
+      "name": "7500478010592___galleta-gamesa-marias-177-g",
+      "file": "7500478010592___galleta-gamesa-marias-177-g.webp",
+      "path": "despensa/opt/7500478010592___galleta-gamesa-marias-177-g.webp"
+    },
+    {
+      "name": "7500478013609___galletas-gamesa-emperador-chocolate-72-g",
+      "file": "7500478013609___galletas-gamesa-emperador-chocolate-72-g.webp",
+      "path": "despensa/opt/7500478013609___galletas-gamesa-emperador-chocolate-72-g.webp"
+    },
+    {
+      "name": "7500478015481___botana-cheetos-xfm-max-82-g",
+      "file": "7500478015481___botana-cheetos-xfm-max-82-g.webp",
+      "path": "despensa/opt/7500478015481___botana-cheetos-xfm-max-82-g.webp"
+    },
+    {
+      "name": "7500478021581___galleta-gamesa-emperador-combinado-109-g",
+      "file": "7500478021581___galleta-gamesa-emperador-combinado-109-g.webp",
+      "path": "despensa/opt/7500478021581___galleta-gamesa-emperador-combinado-109-g.webp"
+    },
+    {
+      "name": "7500478022168___cacahuate-kacang-enchilado-77-g",
+      "file": "7500478022168___cacahuate-kacang-enchilado-77-g.webp",
+      "path": "despensa/opt/7500478022168___cacahuate-kacang-enchilado-77-g.webp"
+    },
+    {
+      "name": "7500478022175___cacahuate-kacang-salado-77-g",
+      "file": "7500478022175___cacahuate-kacang-salado-77-g.webp",
+      "path": "despensa/opt/7500478022175___cacahuate-kacang-salado-77-g.webp"
+    },
+    {
+      "name": "7500478022502___galleta-gamesa-emperador-piruetas-115-g",
+      "file": "7500478022502___galleta-gamesa-emperador-piruetas-115-g.webp",
+      "path": "despensa/opt/7500478022502___galleta-gamesa-emperador-piruetas-115-g.webp"
+    },
+    {
+      "name": "7500478022519___galleta-gamesa-emperador-vainilla-de-109-g",
+      "file": "7500478022519___galleta-gamesa-emperador-vainilla-de-109-g.webp",
+      "path": "despensa/opt/7500478022519___galleta-gamesa-emperador-vainilla-de-109-g.webp"
+    },
+    {
+      "name": "7500478022540___galleta-gamesa-emperador-nuez-109-g",
+      "file": "7500478022540___galleta-gamesa-emperador-nuez-109-g.webp",
+      "path": "despensa/opt/7500478022540___galleta-gamesa-emperador-nuez-109-g.webp"
+    },
+    {
+      "name": "7500478024650___galleta-con-malvavisco-flipy-45-g",
+      "file": "7500478024650___galleta-con-malvavisco-flipy-45-g.webp",
+      "path": "despensa/opt/7500478024650___galleta-con-malvavisco-flipy-45-g.webp"
+    },
+    {
+      "name": "7500478026555___cacahuate-karate-japonés-110-g",
+      "file": "7500478026555___cacahuate-karate-japonés-110-g.webp",
+      "path": "despensa/opt/7500478026555___cacahuate-karate-japonés-110-g.webp"
+    },
+    {
+      "name": "7500478028504___botana-sabritas-receta-crujiente-41-g",
+      "file": "7500478028504___botana-sabritas-receta-crujiente-41-g.webp",
+      "path": "despensa/opt/7500478028504___botana-sabritas-receta-crujiente-41-g.webp"
+    },
+    {
+      "name": "7500478033317___avena-quaker-chocoalmendra-40-g",
+      "file": "7500478033317___avena-quaker-chocoalmendra-40-g.webp",
+      "path": "despensa/opt/7500478033317___avena-quaker-chocoalmendra-40-g.webp"
+    },
+    {
+      "name": "7500478033331___avena-quaker-fresa-40-g",
+      "file": "7500478033331___avena-quaker-fresa-40-g.webp",
+      "path": "despensa/opt/7500478033331___avena-quaker-fresa-40-g.webp"
+    },
+    {
+      "name": "7500478033379___avena-quaker-nueces-pasas-datiles-40-g",
+      "file": "7500478033379___avena-quaker-nueces-pasas-datiles-40-g.webp",
+      "path": "despensa/opt/7500478033379___avena-quaker-nueces-pasas-datiles-40-g.webp"
+    },
+    {
+      "name": "7500478034130___harina-para-hot-cakes-pearl-miling-company-800-g",
+      "file": "7500478034130___harina-para-hot-cakes-pearl-miling-company-800-g.webp",
+      "path": "despensa/opt/7500478034130___harina-para-hot-cakes-pearl-miling-company-800-g.webp"
+    },
+    {
+      "name": "7500478034147___harina-para-hot-cakes-pearl-miling-company-500-g",
+      "file": "7500478034147___harina-para-hot-cakes-pearl-miling-company-500-g.webp",
+      "path": "despensa/opt/7500478034147___harina-para-hot-cakes-pearl-miling-company-500-g.webp"
+    },
+    {
+      "name": "7500478034475___botana-doritos-dinamita-flamin-hot-50-g",
+      "file": "7500478034475___botana-doritos-dinamita-flamin-hot-50-g.webp",
+      "path": "despensa/opt/7500478034475___botana-doritos-dinamita-flamin-hot-50-g.webp"
+    },
+    {
+      "name": "7500478034505___botana-doritos-dinamita-chile-limón-50-g",
+      "file": "7500478034505___botana-doritos-dinamita-chile-limón-50-g.webp",
+      "path": "despensa/opt/7500478034505___botana-doritos-dinamita-chile-limón-50-g.webp"
+    },
+    {
+      "name": "7500478035212___galleta-gamesa-emperador-chocotella-72-g",
+      "file": "7500478035212___galleta-gamesa-emperador-chocotella-72-g.webp",
+      "path": "despensa/opt/7500478035212___galleta-gamesa-emperador-chocotella-72-g.webp"
+    },
+    {
+      "name": "7500478035274___galleta-gamesa-emperador-senzo-chocotella-70-g",
+      "file": "7500478035274___galleta-gamesa-emperador-senzo-chocotella-70-g.webp",
+      "path": "despensa/opt/7500478035274___galleta-gamesa-emperador-senzo-chocotella-70-g.webp"
+    },
+    {
+      "name": "7500478035915___galleta-gamesa-marias-azucaradas-140-g",
+      "file": "7500478035915___galleta-gamesa-marias-azucaradas-140-g.webp",
+      "path": "despensa/opt/7500478035915___galleta-gamesa-marias-azucaradas-140-g.webp"
+    },
+    {
+      "name": "7500478036486___galleta-gamesa-marias-chocolate-144-g",
+      "file": "7500478036486___galleta-gamesa-marias-chocolate-144-g.webp",
+      "path": "despensa/opt/7500478036486___galleta-gamesa-marias-chocolate-144-g.webp"
+    },
+    {
+      "name": "7500478037254___galleta-gamesa-marias-doradas-199-g",
+      "file": "7500478037254___galleta-gamesa-marias-doradas-199-g.webp",
+      "path": "despensa/opt/7500478037254___galleta-gamesa-marias-doradas-199-g.webp"
+    },
+    {
+      "name": "7500478037391___botana-tostitos-xtra-flamin-hot-55-gr",
+      "file": "7500478037391___botana-tostitos-xtra-flamin-hot-55-gr.webp",
+      "path": "despensa/opt/7500478037391___botana-tostitos-xtra-flamin-hot-55-gr.webp"
+    },
+    {
+      "name": "7500478037421___galleta-gamesa-chokis-chocobase-73.5-g",
+      "file": "7500478037421___galleta-gamesa-chokis-chocobase-73.5-g.webp",
+      "path": "despensa/opt/7500478037421___galleta-gamesa-chokis-chocobase-73.5-g.webp"
+    },
+    {
+      "name": "7500478038794___galleta-gamesa-ricanelas-113-g",
+      "file": "7500478038794___galleta-gamesa-ricanelas-113-g.webp",
+      "path": "despensa/opt/7500478038794___galleta-gamesa-ricanelas-113-g.webp"
+    },
+    {
+      "name": "7500478038886___galleta-gamesa-delicias-153-g",
+      "file": "7500478038886___galleta-gamesa-delicias-153-g.webp",
+      "path": "despensa/opt/7500478038886___galleta-gamesa-delicias-153-g.webp"
+    },
+    {
+      "name": "7500478039449___galleta-delicias-chocolate-153-g",
+      "file": "7500478039449___galleta-delicias-chocolate-153-g.webp",
+      "path": "despensa/opt/7500478039449___galleta-delicias-chocolate-153-g.webp"
+    },
+    {
+      "name": "7500478039456___galleta-delicias-naranja-153-g",
+      "file": "7500478039456___galleta-delicias-naranja-153-g.webp",
+      "path": "despensa/opt/7500478039456___galleta-delicias-naranja-153-g.webp"
+    },
+    {
+      "name": "7500478039616___cereal-quaker-plátano-nuez-sin-azúcar-sobre-de-40-g",
+      "file": "7500478039616___cereal-quaker-plátano-nuez-sin-azúcar-sobre-de-40-g.webp",
+      "path": "despensa/opt/7500478039616___cereal-quaker-plátano-nuez-sin-azúcar-sobre-de-40-g.webp"
+    },
+    {
+      "name": "7500478039630___cereal-quaker-arándano-sin-azúcar-sobre-de-40-g",
+      "file": "7500478039630___cereal-quaker-arándano-sin-azúcar-sobre-de-40-g.webp",
+      "path": "despensa/opt/7500478039630___cereal-quaker-arándano-sin-azúcar-sobre-de-40-g.webp"
+    },
+    {
+      "name": "7500478039739___harina-gamesa-chokis-500-g",
+      "file": "7500478039739___harina-gamesa-chokis-500-g.webp",
+      "path": "despensa/opt/7500478039739___harina-gamesa-chokis-500-g.webp"
+    },
+    {
+      "name": "7500478040568.jpg___galleta-gamesa-surtido-rico-424-g",
+      "file": "7500478040568.jpg___galleta-gamesa-surtido-rico-424-g.webp",
+      "path": "despensa/opt/7500478040568.jpg___galleta-gamesa-surtido-rico-424-g.webp"
+    },
+    {
+      "name": "7500478042401___galleta-gamesa-barras-de-coco-140-g",
+      "file": "7500478042401___galleta-gamesa-barras-de-coco-140-g.webp",
+      "path": "despensa/opt/7500478042401___galleta-gamesa-barras-de-coco-140-g.webp"
+    },
+    {
+      "name": "7500478043033.jpg___cacahuate-japonés-karate-flamin-hot-80-g",
+      "file": "7500478043033.jpg___cacahuate-japonés-karate-flamin-hot-80-g.webp",
+      "path": "despensa/opt/7500478043033.jpg___cacahuate-japonés-karate-flamin-hot-80-g.webp"
+    },
+    {
+      "name": "7500478044962___galleta-gamesa-marias-postrecitos-pay-limón-70-g",
+      "file": "7500478044962___galleta-gamesa-marias-postrecitos-pay-limón-70-g.webp",
+      "path": "despensa/opt/7500478044962___galleta-gamesa-marias-postrecitos-pay-limón-70-g.webp"
+    },
+    {
+      "name": "7500478044979___galleta-gamesa-marias-postrecitos-pay-mango-70-g",
+      "file": "7500478044979___galleta-gamesa-marias-postrecitos-pay-mango-70-g.webp",
+      "path": "despensa/opt/7500478044979___galleta-gamesa-marias-postrecitos-pay-mango-70-g.webp"
+    },
+    {
+      "name": "7500478045051___galleta-gamesa-pekepakes-374-g",
+      "file": "7500478045051___galleta-gamesa-pekepakes-374-g.webp",
+      "path": "despensa/opt/7500478045051___galleta-gamesa-pekepakes-374-g.webp"
+    },
+    {
+      "name": "7500478045143___galleta-gamesa-maravillas-vainilla-125-g",
+      "file": "7500478045143___galleta-gamesa-maravillas-vainilla-125-g.webp",
+      "path": "despensa/opt/7500478045143___galleta-gamesa-maravillas-vainilla-125-g.webp"
+    },
+    {
+      "name": "7500478045310___botana-paketaxo-botanero-41g",
+      "file": "7500478045310___botana-paketaxo-botanero-41g.webp",
+      "path": "despensa/opt/7500478045310___botana-paketaxo-botanero-41g.webp"
+    },
+    {
+      "name": "7500478045327___botana-paketaxo-xtra-flamin-hot-41-g",
+      "file": "7500478045327___botana-paketaxo-xtra-flamin-hot-41-g.webp",
+      "path": "despensa/opt/7500478045327___botana-paketaxo-xtra-flamin-hot-41-g.webp"
+    },
+    {
+      "name": "7500478045372___sabritones-rejitas-muy-picosas-60-g",
+      "file": "7500478045372___sabritones-rejitas-muy-picosas-60-g.webp",
+      "path": "despensa/opt/7500478045372___sabritones-rejitas-muy-picosas-60-g.webp"
+    },
+    {
+      "name": "7500478045389___sabritones-rodaca-sal-y-limón-60-g",
+      "file": "7500478045389___sabritones-rodaca-sal-y-limón-60-g.webp",
+      "path": "despensa/opt/7500478045389___sabritones-rodaca-sal-y-limón-60-g.webp"
+    },
+    {
+      "name": "7500478045433___sabritones-papas-picositas-90-g",
+      "file": "7500478045433___sabritones-papas-picositas-90-g.webp",
+      "path": "despensa/opt/7500478045433___sabritones-papas-picositas-90-g.webp"
+    },
+    {
+      "name": "7500478045457___sabritones-papas-con-sal-90-g",
+      "file": "7500478045457___sabritones-papas-con-sal-90-g.webp",
+      "path": "despensa/opt/7500478045457___sabritones-papas-con-sal-90-g.webp"
+    },
+    {
+      "name": "7500810004890.jpg___galleta-marinela-sponch-60-g",
+      "file": "7500810004890.jpg___galleta-marinela-sponch-60-g.webp",
+      "path": "despensa/opt/7500810004890.jpg___galleta-marinela-sponch-60-g.webp"
+    },
+    {
+      "name": "7500810015797___pan-bimbo-panqué-mármol-280-g",
+      "file": "7500810015797___pan-bimbo-panqué-mármol-280-g.webp",
+      "path": "despensa/opt/7500810015797___pan-bimbo-panqué-mármol-280-g.webp"
+    },
+    {
+      "name": "7500810015803___pan-bimbo-panque-con-pasas-280-g",
+      "file": "7500810015803___pan-bimbo-panque-con-pasas-280-g.webp",
+      "path": "despensa/opt/7500810015803___pan-bimbo-panque-con-pasas-280-g.webp"
+    },
+    {
+      "name": "7500810015810___pan-bimbo-panque-con-nuez-280-g",
+      "file": "7500810015810___pan-bimbo-panque-con-nuez-280-g.webp",
+      "path": "despensa/opt/7500810015810___pan-bimbo-panque-con-nuez-280-g.webp"
+    },
+    {
+      "name": "7500810016626.jpg___paquete-ricolino-diversión-1382.5-g",
+      "file": "7500810016626.jpg___paquete-ricolino-diversión-1382.5-g.webp",
+      "path": "despensa/opt/7500810016626.jpg___paquete-ricolino-diversión-1382.5-g.webp"
+    },
+    {
+      "name": "7500810018378___botana-barcel-takis-blue-heat-75-g",
+      "file": "7500810018378___botana-barcel-takis-blue-heat-75-g.webp",
+      "path": "despensa/opt/7500810018378___botana-barcel-takis-blue-heat-75-g.webp"
+    },
+    {
+      "name": "7500810022061___pan-bimbo-integral-620-g",
+      "file": "7500810022061___pan-bimbo-integral-620-g.webp",
+      "path": "despensa/opt/7500810022061___pan-bimbo-integral-620-g.webp"
+    },
+    {
+      "name": "7500810026014___tortilla-del-hogar-15-piezas-300-g",
+      "file": "7500810026014___tortilla-del-hogar-15-piezas-300-g.webp",
+      "path": "despensa/opt/7500810026014___tortilla-del-hogar-15-piezas-300-g.webp"
+    },
+    {
+      "name": "7500810036570___galleta-gabi-surtido-danés-300-g",
+      "file": "7500810036570___galleta-gabi-surtido-danés-300-g.webp",
+      "path": "despensa/opt/7500810036570___galleta-gabi-surtido-danés-300-g.webp"
+    },
+    {
+      "name": "7500810039045___pastelito-marinela-hersheys-25-g",
+      "file": "7500810039045___pastelito-marinela-hersheys-25-g.webp",
+      "path": "despensa/opt/7500810039045___pastelito-marinela-hersheys-25-g.webp"
+    },
+    {
+      "name": "7501000111640___pan-para-hamburguesas-bimbo-bimbollos-675-g",
+      "file": "7501000111640___pan-para-hamburguesas-bimbo-bimbollos-675-g.webp",
+      "path": "despensa/opt/7501000111640___pan-para-hamburguesas-bimbo-bimbollos-675-g.webp"
+    },
+    {
+      "name": "7501000122301___galleta-marinela-principe-63-g",
+      "file": "7501000122301___galleta-marinela-principe-63-g.webp",
+      "path": "despensa/opt/7501000122301___galleta-marinela-principe-63-g.webp"
+    },
+    {
+      "name": "7501000640065___galleta-gamesa-giro-57-g",
+      "file": "7501000640065___galleta-gamesa-giro-57-g.webp",
+      "path": "despensa/opt/7501000640065___galleta-gamesa-giro-57-g.webp"
+    },
+    {
+      "name": "7501003103925___chipotles-herdez-enteros-adobo-198-g",
+      "file": "7501003103925___chipotles-herdez-enteros-adobo-198-g.webp",
+      "path": "despensa/opt/7501003103925___chipotles-herdez-enteros-adobo-198-g.webp"
+    },
+    {
+      "name": "7501003103949___carlota-miel-de-abeja-natural-715-g",
+      "file": "7501003103949___carlota-miel-de-abeja-natural-715-g.webp",
+      "path": "despensa/opt/7501003103949___carlota-miel-de-abeja-natural-715-g.webp"
+    },
+    {
+      "name": "7501003103994___rajas-herdez-205-g",
+      "file": "7501003103994___rajas-herdez-205-g.webp",
+      "path": "despensa/opt/7501003103994___rajas-herdez-205-g.webp"
+    },
+    {
+      "name": "7501003104670___jalapeño-herdez-entero-350-g",
+      "file": "7501003104670___jalapeño-herdez-entero-350-g.webp",
+      "path": "despensa/opt/7501003104670___jalapeño-herdez-entero-350-g.webp"
+    },
+    {
+      "name": "7501003109767___salsa-bufalo-picante-clasica-380-g",
+      "file": "7501003109767___salsa-bufalo-picante-clasica-380-g.webp",
+      "path": "despensa/opt/7501003109767___salsa-bufalo-picante-clasica-380-g.webp"
+    },
+    {
+      "name": "7501003110121___mayonesa-mccormick-limón-2800-g",
+      "file": "7501003110121___mayonesa-mccormick-limón-2800-g.webp",
+      "path": "despensa/opt/7501003110121___mayonesa-mccormick-limón-2800-g.webp"
+    },
+    {
+      "name": "7501003110176___mayonesa-mccormick-limon-squeez-290-g",
+      "file": "7501003110176___mayonesa-mccormick-limon-squeez-290-g.webp",
+      "path": "despensa/opt/7501003110176___mayonesa-mccormick-limon-squeez-290-g.webp"
+    },
+    {
+      "name": "7501003110299___mostaza-mc-preparada-squeeze-315-g",
+      "file": "7501003110299___mostaza-mc-preparada-squeeze-315-g.webp",
+      "path": "despensa/opt/7501003110299___mostaza-mc-preparada-squeeze-315-g.webp"
+    },
+    {
+      "name": "7501003110305___mostaza-mc-preparada-squeeze-220-g",
+      "file": "7501003110305___mostaza-mc-preparada-squeeze-220-g.webp",
+      "path": "despensa/opt/7501003110305___mostaza-mc-preparada-squeeze-220-g.webp"
+    },
+    {
+      "name": "7501003110503___pasta-yemina-concha-#1-de-220-g",
+      "file": "7501003110503___pasta-yemina-concha-#1-de-220-g.webp",
+      "path": "despensa/opt/7501003110503___pasta-yemina-concha-#1-de-220-g.webp"
+    },
+    {
+      "name": "7501003110510___pasta-yemina-codo-liso-1-de-220-g",
+      "file": "7501003110510___pasta-yemina-codo-liso-1-de-220-g.webp",
+      "path": "despensa/opt/7501003110510___pasta-yemina-codo-liso-1-de-220-g.webp"
+    },
+    {
+      "name": "7501003110527___pasta-yemina-fideo-mediano-220-g",
+      "file": "7501003110527___pasta-yemina-fideo-mediano-220-g.webp",
+      "path": "despensa/opt/7501003110527___pasta-yemina-fideo-mediano-220-g.webp"
+    },
+    {
+      "name": "7501003110534___pasta-yemina-spaghetti-220-g",
+      "file": "7501003110534___pasta-yemina-spaghetti-220-g.webp",
+      "path": "despensa/opt/7501003110534___pasta-yemina-spaghetti-220-g.webp"
+    },
+    {
+      "name": "7501003112118.jpg___ajo-en-polvo-mccormick-15-g",
+      "file": "7501003112118.jpg___ajo-en-polvo-mccormick-15-g.webp",
+      "path": "despensa/opt/7501003112118.jpg___ajo-en-polvo-mccormick-15-g.webp"
+    },
+    {
+      "name": "7501003112156.jpg___sazonador-sabroseador-mccormick-22-g",
+      "file": "7501003112156.jpg___sazonador-sabroseador-mccormick-22-g.webp",
+      "path": "despensa/opt/7501003112156.jpg___sazonador-sabroseador-mccormick-22-g.webp"
+    },
+    {
+      "name": "7501003112187.jpg___sal-con-ajo-mccormick-45-g",
+      "file": "7501003112187.jpg___sal-con-ajo-mccormick-45-g.webp",
+      "path": "despensa/opt/7501003112187.jpg___sal-con-ajo-mccormick-45-g.webp"
+    },
+    {
+      "name": "7501003112224.jpg___sal-con-cebolla-mccormick-45-g",
+      "file": "7501003112224.jpg___sal-con-cebolla-mccormick-45-g.webp",
+      "path": "despensa/opt/7501003112224.jpg___sal-con-cebolla-mccormick-45-g.webp"
+    },
+    {
+      "name": "7501003113375___mermelada-mccormick-fresa-y-guayaba-270-g-más-té-antigripal",
+      "file": "7501003113375___mermelada-mccormick-fresa-y-guayaba-270-g-más-té-antigripal.webp",
+      "path": "despensa/opt/7501003113375___mermelada-mccormick-fresa-y-guayaba-270-g-más-té-antigripal.webp"
+    },
+    {
+      "name": "7501003113467___rajas-de-jalapeños-herdez-390-g",
+      "file": "7501003113467___rajas-de-jalapeños-herdez-390-g.webp",
+      "path": "despensa/opt/7501003113467___rajas-de-jalapeños-herdez-390-g.webp"
+    },
+    {
+      "name": "7501003301802___té-mccormick-balance-buenas-noches-frutos-rojos-20-sobres",
+      "file": "7501003301802___té-mccormick-balance-buenas-noches-frutos-rojos-20-sobres.webp",
+      "path": "despensa/opt/7501003301802___té-mccormick-balance-buenas-noches-frutos-rojos-20-sobres.webp"
+    },
+    {
+      "name": "7501003301826___té-mccormick-balance-antigripal-miel-20-sobres",
+      "file": "7501003301826___té-mccormick-balance-antigripal-miel-20-sobres.webp",
+      "path": "despensa/opt/7501003301826___té-mccormick-balance-antigripal-miel-20-sobres.webp"
+    },
+    {
+      "name": "7501003302212___té-mccormick-balance-energía-pitahaya-20-sobres",
+      "file": "7501003302212___té-mccormick-balance-energía-pitahaya-20-sobres.webp",
+      "path": "despensa/opt/7501003302212___té-mccormick-balance-energía-pitahaya-20-sobres.webp"
+    },
+    {
+      "name": "7501003302304.jpg___té-mccormick-manzanilla-30-bolsas",
+      "file": "7501003302304.jpg___té-mccormick-manzanilla-30-bolsas.webp",
+      "path": "despensa/opt/7501003302304.jpg___té-mccormick-manzanilla-30-bolsas.webp"
+    },
+    {
+      "name": "7501003302380___té-mccormick-manzanilla-25-bolsas-precio-especial",
+      "file": "7501003302380___té-mccormick-manzanilla-25-bolsas-precio-especial.webp",
+      "path": "despensa/opt/7501003302380___té-mccormick-manzanilla-25-bolsas-precio-especial.webp"
+    },
+    {
+      "name": "7501003302687___sal-pimienta-y-limón-mccormick-350-g",
+      "file": "7501003302687___sal-pimienta-y-limón-mccormick-350-g.webp",
+      "path": "despensa/opt/7501003302687___sal-pimienta-y-limón-mccormick-350-g.webp"
+    },
+    {
+      "name": "7501003303387___mayonesa-mccormick-468-g",
+      "file": "7501003303387___mayonesa-mccormick-468-g.webp",
+      "path": "despensa/opt/7501003303387___mayonesa-mccormick-468-g.webp"
+    },
+    {
+      "name": "7501003303691___mostaza-mccormick-preparada-1575-kg",
+      "file": "7501003303691___mostaza-mccormick-preparada-1575-kg.webp",
+      "path": "despensa/opt/7501003303691___mostaza-mccormick-preparada-1575-kg.webp"
+    },
+    {
+      "name": "7501003303998___aderezo-mccormick-ligero-3800-kg",
+      "file": "7501003303998___aderezo-mccormick-ligero-3800-kg.webp",
+      "path": "despensa/opt/7501003303998___aderezo-mccormick-ligero-3800-kg.webp"
+    },
+    {
+      "name": "7501003304254___mermelada-mccormick-frutos-rojos-450-g",
+      "file": "7501003304254___mermelada-mccormick-frutos-rojos-450-g.webp",
+      "path": "despensa/opt/7501003304254___mermelada-mccormick-frutos-rojos-450-g.webp"
+    },
+    {
+      "name": "7501003304452___sal-con-pimienta-mccormick-120-g",
+      "file": "7501003304452___sal-con-pimienta-mccormick-120-g.webp",
+      "path": "despensa/opt/7501003304452___sal-con-pimienta-mccormick-120-g.webp"
+    },
+    {
+      "name": "7501003304841___té-mccormick-surtido-20-sobres",
+      "file": "7501003304841___té-mccormick-surtido-20-sobres.webp",
+      "path": "despensa/opt/7501003304841___té-mccormick-surtido-20-sobres.webp"
+    },
+    {
+      "name": "7501003304889___té-mccormick-hierbabuena-25-pzas-1.25-g",
+      "file": "7501003304889___té-mccormick-hierbabuena-25-pzas-1.25-g.webp",
+      "path": "despensa/opt/7501003304889___té-mccormick-hierbabuena-25-pzas-1.25-g.webp"
+    },
+    {
+      "name": "7501003305350___té-mccormick-hierbabuena-30-sobres-1.4-g-más-20%-gratis",
+      "file": "7501003305350___té-mccormick-hierbabuena-30-sobres-1.4-g-más-20%-gratis.webp",
+      "path": "despensa/opt/7501003305350___té-mccormick-hierbabuena-30-sobres-1.4-g-más-20%-gratis.webp"
+    },
+    {
+      "name": "7501003305831___mayonesa-mccormick-64-con-jugo-de-limón-1400-g",
+      "file": "7501003305831___mayonesa-mccormick-64-con-jugo-de-limón-1400-g.webp",
+      "path": "despensa/opt/7501003305831___mayonesa-mccormick-64-con-jugo-de-limón-1400-g.webp"
+    },
+    {
+      "name": "7501003308368___aderezo-mccormick-habanero-305-g",
+      "file": "7501003308368___aderezo-mccormick-habanero-305-g.webp",
+      "path": "despensa/opt/7501003308368___aderezo-mccormick-habanero-305-g.webp"
+    },
+    {
+      "name": "7501003308399___aderezo-mccormick-para-tortas-y-sandwich-squez-305-g",
+      "file": "7501003308399___aderezo-mccormick-para-tortas-y-sandwich-squez-305-g.webp",
+      "path": "despensa/opt/7501003308399___aderezo-mccormick-para-tortas-y-sandwich-squez-305-g.webp"
+    },
+    {
+      "name": "7501003308412___aderezo-mccormick-12-guacamole-squez-305-g",
+      "file": "7501003308412___aderezo-mccormick-12-guacamole-squez-305-g.webp",
+      "path": "despensa/opt/7501003308412___aderezo-mccormick-12-guacamole-squez-305-g.webp"
+    },
+    {
+      "name": "7501003308535___aderezo-mccormick-con-chipotle-squeeze-310-g",
+      "file": "7501003308535___aderezo-mccormick-con-chipotle-squeeze-310-g.webp",
+      "path": "despensa/opt/7501003308535___aderezo-mccormick-con-chipotle-squeeze-310-g.webp"
+    },
+    {
+      "name": "7501003308542___aderezo-mccormick-chipotle-350-g",
+      "file": "7501003308542___aderezo-mccormick-chipotle-350-g.webp",
+      "path": "despensa/opt/7501003308542___aderezo-mccormick-chipotle-350-g.webp"
+    },
+    {
+      "name": "7501003313287___mayonesa-mccormick-limón-725-g",
+      "file": "7501003313287___mayonesa-mccormick-limón-725-g.webp",
+      "path": "despensa/opt/7501003313287___mayonesa-mccormick-limón-725-g.webp"
+    },
+    {
+      "name": "7501003313676___sal-con-ajo-mccormick-520-g",
+      "file": "7501003313676___sal-con-ajo-mccormick-520-g.webp",
+      "path": "despensa/opt/7501003313676___sal-con-ajo-mccormick-520-g.webp"
+    },
+    {
+      "name": "7501003336125___mermelada-mccormick-fresa-270-g",
+      "file": "7501003336125___mermelada-mccormick-fresa-270-g.webp",
+      "path": "despensa/opt/7501003336125___mermelada-mccormick-fresa-270-g.webp"
+    },
+    {
+      "name": "7501003339522___té-mccormick-canela-manzana-25-bolsas",
+      "file": "7501003339522___té-mccormick-canela-manzana-25-bolsas.webp",
+      "path": "despensa/opt/7501003339522___té-mccormick-canela-manzana-25-bolsas.webp"
+    },
+    {
+      "name": "7501003340160___mayonesa-mccormick-con-jugo-de-limón-3400-g",
+      "file": "7501003340160___mayonesa-mccormick-con-jugo-de-limón-3400-g.webp",
+      "path": "despensa/opt/7501003340160___mayonesa-mccormick-con-jugo-de-limón-3400-g.webp"
+    },
+    {
+      "name": "7501005116145___knorr-pure-papa-deshidratado-800-g",
+      "file": "7501005116145___knorr-pure-papa-deshidratado-800-g.webp",
+      "path": "despensa/opt/7501005116145___knorr-pure-papa-deshidratado-800-g.webp"
+    },
+    {
+      "name": "7501005120777___knorr-tomate-con-24-cubos",
+      "file": "7501005120777___knorr-tomate-con-24-cubos.webp",
+      "path": "despensa/opt/7501005120777___knorr-tomate-con-24-cubos.webp"
+    },
+    {
+      "name": "7501005151962___mayonesa-hellmans-clásica-390-g",
+      "file": "7501005151962___mayonesa-hellmans-clásica-390-g.webp",
+      "path": "despensa/opt/7501005151962___mayonesa-hellmans-clásica-390-g.webp"
+    },
+    {
+      "name": "7501005152822___aderezo-hellmans-3800-ml",
+      "file": "7501005152822___aderezo-hellmans-3800-ml.webp",
+      "path": "despensa/opt/7501005152822___aderezo-hellmans-3800-ml.webp"
+    },
+    {
+      "name": "7501006532531___chícharo-del-monte-con-zanahoria-410-g",
+      "file": "7501006532531___chícharo-del-monte-con-zanahoria-410-g.webp",
+      "path": "despensa/opt/7501006532531___chícharo-del-monte-con-zanahoria-410-g.webp"
+    },
+    {
+      "name": "7501006560428___palomitas-act-ii-inferno-38-g",
+      "file": "7501006560428___palomitas-act-ii-inferno-38-g.webp",
+      "path": "despensa/opt/7501006560428___palomitas-act-ii-inferno-38-g.webp"
+    },
+    {
+      "name": "7501006560923___palomitas-act-ii-habanero-88-g",
+      "file": "7501006560923___palomitas-act-ii-habanero-88-g.webp",
+      "path": "despensa/opt/7501006560923___palomitas-act-ii-habanero-88-g.webp"
+    },
+    {
+      "name": "7501006560947.jpg___palomitas-act-ii-esquites-88-g",
+      "file": "7501006560947.jpg___palomitas-act-ii-esquites-88-g.webp",
+      "path": "despensa/opt/7501006560947.jpg___palomitas-act-ii-esquites-88-g.webp"
+    },
+    {
+      "name": "7501008049747___cereal-kelloggs-extra-arandano-240-g",
+      "file": "7501008049747___cereal-kelloggs-extra-arandano-240-g.webp",
+      "path": "despensa/opt/7501008049747___cereal-kelloggs-extra-arandano-240-g.webp"
+    },
+    {
+      "name": "7501008058008___cereal-kelloggs-choco-krispis-pops-460-g",
+      "file": "7501008058008___cereal-kelloggs-choco-krispis-pops-460-g.webp",
+      "path": "despensa/opt/7501008058008___cereal-kelloggs-choco-krispis-pops-460-g.webp"
+    },
+    {
+      "name": "7501008066263___cereal-kelloggs-special-k-original-530-g",
+      "file": "7501008066263___cereal-kelloggs-special-k-original-530-g.webp",
+      "path": "despensa/opt/7501008066263___cereal-kelloggs-special-k-original-530-g.webp"
+    },
+    {
+      "name": "7501008066386___cereal-kellogs-froot-loops-380-g",
+      "file": "7501008066386___cereal-kellogs-froot-loops-380-g.webp",
+      "path": "despensa/opt/7501008066386___cereal-kellogs-froot-loops-380-g.webp"
+    },
+    {
+      "name": "7501008071366___papas-pringles-crema-cebolla-37-g",
+      "file": "7501008071366___papas-pringles-crema-cebolla-37-g.webp",
+      "path": "despensa/opt/7501008071366___papas-pringles-crema-cebolla-37-g.webp"
+    },
+    {
+      "name": "7501008071380___papas-pringles-habaneras-37-g",
+      "file": "7501008071380___papas-pringles-habaneras-37-g.webp",
+      "path": "despensa/opt/7501008071380___papas-pringles-habaneras-37-g.webp"
+    },
+    {
+      "name": "7501008071397___papas-pringles-adobadas-37-g",
+      "file": "7501008071397___papas-pringles-adobadas-37-g.webp",
+      "path": "despensa/opt/7501008071397___papas-pringles-adobadas-37-g.webp"
+    },
+    {
+      "name": "7501008072462___cereal-kelloggs-special-k-golden-vainilla-380-g",
+      "file": "7501008072462___cereal-kelloggs-special-k-golden-vainilla-380-g.webp",
+      "path": "despensa/opt/7501008072462___cereal-kelloggs-special-k-golden-vainilla-380-g.webp"
+    },
+    {
+      "name": "7501008073735___cereal-kelloggs-corn-flakes-370-g",
+      "file": "7501008073735___cereal-kelloggs-corn-flakes-370-g.webp",
+      "path": "despensa/opt/7501008073735___cereal-kelloggs-corn-flakes-370-g.webp"
+    },
+    {
+      "name": "7501008077320.jpg___cereal-kelloggs-corn-flakes-540-g",
+      "file": "7501008077320.jpg___cereal-kelloggs-corn-flakes-540-g.webp",
+      "path": "despensa/opt/7501008077320.jpg___cereal-kelloggs-corn-flakes-540-g.webp"
+    },
+    {
+      "name": "7501008077399___papas-pringles-queso-nacho-37-g",
+      "file": "7501008077399___papas-pringles-queso-nacho-37-g.webp",
+      "path": "despensa/opt/7501008077399___papas-pringles-queso-nacho-37-g.webp"
+    },
+    {
+      "name": "7501008077566___cereal-kelloggs-special-k-original-200-g",
+      "file": "7501008077566___cereal-kelloggs-special-k-original-200-g.webp",
+      "path": "despensa/opt/7501008077566___cereal-kelloggs-special-k-original-200-g.webp"
+    },
+    {
+      "name": "7501008077689___cereal-kelloggs-choco-krispis-pops-190-g",
+      "file": "7501008077689___cereal-kelloggs-choco-krispis-pops-190-g.webp",
+      "path": "despensa/opt/7501008077689___cereal-kelloggs-choco-krispis-pops-190-g.webp"
+    },
+    {
+      "name": "7501011131361___sabritas-papas-con-sal-160-g",
+      "file": "7501011131361___sabritas-papas-con-sal-160-g.webp",
+      "path": "despensa/opt/7501011131361___sabritas-papas-con-sal-160-g.webp"
+    },
+    {
+      "name": "7501011390478___salsa-prego-con-carne-680-g",
+      "file": "7501011390478___salsa-prego-con-carne-680-g.webp",
+      "path": "despensa/opt/7501011390478___salsa-prego-con-carne-680-g.webp"
+    },
+    {
+      "name": "7501014302508___chocolate-choco-choco-helado-vainilla-300-g",
+      "file": "7501014302508___chocolate-choco-choco-helado-vainilla-300-g.webp",
+      "path": "despensa/opt/7501014302508___chocolate-choco-choco-helado-vainilla-300-g.webp"
+    },
+    {
+      "name": "7501014302577___chocolate-choco-choco-polvo-152-g",
+      "file": "7501014302577___chocolate-choco-choco-polvo-152-g.webp",
+      "path": "despensa/opt/7501014302577___chocolate-choco-choco-polvo-152-g.webp"
+    },
+    {
+      "name": "7501014302584___chocolate-choco-choco-polvo-300-g",
+      "file": "7501014302584___chocolate-choco-choco-polvo-300-g.webp",
+      "path": "despensa/opt/7501014302584___chocolate-choco-choco-polvo-300-g.webp"
+    },
+    {
+      "name": "7501014302591___chocolate-choco-choco-polvo-650-g",
+      "file": "7501014302591___chocolate-choco-choco-polvo-650-g.webp",
+      "path": "despensa/opt/7501014302591___chocolate-choco-choco-polvo-650-g.webp"
+    },
+    {
+      "name": "7501017041008___chiles-largos-en-escabeche-la-costeña-380-g",
+      "file": "7501017041008___chiles-largos-en-escabeche-la-costeña-380-g.webp",
+      "path": "despensa/opt/7501017041008___chiles-largos-en-escabeche-la-costeña-380-g.webp"
+    },
+    {
+      "name": "7501017043132___ensalada-campesina-la-costeña-410-g",
+      "file": "7501017043132___ensalada-campesina-la-costeña-410-g.webp",
+      "path": "despensa/opt/7501017043132___ensalada-campesina-la-costeña-410-g.webp"
+    },
+    {
+      "name": "7501018310318___pasta-la-moderna-estrella-200-g",
+      "file": "7501018310318___pasta-la-moderna-estrella-200-g.webp",
+      "path": "despensa/opt/7501018310318___pasta-la-moderna-estrella-200-g.webp"
+    },
+    {
+      "name": "7501018310691___pasta-moderna-de-señas-200-g",
+      "file": "7501018310691___pasta-moderna-de-señas-200-g.webp",
+      "path": "despensa/opt/7501018310691___pasta-moderna-de-señas-200-g.webp"
+    },
+    {
+      "name": "7501018311377___pasta-la-moderna-conchiglioni-500-g",
+      "file": "7501018311377___pasta-la-moderna-conchiglioni-500-g.webp",
+      "path": "despensa/opt/7501018311377___pasta-la-moderna-conchiglioni-500-g.webp"
+    },
+    {
+      "name": "7501018311384___pasta-la-moderna-rotoni-500-g",
+      "file": "7501018311384___pasta-la-moderna-rotoni-500-g.webp",
+      "path": "despensa/opt/7501018311384___pasta-la-moderna-rotoni-500-g.webp"
+    },
+    {
+      "name": "7501018312299___salsa-la-moderna-para-pasta-italiana-227-g",
+      "file": "7501018312299___salsa-la-moderna-para-pasta-italiana-227-g.webp",
+      "path": "despensa/opt/7501018312299___salsa-la-moderna-para-pasta-italiana-227-g.webp"
+    },
+    {
+      "name": "7501018314026___pasta-la-moderna-lasagna-500-g",
+      "file": "7501018314026___pasta-la-moderna-lasagna-500-g.webp",
+      "path": "despensa/opt/7501018314026___pasta-la-moderna-lasagna-500-g.webp"
+    },
+    {
+      "name": "7501018315092___sopa-la-moderna-instantánea-fideos-y-chile-serrano-82-g",
+      "file": "7501018315092___sopa-la-moderna-instantánea-fideos-y-chile-serrano-82-g.webp",
+      "path": "despensa/opt/7501018315092___sopa-la-moderna-instantánea-fideos-y-chile-serrano-82-g.webp"
+    },
+    {
+      "name": "7501018315207___sopa-la-moderna-instantánea-munición-con-tomate-y-pollo-100-g",
+      "file": "7501018315207___sopa-la-moderna-instantánea-munición-con-tomate-y-pollo-100-g.webp",
+      "path": "despensa/opt/7501018315207___sopa-la-moderna-instantánea-munición-con-tomate-y-pollo-100-g.webp"
+    },
+    {
+      "name": "7501018315573___arroz-la-moderna-primavera-160-g",
+      "file": "7501018315573___arroz-la-moderna-primavera-160-g.webp",
+      "path": "despensa/opt/7501018315573___arroz-la-moderna-primavera-160-g.webp"
+    },
+    {
+      "name": "7501018315580___arroz-la-moderna-a-la-mexicana-160-g",
+      "file": "7501018315580___arroz-la-moderna-a-la-mexicana-160-g.webp",
+      "path": "despensa/opt/7501018315580___arroz-la-moderna-a-la-mexicana-160-g.webp"
+    },
+    {
+      "name": "7501020540666___nutrileche-formula-lactea-1-l",
+      "file": "7501020540666___nutrileche-formula-lactea-1-l.webp",
+      "path": "despensa/opt/7501020540666___nutrileche-formula-lactea-1-l.webp"
+    },
+    {
+      "name": "7501020562415___producto-lácteo-nutri-chocolate-190-ml",
+      "file": "7501020562415___producto-lácteo-nutri-chocolate-190-ml.webp",
+      "path": "despensa/opt/7501020562415___producto-lácteo-nutri-chocolate-190-ml.webp"
+    },
+    {
+      "name": "7501020565911___leche-lala-uht-deslactosada-1000-ml",
+      "file": "7501020565911___leche-lala-uht-deslactosada-1000-ml.webp",
+      "path": "despensa/opt/7501020565911___leche-lala-uht-deslactosada-1000-ml.webp"
+    },
+    {
+      "name": "7501020565959___leche-lala-uht-semid-uedge-1000-ml",
+      "file": "7501020565959___leche-lala-uht-semid-uedge-1000-ml.webp",
+      "path": "despensa/opt/7501020565959___leche-lala-uht-semid-uedge-1000-ml.webp"
+    },
+    {
+      "name": "7501020567366___leche-lala-entera-deslactosada-1000-ml",
+      "file": "7501020567366___leche-lala-entera-deslactosada-1000-ml.webp",
+      "path": "despensa/opt/7501020567366___leche-lala-entera-deslactosada-1000-ml.webp"
+    },
+    {
+      "name": "7501024593057___hersheys-nuggets-coffe-96.4-g",
+      "file": "7501024593057___hersheys-nuggets-coffe-96.4-g.webp",
+      "path": "despensa/opt/7501024593057___hersheys-nuggets-coffe-96.4-g.webp"
+    },
+    {
+      "name": "7501024596157___hersheys-kisses-almendras-184.2-g",
+      "file": "7501024596157___hersheys-kisses-almendras-184.2-g.webp",
+      "path": "despensa/opt/7501024596157___hersheys-kisses-almendras-184.2-g.webp"
+    },
+    {
+      "name": "7501024596164___hersheys-kisses-almendras-123-g",
+      "file": "7501024596164___hersheys-kisses-almendras-123-g.webp",
+      "path": "despensa/opt/7501024596164___hersheys-kisses-almendras-123-g.webp"
+    },
+    {
+      "name": "7501024596188___hersheys-kisses-cereza-178.6-g",
+      "file": "7501024596188___hersheys-kisses-cereza-178.6-g.webp",
+      "path": "despensa/opt/7501024596188___hersheys-kisses-cereza-178.6-g.webp"
+    },
+    {
+      "name": "7501024596256___hersheys-kisses-italiano-174.8-g",
+      "file": "7501024596256___hersheys-kisses-italiano-174.8-g.webp",
+      "path": "despensa/opt/7501024596256___hersheys-kisses-italiano-174.8-g.webp"
+    },
+    {
+      "name": "7501024800728___pasta-yemina-munición-200-g",
+      "file": "7501024800728___pasta-yemina-munición-200-g.webp",
+      "path": "despensa/opt/7501024800728___pasta-yemina-munición-200-g.webp"
+    },
+    {
+      "name": "7501026002366___aceite-1-2-3-100-%-maíz-1-l",
+      "file": "7501026002366___aceite-1-2-3-100-%-maíz-1-l.webp",
+      "path": "despensa/opt/7501026002366___aceite-1-2-3-100-%-maíz-1-l.webp"
+    },
+    {
+      "name": "7501030418504___galleta-marinela-principe-chocolate-maxitubo-210-g",
+      "file": "7501030418504___galleta-marinela-principe-chocolate-maxitubo-210-g.webp",
+      "path": "despensa/opt/7501030418504___galleta-marinela-principe-chocolate-maxitubo-210-g.webp"
+    },
+    {
+      "name": "7501030418528___galleta-marinela-triki-trakes-maxitubo-215-g",
+      "file": "7501030418528___galleta-marinela-triki-trakes-maxitubo-215-g.webp",
+      "path": "despensa/opt/7501030418528___galleta-marinela-triki-trakes-maxitubo-215-g.webp"
+    },
+    {
+      "name": "7501030418542___galleta-marinela-canelitas-maxitubo-224-g",
+      "file": "7501030418542___galleta-marinela-canelitas-maxitubo-224-g.webp",
+      "path": "despensa/opt/7501030418542___galleta-marinela-canelitas-maxitubo-224-g.webp"
+    },
+    {
+      "name": "7501030418559___galleta-marinela-polvorones-maxitubo-310-g",
+      "file": "7501030418559___galleta-marinela-polvorones-maxitubo-310-g.webp",
+      "path": "despensa/opt/7501030418559___galleta-marinela-polvorones-maxitubo-310-g.webp"
+    },
+    {
+      "name": "7501030419020___pastelito-marinela-mini-choco-roles-28-g",
+      "file": "7501030419020___pastelito-marinela-mini-choco-roles-28-g.webp",
+      "path": "despensa/opt/7501030419020___pastelito-marinela-mini-choco-roles-28-g.webp"
+    },
+    {
+      "name": "7501030419037___pastelito-marinela-mini-gansito-24-g",
+      "file": "7501030419037___pastelito-marinela-mini-gansito-24-g.webp",
+      "path": "despensa/opt/7501030419037___pastelito-marinela-mini-gansito-24-g.webp"
+    },
+    {
+      "name": "7501030457183___galleta-marinela-mini-barrita-piña-maxitubo-222-g",
+      "file": "7501030457183___galleta-marinela-mini-barrita-piña-maxitubo-222-g.webp",
+      "path": "despensa/opt/7501030457183___galleta-marinela-mini-barrita-piña-maxitubo-222-g.webp"
+    },
+    {
+      "name": "7501030457190___galleta-marinela-mini-barrita-fresa-222-g",
+      "file": "7501030457190___galleta-marinela-mini-barrita-fresa-222-g.webp",
+      "path": "despensa/opt/7501030457190___galleta-marinela-mini-barrita-fresa-222-g.webp"
+    },
+    {
+      "name": "7501030457428___galleta-gabi-tartas-mix-400-g",
+      "file": "7501030457428___galleta-gabi-tartas-mix-400-g.webp",
+      "path": "despensa/opt/7501030457428___galleta-gabi-tartas-mix-400-g.webp"
+    },
+    {
+      "name": "7501030473404___galleta-gabi-surtido-rico-700-g",
+      "file": "7501030473404___galleta-gabi-surtido-rico-700-g.webp",
+      "path": "despensa/opt/7501030473404___galleta-gabi-surtido-rico-700-g.webp"
+    },
+    {
+      "name": "7501037217049___achiote-lol-tun-500-g",
+      "file": "7501037217049___achiote-lol-tun-500-g.webp",
+      "path": "despensa/opt/7501037217049___achiote-lol-tun-500-g.webp"
+    },
+    {
+      "name": "7501037217162___achiote-lol-tun-100-g",
+      "file": "7501037217162___achiote-lol-tun-100-g.webp",
+      "path": "despensa/opt/7501037217162___achiote-lol-tun-100-g.webp"
+    },
+    {
+      "name": "7501039122792___aceite-gran-tradición-1000-ml",
+      "file": "7501039122792___aceite-gran-tradición-1000-ml.webp",
+      "path": "despensa/opt/7501039122792___aceite-gran-tradición-1000-ml.webp"
+    },
+    {
+      "name": "7501041420206.jpg___atún-ancla-agua-soya-270-g",
+      "file": "7501041420206.jpg___atún-ancla-agua-soya-270-g.webp",
+      "path": "despensa/opt/7501041420206.jpg___atún-ancla-agua-soya-270-g.webp"
+    },
+    {
+      "name": "7501041420213___atún-ancla-aceite-270-g",
+      "file": "7501041420213___atún-ancla-aceite-270-g.webp",
+      "path": "despensa/opt/7501041420213___atún-ancla-aceite-270-g.webp"
+    },
+    {
+      "name": "7501041420220___atún-tuny-agua-con-soya-standard-jumbo-270-g",
+      "file": "7501041420220___atún-tuny-agua-con-soya-standard-jumbo-270-g.webp",
+      "path": "despensa/opt/7501041420220___atún-tuny-agua-con-soya-standard-jumbo-270-g.webp"
+    },
+    {
+      "name": "7501041420237___atún-tuny-aceite-y-soya-standard-jumbo-270-g",
+      "file": "7501041420237___atún-tuny-aceite-y-soya-standard-jumbo-270-g.webp",
+      "path": "despensa/opt/7501041420237___atún-tuny-aceite-y-soya-standard-jumbo-270-g.webp"
+    },
+    {
+      "name": "7501043160643___salsa-pepe-picante-habanero-360-ml",
+      "file": "7501043160643___salsa-pepe-picante-habanero-360-ml.webp",
+      "path": "despensa/opt/7501043160643___salsa-pepe-picante-habanero-360-ml.webp"
+    },
+    {
+      "name": "7501043505826___salsa-picante-pepe-habanero-1-l",
+      "file": "7501043505826___salsa-picante-pepe-habanero-1-l.webp",
+      "path": "despensa/opt/7501043505826___salsa-picante-pepe-habanero-1-l.webp"
+    },
+    {
+      "name": "7501044209181___bicarbonato-racel-de-sodio-cilindro-200-g",
+      "file": "7501044209181___bicarbonato-racel-de-sodio-cilindro-200-g.webp",
+      "path": "despensa/opt/7501044209181___bicarbonato-racel-de-sodio-cilindro-200-g.webp"
+    },
+    {
+      "name": "7501045403915___atún-dolores-en-agua-133-g",
+      "file": "7501045403915___atún-dolores-en-agua-133-g.webp",
+      "path": "despensa/opt/7501045403915___atún-dolores-en-agua-133-g.webp"
+    },
+    {
+      "name": "7501045404400___atún-dorado-agua-130-g",
+      "file": "7501045404400___atún-dorado-agua-130-g.webp",
+      "path": "despensa/opt/7501045404400___atún-dorado-agua-130-g.webp"
+    },
+    {
+      "name": "7501052424606___frijoles-entero-negro-sierra-560-g",
+      "file": "7501052424606___frijoles-entero-negro-sierra-560-g.webp",
+      "path": "despensa/opt/7501052424606___frijoles-entero-negro-sierra-560-g.webp"
+    },
+    {
+      "name": "7501052472485.jpg___salsa-mi-catsup-garrafa-1-kg",
+      "file": "7501052472485.jpg___salsa-mi-catsup-garrafa-1-kg.webp",
+      "path": "despensa/opt/7501052472485.jpg___salsa-mi-catsup-garrafa-1-kg.webp"
+    },
+    {
+      "name": "7501052473550___salsa-clemente-jacques-guacamole-habanero-355-g",
+      "file": "7501052473550___salsa-clemente-jacques-guacamole-habanero-355-g.webp",
+      "path": "despensa/opt/7501052473550___salsa-clemente-jacques-guacamole-habanero-355-g.webp"
+    },
+    {
+      "name": "7501052473567___salsa-clemente-jacques-guacamole-limón-355-g",
+      "file": "7501052473567___salsa-clemente-jacques-guacamole-limón-355-g.webp",
+      "path": "despensa/opt/7501052473567___salsa-clemente-jacques-guacamole-limón-355-g.webp"
+    },
+    {
+      "name": "7501052475240___vinagre-de-manzana-clemente-jacques-1-l",
+      "file": "7501052475240___vinagre-de-manzana-clemente-jacques-1-l.webp",
+      "path": "despensa/opt/7501052475240___vinagre-de-manzana-clemente-jacques-1-l.webp"
+    },
+    {
+      "name": "7501055900053___leche-alpura-lac-del-semidescremada-1-l",
+      "file": "7501055900053___leche-alpura-lac-del-semidescremada-1-l.webp",
+      "path": "despensa/opt/7501055900053___leche-alpura-lac-del-semidescremada-1-l.webp"
+    },
+    {
+      "name": "7501055905706___leche-alpura-lac-del-regular-1-l",
+      "file": "7501055905706___leche-alpura-lac-del-regular-1-l.webp",
+      "path": "despensa/opt/7501055905706___leche-alpura-lac-del-regular-1-l.webp"
+    },
+    {
+      "name": "7501055909179___leche-alpura-lac-del-deslactosada-1-l",
+      "file": "7501055909179___leche-alpura-lac-del-deslactosada-1-l.webp",
+      "path": "despensa/opt/7501055909179___leche-alpura-lac-del-deslactosada-1-l.webp"
+    },
+    {
+      "name": "7501056910167___paleta-bubbaxtreme-mora-bolsa-con-20-piezas",
+      "file": "7501056910167___paleta-bubbaxtreme-mora-bolsa-con-20-piezas.webp",
+      "path": "despensa/opt/7501056910167___paleta-bubbaxtreme-mora-bolsa-con-20-piezas.webp"
+    },
+    {
+      "name": "7501056913595___clorets-2s-con-60-piezas-de-2.8-g",
+      "file": "7501056913595___clorets-2s-con-60-piezas-de-2.8-g.webp",
+      "path": "despensa/opt/7501056913595___clorets-2s-con-60-piezas-de-2.8-g.webp"
+    },
+    {
+      "name": "7501058610942___nescafé-clásico-dawn-jar-170-g",
+      "file": "7501058610942___nescafé-clásico-dawn-jar-170-g.webp",
+      "path": "despensa/opt/7501058610942___nescafé-clásico-dawn-jar-170-g.webp"
+    },
+    {
+      "name": "7501058628831___leche-carnation-evaporada-720-g",
+      "file": "7501058628831___leche-carnation-evaporada-720-g.webp",
+      "path": "despensa/opt/7501058628831___leche-carnation-evaporada-720-g.webp"
+    },
+    {
+      "name": "7501058643339___tin-larín-mini-chocolate-con-9-piezas-de-12-g",
+      "file": "7501058643339___tin-larín-mini-chocolate-con-9-piezas-de-12-g.webp",
+      "path": "despensa/opt/7501058643339___tin-larín-mini-chocolate-con-9-piezas-de-12-g.webp"
+    },
+    {
+      "name": "7501058650665___salsa-crosse-&-blackwell-54.8-gr-más-jugo-maggi-57-gr",
+      "file": "7501058650665___salsa-crosse-&-blackwell-54.8-gr-más-jugo-maggi-57-gr.webp",
+      "path": "despensa/opt/7501058650665___salsa-crosse-&-blackwell-54.8-gr-más-jugo-maggi-57-gr.webp"
+    },
+    {
+      "name": "7501059240681___carnation-clavel-evaporada-1000-g",
+      "file": "7501059240681___carnation-clavel-evaporada-1000-g.webp",
+      "path": "despensa/opt/7501059240681___carnation-clavel-evaporada-1000-g.webp"
+    },
+    {
+      "name": "7501062700158___rajas-verdes-la-morena-de-chiles-jalapeños-100-g",
+      "file": "7501062700158___rajas-verdes-la-morena-de-chiles-jalapeños-100-g.webp",
+      "path": "despensa/opt/7501062700158___rajas-verdes-la-morena-de-chiles-jalapeños-100-g.webp"
+    },
+    {
+      "name": "7501062703043___salsa-la-morena-chipotle-adobado-sq-275-g",
+      "file": "7501062703043___salsa-la-morena-chipotle-adobado-sq-275-g.webp",
+      "path": "despensa/opt/7501062703043___salsa-la-morena-chipotle-adobado-sq-275-g.webp"
+    },
+    {
+      "name": "7501062703050___salsa-la-morena-chipotle-dulce-sq-305-g",
+      "file": "7501062703050___salsa-la-morena-chipotle-dulce-sq-305-g.webp",
+      "path": "despensa/opt/7501062703050___salsa-la-morena-chipotle-dulce-sq-305-g.webp"
+    },
+    {
+      "name": "7501062703159___rajas-la-morena-mexicanas-210-g",
+      "file": "7501062703159___rajas-la-morena-mexicanas-210-g.webp",
+      "path": "despensa/opt/7501062703159___rajas-la-morena-mexicanas-210-g.webp"
+    },
+    {
+      "name": "7501063500573___chicloso-tutsi-tootsie-roll-con-24-piezas",
+      "file": "7501063500573___chicloso-tutsi-tootsie-roll-con-24-piezas.webp",
+      "path": "despensa/opt/7501063500573___chicloso-tutsi-tootsie-roll-con-24-piezas.webp"
+    },
+    {
+      "name": "7501063500702___paleta-tutsi-mini-pop-60-pieza",
+      "file": "7501063500702___paleta-tutsi-mini-pop-60-pieza.webp",
+      "path": "despensa/opt/7501063500702___paleta-tutsi-mini-pop-60-pieza.webp"
+    },
+    {
+      "name": "7501069213842___atole-tres-estrellas-fresa-47-g",
+      "file": "7501069213842___atole-tres-estrellas-fresa-47-g.webp",
+      "path": "despensa/opt/7501069213842___atole-tres-estrellas-fresa-47-g.webp"
+    },
+    {
+      "name": "7501069213903___harina-tres-estrellas-para-pastel-chocolate-oscuro-432-g",
+      "file": "7501069213903___harina-tres-estrellas-para-pastel-chocolate-oscuro-432-g.webp",
+      "path": "despensa/opt/7501069213903___harina-tres-estrellas-para-pastel-chocolate-oscuro-432-g.webp"
+    },
+    {
+      "name": "7501071301452___arroz-super-extra-verde-valle-1-kg",
+      "file": "7501071301452___arroz-super-extra-verde-valle-1-kg.webp",
+      "path": "despensa/opt/7501071301452___arroz-super-extra-verde-valle-1-kg.webp"
+    },
+    {
+      "name": "7501071305153___arroz-verde-valle-super-extra-500-g",
+      "file": "7501071305153___arroz-verde-valle-super-extra-500-g.webp",
+      "path": "despensa/opt/7501071305153___arroz-verde-valle-super-extra-500-g.webp"
+    },
+    {
+      "name": "7501077400050___harina-de-maíz-maseca-1-kg",
+      "file": "7501077400050___harina-de-maíz-maseca-1-kg.webp",
+      "path": "despensa/opt/7501077400050___harina-de-maíz-maseca-1-kg.webp"
+    },
+    {
+      "name": "7501079004300___pasta-pluma-mediana-ovapasta-160-g",
+      "file": "7501079004300___pasta-pluma-mediana-ovapasta-160-g.webp",
+      "path": "despensa/opt/7501079004300___pasta-pluma-mediana-ovapasta-160-g.webp"
+    },
+    {
+      "name": "7501079016457___italpasta-pasta-codo-rayado-200-g",
+      "file": "7501079016457___italpasta-pasta-codo-rayado-200-g.webp",
+      "path": "despensa/opt/7501079016457___italpasta-pasta-codo-rayado-200-g.webp"
+    },
+    {
+      "name": "7501079225309.jpg___galleta-anatina-canela-125-g",
+      "file": "7501079225309.jpg___galleta-anatina-canela-125-g.webp",
+      "path": "despensa/opt/7501079225309.jpg___galleta-anatina-canela-125-g.webp"
+    },
+    {
+      "name": "7501079229611___galleta-anatina-nuez-125-g",
+      "file": "7501079229611___galleta-anatina-nuez-125-g.webp",
+      "path": "despensa/opt/7501079229611___galleta-anatina-nuez-125-g.webp"
+    },
+    {
+      "name": "7501079300082___arroz-extra-tia-cata-1-kg",
+      "file": "7501079300082___arroz-extra-tia-cata-1-kg.webp",
+      "path": "despensa/opt/7501079300082___arroz-extra-tia-cata-1-kg.webp"
+    },
+    {
+      "name": "7501079334018___harina-de-trigo-san-blas-1-kg",
+      "file": "7501079334018___harina-de-trigo-san-blas-1-kg.webp",
+      "path": "despensa/opt/7501079334018___harina-de-trigo-san-blas-1-kg.webp"
+    },
+    {
+      "name": "7501079338450___harina-omega-trigo-25-kg",
+      "file": "7501079338450___harina-omega-trigo-25-kg.webp",
+      "path": "despensa/opt/7501079338450___harina-omega-trigo-25-kg.webp"
+    },
+    {
+      "name": "7501083100326___vinagre-blanco-barrilito-4-l",
+      "file": "7501083100326___vinagre-blanco-barrilito-4-l.webp",
+      "path": "despensa/opt/7501083100326___vinagre-blanco-barrilito-4-l.webp"
+    },
+    {
+      "name": "7501088214875___chocolate-muibon-wafer-xtreme-con-10-piezas-de-11.5-g",
+      "file": "7501088214875___chocolate-muibon-wafer-xtreme-con-10-piezas-de-11.5-g.webp",
+      "path": "despensa/opt/7501088214875___chocolate-muibon-wafer-xtreme-con-10-piezas-de-11.5-g.webp"
+    },
+    {
+      "name": "7501096201300___endulzante-svetia-340-g",
+      "file": "7501096201300___endulzante-svetia-340-g.webp",
+      "path": "despensa/opt/7501096201300___endulzante-svetia-340-g.webp"
+    },
+    {
+      "name": "7501101545719___boneless-búfalo-bachoco-700-g",
+      "file": "7501101545719___boneless-búfalo-bachoco-700-g.webp",
+      "path": "despensa/opt/7501101545719___boneless-búfalo-bachoco-700-g.webp"
+    },
+    {
+      "name": "7501111100748___arroz-prima-super-extra-900-g",
+      "file": "7501111100748___arroz-prima-super-extra-900-g.webp",
+      "path": "despensa/opt/7501111100748___arroz-prima-super-extra-900-g.webp"
+    },
+    {
+      "name": "7501111105033___arroz-super-extra-azul-sos-1-kg",
+      "file": "7501111105033___arroz-super-extra-azul-sos-1-kg.webp",
+      "path": "despensa/opt/7501111105033___arroz-super-extra-azul-sos-1-kg.webp"
+    },
+    {
+      "name": "7501111105064___arroz-precocido-naranja-sos-1-kg",
+      "file": "7501111105064___arroz-precocido-naranja-sos-1-kg.webp",
+      "path": "despensa/opt/7501111105064___arroz-precocido-naranja-sos-1-kg.webp"
+    },
+    {
+      "name": "7501118375323___sal-roche-naranja-25-kg",
+      "file": "7501118375323___sal-roche-naranja-25-kg.webp",
+      "path": "despensa/opt/7501118375323___sal-roche-naranja-25-kg.webp"
+    },
+    {
+      "name": "7501161512508___leche-leon-parcialmente-descremada-bolsa-900-ml",
+      "file": "7501161512508___leche-leon-parcialmente-descremada-bolsa-900-ml.webp",
+      "path": "despensa/opt/7501161512508___leche-leon-parcialmente-descremada-bolsa-900-ml.webp"
+    },
+    {
+      "name": "7501194438110___saborizante-vainilla-sayes-1-l",
+      "file": "7501194438110___saborizante-vainilla-sayes-1-l.webp",
+      "path": "despensa/opt/7501194438110___saborizante-vainilla-sayes-1-l.webp"
+    },
+    {
+      "name": "7501194443022___gelatina-en-polvo-agua-sayes-limón-120-g",
+      "file": "7501194443022___gelatina-en-polvo-agua-sayes-limón-120-g.webp",
+      "path": "despensa/opt/7501194443022___gelatina-en-polvo-agua-sayes-limón-120-g.webp"
+    },
+    {
+      "name": "7501194443053___gelatina-en-polvo-agua-sayes-fresa-120-g",
+      "file": "7501194443053___gelatina-en-polvo-agua-sayes-fresa-120-g.webp",
+      "path": "despensa/opt/7501194443053___gelatina-en-polvo-agua-sayes-fresa-120-g.webp"
+    },
+    {
+      "name": "7501194443169___gelatina-en-polvo-agua-sayes-uva-120-g",
+      "file": "7501194443169___gelatina-en-polvo-agua-sayes-uva-120-g.webp",
+      "path": "despensa/opt/7501194443169___gelatina-en-polvo-agua-sayes-uva-120-g.webp"
+    },
+    {
+      "name": "75012427___jarabe-log-cabin-maple-469-g",
+      "file": "75012427___jarabe-log-cabin-maple-469-g.webp",
+      "path": "despensa/opt/75012427___jarabe-log-cabin-maple-469-g.webp"
+    },
+    {
+      "name": "7501379111111___frijol-negro-mil-gran-900-g",
+      "file": "7501379111111___frijol-negro-mil-gran-900-g.webp",
+      "path": "despensa/opt/7501379111111___frijol-negro-mil-gran-900-g.webp"
+    },
+    {
+      "name": "7501518466195___aderezo-para-nachos-burr-600-g",
+      "file": "7501518466195___aderezo-para-nachos-burr-600-g.webp",
+      "path": "despensa/opt/7501518466195___aderezo-para-nachos-burr-600-g.webp"
+    },
+    {
+      "name": "7501557230634___veladora-aramo-algodón-pieza",
+      "file": "7501557230634___veladora-aramo-algodón-pieza.webp",
+      "path": "despensa/opt/7501557230634___veladora-aramo-algodón-pieza.webp"
+    },
+    {
+      "name": "7501557232102.jpg___aceite-vilaflor-oliva-125-ml",
+      "file": "7501557232102.jpg___aceite-vilaflor-oliva-125-ml.webp",
+      "path": "despensa/opt/7501557232102.jpg___aceite-vilaflor-oliva-125-ml.webp"
+    },
+    {
+      "name": "7501557234717.jpg___aceite-vilaflor-de-oliva-para-cocinar-800-ml",
+      "file": "7501557234717.jpg___aceite-vilaflor-de-oliva-para-cocinar-800-ml.webp",
+      "path": "despensa/opt/7501557234717.jpg___aceite-vilaflor-de-oliva-para-cocinar-800-ml.webp"
+    },
+    {
+      "name": "7501557235509.jpg___aceite-vilaflor-oliva-250-ml",
+      "file": "7501557235509.jpg___aceite-vilaflor-oliva-250-ml.webp",
+      "path": "despensa/opt/7501557235509.jpg___aceite-vilaflor-oliva-250-ml.webp"
+    },
+    {
+      "name": "7501557235516.jpg___aceite-vilaflor-oliva-500-ml",
+      "file": "7501557235516.jpg___aceite-vilaflor-oliva-500-ml.webp",
+      "path": "despensa/opt/7501557235516.jpg___aceite-vilaflor-oliva-500-ml.webp"
+    },
+    {
+      "name": "7501592111226___granola-básica-mayu-400-g",
+      "file": "7501592111226___granola-básica-mayu-400-g.webp",
+      "path": "despensa/opt/7501592111226___granola-básica-mayu-400-g.webp"
+    },
+    {
+      "name": "7501592121201___mezcla-de-semillas-mayu-horneada-con-miel-100-g",
+      "file": "7501592121201___mezcla-de-semillas-mayu-horneada-con-miel-100-g.webp",
+      "path": "despensa/opt/7501592121201___mezcla-de-semillas-mayu-horneada-con-miel-100-g.webp"
+    },
+    {
+      "name": "7501694700663.jpg___botana-fritehsa-cacahuate-enchilado-300-g",
+      "file": "7501694700663.jpg___botana-fritehsa-cacahuate-enchilado-300-g.webp",
+      "path": "despensa/opt/7501694700663.jpg___botana-fritehsa-cacahuate-enchilado-300-g.webp"
+    },
+    {
+      "name": "7501696252528.jpg___aceite-san-lucas-oliva-750-ml",
+      "file": "7501696252528.jpg___aceite-san-lucas-oliva-750-ml.webp",
+      "path": "despensa/opt/7501696252528.jpg___aceite-san-lucas-oliva-750-ml.webp"
+    },
+    {
+      "name": "7501736227189___fajita-confi-arrachera-marinada-430-g",
+      "file": "7501736227189___fajita-confi-arrachera-marinada-430-g.webp",
+      "path": "despensa/opt/7501736227189___fajita-confi-arrachera-marinada-430-g.webp"
+    },
+    {
+      "name": "7501761869149___hot-cakes-gamesa-tradicional-800-g",
+      "file": "7501761869149___hot-cakes-gamesa-tradicional-800-g.webp",
+      "path": "despensa/opt/7501761869149___hot-cakes-gamesa-tradicional-800-g.webp"
+    },
+    {
+      "name": "7501861600000___aceite-imperial-soya-800-ml",
+      "file": "7501861600000___aceite-imperial-soya-800-ml.webp",
+      "path": "despensa/opt/7501861600000___aceite-imperial-soya-800-ml.webp"
+    },
+    {
+      "name": "7501861600055.jpg___aceite-imperial-soya-5-l",
+      "file": "7501861600055.jpg___aceite-imperial-soya-5-l.webp",
+      "path": "despensa/opt/7501861600055.jpg___aceite-imperial-soya-5-l.webp"
+    },
+    {
+      "name": "7502007295142___alcaparra-san-lucas-capote-1-con-140-g",
+      "file": "7502007295142___alcaparra-san-lucas-capote-1-con-140-g.webp",
+      "path": "despensa/opt/7502007295142___alcaparra-san-lucas-capote-1-con-140-g.webp"
+    },
+    {
+      "name": "7502221840289___goma-la-poblana-piña-enchilada-100-g",
+      "file": "7502221840289___goma-la-poblana-piña-enchilada-100-g.webp",
+      "path": "despensa/opt/7502221840289___goma-la-poblana-piña-enchilada-100-g.webp"
+    },
+    {
+      "name": "7502221840739___goma-la-poblana-sandía-100-g",
+      "file": "7502221840739___goma-la-poblana-sandía-100-g.webp",
+      "path": "despensa/opt/7502221840739___goma-la-poblana-sandía-100-g.webp"
+    },
+    {
+      "name": "7502221843013___goma-la-poblana-pepino-picosito-100-g",
+      "file": "7502221843013___goma-la-poblana-pepino-picosito-100-g.webp",
+      "path": "despensa/opt/7502221843013___goma-la-poblana-pepino-picosito-100-g.webp"
+    },
+    {
+      "name": "7502221843075___goma-la-poblana-mandarina-picosita-100-g",
+      "file": "7502221843075___goma-la-poblana-mandarina-picosita-100-g.webp",
+      "path": "despensa/opt/7502221843075___goma-la-poblana-mandarina-picosita-100-g.webp"
+    },
+    {
+      "name": "7502221845383___goma-la-poblana-mango-con-chamoy-100-g",
+      "file": "7502221845383___goma-la-poblana-mango-con-chamoy-100-g.webp",
+      "path": "despensa/opt/7502221845383___goma-la-poblana-mango-con-chamoy-100-g.webp"
+    },
+    {
+      "name": "7502221846533___goma-la-poblana-corazón-rojo-100-g",
+      "file": "7502221846533___goma-la-poblana-corazón-rojo-100-g.webp",
+      "path": "despensa/opt/7502221846533___goma-la-poblana-corazón-rojo-100-g.webp"
+    },
+    {
+      "name": "7502221846557___goma-la-poblana-mango-enchilado-100-g",
+      "file": "7502221846557___goma-la-poblana-mango-enchilado-100-g.webp",
+      "path": "despensa/opt/7502221846557___goma-la-poblana-mango-enchilado-100-g.webp"
+    },
+    {
+      "name": "7502221846908___goma-la-poblana-piña-chamoy-100-g",
+      "file": "7502221846908___goma-la-poblana-piña-chamoy-100-g.webp",
+      "path": "despensa/opt/7502221846908___goma-la-poblana-piña-chamoy-100-g.webp"
+    },
+    {
+      "name": "7502221847530___goma-la-poblana-mango-picosita-100-g",
+      "file": "7502221847530___goma-la-poblana-mango-picosita-100-g.webp",
+      "path": "despensa/opt/7502221847530___goma-la-poblana-mango-picosita-100-g.webp"
+    },
+    {
+      "name": "7502221847615___goma-la-poblana-tamarindo-picosito-100-g",
+      "file": "7502221847615___goma-la-poblana-tamarindo-picosito-100-g.webp",
+      "path": "despensa/opt/7502221847615___goma-la-poblana-tamarindo-picosito-100-g.webp"
+    },
+    {
+      "name": "7502221848025___goma-la-poblana-sandía-enchilada-100-g",
+      "file": "7502221848025___goma-la-poblana-sandía-enchilada-100-g.webp",
+      "path": "despensa/opt/7502221848025___goma-la-poblana-sandía-enchilada-100-g.webp"
+    },
+    {
+      "name": "7502223772519.jpg___aceite-capullo-soya-750-ml",
+      "file": "7502223772519.jpg___aceite-capullo-soya-750-ml.webp",
+      "path": "despensa/opt/7502223772519.jpg___aceite-capullo-soya-750-ml.webp"
+    },
+    {
+      "name": "7502223772588___aceite-capullo-canola-755-ml",
+      "file": "7502223772588___aceite-capullo-canola-755-ml.webp",
+      "path": "despensa/opt/7502223772588___aceite-capullo-canola-755-ml.webp"
+    },
+    {
+      "name": "7502223775756___miel-karo-maple-sin-azúcar-255-ml",
+      "file": "7502223775756___miel-karo-maple-sin-azúcar-255-ml.webp",
+      "path": "despensa/opt/7502223775756___miel-karo-maple-sin-azúcar-255-ml.webp"
+    },
+    {
+      "name": "7502223776142.jpg___crema-aladino-cacahuate-crunchy-425-g",
+      "file": "7502223776142.jpg___crema-aladino-cacahuate-crunchy-425-g.webp",
+      "path": "despensa/opt/7502223776142.jpg___crema-aladino-cacahuate-crunchy-425-g.webp"
+    },
+    {
+      "name": "7502224043557___atún-nair-agua-más-vitaminas-120-g",
+      "file": "7502224043557___atún-nair-agua-más-vitaminas-120-g.webp",
+      "path": "despensa/opt/7502224043557___atún-nair-agua-más-vitaminas-120-g.webp"
+    },
+    {
+      "name": "7502224044066.jpg___atun-marina-azul-agua-3-pack-120g",
+      "file": "7502224044066.jpg___atun-marina-azul-agua-3-pack-120g.webp",
+      "path": "despensa/opt/7502224044066.jpg___atun-marina-azul-agua-3-pack-120g.webp"
+    },
+    {
+      "name": "7502226814506___goma-de-mascar-hubba-bubba-uva-56.7-g",
+      "file": "7502226814506___goma-de-mascar-hubba-bubba-uva-56.7-g.webp",
+      "path": "despensa/opt/7502226814506___goma-de-mascar-hubba-bubba-uva-56.7-g.webp"
+    },
+    {
+      "name": "7502230944466___bon-o-bon-leche-con-18-piezas-de-15-g",
+      "file": "7502230944466___bon-o-bon-leche-con-18-piezas-de-15-g.webp",
+      "path": "despensa/opt/7502230944466___bon-o-bon-leche-con-18-piezas-de-15-g.webp"
+    },
+    {
+      "name": "7502230944473___bombon-bon-o-bon-cafe-18-piezas-de-15-g",
+      "file": "7502230944473___bombon-bon-o-bon-cafe-18-piezas-de-15-g.webp",
+      "path": "despensa/opt/7502230944473___bombon-bon-o-bon-cafe-18-piezas-de-15-g.webp"
+    },
+    {
+      "name": "7502233110141___cereal-la-cosecha-corn-flakes-450-g",
+      "file": "7502233110141___cereal-la-cosecha-corn-flakes-450-g.webp",
+      "path": "despensa/opt/7502233110141___cereal-la-cosecha-corn-flakes-450-g.webp"
+    },
+    {
+      "name": "7502233110158___cereal-la-cosecha-fruti-rolls-450-g",
+      "file": "7502233110158___cereal-la-cosecha-fruti-rolls-450-g.webp",
+      "path": "despensa/opt/7502233110158___cereal-la-cosecha-fruti-rolls-450-g.webp"
+    },
+    {
+      "name": "7502233110165___cereal-la-cosecha-glacs-600-g",
+      "file": "7502233110165___cereal-la-cosecha-glacs-600-g.webp",
+      "path": "despensa/opt/7502233110165___cereal-la-cosecha-glacs-600-g.webp"
+    },
+    {
+      "name": "7502233110172___cereal-la-cosecha-choco-nubis-500-g",
+      "file": "7502233110172___cereal-la-cosecha-choco-nubis-500-g.webp",
+      "path": "despensa/opt/7502233110172___cereal-la-cosecha-choco-nubis-500-g.webp"
+    },
+    {
+      "name": "7502233110189___cereal-la-cosecha-choco-ronis-500-g",
+      "file": "7502233110189___cereal-la-cosecha-choco-ronis-500-g.webp",
+      "path": "despensa/opt/7502233110189___cereal-la-cosecha-choco-ronis-500-g.webp"
+    },
+    {
+      "name": "7502233110288___cereal-la-cosecha-golden-corn-flakes-bolsa-de-500-g",
+      "file": "7502233110288___cereal-la-cosecha-golden-corn-flakes-bolsa-de-500-g.webp",
+      "path": "despensa/opt/7502233110288___cereal-la-cosecha-golden-corn-flakes-bolsa-de-500-g.webp"
+    },
+    {
+      "name": "7502233110301___cereal-la-cosecha-golden-foods-chocolate-bolsa-500-g",
+      "file": "7502233110301___cereal-la-cosecha-golden-foods-chocolate-bolsa-500-g.webp",
+      "path": "despensa/opt/7502233110301___cereal-la-cosecha-golden-foods-chocolate-bolsa-500-g.webp"
+    },
+    {
+      "name": "7502233110325___cereal-la-cosecha-golden-f-fruti-rolls-bolsa-500-g",
+      "file": "7502233110325___cereal-la-cosecha-golden-f-fruti-rolls-bolsa-500-g.webp",
+      "path": "despensa/opt/7502233110325___cereal-la-cosecha-golden-f-fruti-rolls-bolsa-500-g.webp"
+    },
+    {
+      "name": "7502233118543___galleta-golden-foods-animalitos-5000-g",
+      "file": "7502233118543___galleta-golden-foods-animalitos-5000-g.webp",
+      "path": "despensa/opt/7502233118543___galleta-golden-foods-animalitos-5000-g.webp"
+    },
+    {
+      "name": "7502233118741___galleta-golden-foods-malvinas-420-g",
+      "file": "7502233118741___galleta-golden-foods-malvinas-420-g.webp",
+      "path": "despensa/opt/7502233118741___galleta-golden-foods-malvinas-420-g.webp"
+    },
+    {
+      "name": "7502233118987___galleta-golden-foods-malvinas-coco-rollo-140-g",
+      "file": "7502233118987___galleta-golden-foods-malvinas-coco-rollo-140-g.webp",
+      "path": "despensa/opt/7502233118987___galleta-golden-foods-malvinas-coco-rollo-140-g.webp"
+    },
+    {
+      "name": "7502233119960___galleta-golden-foods-malvinas-nuez-rollo-140-g",
+      "file": "7502233119960___galleta-golden-foods-malvinas-nuez-rollo-140-g.webp",
+      "path": "despensa/opt/7502233119960___galleta-golden-foods-malvinas-nuez-rollo-140-g.webp"
+    },
+    {
+      "name": "7502241360637___insecticida-vape-aerosol-casa-y-jardín-400-ml",
+      "file": "7502241360637___insecticida-vape-aerosol-casa-y-jardín-400-ml.webp",
+      "path": "despensa/opt/7502241360637___insecticida-vape-aerosol-casa-y-jardín-400-ml.webp"
+    },
+    {
+      "name": "7502247422278___botana-chechitos-palitos-hot-chili-con-25-piezas",
+      "file": "7502247422278___botana-chechitos-palitos-hot-chili-con-25-piezas.webp",
+      "path": "despensa/opt/7502247422278___botana-chechitos-palitos-hot-chili-con-25-piezas.webp"
+    },
+    {
+      "name": "7502247427129___papas-chidas-super-picositas-85-g",
+      "file": "7502247427129___papas-chidas-super-picositas-85-g.webp",
+      "path": "despensa/opt/7502247427129___papas-chidas-super-picositas-85-g.webp"
+    },
+    {
+      "name": "7502247427181___papas-chidas-sal-85-g",
+      "file": "7502247427181___papas-chidas-sal-85-g.webp",
+      "path": "despensa/opt/7502247427181___papas-chidas-sal-85-g.webp"
+    },
+    {
+      "name": "7502247427242___botana-chidas-totopos-salsa-negra-115-g",
+      "file": "7502247427242___botana-chidas-totopos-salsa-negra-115-g.webp",
+      "path": "despensa/opt/7502247427242___botana-chidas-totopos-salsa-negra-115-g.webp"
+    },
+    {
+      "name": "7502247428256___botana-chidas-totopos-nacho-tubo-110-g",
+      "file": "7502247428256___botana-chidas-totopos-nacho-tubo-110-g.webp",
+      "path": "despensa/opt/7502247428256___botana-chidas-totopos-nacho-tubo-110-g.webp"
+    },
+    {
+      "name": "7502247428478___papas-chidas-limon-85-g",
+      "file": "7502247428478___papas-chidas-limon-85-g.webp",
+      "path": "despensa/opt/7502247428478___papas-chidas-limon-85-g.webp"
+    },
+    {
+      "name": "7502247428980___papas-chidas-supiros-picositos-chile-lim-tubazo-140-g",
+      "file": "7502247428980___papas-chidas-supiros-picositos-chile-lim-tubazo-140-g.webp",
+      "path": "despensa/opt/7502247428980___papas-chidas-supiros-picositos-chile-lim-tubazo-140-g.webp"
+    },
+    {
+      "name": "7502247428997___papas-chidas-con-sal-140-g",
+      "file": "7502247428997___papas-chidas-con-sal-140-g.webp",
+      "path": "despensa/opt/7502247428997___papas-chidas-con-sal-140-g.webp"
+    },
+    {
+      "name": "7502247429000___papas-chidas-limón-140-g",
+      "file": "7502247429000___papas-chidas-limón-140-g.webp",
+      "path": "despensa/opt/7502247429000___papas-chidas-limón-140-g.webp"
+    },
+    {
+      "name": "7502247429017___botana-chidas-totopos-nacho-190-g",
+      "file": "7502247429017___botana-chidas-totopos-nacho-190-g.webp",
+      "path": "despensa/opt/7502247429017___botana-chidas-totopos-nacho-190-g.webp"
+    },
+    {
+      "name": "7502247429154___botanonas-chidas-papas-onduladas-queso-tubi-93-g",
+      "file": "7502247429154___botanonas-chidas-papas-onduladas-queso-tubi-93-g.webp",
+      "path": "despensa/opt/7502247429154___botanonas-chidas-papas-onduladas-queso-tubi-93-g.webp"
+    },
+    {
+      "name": "7502247429543___botana-chidas-totopos-extremo-tubo-110-g",
+      "file": "7502247429543___botana-chidas-totopos-extremo-tubo-110-g.webp",
+      "path": "despensa/opt/7502247429543___botana-chidas-totopos-extremo-tubo-110-g.webp"
+    },
+    {
+      "name": "7502247429741___botana-chidas-tortillín-adobo-intenso-tubo-65-g",
+      "file": "7502247429741___botana-chidas-tortillín-adobo-intenso-tubo-65-g.webp",
+      "path": "despensa/opt/7502247429741___botana-chidas-tortillín-adobo-intenso-tubo-65-g.webp"
+    },
+    {
+      "name": "7502247683099___chocolate-lindor-leche-168-g",
+      "file": "7502247683099___chocolate-lindor-leche-168-g.webp",
+      "path": "despensa/opt/7502247683099___chocolate-lindor-leche-168-g.webp"
+    },
+    {
+      "name": "7502247687066___chocolate-lindor-leche-96-g",
+      "file": "7502247687066___chocolate-lindor-leche-96-g.webp",
+      "path": "despensa/opt/7502247687066___chocolate-lindor-leche-96-g.webp"
+    },
+    {
+      "name": "7502252486616___té-natures-heart-doble-limon-30-g",
+      "file": "7502252486616___té-natures-heart-doble-limon-30-g.webp",
+      "path": "despensa/opt/7502252486616___té-natures-heart-doble-limon-30-g.webp"
+    },
+    {
+      "name": "7502271914619___skwinkles-chunks-single-45-g",
+      "file": "7502271914619___skwinkles-chunks-single-45-g.webp",
+      "path": "despensa/opt/7502271914619___skwinkles-chunks-single-45-g.webp"
+    },
+    {
+      "name": "7502271914640___skwinkles-chunks-130-g",
+      "file": "7502271914640___skwinkles-chunks-130-g.webp",
+      "path": "despensa/opt/7502271914640___skwinkles-chunks-130-g.webp"
+    },
+    {
+      "name": "7502271915944___chocolate-turín-zero-zugar-67.2-g",
+      "file": "7502271915944___chocolate-turín-zero-zugar-67.2-g.webp",
+      "path": "despensa/opt/7502271915944___chocolate-turín-zero-zugar-67.2-g.webp"
+    },
+    {
+      "name": "7502271916101___chocolate-turín-baileys-original-80-g",
+      "file": "7502271916101___chocolate-turín-baileys-original-80-g.webp",
+      "path": "despensa/opt/7502271916101___chocolate-turín-baileys-original-80-g.webp"
+    },
+    {
+      "name": "7502271918501___chocolate-variety-ahorra-pack-630.6-g",
+      "file": "7502271918501___chocolate-variety-ahorra-pack-630.6-g.webp",
+      "path": "despensa/opt/7502271918501___chocolate-variety-ahorra-pack-630.6-g.webp"
+    },
+    {
+      "name": "7503000288315___galleta-gapsa-goyescas-125-g",
+      "file": "7503000288315___galleta-gapsa-goyescas-125-g.webp",
+      "path": "despensa/opt/7503000288315___galleta-gapsa-goyescas-125-g.webp"
+    },
+    {
+      "name": "7503002057810___the-sensual-zinsen-con-2-tabletas",
+      "file": "7503002057810___the-sensual-zinsen-con-2-tabletas.webp",
+      "path": "despensa/opt/7503002057810___the-sensual-zinsen-con-2-tabletas.webp"
+    },
+    {
+      "name": "7503005509019___vainilla-molina-saborizante-natural-120-ml",
+      "file": "7503005509019___vainilla-molina-saborizante-natural-120-ml.webp",
+      "path": "despensa/opt/7503005509019___vainilla-molina-saborizante-natural-120-ml.webp"
+    },
+    {
+      "name": "7503005509026___vainilla-molina-saborizante-natural-250-ml",
+      "file": "7503005509026___vainilla-molina-saborizante-natural-250-ml.webp",
+      "path": "despensa/opt/7503005509026___vainilla-molina-saborizante-natural-250-ml.webp"
+    },
+    {
+      "name": "7503005897901___paleta-miguelito-raqueta-enchilada-40-piezas",
+      "file": "7503005897901___paleta-miguelito-raqueta-enchilada-40-piezas.webp",
+      "path": "despensa/opt/7503005897901___paleta-miguelito-raqueta-enchilada-40-piezas.webp"
+    },
+    {
+      "name": "7503007829184___salsa-la-güera-papera-150-g",
+      "file": "7503007829184___salsa-la-güera-papera-150-g.webp",
+      "path": "despensa/opt/7503007829184___salsa-la-güera-papera-150-g.webp"
+    },
+    {
+      "name": "7503007909251___sopa-tlalpeño-xochiuaki-40-g",
+      "file": "7503007909251___sopa-tlalpeño-xochiuaki-40-g.webp",
+      "path": "despensa/opt/7503007909251___sopa-tlalpeño-xochiuaki-40-g.webp"
+    },
+    {
+      "name": "7503007909268___sopa-morrón-xochiuaki-40-g",
+      "file": "7503007909268___sopa-morrón-xochiuaki-40-g.webp",
+      "path": "despensa/opt/7503007909268___sopa-morrón-xochiuaki-40-g.webp"
+    },
+    {
+      "name": "7503007909589___fruta-deshidratada-tisana-relajxochiuaki-80-g",
+      "file": "7503007909589___fruta-deshidratada-tisana-relajxochiuaki-80-g.webp",
+      "path": "despensa/opt/7503007909589___fruta-deshidratada-tisana-relajxochiuaki-80-g.webp"
+    },
+    {
+      "name": "7503011960613___café-gardello-instantaneo-moka-45-g",
+      "file": "7503011960613___café-gardello-instantaneo-moka-45-g.webp",
+      "path": "despensa/opt/7503011960613___café-gardello-instantaneo-moka-45-g.webp"
+    },
+    {
+      "name": "7503011960637___café-gardello-instantáneo-chocolate-45-g",
+      "file": "7503011960637___café-gardello-instantáneo-chocolate-45-g.webp",
+      "path": "despensa/opt/7503011960637___café-gardello-instantáneo-chocolate-45-g.webp"
+    },
+    {
+      "name": "7503013452017.jpg___ajo-en-pasta-alnuttips-natural-120-g",
+      "file": "7503013452017.jpg___ajo-en-pasta-alnuttips-natural-120-g.webp",
+      "path": "despensa/opt/7503013452017.jpg___ajo-en-pasta-alnuttips-natural-120-g.webp"
+    },
+    {
+      "name": "7503020651717___pasta-nissin-ufo-korean-bbq-105-g",
+      "file": "7503020651717___pasta-nissin-ufo-korean-bbq-105-g.webp",
+      "path": "despensa/opt/7503020651717___pasta-nissin-ufo-korean-bbq-105-g.webp"
+    },
+    {
+      "name": "7503022208117.jpg___almendra-entera-milgran-100-g",
+      "file": "7503022208117.jpg___almendra-entera-milgran-100-g.webp",
+      "path": "despensa/opt/7503022208117.jpg___almendra-entera-milgran-100-g.webp"
+    },
+    {
+      "name": "7503022208124.jpg___nuez-mitades-milgran-100-g",
+      "file": "7503022208124.jpg___nuez-mitades-milgran-100-g.webp",
+      "path": "despensa/opt/7503022208124.jpg___nuez-mitades-milgran-100-g.webp"
+    },
+    {
+      "name": "7503022208186___nueces-mixtas-milgran-40-g",
+      "file": "7503022208186___nueces-mixtas-milgran-40-g.webp",
+      "path": "despensa/opt/7503022208186___nueces-mixtas-milgran-40-g.webp"
+    },
+    {
+      "name": "7503022208193___nuez-de-la-india-milgran-tostada-y-salada-40-g",
+      "file": "7503022208193___nuez-de-la-india-milgran-tostada-y-salada-40-g.webp",
+      "path": "despensa/opt/7503022208193___nuez-de-la-india-milgran-tostada-y-salada-40-g.webp"
+    },
+    {
+      "name": "7503022208209___arándano-milgran-spicy-mix-40-g",
+      "file": "7503022208209___arándano-milgran-spicy-mix-40-g.webp",
+      "path": "despensa/opt/7503022208209___arándano-milgran-spicy-mix-40-g.webp"
+    },
+    {
+      "name": "7503024085990___salsa-botanera-muy-picante-370-ml",
+      "file": "7503024085990___salsa-botanera-muy-picante-370-ml.webp",
+      "path": "despensa/opt/7503024085990___salsa-botanera-muy-picante-370-ml.webp"
+    },
+    {
+      "name": "7503024897043___perlas-de-tapioca-la-artesanal-250-g",
+      "file": "7503024897043___perlas-de-tapioca-la-artesanal-250-g.webp",
+      "path": "despensa/opt/7503024897043___perlas-de-tapioca-la-artesanal-250-g.webp"
+    },
+    {
+      "name": "7503024897241___perlas-la-artesana-de-miel-con-propoleo-80-g",
+      "file": "7503024897241___perlas-la-artesana-de-miel-con-propoleo-80-g.webp",
+      "path": "despensa/opt/7503024897241___perlas-la-artesana-de-miel-con-propoleo-80-g.webp"
+    },
+    {
+      "name": "7503030374538___paleta-vero-tarrito-bolsa-560-g",
+      "file": "7503030374538___paleta-vero-tarrito-bolsa-560-g.webp",
+      "path": "despensa/opt/7503030374538___paleta-vero-tarrito-bolsa-560-g.webp"
+    },
+    {
+      "name": "7503030374842___galleta-marinela-sponch-maxitubo-180-g",
+      "file": "7503030374842___galleta-marinela-sponch-maxitubo-180-g.webp",
+      "path": "despensa/opt/7503030374842___galleta-marinela-sponch-maxitubo-180-g.webp"
+    },
+    {
+      "name": "7503031361209___pan-dulce-bimbo-crossantine-con-relleno-96-g",
+      "file": "7503031361209___pan-dulce-bimbo-crossantine-con-relleno-96-g.webp",
+      "path": "despensa/opt/7503031361209___pan-dulce-bimbo-crossantine-con-relleno-96-g.webp"
+    },
+    {
+      "name": "7503032024363___botana-dtlaoli-chulitos-chipotle-250-g",
+      "file": "7503032024363___botana-dtlaoli-chulitos-chipotle-250-g.webp",
+      "path": "despensa/opt/7503032024363___botana-dtlaoli-chulitos-chipotle-250-g.webp"
+    },
+    {
+      "name": "7503032024424___botana-dtlaoli-chulitos-ajonjolí-500-g",
+      "file": "7503032024424___botana-dtlaoli-chulitos-ajonjolí-500-g.webp",
+      "path": "despensa/opt/7503032024424___botana-dtlaoli-chulitos-ajonjolí-500-g.webp"
+    },
+    {
+      "name": "7503032024554___botana-dtlaoli-chulitos-habanero-250-g",
+      "file": "7503032024554___botana-dtlaoli-chulitos-habanero-250-g.webp",
+      "path": "despensa/opt/7503032024554___botana-dtlaoli-chulitos-habanero-250-g.webp"
+    },
+    {
+      "name": "7503032024868___botana-dtlaoli-chulitos-habanero-500-g",
+      "file": "7503032024868___botana-dtlaoli-chulitos-habanero-500-g.webp",
+      "path": "despensa/opt/7503032024868___botana-dtlaoli-chulitos-habanero-500-g.webp"
+    },
+    {
+      "name": "7503032024875___botana-dtlaoli-chulitos-chipotle-500-g",
+      "file": "7503032024875___botana-dtlaoli-chulitos-chipotle-500-g.webp",
+      "path": "despensa/opt/7503032024875___botana-dtlaoli-chulitos-chipotle-500-g.webp"
+    },
+    {
+      "name": "7503040679050___atún-nair-en-agua-25-%-soya-tripack-120-g",
+      "file": "7503040679050___atún-nair-en-agua-25-%-soya-tripack-120-g.webp",
+      "path": "despensa/opt/7503040679050___atún-nair-en-agua-25-%-soya-tripack-120-g.webp"
+    },
+    {
+      "name": "7503040679432.jpg___atún-marina-azul-aceite-de-oliva-110-g",
+      "file": "7503040679432.jpg___atún-marina-azul-aceite-de-oliva-110-g.webp",
+      "path": "despensa/opt/7503040679432.jpg___atún-marina-azul-aceite-de-oliva-110-g.webp"
+    },
+    {
+      "name": "7503044480027___botana-dtlaoli-chulitos-ajonjolí-250-g",
+      "file": "7503044480027___botana-dtlaoli-chulitos-ajonjolí-250-g.webp",
+      "path": "despensa/opt/7503044480027___botana-dtlaoli-chulitos-ajonjolí-250-g.webp"
+    },
+    {
+      "name": "7503045425270___polvo-zuko-para-atole-sabor-vainilla-44-g",
+      "file": "7503045425270___polvo-zuko-para-atole-sabor-vainilla-44-g.webp",
+      "path": "despensa/opt/7503045425270___polvo-zuko-para-atole-sabor-vainilla-44-g.webp"
+    },
+    {
+      "name": "7503045425294___polvo-zuko-para-atole-sabor-fresa-44-g",
+      "file": "7503045425294___polvo-zuko-para-atole-sabor-fresa-44-g.webp",
+      "path": "despensa/opt/7503045425294___polvo-zuko-para-atole-sabor-fresa-44-g.webp"
+    },
+    {
+      "name": "7503045425317___polvo-zuko-para-atole-sabor-chocolate-44-g",
+      "file": "7503045425317___polvo-zuko-para-atole-sabor-chocolate-44-g.webp",
+      "path": "despensa/opt/7503045425317___polvo-zuko-para-atole-sabor-chocolate-44-g.webp"
+    },
+    {
+      "name": "7503048973099___veladora-lata-san-judas-aramluz-pieza",
+      "file": "7503048973099___veladora-lata-san-judas-aramluz-pieza.webp",
+      "path": "despensa/opt/7503048973099___veladora-lata-san-judas-aramluz-pieza.webp"
+    },
+    {
+      "name": "7503048973105___veladora-lata-sagrado-corazón-aramluz",
+      "file": "7503048973105___veladora-lata-sagrado-corazón-aramluz.webp",
+      "path": "despensa/opt/7503048973105___veladora-lata-sagrado-corazón-aramluz.webp"
+    },
+    {
+      "name": "7503048973327___veladora-aramluz-ataud-negro-7-pieza",
+      "file": "7503048973327___veladora-aramluz-ataud-negro-7-pieza.webp",
+      "path": "despensa/opt/7503048973327___veladora-aramluz-ataud-negro-7-pieza.webp"
+    },
+    {
+      "name": "7503048973464___veladora-limonerote-aramluz-pieza",
+      "file": "7503048973464___veladora-limonerote-aramluz-pieza.webp",
+      "path": "despensa/opt/7503048973464___veladora-limonerote-aramluz-pieza.webp"
+    },
+    {
+      "name": "7506192510844___bonice-bonnieve-varios-sabores-4-piezas",
+      "file": "7506192510844___bonice-bonnieve-varios-sabores-4-piezas.webp",
+      "path": "despensa/opt/7506192510844___bonice-bonnieve-varios-sabores-4-piezas.webp"
+    },
+    {
+      "name": "7506205816406___chocolate-choco-milk-bolsa-precio-especial-420-g",
+      "file": "7506205816406___chocolate-choco-milk-bolsa-precio-especial-420-g.webp",
+      "path": "despensa/opt/7506205816406___chocolate-choco-milk-bolsa-precio-especial-420-g.webp"
+    },
+    {
+      "name": "7506306310735___knorr-suiza-tarro-1.5-kg",
+      "file": "7506306310735___knorr-suiza-tarro-1.5-kg.webp",
+      "path": "despensa/opt/7506306310735___knorr-suiza-tarro-1.5-kg.webp"
+    },
+    {
+      "name": "7506306321939___knorr-caldo-de-pollo-bolsa-168-g",
+      "file": "7506306321939___knorr-caldo-de-pollo-bolsa-168-g.webp",
+      "path": "despensa/opt/7506306321939___knorr-caldo-de-pollo-bolsa-168-g.webp"
+    },
+    {
+      "name": "7506306322226___knorr-suiza-bolsa-330-g",
+      "file": "7506306322226___knorr-suiza-bolsa-330-g.webp",
+      "path": "despensa/opt/7506306322226___knorr-suiza-bolsa-330-g.webp"
+    },
+    {
+      "name": "7506306322455___knorr-caldo-pollo-frasco-450-g",
+      "file": "7506306322455___knorr-caldo-pollo-frasco-450-g.webp",
+      "path": "despensa/opt/7506306322455___knorr-caldo-pollo-frasco-450-g.webp"
+    },
+    {
+      "name": "7506306322677___knorr-caldo-de-pollo-frasco-100-g",
+      "file": "7506306322677___knorr-caldo-de-pollo-frasco-100-g.webp",
+      "path": "despensa/opt/7506306322677___knorr-caldo-de-pollo-frasco-100-g.webp"
+    },
+    {
+      "name": "7506306322691___sazonador-knorr-tomate-frasco-100-g",
+      "file": "7506306322691___sazonador-knorr-tomate-frasco-100-g.webp",
+      "path": "despensa/opt/7506306322691___sazonador-knorr-tomate-frasco-100-g.webp"
+    },
+    {
+      "name": "7506425660483___servilleta-kleenex-elegance-black-50-piezas",
+      "file": "7506425660483___servilleta-kleenex-elegance-black-50-piezas.webp",
+      "path": "despensa/opt/7506425660483___servilleta-kleenex-elegance-black-50-piezas.webp"
+    },
+    {
+      "name": "7506425664894___servilleta-pétalo-toy-story-200-piezas",
+      "file": "7506425664894___servilleta-pétalo-toy-story-200-piezas.webp",
+      "path": "despensa/opt/7506425664894___servilleta-pétalo-toy-story-200-piezas.webp"
+    },
+    {
+      "name": "7506425664931___servitoalla-pétalo-toy-story-2-piezas-240-hojas-dobles",
+      "file": "7506425664931___servitoalla-pétalo-toy-story-2-piezas-240-hojas-dobles.webp",
+      "path": "despensa/opt/7506425664931___servitoalla-pétalo-toy-story-2-piezas-240-hojas-dobles.webp"
+    },
+    {
+      "name": "7506475101264___cremador-coffee-mate-baileys-530-g",
+      "file": "7506475101264___cremador-coffee-mate-baileys-530-g.webp",
+      "path": "despensa/opt/7506475101264___cremador-coffee-mate-baileys-530-g.webp"
+    },
+    {
+      "name": "7506475105606___bebida-nescafé-latte-black-330-ml",
+      "file": "7506475105606___bebida-nescafé-latte-black-330-ml.webp",
+      "path": "despensa/opt/7506475105606___bebida-nescafé-latte-black-330-ml.webp"
+    },
+    {
+      "name": "7506475111690___leche-carnation-evaporada-uht-con-2-piezas-de-360-g",
+      "file": "7506475111690___leche-carnation-evaporada-uht-con-2-piezas-de-360-g.webp",
+      "path": "despensa/opt/7506475111690___leche-carnation-evaporada-uht-con-2-piezas-de-360-g.webp"
+    },
+    {
+      "name": "7506475112253___crunch-chocolate-dark-40-g",
+      "file": "7506475112253___crunch-chocolate-dark-40-g.webp",
+      "path": "despensa/opt/7506475112253___crunch-chocolate-dark-40-g.webp"
+    },
+    {
+      "name": "7506475113861___leche-condensada-la-lechera-cartón-430-g",
+      "file": "7506475113861___leche-condensada-la-lechera-cartón-430-g.webp",
+      "path": "despensa/opt/7506475113861___leche-condensada-la-lechera-cartón-430-g.webp"
+    },
+    {
+      "name": "7506475113946___café-nescafé-clásico-200-+-25-g",
+      "file": "7506475113946___café-nescafé-clásico-200-+-25-g.webp",
+      "path": "despensa/opt/7506475113946___café-nescafé-clásico-200-+-25-g.webp"
+    },
+    {
+      "name": "7506475116213___cereal-cheerios-miel-bolsa-100-g",
+      "file": "7506475116213___cereal-cheerios-miel-bolsa-100-g.webp",
+      "path": "despensa/opt/7506475116213___cereal-cheerios-miel-bolsa-100-g.webp"
+    },
+    {
+      "name": "7506475116893___cereal-trix-marshamallow-230-g",
+      "file": "7506475116893___cereal-trix-marshamallow-230-g.webp",
+      "path": "despensa/opt/7506475116893___cereal-trix-marshamallow-230-g.webp"
+    },
+    {
+      "name": "7506475117197___cereal-nesquik-bolsa-750-g",
+      "file": "7506475117197___cereal-nesquik-bolsa-750-g.webp",
+      "path": "despensa/opt/7506475117197___cereal-nesquik-bolsa-750-g.webp"
+    },
+    {
+      "name": "7506475117401___chocolate-abuelita-tablillas-630-g-+-veladora",
+      "file": "7506475117401___chocolate-abuelita-tablillas-630-g-+-veladora.webp",
+      "path": "despensa/opt/7506475117401___chocolate-abuelita-tablillas-630-g-+-veladora.webp"
+    },
+    {
+      "name": "7506475117876___malteada-nesquik-chocolate-185-ml",
+      "file": "7506475117876___malteada-nesquik-chocolate-185-ml.webp",
+      "path": "despensa/opt/7506475117876___malteada-nesquik-chocolate-185-ml.webp"
+    },
+    {
+      "name": "7506475117883___leche-carlos-v-185-ml",
+      "file": "7506475117883___leche-carlos-v-185-ml.webp",
+      "path": "despensa/opt/7506475117883___leche-carlos-v-185-ml.webp"
+    },
+    {
+      "name": "7506475117944___café-nescafé-latte-original-20-g",
+      "file": "7506475117944___café-nescafé-latte-original-20-g.webp",
+      "path": "despensa/opt/7506475117944___café-nescafé-latte-original-20-g.webp"
+    },
+    {
+      "name": "7506475117968___café-nescafe-latte-caramelo-20-g",
+      "file": "7506475117968___café-nescafe-latte-caramelo-20-g.webp",
+      "path": "despensa/opt/7506475117968___café-nescafe-latte-caramelo-20-g.webp"
+    },
+    {
+      "name": "7506475117982.jpg___café-nescafe-latte-avellana-20-g",
+      "file": "7506475117982.jpg___café-nescafe-latte-avellana-20-g.webp",
+      "path": "despensa/opt/7506475117982.jpg___café-nescafe-latte-avellana-20-g.webp"
+    },
+    {
+      "name": "7506475118972___chocolate-nestlé-tableta-semiamargo-85-g",
+      "file": "7506475118972___chocolate-nestlé-tableta-semiamargo-85-g.webp",
+      "path": "despensa/opt/7506475118972___chocolate-nestlé-tableta-semiamargo-85-g.webp"
+    },
+    {
+      "name": "7506475119702___cereal-nesquik-mini-320-g",
+      "file": "7506475119702___cereal-nesquik-mini-320-g.webp",
+      "path": "despensa/opt/7506475119702___cereal-nesquik-mini-320-g.webp"
+    },
+    {
+      "name": "7506475120265___café-nescafé-sabor-chocolate-120-g",
+      "file": "7506475120265___café-nescafé-sabor-chocolate-120-g.webp",
+      "path": "despensa/opt/7506475120265___café-nescafé-sabor-chocolate-120-g.webp"
+    },
+    {
+      "name": "7506475120272___café-nescafé-sabor-vainilla-120-g",
+      "file": "7506475120272___café-nescafé-sabor-vainilla-120-g.webp",
+      "path": "despensa/opt/7506475120272___café-nescafé-sabor-vainilla-120-g.webp"
+    },
+    {
+      "name": "7506475120289___café-nescafé-sabor-avellana-120-g",
+      "file": "7506475120289___café-nescafé-sabor-avellana-120-g.webp",
+      "path": "despensa/opt/7506475120289___café-nescafé-sabor-avellana-120-g.webp"
+    },
+    {
+      "name": "7506475120333.jpg___café-nescafe-ice-roast-9-g-pieza",
+      "file": "7506475120333.jpg___café-nescafe-ice-roast-9-g-pieza.webp",
+      "path": "despensa/opt/7506475120333.jpg___café-nescafe-ice-roast-9-g-pieza.webp"
+    },
+    {
+      "name": "7506475120821___jugo-maggi-miche-145-ml-más-kermato-245-ml",
+      "file": "7506475120821___jugo-maggi-miche-145-ml-más-kermato-245-ml.webp",
+      "path": "despensa/opt/7506475120821___jugo-maggi-miche-145-ml-más-kermato-245-ml.webp"
+    },
+    {
+      "name": "7506475120838___carlos-v-choco-flakes-43-g",
+      "file": "7506475120838___carlos-v-choco-flakes-43-g.webp",
+      "path": "despensa/opt/7506475120838___carlos-v-choco-flakes-43-g.webp"
+    },
+    {
+      "name": "7506475120951___cremador-coffee-mate-baileys-salt-caramel-530-g",
+      "file": "7506475120951___cremador-coffee-mate-baileys-salt-caramel-530-g.webp",
+      "path": "despensa/opt/7506475120951___cremador-coffee-mate-baileys-salt-caramel-530-g.webp"
+    },
+    {
+      "name": "7506475121231.jpg___leche-carnation-evaporada-3-pack-60-g",
+      "file": "7506475121231.jpg___leche-carnation-evaporada-3-pack-60-g.webp",
+      "path": "despensa/opt/7506475121231.jpg___leche-carnation-evaporada-3-pack-60-g.webp"
+    },
+    {
+      "name": "7506475121781___leche-svelty-polvo-en-lata-360-g",
+      "file": "7506475121781___leche-svelty-polvo-en-lata-360-g.webp",
+      "path": "despensa/opt/7506475121781___leche-svelty-polvo-en-lata-360-g.webp"
+    },
+    {
+      "name": "7506475123051.jpg___café-nescafé-clásico-2-pack-de-120-g",
+      "file": "7506475123051.jpg___café-nescafé-clásico-2-pack-de-120-g.webp",
+      "path": "despensa/opt/7506475123051.jpg___café-nescafé-clásico-2-pack-de-120-g.webp"
+    },
+    {
+      "name": "7506475123617.jpg___chocolate-abuelita-con-7-tablillas-de-85-g",
+      "file": "7506475123617.jpg___chocolate-abuelita-con-7-tablillas-de-85-g.webp",
+      "path": "despensa/opt/7506475123617.jpg___chocolate-abuelita-con-7-tablillas-de-85-g.webp"
+    },
+    {
+      "name": "7506475123792___café-nescafé-dolca-frasco-80-g-más-dolca-46-g",
+      "file": "7506475123792___café-nescafé-dolca-frasco-80-g-más-dolca-46-g.webp",
+      "path": "despensa/opt/7506475123792___café-nescafé-dolca-frasco-80-g-más-dolca-46-g.webp"
+    },
+    {
+      "name": "7506475123952___chocolate-abuelita-7-tablillas-de-85-g-más-carnation",
+      "file": "7506475123952___chocolate-abuelita-7-tablillas-de-85-g-más-carnation.webp",
+      "path": "despensa/opt/7506475123952___chocolate-abuelita-7-tablillas-de-85-g-más-carnation.webp"
+    },
+    {
+      "name": "7506475124874___chocolate-abuelita-7-de-85-g-más-lata",
+      "file": "7506475124874___chocolate-abuelita-7-de-85-g-más-lata.webp",
+      "path": "despensa/opt/7506475124874___chocolate-abuelita-7-de-85-g-más-lata.webp"
+    },
+    {
+      "name": "7506475125543___café-nescafé-ice-40-g",
+      "file": "7506475125543___café-nescafé-ice-40-g.webp",
+      "path": "despensa/opt/7506475125543___café-nescafé-ice-40-g.webp"
+    },
+    {
+      "name": "75081881___salsa-hunts-bbq-chipotle-305-g",
+      "file": "75081881___salsa-hunts-bbq-chipotle-305-g.webp",
+      "path": "despensa/opt/75081881___salsa-hunts-bbq-chipotle-305-g.webp"
+    },
+    {
+      "name": "75081898___salsa-hunts-bbq-original-de-305-g",
+      "file": "75081898___salsa-hunts-bbq-original-de-305-g.webp",
+      "path": "despensa/opt/75081898___salsa-hunts-bbq-original-de-305-g.webp"
+    },
+    {
+      "name": "754177845741___paleta-winis-unicornio-40-piezas-de-7-g",
+      "file": "754177845741___paleta-winis-unicornio-40-piezas-de-7-g.webp",
+      "path": "despensa/opt/754177845741___paleta-winis-unicornio-40-piezas-de-7-g.webp"
+    },
+    {
+      "name": "757528007195___gomilocas-ricolino-dientes-1000-g",
+      "file": "757528007195___gomilocas-ricolino-dientes-1000-g.webp",
+      "path": "despensa/opt/757528007195___gomilocas-ricolino-dientes-1000-g.webp"
+    },
+    {
+      "name": "757528007263___gomilocas-ricolino-gusanos-1-kg",
+      "file": "757528007263___gomilocas-ricolino-gusanos-1-kg.webp",
+      "path": "despensa/opt/757528007263___gomilocas-ricolino-gusanos-1-kg.webp"
+    },
+    {
+      "name": "757528042011___kranky-ricolino-65-g",
+      "file": "757528042011___kranky-ricolino-65-g.webp",
+      "path": "despensa/opt/757528042011___kranky-ricolino-65-g.webp"
+    },
+    {
+      "name": "757528042028___gomitas-ricolino-pandita-aciditos-65-g",
+      "file": "757528042028___gomitas-ricolino-pandita-aciditos-65-g.webp",
+      "path": "despensa/opt/757528042028___gomitas-ricolino-pandita-aciditos-65-g.webp"
+    },
+    {
+      "name": "757528042042___gomita-ricolino-pandita-clásicos-65-g",
+      "file": "757528042042___gomita-ricolino-pandita-clásicos-65-g.webp",
+      "path": "despensa/opt/757528042042___gomita-ricolino-pandita-clásicos-65-g.webp"
+    },
+    {
+      "name": "757528042073___gomita-ricolino-pandita-rojos-65-g",
+      "file": "757528042073___gomita-ricolino-pandita-rojos-65-g.webp",
+      "path": "despensa/opt/757528042073___gomita-ricolino-pandita-rojos-65-g.webp"
+    },
+    {
+      "name": "759686661127___gomitas-vero-picagoma-mango-con-100-piezas",
+      "file": "759686661127___gomitas-vero-picagoma-mango-con-100-piezas.webp",
+      "path": "despensa/opt/759686661127___gomitas-vero-picagoma-mango-con-100-piezas.webp"
+    },
+    {
+      "name": "759686661325___gomitas-vero-picagoma-sandia-100-pieza",
+      "file": "759686661325___gomitas-vero-picagoma-sandia-100-pieza.webp",
+      "path": "despensa/opt/759686661325___gomitas-vero-picagoma-sandia-100-pieza.webp"
+    },
+    {
+      "name": "759686943421___gomita-ricolino-picafresa-180-g",
+      "file": "759686943421___gomita-ricolino-picafresa-180-g.webp",
+      "path": "despensa/opt/759686943421___gomita-ricolino-picafresa-180-g.webp"
+    },
+    {
+      "name": "760573020033___ajo-sasson-en-polvo-65-g",
+      "file": "760573020033___ajo-sasson-en-polvo-65-g.webp",
+      "path": "despensa/opt/760573020033___ajo-sasson-en-polvo-65-g.webp"
+    },
+    {
+      "name": "760573020187___pimienta-con-limón-sasson-65-g",
+      "file": "760573020187___pimienta-con-limón-sasson-65-g.webp",
+      "path": "despensa/opt/760573020187___pimienta-con-limón-sasson-65-g.webp"
+    },
+    {
+      "name": "760573020262___sal-con-ajo-sasson-100-g",
+      "file": "760573020262___sal-con-ajo-sasson-100-g.webp",
+      "path": "despensa/opt/760573020262___sal-con-ajo-sasson-100-g.webp"
+    },
+    {
+      "name": "7613036693103___café-nescafé-dolce-gusto-americano-16-cápsulas",
+      "file": "7613036693103___café-nescafé-dolce-gusto-americano-16-cápsulas.webp",
+      "path": "despensa/opt/7613036693103___café-nescafé-dolce-gusto-americano-16-cápsulas.webp"
+    },
+    {
+      "name": "761682802992___paleta-cool-toons-puerquitos-40-piezas",
+      "file": "761682802992___paleta-cool-toons-puerquitos-40-piezas.webp",
+      "path": "despensa/opt/761682802992___paleta-cool-toons-puerquitos-40-piezas.webp"
+    },
+    {
+      "name": "761682850122___paleta-cool-toons-laser-24-piezas",
+      "file": "761682850122___paleta-cool-toons-laser-24-piezas.webp",
+      "path": "despensa/opt/761682850122___paleta-cool-toons-laser-24-piezas.webp"
+    },
+    {
+      "name": "7622210529107___galleta-chips-ahoy-82.8-g",
+      "file": "7622210529107___galleta-chips-ahoy-82.8-g.webp",
+      "path": "despensa/opt/7622210529107___galleta-chips-ahoy-82.8-g.webp"
+    },
+    {
+      "name": "7622210529688___halls-extra-strong-24.75-g",
+      "file": "7622210529688___halls-extra-strong-24.75-g.webp",
+      "path": "despensa/opt/7622210529688___halls-extra-strong-24.75-g.webp"
+    },
+    {
+      "name": "7622210530387___trident-twist-raspberry-17.5-g",
+      "file": "7622210530387___trident-twist-raspberry-17.5-g.webp",
+      "path": "despensa/opt/7622210530387___trident-twist-raspberry-17.5-g.webp"
+    },
+    {
+      "name": "7622210530448___trident-twist-blueberry-17.5-g",
+      "file": "7622210530448___trident-twist-blueberry-17.5-g.webp",
+      "path": "despensa/opt/7622210530448___trident-twist-blueberry-17.5-g.webp"
+    },
+    {
+      "name": "7622210530479___trident-twist-watermelon-17.5-g",
+      "file": "7622210530479___trident-twist-watermelon-17.5-g.webp",
+      "path": "despensa/opt/7622210530479___trident-twist-watermelon-17.5-g.webp"
+    },
+    {
+      "name": "7622210530509___trident-twist-straberry-17.5-g",
+      "file": "7622210530509___trident-twist-straberry-17.5-g.webp",
+      "path": "despensa/opt/7622210530509___trident-twist-straberry-17.5-g.webp"
+    },
+    {
+      "name": "7622210530691___halls-monch-limón-16.8-g",
+      "file": "7622210530691___halls-monch-limón-16.8-g.webp",
+      "path": "despensa/opt/7622210530691___halls-monch-limón-16.8-g.webp"
+    },
+    {
+      "name": "7622210575159___galleta-oreo-chocolate-y-vainilla-display-378-g",
+      "file": "7622210575159___galleta-oreo-chocolate-y-vainilla-display-378-g.webp",
+      "path": "despensa/opt/7622210575159___galleta-oreo-chocolate-y-vainilla-display-378-g.webp"
+    },
+    {
+      "name": "7622210575333___galleta-oreo-golden-vainilla-display-4-piezas-de-63-g",
+      "file": "7622210575333___galleta-oreo-golden-vainilla-display-4-piezas-de-63-g.webp",
+      "path": "despensa/opt/7622210575333___galleta-oreo-golden-vainilla-display-4-piezas-de-63-g.webp"
+    },
+    {
+      "name": "7622210575395___galleta-oreo-chocolate-y-vainilla-display-4-piezas-de-63-g",
+      "file": "7622210575395___galleta-oreo-chocolate-y-vainilla-display-4-piezas-de-63-g.webp",
+      "path": "despensa/opt/7622210575395___galleta-oreo-chocolate-y-vainilla-display-4-piezas-de-63-g.webp"
+    },
+    {
+      "name": "7622210575609___galleta-oreo-golden-vainilla-105-g",
+      "file": "7622210575609___galleta-oreo-golden-vainilla-105-g.webp",
+      "path": "despensa/opt/7622210575609___galleta-oreo-golden-vainilla-105-g.webp"
+    },
+    {
+      "name": "7622210575623___galleta-oreo-pay-limón-105-g",
+      "file": "7622210575623___galleta-oreo-pay-limón-105-g.webp",
+      "path": "despensa/opt/7622210575623___galleta-oreo-pay-limón-105-g.webp"
+    },
+    {
+      "name": "8076809515306___pasta-barilla-número-5-spaghetti-mediano-1-kilo",
+      "file": "8076809515306___pasta-barilla-número-5-spaghetti-mediano-1-kilo.webp",
+      "path": "despensa/opt/8076809515306___pasta-barilla-número-5-spaghetti-mediano-1-kilo.webp"
+    },
+    {
+      "name": "8076809576246___pasta-barilla-fetuccine-1000-g",
+      "file": "8076809576246___pasta-barilla-fetuccine-1000-g.webp",
+      "path": "despensa/opt/8076809576246___pasta-barilla-fetuccine-1000-g.webp"
+    },
+    {
+      "name": "8076809580656___pasta-barilla-penne-rigate-500-g",
+      "file": "8076809580656___pasta-barilla-penne-rigate-500-g.webp",
+      "path": "despensa/opt/8076809580656___pasta-barilla-penne-rigate-500-g.webp"
+    },
+    {
+      "name": "8076809585095___pasta-barilla-mini-penne-rigate-250-g",
+      "file": "8076809585095___pasta-barilla-mini-penne-rigate-250-g.webp",
+      "path": "despensa/opt/8076809585095___pasta-barilla-mini-penne-rigate-250-g.webp"
+    },
+    {
+      "name": "8076809585101___pasta-barilla-mini-fusilli-de-250-g",
+      "file": "8076809585101___pasta-barilla-mini-fusilli-de-250-g.webp",
+      "path": "despensa/opt/8076809585101___pasta-barilla-mini-fusilli-de-250-g.webp"
+    },
+    {
+      "name": "8076809585118___pasta-barilla-mini-tortiglioni-250-g",
+      "file": "8076809585118___pasta-barilla-mini-tortiglioni-250-g.webp",
+      "path": "despensa/opt/8076809585118___pasta-barilla-mini-tortiglioni-250-g.webp"
+    },
+    {
+      "name": "8076809585125___pasta-barilla-mini-conchiglie-250-g",
+      "file": "8076809585125___pasta-barilla-mini-conchiglie-250-g.webp",
+      "path": "despensa/opt/8076809585125___pasta-barilla-mini-conchiglie-250-g.webp"
+    },
+    {
+      "name": "812999010898___polvo-anahuac-burbusoda-naranja-bolsa-con-100-piezas",
+      "file": "812999010898___polvo-anahuac-burbusoda-naranja-bolsa-con-100-piezas.webp",
+      "path": "despensa/opt/812999010898___polvo-anahuac-burbusoda-naranja-bolsa-con-100-piezas.webp"
+    },
+    {
+      "name": "812999014551___caramelo-chipikona-bolsa-con-25-piezas",
+      "file": "812999014551___caramelo-chipikona-bolsa-con-25-piezas.webp",
+      "path": "despensa/opt/812999014551___caramelo-chipikona-bolsa-con-25-piezas.webp"
+    },
+    {
+      "name": "812999015039___chipileta-mix-solapa-30-piezas-de-11-g",
+      "file": "812999015039___chipileta-mix-solapa-30-piezas-de-11-g.webp",
+      "path": "despensa/opt/812999015039___chipileta-mix-solapa-30-piezas-de-11-g.webp"
+    },
+    {
+      "name": "823703160327___higiénico-tender-6-rollos-de-600-hojas",
+      "file": "823703160327___higiénico-tender-6-rollos-de-600-hojas.webp",
+      "path": "despensa/opt/823703160327___higiénico-tender-6-rollos-de-600-hojas.webp"
+    },
+    {
+      "name": "823703160341___higiénico-tender-4-rollos-de-600-hojas",
+      "file": "823703160341___higiénico-tender-4-rollos-de-600-hojas.webp",
+      "path": "despensa/opt/823703160341___higiénico-tender-4-rollos-de-600-hojas.webp"
+    },
+    {
+      "name": "823703200146___atún-en-agua-karina-desmenuzado-jumbo-295-g",
+      "file": "823703200146___atún-en-agua-karina-desmenuzado-jumbo-295-g.webp",
+      "path": "despensa/opt/823703200146___atún-en-agua-karina-desmenuzado-jumbo-295-g.webp"
+    },
+    {
+      "name": "823703801060___aceite-máxima-oliva-extra-virgen-3-l",
+      "file": "823703801060___aceite-máxima-oliva-extra-virgen-3-l.webp",
+      "path": "despensa/opt/823703801060___aceite-máxima-oliva-extra-virgen-3-l.webp"
+    },
+    {
+      "name": "823703801107___higiénico-máxima-jumbo-4-rollos-de-600-hojas",
+      "file": "823703801107___higiénico-máxima-jumbo-4-rollos-de-600-hojas.webp",
+      "path": "despensa/opt/823703801107___higiénico-máxima-jumbo-4-rollos-de-600-hojas.webp"
+    },
+    {
+      "name": "823703801282___harina-maíz-máxima-1-kg",
+      "file": "823703801282___harina-maíz-máxima-1-kg.webp",
+      "path": "despensa/opt/823703801282___harina-maíz-máxima-1-kg.webp"
+    },
+    {
+      "name": "823703801299___harina-de-trigo-máxima-1-k",
+      "file": "823703801299___harina-de-trigo-máxima-1-k.webp",
+      "path": "despensa/opt/823703801299___harina-de-trigo-máxima-1-k.webp"
+    },
+    {
+      "name": "823703801664___avena-máxima-hojuela-400-g",
+      "file": "823703801664___avena-máxima-hojuela-400-g.webp",
+      "path": "despensa/opt/823703801664___avena-máxima-hojuela-400-g.webp"
+    },
+    {
+      "name": "823703801671___avena-máxima-hojuela-1-kg",
+      "file": "823703801671___avena-máxima-hojuela-1-kg.webp",
+      "path": "despensa/opt/823703801671___avena-máxima-hojuela-1-kg.webp"
+    },
+    {
+      "name": "823703801862___chiles-jalapeño-máxima-enteros-en-bolsa-3000-g",
+      "file": "823703801862___chiles-jalapeño-máxima-enteros-en-bolsa-3000-g.webp",
+      "path": "despensa/opt/823703801862___chiles-jalapeño-máxima-enteros-en-bolsa-3000-g.webp"
+    },
+    {
+      "name": "823703802524___café-maxima-soluble-colombiano-200-g",
+      "file": "823703802524___café-maxima-soluble-colombiano-200-g.webp",
+      "path": "despensa/opt/823703802524___café-maxima-soluble-colombiano-200-g.webp"
+    },
+    {
+      "name": "823703802531___café-maxima-soluble-liofilizado-170-g",
+      "file": "823703802531___café-maxima-soluble-liofilizado-170-g.webp",
+      "path": "despensa/opt/823703802531___café-maxima-soluble-liofilizado-170-g.webp"
+    },
+    {
+      "name": "823703803019___malvavisco-máxima-relleno-de-chocolate-225-g",
+      "file": "823703803019___malvavisco-máxima-relleno-de-chocolate-225-g.webp",
+      "path": "despensa/opt/823703803019___malvavisco-máxima-relleno-de-chocolate-225-g.webp"
+    },
+    {
+      "name": "823703803033.jpg___aceite-máxima-girasol-800-ml",
+      "file": "823703803033.jpg___aceite-máxima-girasol-800-ml.webp",
+      "path": "despensa/opt/823703803033.jpg___aceite-máxima-girasol-800-ml.webp"
+    },
+    {
+      "name": "823703803064___gomitas-máxima-ositos-1-kg",
+      "file": "823703803064___gomitas-máxima-ositos-1-kg.webp",
+      "path": "despensa/opt/823703803064___gomitas-máxima-ositos-1-kg.webp"
+    },
+    {
+      "name": "823703803071___gomitas-máxima-gusanito-1-kg",
+      "file": "823703803071___gomitas-máxima-gusanito-1-kg.webp",
+      "path": "despensa/opt/823703803071___gomitas-máxima-gusanito-1-kg.webp"
+    },
+    {
+      "name": "823703803095___paleta-máxima-malvavisco-chocolate-45-g",
+      "file": "823703803095___paleta-máxima-malvavisco-chocolate-45-g.webp",
+      "path": "despensa/opt/823703803095___paleta-máxima-malvavisco-chocolate-45-g.webp"
+    },
+    {
+      "name": "823703803569___maíz-pozolero-máxima-blanco-822-g",
+      "file": "823703803569___maíz-pozolero-máxima-blanco-822-g.webp",
+      "path": "despensa/opt/823703803569___maíz-pozolero-máxima-blanco-822-g.webp"
+    },
+    {
+      "name": "850697003323.jpg___galleta-macma-surtido-selecciones-660-g",
+      "file": "850697003323.jpg___galleta-macma-surtido-selecciones-660-g.webp",
+      "path": "despensa/opt/850697003323.jpg___galleta-macma-surtido-selecciones-660-g.webp"
+    },
+    {
+      "name": "888989___dona-chocolate-pieza",
+      "file": "888989___dona-chocolate-pieza.webp",
+      "path": "despensa/opt/888989___dona-chocolate-pieza.webp"
+    },
+    {
+      "name": "888991___dona-blanca-pieza",
+      "file": "888991___dona-blanca-pieza.webp",
+      "path": "despensa/opt/888991___dona-blanca-pieza.webp"
+    },
+    {
+      "name": "889052___pan-concha-mantequilla-gloria-pieza",
+      "file": "889052___pan-concha-mantequilla-gloria-pieza.webp",
+      "path": "despensa/opt/889052___pan-concha-mantequilla-gloria-pieza.webp"
+    },
+    {
+      "name": "889053___pan-croissant-mantequilla-gloria-pieza",
+      "file": "889053___pan-croissant-mantequilla-gloria-pieza.webp",
+      "path": "despensa/opt/889053___pan-croissant-mantequilla-gloria-pieza.webp"
+    },
+    {
+      "name": "999006___frijol-bayo-kilo",
+      "file": "999006___frijol-bayo-kilo.webp",
+      "path": "despensa/opt/999006___frijol-bayo-kilo.webp"
+    },
+    {
+      "name": "999018___fruta-cristalizada-250-g-aproximado",
+      "file": "999018___fruta-cristalizada-250-g-aproximado.webp",
+      "path": "despensa/opt/999018___fruta-cristalizada-250-g-aproximado.webp"
+    },
+    {
+      "name": "999031___alberjón-kilo",
+      "file": "999031___alberjón-kilo.webp",
+      "path": "despensa/opt/999031___alberjón-kilo.webp"
+    },
+    {
+      "name": "999034___garbanzo-250-g-aprox.",
+      "file": "999034___garbanzo-250-g-aprox..webp",
+      "path": "despensa/opt/999034___garbanzo-250-g-aprox..webp"
+    },
+    {
+      "name": "999051___gomita-en-gajos-surtida-250-g-aproximado",
+      "file": "999051___gomita-en-gajos-surtida-250-g-aproximado.webp",
+      "path": "despensa/opt/999051___gomita-en-gajos-surtida-250-g-aproximado.webp"
+    },
+    {
+      "name": "999075___fruta-mixta-250-g-aproximado",
+      "file": "999075___fruta-mixta-250-g-aproximado.webp",
+      "path": "despensa/opt/999075___fruta-mixta-250-g-aproximado.webp"
+    },
+    {
+      "name": "999122___haba-molida-250-g-aproximado",
+      "file": "999122___haba-molida-250-g-aproximado.webp",
+      "path": "despensa/opt/999122___haba-molida-250-g-aproximado.webp"
+    },
+    {
+      "name": "999191___almendra-confitada-250-g-aproximado",
+      "file": "999191___almendra-confitada-250-g-aproximado.webp",
+      "path": "despensa/opt/999191___almendra-confitada-250-g-aproximado.webp"
+    },
+    {
+      "name": "999235___frescas-con-chocolate-250-g-aproximado",
+      "file": "999235___frescas-con-chocolate-250-g-aproximado.webp",
+      "path": "despensa/opt/999235___frescas-con-chocolate-250-g-aproximado.webp"
+    },
+    {
+      "name": "999241___gomita-con-chile-tajín-250-aproximado",
+      "file": "999241___gomita-con-chile-tajín-250-aproximado.webp",
+      "path": "despensa/opt/999241___gomita-con-chile-tajín-250-aproximado.webp"
+    },
+    {
+      "name": "999251___azúcar-estándar-agranel-kilo",
+      "file": "999251___azúcar-estándar-agranel-kilo.webp",
+      "path": "despensa/opt/999251___azúcar-estándar-agranel-kilo.webp"
+    },
+    {
+      "name": "999261___botana-fina-mix-a-granel-250-g-aproximado",
+      "file": "999261___botana-fina-mix-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/999261___botana-fina-mix-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "999264___botana-mixta-a-granel-250-g-aproximado",
+      "file": "999264___botana-mixta-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/999264___botana-mixta-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "999270___cacahuate-tostado-natural-250-g-aproximado",
+      "file": "999270___cacahuate-tostado-natural-250-g-aproximado.webp",
+      "path": "despensa/opt/999270___cacahuate-tostado-natural-250-g-aproximado.webp"
+    },
+    {
+      "name": "999272___galleta-suspiro-con-chocolate-250-g-aproximado",
+      "file": "999272___galleta-suspiro-con-chocolate-250-g-aproximado.webp",
+      "path": "despensa/opt/999272___galleta-suspiro-con-chocolate-250-g-aproximado.webp"
+    },
+    {
+      "name": "999277___arandano-enchilado-250-g-aproximado",
+      "file": "999277___arandano-enchilado-250-g-aproximado.webp",
+      "path": "despensa/opt/999277___arandano-enchilado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999295___cereza-roja-con-tallo-250-g-aprox.",
+      "file": "999295___cereza-roja-con-tallo-250-g-aprox..webp",
+      "path": "despensa/opt/999295___cereza-roja-con-tallo-250-g-aprox..webp"
+    },
+    {
+      "name": "999394___ajonjolí-250-g-aproximado",
+      "file": "999394___ajonjolí-250-g-aproximado.webp",
+      "path": "despensa/opt/999394___ajonjolí-250-g-aproximado.webp"
+    },
+    {
+      "name": "999412___consomé-el-progreso-de-pollo-250-g-aproximado",
+      "file": "999412___consomé-el-progreso-de-pollo-250-g-aproximado.webp",
+      "path": "despensa/opt/999412___consomé-el-progreso-de-pollo-250-g-aproximado.webp"
+    },
+    {
+      "name": "999413___mole-el-progreso-almendrado-250-g-aprox.",
+      "file": "999413___mole-el-progreso-almendrado-250-g-aprox..webp",
+      "path": "despensa/opt/999413___mole-el-progreso-almendrado-250-g-aprox..webp"
+    },
+    {
+      "name": "999427___mole-el-progreso-almendrado-picoso-250-g-aproximado",
+      "file": "999427___mole-el-progreso-almendrado-picoso-250-g-aproximado.webp",
+      "path": "despensa/opt/999427___mole-el-progreso-almendrado-picoso-250-g-aproximado.webp"
+    },
+    {
+      "name": "999428___mole-el-progreso-tradicional-picoso-250-g-aproximado",
+      "file": "999428___mole-el-progreso-tradicional-picoso-250-g-aproximado.webp",
+      "path": "despensa/opt/999428___mole-el-progreso-tradicional-picoso-250-g-aproximado.webp"
+    },
+    {
+      "name": "999430___mole-el-progreso-tradicional-250-g-aproximado",
+      "file": "999430___mole-el-progreso-tradicional-250-g-aproximado.webp",
+      "path": "despensa/opt/999430___mole-el-progreso-tradicional-250-g-aproximado.webp"
+    },
+    {
+      "name": "999454___pasas-con-chocolate-250-g-aproximado",
+      "file": "999454___pasas-con-chocolate-250-g-aproximado.webp",
+      "path": "despensa/opt/999454___pasas-con-chocolate-250-g-aproximado.webp"
+    },
+    {
+      "name": "999543___galleta-golden-foods-animalitos-kilo",
+      "file": "999543___galleta-golden-foods-animalitos-kilo.webp",
+      "path": "despensa/opt/999543___galleta-golden-foods-animalitos-kilo.webp"
+    },
+    {
+      "name": "999557___piña-smk-enchilada-250-g-aproximado",
+      "file": "999557___piña-smk-enchilada-250-g-aproximado.webp",
+      "path": "despensa/opt/999557___piña-smk-enchilada-250-g-aproximado.webp"
+    },
+    {
+      "name": "999558___tira-mango-enchilado-250-g-aproximado",
+      "file": "999558___tira-mango-enchilado-250-g-aproximado.webp",
+      "path": "despensa/opt/999558___tira-mango-enchilado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999567___mango-enchilado-250-g-aproximado",
+      "file": "999567___mango-enchilado-250-g-aproximado.webp",
+      "path": "despensa/opt/999567___mango-enchilado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999570___gomitas-smk-aros-de-durazno-250-g-aproximado",
+      "file": "999570___gomitas-smk-aros-de-durazno-250-g-aproximado.webp",
+      "path": "despensa/opt/999570___gomitas-smk-aros-de-durazno-250-g-aproximado.webp"
+    },
+    {
+      "name": "999574___fritura-pellet-palmex-palillo-a-granel-250-g-aproximado",
+      "file": "999574___fritura-pellet-palmex-palillo-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/999574___fritura-pellet-palmex-palillo-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "999591___dulce-smk-tornado-tiras-aciditas-250-g-aproximado",
+      "file": "999591___dulce-smk-tornado-tiras-aciditas-250-g-aproximado.webp",
+      "path": "despensa/opt/999591___dulce-smk-tornado-tiras-aciditas-250-g-aproximado.webp"
+    },
+    {
+      "name": "999602___semilla-de-girasol-250-g-aproximado",
+      "file": "999602___semilla-de-girasol-250-g-aproximado.webp",
+      "path": "despensa/opt/999602___semilla-de-girasol-250-g-aproximado.webp"
+    },
+    {
+      "name": "999611___cacahuate-esnafer-enchilado-250-g-aproximado",
+      "file": "999611___cacahuate-esnafer-enchilado-250-g-aproximado.webp",
+      "path": "despensa/opt/999611___cacahuate-esnafer-enchilado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999613___cacahuate-esnafer-español-a-granel-250-g-aproximado",
+      "file": "999613___cacahuate-esnafer-español-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/999613___cacahuate-esnafer-español-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "999614___cacahuate-esnafer-japonés-a-granel-250-g-aproximado",
+      "file": "999614___cacahuate-esnafer-japonés-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/999614___cacahuate-esnafer-japonés-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "999616___cacahuate-esnafer-salado-250-g-aproximado",
+      "file": "999616___cacahuate-esnafer-salado-250-g-aproximado.webp",
+      "path": "despensa/opt/999616___cacahuate-esnafer-salado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999621___garbanzo-esnafer-enchilado-250-g-aproximado",
+      "file": "999621___garbanzo-esnafer-enchilado-250-g-aproximado.webp",
+      "path": "despensa/opt/999621___garbanzo-esnafer-enchilado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999625___cacahuate-esnafer-japonés-habanero-a-granel-250-g-aproximado",
+      "file": "999625___cacahuate-esnafer-japonés-habanero-a-granel-250-g-aproximado.webp",
+      "path": "despensa/opt/999625___cacahuate-esnafer-japonés-habanero-a-granel-250-g-aproximado.webp"
+    },
+    {
+      "name": "999635___hojuela-de-chocolate-250-g-aproximado",
+      "file": "999635___hojuela-de-chocolate-250-g-aproximado.webp",
+      "path": "despensa/opt/999635___hojuela-de-chocolate-250-g-aproximado.webp"
+    },
+    {
+      "name": "999648___bombón-tapón-de-chocolate-250-aproximado",
+      "file": "999648___bombón-tapón-de-chocolate-250-aproximado.webp",
+      "path": "despensa/opt/999648___bombón-tapón-de-chocolate-250-aproximado.webp"
+    },
+    {
+      "name": "999662___botana-smk-churro-salado-250-g-aproximado",
+      "file": "999662___botana-smk-churro-salado-250-g-aproximado.webp",
+      "path": "despensa/opt/999662___botana-smk-churro-salado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999667___aderezo-tres-castillos-para-nachos-250-g-aproximado",
+      "file": "999667___aderezo-tres-castillos-para-nachos-250-g-aproximado.webp",
+      "path": "despensa/opt/999667___aderezo-tres-castillos-para-nachos-250-g-aproximado.webp"
+    },
+    {
+      "name": "999678___gomita-panditas-ricolino-250-g-aproximado",
+      "file": "999678___gomita-panditas-ricolino-250-g-aproximado.webp",
+      "path": "despensa/opt/999678___gomita-panditas-ricolino-250-g-aproximado.webp"
+    },
+    {
+      "name": "999695___gomitas-smk-aros-de-manzana-250-g-aproximado",
+      "file": "999695___gomitas-smk-aros-de-manzana-250-g-aproximado.webp",
+      "path": "despensa/opt/999695___gomitas-smk-aros-de-manzana-250-g-aproximado.webp"
+    },
+    {
+      "name": "999696___gomita-lucky-gummys-lombriz-neon-250-g-aproximado",
+      "file": "999696___gomita-lucky-gummys-lombriz-neon-250-g-aproximado.webp",
+      "path": "despensa/opt/999696___gomita-lucky-gummys-lombriz-neon-250-g-aproximado.webp"
+    },
+    {
+      "name": "999700___botana-smk-churro-enchilado-250-g-aproximado",
+      "file": "999700___botana-smk-churro-enchilado-250-g-aproximado.webp",
+      "path": "despensa/opt/999700___botana-smk-churro-enchilado-250-g-aproximado.webp"
+    },
+    {
+      "name": "999767___mole-santa-monica-supremo-doble-chocolate-250-g-aproximado",
+      "file": "999767___mole-santa-monica-supremo-doble-chocolate-250-g-aproximado.webp",
+      "path": "despensa/opt/999767___mole-santa-monica-supremo-doble-chocolate-250-g-aproximado.webp"
+    },
+    {
+      "name": "999781___fruta-mixta-picada-250-g-aproximado",
+      "file": "999781___fruta-mixta-picada-250-g-aproximado.webp",
+      "path": "despensa/opt/999781___fruta-mixta-picada-250-g-aproximado.webp"
+    },
+    {
+      "name": "999782___almendra-fileteada-250-g-aproximado",
+      "file": "999782___almendra-fileteada-250-g-aproximado.webp",
+      "path": "despensa/opt/999782___almendra-fileteada-250-g-aproximado.webp"
+    },
+    {
+      "name": "999784___ciruela-pasa-sin-hueso-250-g-aproximado",
+      "file": "999784___ciruela-pasa-sin-hueso-250-g-aproximado.webp",
+      "path": "despensa/opt/999784___ciruela-pasa-sin-hueso-250-g-aproximado.webp"
+    },
+    {
+      "name": "999855___pan-molido-de-250-g-aproximado",
+      "file": "999855___pan-molido-de-250-g-aproximado.webp",
+      "path": "despensa/opt/999855___pan-molido-de-250-g-aproximado.webp"
+    },
+    {
+      "name": "999908___cereal-choco-ronis-250-g-aproximado",
+      "file": "999908___cereal-choco-ronis-250-g-aproximado.webp",
+      "path": "despensa/opt/999908___cereal-choco-ronis-250-g-aproximado.webp"
+    },
+    {
+      "name": "999959___chía-250-g-aprox",
+      "file": "999959___chía-250-g-aprox.webp",
+      "path": "despensa/opt/999959___chía-250-g-aprox.webp"
+    }
+  ]
+}

@@ -1,0 +1,3007 @@
+{
+  "generatedAt": "2026-10-01T05:49:54Z",
+  "folder": "limpieza_y_mascotas",
+  "count": 600,
+  "images": [
+    {
+      "name": "010900199056___papel-aluminio-reynolds-wrap-7.6-m",
+      "file": "010900199056___papel-aluminio-reynolds-wrap-7.6-m.webp",
+      "path": "limpieza_y_mascotas/opt/010900199056___papel-aluminio-reynolds-wrap-7.6-m.webp"
+    },
+    {
+      "name": "010900248860___aluminio-reynolds-4.6-metros-pieza",
+      "file": "010900248860___aluminio-reynolds-4.6-metros-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/010900248860___aluminio-reynolds-4.6-metros-pieza.webp"
+    },
+    {
+      "name": "012388003276___detergente-líquido-bold-3-aromas-primavera-800-ml",
+      "file": "012388003276___detergente-líquido-bold-3-aromas-primavera-800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/012388003276___detergente-líquido-bold-3-aromas-primavera-800-ml.webp"
+    },
+    {
+      "name": "012388003283___detergente-líquido-bold-3-aromas-primavera-4.23l",
+      "file": "012388003283___detergente-líquido-bold-3-aromas-primavera-4.23l.webp",
+      "path": "limpieza_y_mascotas/opt/012388003283___detergente-líquido-bold-3-aromas-primavera-4.23l.webp"
+    },
+    {
+      "name": "012388003290___detergente-bold-3-líquido-cariñito-de-mamá-800-ml",
+      "file": "012388003290___detergente-bold-3-líquido-cariñito-de-mamá-800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/012388003290___detergente-bold-3-líquido-cariñito-de-mamá-800-ml.webp"
+    },
+    {
+      "name": "012388003306___detergente-líquido-bold-3-cariñito-mamá-4.23l",
+      "file": "012388003306___detergente-líquido-bold-3-cariñito-mamá-4.23l.webp",
+      "path": "limpieza_y_mascotas/opt/012388003306___detergente-líquido-bold-3-cariñito-mamá-4.23l.webp"
+    },
+    {
+      "name": "012388003412___jabón-lavandería-bold-3-cariñito-mamá-400-g",
+      "file": "012388003412___jabón-lavandería-bold-3-cariñito-mamá-400-g.webp",
+      "path": "limpieza_y_mascotas/opt/012388003412___jabón-lavandería-bold-3-cariñito-mamá-400-g.webp"
+    },
+    {
+      "name": "012388003832___jabón-lavandería-bold-3-frescura-verano-400-g",
+      "file": "012388003832___jabón-lavandería-bold-3-frescura-verano-400-g.webp",
+      "path": "limpieza_y_mascotas/opt/012388003832___jabón-lavandería-bold-3-frescura-verano-400-g.webp"
+    },
+    {
+      "name": "012388003955___suavizante-bold-3-suave-frescura-3-l",
+      "file": "012388003955___suavizante-bold-3-suave-frescura-3-l.webp",
+      "path": "limpieza_y_mascotas/opt/012388003955___suavizante-bold-3-suave-frescura-3-l.webp"
+    },
+    {
+      "name": "012388003962___suavizante-bold-3-flores-de-primavera-3-l",
+      "file": "012388003962___suavizante-bold-3-flores-de-primavera-3-l.webp",
+      "path": "limpieza_y_mascotas/opt/012388003962___suavizante-bold-3-flores-de-primavera-3-l.webp"
+    },
+    {
+      "name": "012388003979___suavizante-bold-3-suave-frescura-1-l",
+      "file": "012388003979___suavizante-bold-3-suave-frescura-1-l.webp",
+      "path": "limpieza_y_mascotas/opt/012388003979___suavizante-bold-3-suave-frescura-1-l.webp"
+    },
+    {
+      "name": "012388003986___suavizante-bold-3-flores-de-primavera-1-l",
+      "file": "012388003986___suavizante-bold-3-flores-de-primavera-1-l.webp",
+      "path": "limpieza_y_mascotas/opt/012388003986___suavizante-bold-3-flores-de-primavera-1-l.webp"
+    },
+    {
+      "name": "017499013077___detergente-maestro-limpio-polvo-multiusos-1-kg",
+      "file": "017499013077___detergente-maestro-limpio-polvo-multiusos-1-kg.webp",
+      "path": "limpieza_y_mascotas/opt/017499013077___detergente-maestro-limpio-polvo-multiusos-1-kg.webp"
+    },
+    {
+      "name": "017499013305___detergente-maestro-limpio-1-kg-más-100-g",
+      "file": "017499013305___detergente-maestro-limpio-1-kg-más-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/017499013305___detergente-maestro-limpio-1-kg-más-100-g.webp"
+    },
+    {
+      "name": "023100041032___alimento-para-perro-pedigree-cachorro-4-kg",
+      "file": "023100041032___alimento-para-perro-pedigree-cachorro-4-kg.webp",
+      "path": "limpieza_y_mascotas/opt/023100041032___alimento-para-perro-pedigree-cachorro-4-kg.webp"
+    },
+    {
+      "name": "023100041049___pedigree-alimento-seco-para-cachorros-de-todos-los-tamaños-2-kg",
+      "file": "023100041049___pedigree-alimento-seco-para-cachorros-de-todos-los-tamaños-2-kg.webp",
+      "path": "limpieza_y_mascotas/opt/023100041049___pedigree-alimento-seco-para-cachorros-de-todos-los-tamaños-2-kg.webp"
+    },
+    {
+      "name": "030772087251___suavizante-downy-perlas-aroma-fresh-141g",
+      "file": "030772087251___suavizante-downy-perlas-aroma-fresh-141g.webp",
+      "path": "limpieza_y_mascotas/opt/030772087251___suavizante-downy-perlas-aroma-fresh-141g.webp"
+    },
+    {
+      "name": "030772087343___suavizante-downy-perlas-aroma-lush-141-g",
+      "file": "030772087343___suavizante-downy-perlas-aroma-lush-141-g.webp",
+      "path": "limpieza_y_mascotas/opt/030772087343___suavizante-downy-perlas-aroma-lush-141-g.webp"
+    },
+    {
+      "name": "037836007279___shampoo-grisi-guau-perro-consentido-400-ml",
+      "file": "037836007279___shampoo-grisi-guau-perro-consentido-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/037836007279___shampoo-grisi-guau-perro-consentido-400-ml.webp"
+    },
+    {
+      "name": "041333000985___pila-duracell-blister-d-2-piezas",
+      "file": "041333000985___pila-duracell-blister-d-2-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/041333000985___pila-duracell-blister-d-2-piezas.webp"
+    },
+    {
+      "name": "041333404486___pila-duracell-blister-aaa-5-piezas",
+      "file": "041333404486___pila-duracell-blister-aaa-5-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/041333404486___pila-duracell-blister-aaa-5-piezas.webp"
+    },
+    {
+      "name": "041333760643___pila-duracell-blister-aa-5-piezas",
+      "file": "041333760643___pila-duracell-blister-aa-5-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/041333760643___pila-duracell-blister-aa-5-piezas.webp"
+    },
+    {
+      "name": "062338767550___aromatizante-air-wick-papaya-y-mango-75-ml",
+      "file": "062338767550___aromatizante-air-wick-papaya-y-mango-75-ml.webp",
+      "path": "limpieza_y_mascotas/opt/062338767550___aromatizante-air-wick-papaya-y-mango-75-ml.webp"
+    },
+    {
+      "name": "070485600330___molde-reynolds-rectangular-capacidad-de-3.6-kg",
+      "file": "070485600330___molde-reynolds-rectangular-capacidad-de-3.6-kg.webp",
+      "path": "limpieza_y_mascotas/opt/070485600330___molde-reynolds-rectangular-capacidad-de-3.6-kg.webp"
+    },
+    {
+      "name": "070612191700___protector-original-armor-all-con-atomizador-118-ml",
+      "file": "070612191700___protector-original-armor-all-con-atomizador-118-ml.webp",
+      "path": "limpieza_y_mascotas/opt/070612191700___protector-original-armor-all-con-atomizador-118-ml.webp"
+    },
+    {
+      "name": "099072000674.jpg___higienico-premier-mega-roll-4-rollos-de-400-hd",
+      "file": "099072000674.jpg___higienico-premier-mega-roll-4-rollos-de-400-hd.webp",
+      "path": "limpieza_y_mascotas/opt/099072000674.jpg___higienico-premier-mega-roll-4-rollos-de-400-hd.webp"
+    },
+    {
+      "name": "099072101647___servilletas-premier-con-450-piezas",
+      "file": "099072101647___servilletas-premier-con-450-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/099072101647___servilletas-premier-con-450-piezas.webp"
+    },
+    {
+      "name": "099072101678.jpg___servilletas-elite-ultra-con-420-piezas",
+      "file": "099072101678.jpg___servilletas-elite-ultra-con-420-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/099072101678.jpg___servilletas-elite-ultra-con-420-piezas.webp"
+    },
+    {
+      "name": "10900300131___aluminio-reynolds-repuesto-5mx30-cm",
+      "file": "10900300131___aluminio-reynolds-repuesto-5mx30-cm.webp",
+      "path": "limpieza_y_mascotas/opt/10900300131___aluminio-reynolds-repuesto-5mx30-cm.webp"
+    },
+    {
+      "name": "17500435253953___suavizante-downy-floral-730-ml",
+      "file": "17500435253953___suavizante-downy-floral-730-ml.webp",
+      "path": "limpieza_y_mascotas/opt/17500435253953___suavizante-downy-floral-730-ml.webp"
+    },
+    {
+      "name": "17501017381620___toalla-interdoblada-sanitas-100-piezas",
+      "file": "17501017381620___toalla-interdoblada-sanitas-100-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/17501017381620___toalla-interdoblada-sanitas-100-piezas.webp"
+    },
+    {
+      "name": "17501032926301___insecticida-raid-max-doble-acción-500-ml",
+      "file": "17501032926301___insecticida-raid-max-doble-acción-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/17501032926301___insecticida-raid-max-doble-acción-500-ml.webp"
+    },
+    {
+      "name": "17501058797299___toallas-lysol-on-the-go-15-piezas",
+      "file": "17501058797299___toallas-lysol-on-the-go-15-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/17501058797299___toallas-lysol-on-the-go-15-piezas.webp"
+    },
+    {
+      "name": "17501943486185___toalla-interdoblada-marli-200-piezas",
+      "file": "17501943486185___toalla-interdoblada-marli-200-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/17501943486185___toalla-interdoblada-marli-200-piezas.webp"
+    },
+    {
+      "name": "17503051868259___limpiador-mr-músculo-vidrios-650-ml",
+      "file": "17503051868259___limpiador-mr-músculo-vidrios-650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/17503051868259___limpiador-mr-músculo-vidrios-650-ml.webp"
+    },
+    {
+      "name": "17506425664433___servitoalla-kleenex-elegance-black-160-hd",
+      "file": "17506425664433___servitoalla-kleenex-elegance-black-160-hd.webp",
+      "path": "limpieza_y_mascotas/opt/17506425664433___servitoalla-kleenex-elegance-black-160-hd.webp"
+    },
+    {
+      "name": "17506425664846___servilletas-kleenex-snoopy-180-piezas",
+      "file": "17506425664846___servilletas-kleenex-snoopy-180-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/17506425664846___servilletas-kleenex-snoopy-180-piezas.webp"
+    },
+    {
+      "name": "18ABOV002___higiénico-bosque-verde-con-6-piezas-de-250-hojas",
+      "file": "18ABOV002___higiénico-bosque-verde-con-6-piezas-de-250-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/18ABOV002___higiénico-bosque-verde-con-6-piezas-de-250-hojas.webp"
+    },
+    {
+      "name": "18ABOV003___higienico-bosque-verde-con-6-piezas-de-600-hojas",
+      "file": "18ABOV003___higienico-bosque-verde-con-6-piezas-de-600-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/18ABOV003___higienico-bosque-verde-con-6-piezas-de-600-hojas.webp"
+    },
+    {
+      "name": "18CBOV001___toalla-bosque-verde-de-cocina-1-pieza-con-60-hojas",
+      "file": "18CBOV001___toalla-bosque-verde-de-cocina-1-pieza-con-60-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/18CBOV001___toalla-bosque-verde-de-cocina-1-pieza-con-60-hojas.webp"
+    },
+    {
+      "name": "18CMAX002___toalla-de-cocina-maxima-con-180-hojas",
+      "file": "18CMAX002___toalla-de-cocina-maxima-con-180-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/18CMAX002___toalla-de-cocina-maxima-con-180-hojas.webp"
+    },
+    {
+      "name": "1912___jabón-popo-sin-envoltura-350-g",
+      "file": "1912___jabón-popo-sin-envoltura-350-g.webp",
+      "path": "limpieza_y_mascotas/opt/1912___jabón-popo-sin-envoltura-350-g.webp"
+    },
+    {
+      "name": "19FMAX011___detergente-líquido-máxima-ropa-oscura-7-l",
+      "file": "19FMAX011___detergente-líquido-máxima-ropa-oscura-7-l.webp",
+      "path": "limpieza_y_mascotas/opt/19FMAX011___detergente-líquido-máxima-ropa-oscura-7-l.webp"
+    },
+    {
+      "name": "20041333666420___pila-duracell-aa-tira-con-6-piezas",
+      "file": "20041333666420___pila-duracell-aa-tira-con-6-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/20041333666420___pila-duracell-aa-tira-con-6-piezas.webp"
+    },
+    {
+      "name": "20BMAX005___suavizante-maxima-aroma-primavera-7000-ml",
+      "file": "20BMAX005___suavizante-maxima-aroma-primavera-7000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/20BMAX005___suavizante-maxima-aroma-primavera-7000-ml.webp"
+    },
+    {
+      "name": "24ASUA001___velas-santuario-cajilla-con-8-piezas",
+      "file": "24ASUA001___velas-santuario-cajilla-con-8-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/24ASUA001___velas-santuario-cajilla-con-8-piezas.webp"
+    },
+    {
+      "name": "24BSUA001___veladora-santuario-3.5-dias",
+      "file": "24BSUA001___veladora-santuario-3.5-dias.webp",
+      "path": "limpieza_y_mascotas/opt/24BSUA001___veladora-santuario-3.5-dias.webp"
+    },
+    {
+      "name": "24BSUA004___veladora-santuario-limonero",
+      "file": "24BSUA004___veladora-santuario-limonero.webp",
+      "path": "limpieza_y_mascotas/opt/24BSUA004___veladora-santuario-limonero.webp"
+    },
+    {
+      "name": "24BSUA005___veladora-santuario-refaccion-#4",
+      "file": "24BSUA005___veladora-santuario-refaccion-#4.webp",
+      "path": "limpieza_y_mascotas/opt/24BSUA005___veladora-santuario-refaccion-#4.webp"
+    },
+    {
+      "name": "24BSUA006___veladora-santuario-refaccion-#-5",
+      "file": "24BSUA006___veladora-santuario-refaccion-#-5.webp",
+      "path": "limpieza_y_mascotas/opt/24BSUA006___veladora-santuario-refaccion-#-5.webp"
+    },
+    {
+      "name": "24BSUA007___veladora-santuario-refaccion-#-18",
+      "file": "24BSUA007___veladora-santuario-refaccion-#-18.webp",
+      "path": "limpieza_y_mascotas/opt/24BSUA007___veladora-santuario-refaccion-#-18.webp"
+    },
+    {
+      "name": "24BSUA008___veladora-santuario-semanaria",
+      "file": "24BSUA008___veladora-santuario-semanaria.webp",
+      "path": "limpieza_y_mascotas/opt/24BSUA008___veladora-santuario-semanaria.webp"
+    },
+    {
+      "name": "27401001690721___detergente-espumil-polvo-bebitos-1000-g",
+      "file": "27401001690721___detergente-espumil-polvo-bebitos-1000-g.webp",
+      "path": "limpieza_y_mascotas/opt/27401001690721___detergente-espumil-polvo-bebitos-1000-g.webp"
+    },
+    {
+      "name": "27501032925158___insecticida-raid-acción-total-lavanda-400-ml",
+      "file": "27501032925158___insecticida-raid-acción-total-lavanda-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/27501032925158___insecticida-raid-acción-total-lavanda-400-ml.webp"
+    },
+    {
+      "name": "27506425610543___higiénico-jumbo-sr.-marli-400-m",
+      "file": "27506425610543___higiénico-jumbo-sr.-marli-400-m.webp",
+      "path": "limpieza_y_mascotas/opt/27506425610543___higiénico-jumbo-sr.-marli-400-m.webp"
+    },
+    {
+      "name": "55ABOV011___jerga-bosque-verde-de-piso-60x50-cm",
+      "file": "55ABOV011___jerga-bosque-verde-de-piso-60x50-cm.webp",
+      "path": "limpieza_y_mascotas/opt/55ABOV011___jerga-bosque-verde-de-piso-60x50-cm.webp"
+    },
+    {
+      "name": "55ABOV013___duo-bosque-verde-franela-jerga",
+      "file": "55ABOV013___duo-bosque-verde-franela-jerga.webp",
+      "path": "limpieza_y_mascotas/opt/55ABOV013___duo-bosque-verde-franela-jerga.webp"
+    },
+    {
+      "name": "55AMAX002___trapeador-maxi-hogar-mediano",
+      "file": "55AMAX002___trapeador-maxi-hogar-mediano.webp",
+      "path": "limpieza_y_mascotas/opt/55AMAX002___trapeador-maxi-hogar-mediano.webp"
+    },
+    {
+      "name": "55AMAX004___trapeador-maxi-hogar-grande",
+      "file": "55AMAX004___trapeador-maxi-hogar-grande.webp",
+      "path": "limpieza_y_mascotas/opt/55AMAX004___trapeador-maxi-hogar-grande.webp"
+    },
+    {
+      "name": "55AMAX008___escoba-maxi-hogar-cepillo",
+      "file": "55AMAX008___escoba-maxi-hogar-cepillo.webp",
+      "path": "limpieza_y_mascotas/opt/55AMAX008___escoba-maxi-hogar-cepillo.webp"
+    },
+    {
+      "name": "55BBOV003___tendedero-bosque-verde-de-polietileno-7-m",
+      "file": "55BBOV003___tendedero-bosque-verde-de-polietileno-7-m.webp",
+      "path": "limpieza_y_mascotas/opt/55BBOV003___tendedero-bosque-verde-de-polietileno-7-m.webp"
+    },
+    {
+      "name": "55BBOV004___kit-bosque-verde-16-pinzas-mas-tendedero",
+      "file": "55BBOV004___kit-bosque-verde-16-pinzas-mas-tendedero.webp",
+      "path": "limpieza_y_mascotas/opt/55BBOV004___kit-bosque-verde-16-pinzas-mas-tendedero.webp"
+    },
+    {
+      "name": "55EBOV001___franela-bosque-verde-80-x-50-cm",
+      "file": "55EBOV001___franela-bosque-verde-80-x-50-cm.webp",
+      "path": "limpieza_y_mascotas/opt/55EBOV001___franela-bosque-verde-80-x-50-cm.webp"
+    },
+    {
+      "name": "55EBOV002___paño-bosque-verde-micro-fibra",
+      "file": "55EBOV002___paño-bosque-verde-micro-fibra.webp",
+      "path": "limpieza_y_mascotas/opt/55EBOV002___paño-bosque-verde-micro-fibra.webp"
+    },
+    {
+      "name": "55EBOV003___toalla-bosque-verde-cocina",
+      "file": "55EBOV003___toalla-bosque-verde-cocina.webp",
+      "path": "limpieza_y_mascotas/opt/55EBOV003___toalla-bosque-verde-cocina.webp"
+    },
+    {
+      "name": "55EBOV004___trapo-bosque-verde-cocina",
+      "file": "55EBOV004___trapo-bosque-verde-cocina.webp",
+      "path": "limpieza_y_mascotas/opt/55EBOV004___trapo-bosque-verde-cocina.webp"
+    },
+    {
+      "name": "608049080719___cuchara-para-cocina-pieza",
+      "file": "608049080719___cuchara-para-cocina-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/608049080719___cuchara-para-cocina-pieza.webp"
+    },
+    {
+      "name": "62338778693___aromatizante-air-wick-decosphere-magnolia-y-flores-75-ml",
+      "file": "62338778693___aromatizante-air-wick-decosphere-magnolia-y-flores-75-ml.webp",
+      "path": "limpieza_y_mascotas/opt/62338778693___aromatizante-air-wick-decosphere-magnolia-y-flores-75-ml.webp"
+    },
+    {
+      "name": "706460029284___alimento-para-gato-whiskas-carne-original-1500-g",
+      "file": "706460029284___alimento-para-gato-whiskas-carne-original-1500-g.webp",
+      "path": "limpieza_y_mascotas/opt/706460029284___alimento-para-gato-whiskas-carne-original-1500-g.webp"
+    },
+    {
+      "name": "706460249286___alimento-para-perro-pedigree-razas-pequeñas-pouch-pollo-100-g",
+      "file": "706460249286___alimento-para-perro-pedigree-razas-pequeñas-pouch-pollo-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/706460249286___alimento-para-perro-pedigree-razas-pequeñas-pouch-pollo-100-g.webp"
+    },
+    {
+      "name": "706460249316___pedigree-alimento-húmedo-perros-cachorros,-sabor-res-100-g",
+      "file": "706460249316___pedigree-alimento-húmedo-perros-cachorros,-sabor-res-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/706460249316___pedigree-alimento-húmedo-perros-cachorros,-sabor-res-100-g.webp"
+    },
+    {
+      "name": "706460249361___pedigree-alimento-húmedo-perros-cachorros,-sabor-pollo-100-g",
+      "file": "706460249361___pedigree-alimento-húmedo-perros-cachorros,-sabor-pollo-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/706460249361___pedigree-alimento-húmedo-perros-cachorros,-sabor-pollo-100-g.webp"
+    },
+    {
+      "name": "706460249484___pedigree-alimento-húmedo-perro-adulto-raza-pequeña,-sabor-res-100-g",
+      "file": "706460249484___pedigree-alimento-húmedo-perro-adulto-raza-pequeña,-sabor-res-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/706460249484___pedigree-alimento-húmedo-perro-adulto-raza-pequeña,-sabor-res-100-g.webp"
+    },
+    {
+      "name": "706___croqueta-poder-canino-razas-medianas-y-grandes-kilo",
+      "file": "706___croqueta-poder-canino-razas-medianas-y-grandes-kilo.webp",
+      "path": "limpieza_y_mascotas/opt/706___croqueta-poder-canino-razas-medianas-y-grandes-kilo.webp"
+    },
+    {
+      "name": "710___croqueta-ganador-cach-razas-medianas-y-grandes-kilo",
+      "file": "710___croqueta-ganador-cach-razas-medianas-y-grandes-kilo.webp",
+      "path": "limpieza_y_mascotas/opt/710___croqueta-ganador-cach-razas-medianas-y-grandes-kilo.webp"
+    },
+    {
+      "name": "711___croqueta-ganador-adulto-original-razas-medianas-y-grades-kilo",
+      "file": "711___croqueta-ganador-adulto-original-razas-medianas-y-grades-kilo.webp",
+      "path": "limpieza_y_mascotas/opt/711___croqueta-ganador-adulto-original-razas-medianas-y-grades-kilo.webp"
+    },
+    {
+      "name": "712___croqueta-ganador-adulto-razas-pequeñas-kilo",
+      "file": "712___croqueta-ganador-adulto-razas-pequeñas-kilo.webp",
+      "path": "limpieza_y_mascotas/opt/712___croqueta-ganador-adulto-razas-pequeñas-kilo.webp"
+    },
+    {
+      "name": "718644080196___grasa-el-oso-dos-en-uno-café-obscuro-90-g",
+      "file": "718644080196___grasa-el-oso-dos-en-uno-café-obscuro-90-g.webp",
+      "path": "limpieza_y_mascotas/opt/718644080196___grasa-el-oso-dos-en-uno-café-obscuro-90-g.webp"
+    },
+    {
+      "name": "718644080707___crema-el-oso-negra-170-g",
+      "file": "718644080707___crema-el-oso-negra-170-g.webp",
+      "path": "limpieza_y_mascotas/opt/718644080707___crema-el-oso-negra-170-g.webp"
+    },
+    {
+      "name": "718644081001___tinta-el-oso-negro-100-ml",
+      "file": "718644081001___tinta-el-oso-negro-100-ml.webp",
+      "path": "limpieza_y_mascotas/opt/718644081001___tinta-el-oso-negro-100-ml.webp"
+    },
+    {
+      "name": "718644081018___tinta-el-oso-café-100-ml",
+      "file": "718644081018___tinta-el-oso-café-100-ml.webp",
+      "path": "limpieza_y_mascotas/opt/718644081018___tinta-el-oso-café-100-ml.webp"
+    },
+    {
+      "name": "718644081674___crema-el-oso-negro-500-g",
+      "file": "718644081674___crema-el-oso-negro-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/718644081674___crema-el-oso-negro-500-g.webp"
+    },
+    {
+      "name": "718644082671___crema-el-oso-brillo-y-color-negro-60-g",
+      "file": "718644082671___crema-el-oso-brillo-y-color-negro-60-g.webp",
+      "path": "limpieza_y_mascotas/opt/718644082671___crema-el-oso-brillo-y-color-negro-60-g.webp"
+    },
+    {
+      "name": "718644083067___blanqueador-entresuelas-el-oso-120-ml",
+      "file": "718644083067___blanqueador-entresuelas-el-oso-120-ml.webp",
+      "path": "limpieza_y_mascotas/opt/718644083067___blanqueador-entresuelas-el-oso-120-ml.webp"
+    },
+    {
+      "name": "718644083081___gel-limpiador-para-tenis-el-oso-120-g",
+      "file": "718644083081___gel-limpiador-para-tenis-el-oso-120-g.webp",
+      "path": "limpieza_y_mascotas/opt/718644083081___gel-limpiador-para-tenis-el-oso-120-g.webp"
+    },
+    {
+      "name": "718644085009___cera-liquida-el-oso-negro-70-ml",
+      "file": "718644085009___cera-liquida-el-oso-negro-70-ml.webp",
+      "path": "limpieza_y_mascotas/opt/718644085009___cera-liquida-el-oso-negro-70-ml.webp"
+    },
+    {
+      "name": "718644085016___cera-líquida-el-oso-color-café-70-ml",
+      "file": "718644085016___cera-líquida-el-oso-color-café-70-ml.webp",
+      "path": "limpieza_y_mascotas/opt/718644085016___cera-líquida-el-oso-color-café-70-ml.webp"
+    },
+    {
+      "name": "7401001622469___detergente-espumil-polvo-explosión-cítrica-1000-g",
+      "file": "7401001622469___detergente-espumil-polvo-explosión-cítrica-1000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001622469___detergente-espumil-polvo-explosión-cítrica-1000-g.webp"
+    },
+    {
+      "name": "7401001622896___detergente-espumil-polvo-floral-1000-g",
+      "file": "7401001622896___detergente-espumil-polvo-floral-1000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001622896___detergente-espumil-polvo-floral-1000-g.webp"
+    },
+    {
+      "name": "7401001665725___detergente-klinpiax-pasta-limón-1000-g",
+      "file": "7401001665725___detergente-klinpiax-pasta-limón-1000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001665725___detergente-klinpiax-pasta-limón-1000-g.webp"
+    },
+    {
+      "name": "7401001677315___jabón-espumil-limpieza-suave-fragante-350-g",
+      "file": "7401001677315___jabón-espumil-limpieza-suave-fragante-350-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001677315___jabón-espumil-limpieza-suave-fragante-350-g.webp"
+    },
+    {
+      "name": "7401001678084___detergente-swift-líquido-antibacterial-original-800-ml",
+      "file": "7401001678084___detergente-swift-líquido-antibacterial-original-800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7401001678084___detergente-swift-líquido-antibacterial-original-800-ml.webp"
+    },
+    {
+      "name": "7401001681930___detergente-espumil-polvo-explosión-frescura-9-kg",
+      "file": "7401001681930___detergente-espumil-polvo-explosión-frescura-9-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7401001681930___detergente-espumil-polvo-explosión-frescura-9-kg.webp"
+    },
+    {
+      "name": "7401001682036___detergente-zagaz-líquido-explosión-cítrica-750-ml",
+      "file": "7401001682036___detergente-zagaz-líquido-explosión-cítrica-750-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7401001682036___detergente-zagaz-líquido-explosión-cítrica-750-ml.webp"
+    },
+    {
+      "name": "7401001682173___detergente-espumil-polvo-explosión-natural-500-g",
+      "file": "7401001682173___detergente-espumil-polvo-explosión-natural-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001682173___detergente-espumil-polvo-explosión-natural-500-g.webp"
+    },
+    {
+      "name": "7401001682180___detergente-espumil-polvo-explosión-natural-1000-g",
+      "file": "7401001682180___detergente-espumil-polvo-explosión-natural-1000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001682180___detergente-espumil-polvo-explosión-natural-1000-g.webp"
+    },
+    {
+      "name": "7401001683095___jabón-espumil-explosión-frescura-350-g",
+      "file": "7401001683095___jabón-espumil-explosión-frescura-350-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001683095___jabón-espumil-explosión-frescura-350-g.webp"
+    },
+    {
+      "name": "7401001683095___jabón-marqueta-ambar-avena-350-g",
+      "file": "7401001683095___jabón-marqueta-ambar-avena-350-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001683095___jabón-marqueta-ambar-avena-350-g.webp"
+    },
+    {
+      "name": "7401001683262___detergente-klinpiax-pasta-frutos-rojos-1kg",
+      "file": "7401001683262___detergente-klinpiax-pasta-frutos-rojos-1kg.webp",
+      "path": "limpieza_y_mascotas/opt/7401001683262___detergente-klinpiax-pasta-frutos-rojos-1kg.webp"
+    },
+    {
+      "name": "7401001686843___detergente-espumil-polvo-explosión-frescura-2-k",
+      "file": "7401001686843___detergente-espumil-polvo-explosión-frescura-2-k.webp",
+      "path": "limpieza_y_mascotas/opt/7401001686843___detergente-espumil-polvo-explosión-frescura-2-k.webp"
+    },
+    {
+      "name": "7401001688830___detergente-líquido-swift-bicarbonato-800-ml",
+      "file": "7401001688830___detergente-líquido-swift-bicarbonato-800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7401001688830___detergente-líquido-swift-bicarbonato-800-ml.webp"
+    },
+    {
+      "name": "7401001691229___jabón-espumil-explosión-tropical-350-g",
+      "file": "7401001691229___jabón-espumil-explosión-tropical-350-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001691229___jabón-espumil-explosión-tropical-350-g.webp"
+    },
+    {
+      "name": "7401001691380___detergente-zagaz-pasta-tropical-800-g",
+      "file": "7401001691380___detergente-zagaz-pasta-tropical-800-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401001691380___detergente-zagaz-pasta-tropical-800-g.webp"
+    },
+    {
+      "name": "7401006105257.jpg___detergente-espumil-polvo-explosión-cítrica-antibacterial-5-k",
+      "file": "7401006105257.jpg___detergente-espumil-polvo-explosión-cítrica-antibacterial-5-k.webp",
+      "path": "limpieza_y_mascotas/opt/7401006105257.jpg___detergente-espumil-polvo-explosión-cítrica-antibacterial-5-k.webp"
+    },
+    {
+      "name": "7401006107398___detergente-espumil-polvo-explosión-frescura-1000-g",
+      "file": "7401006107398___detergente-espumil-polvo-explosión-frescura-1000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401006107398___detergente-espumil-polvo-explosión-frescura-1000-g.webp"
+    },
+    {
+      "name": "7401006107404___detergente-espumil-polvo-explosión-frescura-500-g",
+      "file": "7401006107404___detergente-espumil-polvo-explosión-frescura-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7401006107404___detergente-espumil-polvo-explosión-frescura-500-g.webp"
+    },
+    {
+      "name": "7406171002998___detergente-espumil-polvo-explosión-de-flores-9-kg",
+      "file": "7406171002998___detergente-espumil-polvo-explosión-de-flores-9-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7406171002998___detergente-espumil-polvo-explosión-de-flores-9-kg.webp"
+    },
+    {
+      "name": "7406171010788___detergente-espumil-polvo-explosión-cítrica-2000-g",
+      "file": "7406171010788___detergente-espumil-polvo-explosión-cítrica-2000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7406171010788___detergente-espumil-polvo-explosión-cítrica-2000-g.webp"
+    },
+    {
+      "name": "7406171010795___detergente-espumil-polvo-explosión-de-flores-2000-g",
+      "file": "7406171010795___detergente-espumil-polvo-explosión-de-flores-2000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7406171010795___detergente-espumil-polvo-explosión-de-flores-2000-g.webp"
+    },
+    {
+      "name": "7406171011655___detergente-espumil-polvo-explosión-floral-5-k",
+      "file": "7406171011655___detergente-espumil-polvo-explosión-floral-5-k.webp",
+      "path": "limpieza_y_mascotas/opt/7406171011655___detergente-espumil-polvo-explosión-floral-5-k.webp"
+    },
+    {
+      "name": "7406171012454___jabón-marqueta-ambar-floral-350-g",
+      "file": "7406171012454___jabón-marqueta-ambar-floral-350-g.webp",
+      "path": "limpieza_y_mascotas/opt/7406171012454___jabón-marqueta-ambar-floral-350-g.webp"
+    },
+    {
+      "name": "7406171014236___detergente-zinnia-polvo-900-g",
+      "file": "7406171014236___detergente-zinnia-polvo-900-g.webp",
+      "path": "limpieza_y_mascotas/opt/7406171014236___detergente-zinnia-polvo-900-g.webp"
+    },
+    {
+      "name": "7406171015356___detergente-zinnia-polvo-450-g",
+      "file": "7406171015356___detergente-zinnia-polvo-450-g.webp",
+      "path": "limpieza_y_mascotas/opt/7406171015356___detergente-zinnia-polvo-450-g.webp"
+    },
+    {
+      "name": "7406171015363___detergente-zinnia-polvo-2000-g",
+      "file": "7406171015363___detergente-zinnia-polvo-2000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7406171015363___detergente-zinnia-polvo-2000-g.webp"
+    },
+    {
+      "name": "7406171022279.jpg___detergente-swift-líquido-antibacterial-original-de-4500-ml",
+      "file": "7406171022279.jpg___detergente-swift-líquido-antibacterial-original-de-4500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7406171022279.jpg___detergente-swift-líquido-antibacterial-original-de-4500-ml.webp"
+    },
+    {
+      "name": "7406171036719___detergente-lariansa-polvo-multiusos-floral-5-k",
+      "file": "7406171036719___detergente-lariansa-polvo-multiusos-floral-5-k.webp",
+      "path": "limpieza_y_mascotas/opt/7406171036719___detergente-lariansa-polvo-multiusos-floral-5-k.webp"
+    },
+    {
+      "name": "741120000012___blanqueador-clarasol-500-ml",
+      "file": "741120000012___blanqueador-clarasol-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/741120000012___blanqueador-clarasol-500-ml.webp"
+    },
+    {
+      "name": "741120000333___blanqueador-clarasol-10-l",
+      "file": "741120000333___blanqueador-clarasol-10-l.webp",
+      "path": "limpieza_y_mascotas/opt/741120000333___blanqueador-clarasol-10-l.webp"
+    },
+    {
+      "name": "744831100750___veladora-luz-eterna-saturno-bolsa-16-piezas",
+      "file": "744831100750___veladora-luz-eterna-saturno-bolsa-16-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/744831100750___veladora-luz-eterna-saturno-bolsa-16-piezas.webp"
+    },
+    {
+      "name": "7500435019309___detergente-salvo-polvo-limón-720-g",
+      "file": "7500435019309___detergente-salvo-polvo-limón-720-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435019309___detergente-salvo-polvo-limón-720-g.webp"
+    },
+    {
+      "name": "7500435122719.jpg___detergente-salvo-líquido-power-clean-1200-ml",
+      "file": "7500435122719.jpg___detergente-salvo-líquido-power-clean-1200-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435122719.jpg___detergente-salvo-líquido-power-clean-1200-ml.webp"
+    },
+    {
+      "name": "7500435138635___toalla-naturella-con-alas-día-de-32-piezas",
+      "file": "7500435138635___toalla-naturella-con-alas-día-de-32-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7500435138635___toalla-naturella-con-alas-día-de-32-piezas.webp"
+    },
+    {
+      "name": "7500435138826___detergente-ariel-polvo-toque-downy-750-g",
+      "file": "7500435138826___detergente-ariel-polvo-toque-downy-750-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435138826___detergente-ariel-polvo-toque-downy-750-g.webp"
+    },
+    {
+      "name": "7500435139977___detergente-ariel-líquido-revitacolor-pouch-400-ml",
+      "file": "7500435139977___detergente-ariel-líquido-revitacolor-pouch-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435139977___detergente-ariel-líquido-revitacolor-pouch-400-ml.webp"
+    },
+    {
+      "name": "7500435146678___salvo-detergente-líquido-lavatrastes-limón-215-ml",
+      "file": "7500435146678___salvo-detergente-líquido-lavatrastes-limón-215-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435146678___salvo-detergente-líquido-lavatrastes-limón-215-ml.webp"
+    },
+    {
+      "name": "7500435146685.jpg___detergente-salvo-líquido-limón-640-ml",
+      "file": "7500435146685.jpg___detergente-salvo-líquido-limón-640-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435146685.jpg___detergente-salvo-líquido-limón-640-ml.webp"
+    },
+    {
+      "name": "7500435150736___detergente-ariel-polvo-4000-g",
+      "file": "7500435150736___detergente-ariel-polvo-4000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435150736___detergente-ariel-polvo-4000-g.webp"
+    },
+    {
+      "name": "7500435153324___detergente-ariel-polvo-revita-color-500-g",
+      "file": "7500435153324___detergente-ariel-polvo-revita-color-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435153324___detergente-ariel-polvo-revita-color-500-g.webp"
+    },
+    {
+      "name": "7500435153331___detergente-ariel-polvo-850-g",
+      "file": "7500435153331___detergente-ariel-polvo-850-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435153331___detergente-ariel-polvo-850-g.webp"
+    },
+    {
+      "name": "7500435159395___detergente-ace-líquido-1-para-todo-800-ml",
+      "file": "7500435159395___detergente-ace-líquido-1-para-todo-800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435159395___detergente-ace-líquido-1-para-todo-800-ml.webp"
+    },
+    {
+      "name": "7500435159555___ariel-revitacolor-detergente-líquido-para-lavar-ropa-blanca-y-de-color-800-ml",
+      "file": "7500435159555___ariel-revitacolor-detergente-líquido-para-lavar-ropa-blanca-y-de-color-800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435159555___ariel-revitacolor-detergente-líquido-para-lavar-ropa-blanca-y-de-color-800-ml.webp"
+    },
+    {
+      "name": "7500435160872___suavizante-downy-amanecer-2800-ml",
+      "file": "7500435160872___suavizante-downy-amanecer-2800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435160872___suavizante-downy-amanecer-2800-ml.webp"
+    },
+    {
+      "name": "7500435160902___salvo-multiusos-limón-triple-poder-detergente-en-polvo-500-g",
+      "file": "7500435160902___salvo-multiusos-limón-triple-poder-detergente-en-polvo-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435160902___salvo-multiusos-limón-triple-poder-detergente-en-polvo-500-g.webp"
+    },
+    {
+      "name": "7500435160933___detergente-salvo-multiusos-limón-2-kg",
+      "file": "7500435160933___detergente-salvo-multiusos-limón-2-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7500435160933___detergente-salvo-multiusos-limón-2-kg.webp"
+    },
+    {
+      "name": "7500435160988___downy-suavizante-amanecer-730-ml",
+      "file": "7500435160988___downy-suavizante-amanecer-730-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435160988___downy-suavizante-amanecer-730-ml.webp"
+    },
+    {
+      "name": "7500435160995___suavizante-downy-amanecer-1400-ml",
+      "file": "7500435160995___suavizante-downy-amanecer-1400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435160995___suavizante-downy-amanecer-1400-ml.webp"
+    },
+    {
+      "name": "7500435161008___salvo-multiusos-limón-triple-poder-detergente-en-polvo-250-g",
+      "file": "7500435161008___salvo-multiusos-limón-triple-poder-detergente-en-polvo-250-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435161008___salvo-multiusos-limón-triple-poder-detergente-en-polvo-250-g.webp"
+    },
+    {
+      "name": "7500435175692___suavizante-downy-elegance-2600-ml",
+      "file": "7500435175692___suavizante-downy-elegance-2600-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435175692___suavizante-downy-elegance-2600-ml.webp"
+    },
+    {
+      "name": "7500435175746___suavizante-downy-passion-2600-ml",
+      "file": "7500435175746___suavizante-downy-passion-2600-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435175746___suavizante-downy-passion-2600-ml.webp"
+    },
+    {
+      "name": "7500435175760___suavizante-downy-romance-2600-ml",
+      "file": "7500435175760___suavizante-downy-romance-2600-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435175760___suavizante-downy-romance-2600-ml.webp"
+    },
+    {
+      "name": "7500435184281___detergente-ariel-liquido-revitacolor-5-l",
+      "file": "7500435184281___detergente-ariel-liquido-revitacolor-5-l.webp",
+      "path": "limpieza_y_mascotas/opt/7500435184281___detergente-ariel-liquido-revitacolor-5-l.webp"
+    },
+    {
+      "name": "7500435184304___detergente-ace-liquido-1-para-todo-5-l",
+      "file": "7500435184304___detergente-ace-liquido-1-para-todo-5-l.webp",
+      "path": "limpieza_y_mascotas/opt/7500435184304___detergente-ace-liquido-1-para-todo-5-l.webp"
+    },
+    {
+      "name": "7500435192873___detergente-salvo-polvo-multiusos-4500-g",
+      "file": "7500435192873___detergente-salvo-polvo-multiusos-4500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435192873___detergente-salvo-polvo-multiusos-4500-g.webp"
+    },
+    {
+      "name": "7500435222297___detergente-ariel-polvo-2000-g",
+      "file": "7500435222297___detergente-ariel-polvo-2000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435222297___detergente-ariel-polvo-2000-g.webp"
+    },
+    {
+      "name": "7500435233804___detergente-ariel-liquido-expert-2.8-lts",
+      "file": "7500435233804___detergente-ariel-liquido-expert-2.8-lts.webp",
+      "path": "limpieza_y_mascotas/opt/7500435233804___detergente-ariel-liquido-expert-2.8-lts.webp"
+    },
+    {
+      "name": "7500435234221___detergente-ariel-líquido-color-1800-ml",
+      "file": "7500435234221___detergente-ariel-líquido-color-1800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500435234221___detergente-ariel-líquido-color-1800-ml.webp"
+    },
+    {
+      "name": "7500435245593___detergente-ace-polvo-regular-1.728-kg",
+      "file": "7500435245593___detergente-ace-polvo-regular-1.728-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7500435245593___detergente-ace-polvo-regular-1.728-kg.webp"
+    },
+    {
+      "name": "7500435245678___detergente-ace-polvo-4320-g",
+      "file": "7500435245678___detergente-ace-polvo-4320-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435245678___detergente-ace-polvo-4320-g.webp"
+    },
+    {
+      "name": "7500435245739___detergente-ace-polvo-850-g",
+      "file": "7500435245739___detergente-ace-polvo-850-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435245739___detergente-ace-polvo-850-g.webp"
+    },
+    {
+      "name": "7500435246804___detergente-ace-polvo-toque-downy-648-g",
+      "file": "7500435246804___detergente-ace-polvo-toque-downy-648-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500435246804___detergente-ace-polvo-toque-downy-648-g.webp"
+    },
+    {
+      "name": "7500435253307.jpg___detergente-salvo-polvo-multiusos-900-g-+-100-g-gratis",
+      "file": "7500435253307.jpg___detergente-salvo-polvo-multiusos-900-g-+-100-g-gratis.webp",
+      "path": "limpieza_y_mascotas/opt/7500435253307.jpg___detergente-salvo-polvo-multiusos-900-g-+-100-g-gratis.webp"
+    },
+    {
+      "name": "7500459000093___detergente-líquido-persil-color-6640-ml",
+      "file": "7500459000093___detergente-líquido-persil-color-6640-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000093___detergente-líquido-persil-color-6640-ml.webp"
+    },
+    {
+      "name": "7500459000123___detergente-líquido-persil-universal-6640-ml",
+      "file": "7500459000123___detergente-líquido-persil-universal-6640-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000123___detergente-líquido-persil-universal-6640-ml.webp"
+    },
+    {
+      "name": "7500459000154___detergente-en-polvo-persil-universal-4.5-kg",
+      "file": "7500459000154___detergente-en-polvo-persil-universal-4.5-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000154___detergente-en-polvo-persil-universal-4.5-kg.webp"
+    },
+    {
+      "name": "7500459000185___detergente-en-polvo-persil-colores-vivos-4.5-kg",
+      "file": "7500459000185___detergente-en-polvo-persil-colores-vivos-4.5-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000185___detergente-en-polvo-persil-colores-vivos-4.5-kg.webp"
+    },
+    {
+      "name": "7500459000307___detergente-líquido-mas-oscura-6.6-l",
+      "file": "7500459000307___detergente-líquido-mas-oscura-6.6-l.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000307___detergente-líquido-mas-oscura-6.6-l.webp"
+    },
+    {
+      "name": "7500459000406___detergente-viva-polvo-higiene-anti-olor-850-g",
+      "file": "7500459000406___detergente-viva-polvo-higiene-anti-olor-850-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000406___detergente-viva-polvo-higiene-anti-olor-850-g.webp"
+    },
+    {
+      "name": "7500459000482___detergente-persil-líquido-universal-3000-ml",
+      "file": "7500459000482___detergente-persil-líquido-universal-3000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000482___detergente-persil-líquido-universal-3000-ml.webp"
+    },
+    {
+      "name": "7500459000758___detergente-mas-líquido-color-3000-ml",
+      "file": "7500459000758___detergente-mas-líquido-color-3000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000758___detergente-mas-líquido-color-3000-ml.webp"
+    },
+    {
+      "name": "7500459000901___detergente-persil-en-polvo-higiene-4.5-kg",
+      "file": "7500459000901___detergente-persil-en-polvo-higiene-4.5-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000901___detergente-persil-en-polvo-higiene-4.5-kg.webp"
+    },
+    {
+      "name": "7500459000918___detergente-persil-polvo-alta-higiene-900-g",
+      "file": "7500459000918___detergente-persil-polvo-alta-higiene-900-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000918___detergente-persil-polvo-alta-higiene-900-g.webp"
+    },
+    {
+      "name": "7500459000963___detergente-líquido-persil-alta-higiene-6640-ml",
+      "file": "7500459000963___detergente-líquido-persil-alta-higiene-6640-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500459000963___detergente-líquido-persil-alta-higiene-6640-ml.webp"
+    },
+    {
+      "name": "7500459001090___limpiador-bref-desincloro-lavanda-1000-ml",
+      "file": "7500459001090___limpiador-bref-desincloro-lavanda-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7500459001090___limpiador-bref-desincloro-lavanda-1000-ml.webp"
+    },
+    {
+      "name": "7500459001434___detergente-líquido-mas-renueva-y-florece-4.65-l",
+      "file": "7500459001434___detergente-líquido-mas-renueva-y-florece-4.65-l.webp",
+      "path": "limpieza_y_mascotas/opt/7500459001434___detergente-líquido-mas-renueva-y-florece-4.65-l.webp"
+    },
+    {
+      "name": "7500459001564___detergente-123-multiusos-antibacterial-800-g",
+      "file": "7500459001564___detergente-123-multiusos-antibacterial-800-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500459001564___detergente-123-multiusos-antibacterial-800-g.webp"
+    },
+    {
+      "name": "7500459001571___detergente-123-fresca-blancura-800-g",
+      "file": "7500459001571___detergente-123-fresca-blancura-800-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500459001571___detergente-123-fresca-blancura-800-g.webp"
+    },
+    {
+      "name": "7500459001588___detergente-123-roció-del-campo-800-g",
+      "file": "7500459001588___detergente-123-roció-del-campo-800-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500459001588___detergente-123-roció-del-campo-800-g.webp"
+    },
+    {
+      "name": "7500459001595___detergente-123-jazmín-800-g",
+      "file": "7500459001595___detergente-123-jazmín-800-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500459001595___detergente-123-jazmín-800-g.webp"
+    },
+    {
+      "name": "7500459001601___detergente-123-aloe-vera-800-g",
+      "file": "7500459001601___detergente-123-aloe-vera-800-g.webp",
+      "path": "limpieza_y_mascotas/opt/7500459001601___detergente-123-aloe-vera-800-g.webp"
+    },
+    {
+      "name": "75009300956___botella-dispensador-roja-para-capsup-350-ml",
+      "file": "75009300956___botella-dispensador-roja-para-capsup-350-ml.webp",
+      "path": "limpieza_y_mascotas/opt/75009300956___botella-dispensador-roja-para-capsup-350-ml.webp"
+    },
+    {
+      "name": "7501016801214___blanqueador-la-golondrina-500-ml",
+      "file": "7501016801214___blanqueador-la-golondrina-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501016801214___blanqueador-la-golondrina-500-ml.webp"
+    },
+    {
+      "name": "7501017376322___papel-higiénico-vogue-4-rollos-con-400-hojas",
+      "file": "7501017376322___papel-higiénico-vogue-4-rollos-con-400-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501017376322___papel-higiénico-vogue-4-rollos-con-400-hojas.webp"
+    },
+    {
+      "name": "7501022107294___shampoo-gato-consentido-limpieza-en-seco-150-ml",
+      "file": "7501022107294___shampoo-gato-consentido-limpieza-en-seco-150-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501022107294___shampoo-gato-consentido-limpieza-en-seco-150-ml.webp"
+    },
+    {
+      "name": "7501022107362___repelente-de-orina-thankful-dog-490-ml",
+      "file": "7501022107362___repelente-de-orina-thankful-dog-490-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501022107362___repelente-de-orina-thankful-dog-490-ml.webp"
+    },
+    {
+      "name": "7501022107508___repelente-de-orina-gato-consentido-490-ml",
+      "file": "7501022107508___repelente-de-orina-gato-consentido-490-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501022107508___repelente-de-orina-gato-consentido-490-ml.webp"
+    },
+    {
+      "name": "7501022107515___spray-gato-consentido-en-seco-240-ml",
+      "file": "7501022107515___spray-gato-consentido-en-seco-240-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501022107515___spray-gato-consentido-en-seco-240-ml.webp"
+    },
+    {
+      "name": "7501023128588___fibra-scotch-brite-dona-metálica",
+      "file": "7501023128588___fibra-scotch-brite-dona-metálica.webp",
+      "path": "limpieza_y_mascotas/opt/7501023128588___fibra-scotch-brite-dona-metálica.webp"
+    },
+    {
+      "name": "7501025401719___cloralex-total-power-ultragel-sin-cloro-750-ml",
+      "file": "7501025401719___cloralex-total-power-ultragel-sin-cloro-750-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025401719___cloralex-total-power-ultragel-sin-cloro-750-ml.webp"
+    },
+    {
+      "name": "7501025403485___limpiador-pinol-original-828-ml",
+      "file": "7501025403485___limpiador-pinol-original-828-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025403485___limpiador-pinol-original-828-ml.webp"
+    },
+    {
+      "name": "7501025404048___limpiador-pinol-floral-aromas-828-ml",
+      "file": "7501025404048___limpiador-pinol-floral-aromas-828-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025404048___limpiador-pinol-floral-aromas-828-ml.webp"
+    },
+    {
+      "name": "7501025404369___limpiador-pinol-aromas-marino-1000-ml",
+      "file": "7501025404369___limpiador-pinol-aromas-marino-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025404369___limpiador-pinol-aromas-marino-1000-ml.webp"
+    },
+    {
+      "name": "7501025404970___limpiador-pinol-el-original-1800-ml",
+      "file": "7501025404970___limpiador-pinol-el-original-1800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025404970___limpiador-pinol-el-original-1800-ml.webp"
+    },
+    {
+      "name": "7501025405311___blanqueador-cloralex-rendidor-1.17-l",
+      "file": "7501025405311___blanqueador-cloralex-rendidor-1.17-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501025405311___blanqueador-cloralex-rendidor-1.17-l.webp"
+    },
+    {
+      "name": "7501025405823___cloralex-desinfectante-con-84-toallitas",
+      "file": "7501025405823___cloralex-desinfectante-con-84-toallitas.webp",
+      "path": "limpieza_y_mascotas/opt/7501025405823___cloralex-desinfectante-con-84-toallitas.webp"
+    },
+    {
+      "name": "7501025407681___suavizante-ensueño-ultra-frescura-azul-1300-ml",
+      "file": "7501025407681___suavizante-ensueño-ultra-frescura-azul-1300-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025407681___suavizante-ensueño-ultra-frescura-azul-1300-ml.webp"
+    },
+    {
+      "name": "7501025408428___suavizante-ensueño-max-frescura-azul-1000-ml",
+      "file": "7501025408428___suavizante-ensueño-max-frescura-azul-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025408428___suavizante-ensueño-max-frescura-azul-1000-ml.webp"
+    },
+    {
+      "name": "7501025411176___flash-pastilla-canastilla-lavanda-65-g",
+      "file": "7501025411176___flash-pastilla-canastilla-lavanda-65-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501025411176___flash-pastilla-canastilla-lavanda-65-g.webp"
+    },
+    {
+      "name": "7501025411756___limpiador-flash-lavanda-1800-ml",
+      "file": "7501025411756___limpiador-flash-lavanda-1800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025411756___limpiador-flash-lavanda-1800-ml.webp"
+    },
+    {
+      "name": "7501025411909___suavizante-ensueño-max-azul-5100-ml",
+      "file": "7501025411909___suavizante-ensueño-max-azul-5100-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025411909___suavizante-ensueño-max-azul-5100-ml.webp"
+    },
+    {
+      "name": "7501025412258___limpiador-pinol-lavanda-y-eucalipto-828-ml",
+      "file": "7501025412258___limpiador-pinol-lavanda-y-eucalipto-828-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025412258___limpiador-pinol-lavanda-y-eucalipto-828-ml.webp"
+    },
+    {
+      "name": "7501025413057___pastilla-cloralex-tanque-frescura-azul-con-2-piezas",
+      "file": "7501025413057___pastilla-cloralex-tanque-frescura-azul-con-2-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501025413057___pastilla-cloralex-tanque-frescura-azul-con-2-piezas.webp"
+    },
+    {
+      "name": "7501025413248___pastilla-cloralex-tanque-lavanda-con-2-piezas",
+      "file": "7501025413248___pastilla-cloralex-tanque-lavanda-con-2-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501025413248___pastilla-cloralex-tanque-lavanda-con-2-piezas.webp"
+    },
+    {
+      "name": "7501025413668___detergente-eficaz-líquido-limón-350-ml",
+      "file": "7501025413668___detergente-eficaz-líquido-limón-350-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025413668___detergente-eficaz-líquido-limón-350-ml.webp"
+    },
+    {
+      "name": "7501025413866___detergente-eficaz-líquido-manzana-750-ml",
+      "file": "7501025413866___detergente-eficaz-líquido-manzana-750-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025413866___detergente-eficaz-líquido-manzana-750-ml.webp"
+    },
+    {
+      "name": "7501025413873___detergente-eficaz-líquido-frutos-rojos-750-ml",
+      "file": "7501025413873___detergente-eficaz-líquido-frutos-rojos-750-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025413873___detergente-eficaz-líquido-frutos-rojos-750-ml.webp"
+    },
+    {
+      "name": "7501025413880___detergente-líquido-eficaz-frutal-750-ml",
+      "file": "7501025413880___detergente-líquido-eficaz-frutal-750-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025413880___detergente-líquido-eficaz-frutal-750-ml.webp"
+    },
+    {
+      "name": "7501025413941___detergente-eficaz-líquido-manzana-350-ml",
+      "file": "7501025413941___detergente-eficaz-líquido-manzana-350-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025413941___detergente-eficaz-líquido-manzana-350-ml.webp"
+    },
+    {
+      "name": "7501025413958___detergente-eficaz-líquido-frutos-rojos-350-ml",
+      "file": "7501025413958___detergente-eficaz-líquido-frutos-rojos-350-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025413958___detergente-eficaz-líquido-frutos-rojos-350-ml.webp"
+    },
+    {
+      "name": "7501025414092___limpiador-pinol-aromas-lavanda-500-ml",
+      "file": "7501025414092___limpiador-pinol-aromas-lavanda-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025414092___limpiador-pinol-aromas-lavanda-500-ml.webp"
+    },
+    {
+      "name": "7501025415938___suavizante-ensueño-max-frescura-primaveral-5.1-l",
+      "file": "7501025415938___suavizante-ensueño-max-frescura-primaveral-5.1-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501025415938___suavizante-ensueño-max-frescura-primaveral-5.1-l.webp"
+    },
+    {
+      "name": "7501025416249___suavizante-ensueño-color-jardín-fresco-1-l",
+      "file": "7501025416249___suavizante-ensueño-color-jardín-fresco-1-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501025416249___suavizante-ensueño-color-jardín-fresco-1-l.webp"
+    },
+    {
+      "name": "7501025430429___suavizante-ensueño-natural-argán-mandarina-5.1-l",
+      "file": "7501025430429___suavizante-ensueño-natural-argán-mandarina-5.1-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501025430429___suavizante-ensueño-natural-argán-mandarina-5.1-l.webp"
+    },
+    {
+      "name": "7501025430436___suavizante-ensueño-turquesa-1-l",
+      "file": "7501025430436___suavizante-ensueño-turquesa-1-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501025430436___suavizante-ensueño-turquesa-1-l.webp"
+    },
+    {
+      "name": "7501025440183___suavizante-ensueño-ultra-fresco-azul-740-ml",
+      "file": "7501025440183___suavizante-ensueño-ultra-fresco-azul-740-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025440183___suavizante-ensueño-ultra-fresco-azul-740-ml.webp"
+    },
+    {
+      "name": "7501025440404___suavizante-ensueño-ultra-fresco-primavera-740-ml",
+      "file": "7501025440404___suavizante-ensueño-ultra-fresco-primavera-740-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025440404___suavizante-ensueño-ultra-fresco-primavera-740-ml.webp"
+    },
+    {
+      "name": "7501025443603___suavizante-ensueño-ultra-fresco-verano-740-ml",
+      "file": "7501025443603___suavizante-ensueño-ultra-fresco-verano-740-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025443603___suavizante-ensueño-ultra-fresco-verano-740-ml.webp"
+    },
+    {
+      "name": "7501025443825___ensueño-natureza-lavanda-moras-850-ml",
+      "file": "7501025443825___ensueño-natureza-lavanda-moras-850-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025443825___ensueño-natureza-lavanda-moras-850-ml.webp"
+    },
+    {
+      "name": "7501025444938___suavizante-ensueño-mandarina-argán-2.8-l",
+      "file": "7501025444938___suavizante-ensueño-mandarina-argán-2.8-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501025444938___suavizante-ensueño-mandarina-argán-2.8-l.webp"
+    },
+    {
+      "name": "7501025445461___limpiador-pinol-frescura-nocturna-828-ml",
+      "file": "7501025445461___limpiador-pinol-frescura-nocturna-828-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025445461___limpiador-pinol-frescura-nocturna-828-ml.webp"
+    },
+    {
+      "name": "7501025445485___limpiador-pinol-repelente-828-ml",
+      "file": "7501025445485___limpiador-pinol-repelente-828-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025445485___limpiador-pinol-repelente-828-ml.webp"
+    },
+    {
+      "name": "7501025450106___limpiador-pinol-fragancias-finas-dulce-amanecer-828-ml",
+      "file": "7501025450106___limpiador-pinol-fragancias-finas-dulce-amanecer-828-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025450106___limpiador-pinol-fragancias-finas-dulce-amanecer-828-ml.webp"
+    },
+    {
+      "name": "7501025451158___limpiador-pinol-fragancias-finas-intenso-amanecer-828-ml",
+      "file": "7501025451158___limpiador-pinol-fragancias-finas-intenso-amanecer-828-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025451158___limpiador-pinol-fragancias-finas-intenso-amanecer-828-ml.webp"
+    },
+    {
+      "name": "7501025456320___pinol-original-esencias-floral-828-ml",
+      "file": "7501025456320___pinol-original-esencias-floral-828-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025456320___pinol-original-esencias-floral-828-ml.webp"
+    },
+    {
+      "name": "7501025462086___limpiador-pinol-aromas-frutal-1000-ml",
+      "file": "7501025462086___limpiador-pinol-aromas-frutal-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501025462086___limpiador-pinol-aromas-frutal-1000-ml.webp"
+    },
+    {
+      "name": "7501026000805___jabón-en-barra-blanca-nieves-de-400-g",
+      "file": "7501026000805___jabón-en-barra-blanca-nieves-de-400-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501026000805___jabón-en-barra-blanca-nieves-de-400-g.webp"
+    },
+    {
+      "name": "7501026004629___detergente-multiusos-roma-250-g",
+      "file": "7501026004629___detergente-multiusos-roma-250-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501026004629___detergente-multiusos-roma-250-g.webp"
+    },
+    {
+      "name": "7501026004971___suavizante-carisma-500-ml",
+      "file": "7501026004971___suavizante-carisma-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026004971___suavizante-carisma-500-ml.webp"
+    },
+    {
+      "name": "7501026005336___jabón-zote-líquido-blanco-3.785-l",
+      "file": "7501026005336___jabón-zote-líquido-blanco-3.785-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501026005336___jabón-zote-líquido-blanco-3.785-l.webp"
+    },
+    {
+      "name": "7501026005343___jabón-zote-líquido-rosa-1000-ml",
+      "file": "7501026005343___jabón-zote-líquido-rosa-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026005343___jabón-zote-líquido-rosa-1000-ml.webp"
+    },
+    {
+      "name": "7501026005572___suavizante-carisma-sándalo-1000-ml",
+      "file": "7501026005572___suavizante-carisma-sándalo-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026005572___suavizante-carisma-sándalo-1000-ml.webp"
+    },
+    {
+      "name": "7501026010026___detergente-carisma-líquido-500-ml",
+      "file": "7501026010026___detergente-carisma-líquido-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026010026___detergente-carisma-líquido-500-ml.webp"
+    },
+    {
+      "name": "7501026023057___detergente-carisma-polvo-250-g",
+      "file": "7501026023057___detergente-carisma-polvo-250-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501026023057___detergente-carisma-polvo-250-g.webp"
+    },
+    {
+      "name": "7501026027482___detergente-blanca-nieves-polvo-10-kg",
+      "file": "7501026027482___detergente-blanca-nieves-polvo-10-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501026027482___detergente-blanca-nieves-polvo-10-kg.webp"
+    },
+    {
+      "name": "7501026027956.jpg___detergente-blanca-nieves-líquido-3785-ml",
+      "file": "7501026027956.jpg___detergente-blanca-nieves-líquido-3785-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026027956.jpg___detergente-blanca-nieves-líquido-3785-ml.webp"
+    },
+    {
+      "name": "7501026028038___detergente-foca-líquido-500-ml",
+      "file": "7501026028038___detergente-foca-líquido-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026028038___detergente-foca-líquido-500-ml.webp"
+    },
+    {
+      "name": "7501026028076___detergente-blanca-nieves-líquido-500-ml",
+      "file": "7501026028076___detergente-blanca-nieves-líquido-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026028076___detergente-blanca-nieves-líquido-500-ml.webp"
+    },
+    {
+      "name": "7501026028205___detergente-foca-líquido-3785-ml",
+      "file": "7501026028205___detergente-foca-líquido-3785-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026028205___detergente-foca-líquido-3785-ml.webp"
+    },
+    {
+      "name": "7501026028212.jpg___detergente-foca-líquido-10-l",
+      "file": "7501026028212.jpg___detergente-foca-líquido-10-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501026028212.jpg___detergente-foca-líquido-10-l.webp"
+    },
+    {
+      "name": "7501026028328___detergente-roma-líquido-de-3785-ml",
+      "file": "7501026028328___detergente-roma-líquido-de-3785-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026028328___detergente-roma-líquido-de-3785-ml.webp"
+    },
+    {
+      "name": "7501026028342___detergente-roma-líquido-500-ml",
+      "file": "7501026028342___detergente-roma-líquido-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026028342___detergente-roma-líquido-500-ml.webp"
+    },
+    {
+      "name": "7501026054501___detergente-briloza-líquido-730-ml",
+      "file": "7501026054501___detergente-briloza-líquido-730-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026054501___detergente-briloza-líquido-730-ml.webp"
+    },
+    {
+      "name": "7501026054525___detergente-briloza-líquido-lima-jengibre-730-ml",
+      "file": "7501026054525___detergente-briloza-líquido-lima-jengibre-730-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501026054525___detergente-briloza-líquido-lima-jengibre-730-ml.webp"
+    },
+    {
+      "name": "7501032900540___insecticida-raid-aerosol-mata-bichos-285-ml",
+      "file": "7501032900540___insecticida-raid-aerosol-mata-bichos-285-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032900540___insecticida-raid-aerosol-mata-bichos-285-ml.webp"
+    },
+    {
+      "name": "7501032900618___insecticida-baygon-casa-y-jardín-380-ml",
+      "file": "7501032900618___insecticida-baygon-casa-y-jardín-380-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032900618___insecticida-baygon-casa-y-jardín-380-ml.webp"
+    },
+    {
+      "name": "7501032907075___aromatizante-glade-aerosol-fresh-lemon-400-ml",
+      "file": "7501032907075___aromatizante-glade-aerosol-fresh-lemon-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032907075___aromatizante-glade-aerosol-fresh-lemon-400-ml.webp"
+    },
+    {
+      "name": "7501032907716___insecticida-baygon-plaquitas-con-10-piezas",
+      "file": "7501032907716___insecticida-baygon-plaquitas-con-10-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501032907716___insecticida-baygon-plaquitas-con-10-piezas.webp"
+    },
+    {
+      "name": "7501032910242___insecticida-baygon-laminitas-repuesto-con-8-piezas",
+      "file": "7501032910242___insecticida-baygon-laminitas-repuesto-con-8-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501032910242___insecticida-baygon-laminitas-repuesto-con-8-piezas.webp"
+    },
+    {
+      "name": "7501032913038___aromatizante-glade-car-azul-70-g",
+      "file": "7501032913038___aromatizante-glade-car-azul-70-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501032913038___aromatizante-glade-car-azul-70-g.webp"
+    },
+    {
+      "name": "7501032913045___aromatizante-glade-car-lavanda-marina-70-g",
+      "file": "7501032913045___aromatizante-glade-car-lavanda-marina-70-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501032913045___aromatizante-glade-car-lavanda-marina-70-g.webp"
+    },
+    {
+      "name": "7501032915339___insecticida-baygon-espiral-10-piezas",
+      "file": "7501032915339___insecticida-baygon-espiral-10-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501032915339___insecticida-baygon-espiral-10-piezas.webp"
+    },
+    {
+      "name": "7501032917616___insecticida-baygon-verde-líquido-510-ml",
+      "file": "7501032917616___insecticida-baygon-verde-líquido-510-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032917616___insecticida-baygon-verde-líquido-510-ml.webp"
+    },
+    {
+      "name": "7501032922672___limpiador-mr-musculo-pato-antihongos-650-ml",
+      "file": "7501032922672___limpiador-mr-musculo-pato-antihongos-650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032922672___limpiador-mr-musculo-pato-antihongos-650-ml.webp"
+    },
+    {
+      "name": "7501032922795___limpiador-windex-original-640-ml",
+      "file": "7501032922795___limpiador-windex-original-640-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032922795___limpiador-windex-original-640-ml.webp"
+    },
+    {
+      "name": "7501032922801___limpiador-windex-vinagre-trigger-640-ml",
+      "file": "7501032922801___limpiador-windex-vinagre-trigger-640-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032922801___limpiador-windex-vinagre-trigger-640-ml.webp"
+    },
+    {
+      "name": "7501032922818___limpiador-windex-vinagre-doypack-500-ml",
+      "file": "7501032922818___limpiador-windex-vinagre-doypack-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032922818___limpiador-windex-vinagre-doypack-500-ml.webp"
+    },
+    {
+      "name": "7501032922849___aromatizante-glade-cubo-manzana-canela-180-g",
+      "file": "7501032922849___aromatizante-glade-cubo-manzana-canela-180-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501032922849___aromatizante-glade-cubo-manzana-canela-180-g.webp"
+    },
+    {
+      "name": "7501032922856___aromatizante-glade-cubo-lavanda-180-g",
+      "file": "7501032922856___aromatizante-glade-cubo-lavanda-180-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501032922856___aromatizante-glade-cubo-lavanda-180-g.webp"
+    },
+    {
+      "name": "7501032923778___limpiador-de-baños-destructor-de-sarro-pato-710-ml",
+      "file": "7501032923778___limpiador-de-baños-destructor-de-sarro-pato-710-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032923778___limpiador-de-baños-destructor-de-sarro-pato-710-ml.webp"
+    },
+    {
+      "name": "7501032923990___aromatizante-glade-aerosol-manzana-canela-275-ml",
+      "file": "7501032923990___aromatizante-glade-aerosol-manzana-canela-275-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032923990___aromatizante-glade-aerosol-manzana-canela-275-ml.webp"
+    },
+    {
+      "name": "7501032924003___aromatizante-glade-aerosol-campos-de-lavanda-275-ml",
+      "file": "7501032924003___aromatizante-glade-aerosol-campos-de-lavanda-275-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032924003___aromatizante-glade-aerosol-campos-de-lavanda-275-ml.webp"
+    },
+    {
+      "name": "7501032924010___aromatizante-glade-aerosol-frutos-rojos-275-ml",
+      "file": "7501032924010___aromatizante-glade-aerosol-frutos-rojos-275-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032924010___aromatizante-glade-aerosol-frutos-rojos-275-ml.webp"
+    },
+    {
+      "name": "7501032925451___desinfectante-family-guard-aerosol-citrus-400-ml",
+      "file": "7501032925451___desinfectante-family-guard-aerosol-citrus-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032925451___desinfectante-family-guard-aerosol-citrus-400-ml.webp"
+    },
+    {
+      "name": "7501032925529___baygon-insecticida-aerosol-hogar-400-ml",
+      "file": "7501032925529___baygon-insecticida-aerosol-hogar-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032925529___baygon-insecticida-aerosol-hogar-400-ml.webp"
+    },
+    {
+      "name": "7501032928384___aromatizante-glade-aerosol-berries-175-g",
+      "file": "7501032928384___aromatizante-glade-aerosol-berries-175-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501032928384___aromatizante-glade-aerosol-berries-175-g.webp"
+    },
+    {
+      "name": "7501032929282___limpiador-windex-original-repuesto-500-ml",
+      "file": "7501032929282___limpiador-windex-original-repuesto-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032929282___limpiador-windex-original-repuesto-500-ml.webp"
+    },
+    {
+      "name": "7501032929787___insecticida-raid-laminitas-con-108-piezas",
+      "file": "7501032929787___insecticida-raid-laminitas-con-108-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501032929787___insecticida-raid-laminitas-con-108-piezas.webp"
+    },
+    {
+      "name": "7501032930455___insecticida-raid-aerosol-casa-y-jardín-eucalipto-430-ml",
+      "file": "7501032930455___insecticida-raid-aerosol-casa-y-jardín-eucalipto-430-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032930455___insecticida-raid-aerosol-casa-y-jardín-eucalipto-430-ml.webp"
+    },
+    {
+      "name": "7501032930851___aromatizante-glade-aerosol-berries-400-ml",
+      "file": "7501032930851___aromatizante-glade-aerosol-berries-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032930851___aromatizante-glade-aerosol-berries-400-ml.webp"
+    },
+    {
+      "name": "7501032930868___aromatizante-glade-aerosol-berries-275-ml",
+      "file": "7501032930868___aromatizante-glade-aerosol-berries-275-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501032930868___aromatizante-glade-aerosol-berries-275-ml.webp"
+    },
+    {
+      "name": "7501032935818.jpg___pastilla-mr-músculo-pato-twin-econopack-40-g",
+      "file": "7501032935818.jpg___pastilla-mr-músculo-pato-twin-econopack-40-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501032935818.jpg___pastilla-mr-músculo-pato-twin-econopack-40-g.webp"
+    },
+    {
+      "name": "7501036619233___higiénico-regio-de-4-maxi-rollos-400-hojas",
+      "file": "7501036619233___higiénico-regio-de-4-maxi-rollos-400-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501036619233___higiénico-regio-de-4-maxi-rollos-400-hojas.webp"
+    },
+    {
+      "name": "7501036620932___papel-higiénico-regio-rinde+-1-rollo",
+      "file": "7501036620932___papel-higiénico-regio-rinde+-1-rollo.webp",
+      "path": "limpieza_y_mascotas/opt/7501036620932___papel-higiénico-regio-rinde+-1-rollo.webp"
+    },
+    {
+      "name": "7501036623469___higiénico-regio-rinde-+-con-4-rollos-de-600-hd",
+      "file": "7501036623469___higiénico-regio-rinde-+-con-4-rollos-de-600-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036623469___higiénico-regio-rinde-+-con-4-rollos-de-600-hd.webp"
+    },
+    {
+      "name": "7501036624015___regio-rinde-más-con-8-rollos-de-300-hojas",
+      "file": "7501036624015___regio-rinde-más-con-8-rollos-de-300-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501036624015___regio-rinde-más-con-8-rollos-de-300-hojas.webp"
+    },
+    {
+      "name": "7501036624053___higiénico-regio-rinde-+-con-6-rollos-con-375-hd",
+      "file": "7501036624053___higiénico-regio-rinde-+-con-6-rollos-con-375-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036624053___higiénico-regio-rinde-+-con-6-rollos-con-375-hd.webp"
+    },
+    {
+      "name": "7501036624121___multitoalla-regio-rinde-250-hd",
+      "file": "7501036624121___multitoalla-regio-rinde-250-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036624121___multitoalla-regio-rinde-250-hd.webp"
+    },
+    {
+      "name": "7501036624572___papel-higiénico-regio-ecomax-4-rollos",
+      "file": "7501036624572___papel-higiénico-regio-ecomax-4-rollos.webp",
+      "path": "limpieza_y_mascotas/opt/7501036624572___papel-higiénico-regio-ecomax-4-rollos.webp"
+    },
+    {
+      "name": "7501036625050___higiénico-regio-ecomax-6-rollos-de-250-hd",
+      "file": "7501036625050___higiénico-regio-ecomax-6-rollos-de-250-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036625050___higiénico-regio-ecomax-6-rollos-de-250-hd.webp"
+    },
+    {
+      "name": "7501036625067___papel-higiénico-regio-ecomax-220-hojas-12-rollos",
+      "file": "7501036625067___papel-higiénico-regio-ecomax-220-hojas-12-rollos.webp",
+      "path": "limpieza_y_mascotas/opt/7501036625067___papel-higiénico-regio-ecomax-220-hojas-12-rollos.webp"
+    },
+    {
+      "name": "7501036625159___higiénico-regio-luxury-almond-touch-4-rollos-de-180-hojas-dobles",
+      "file": "7501036625159___higiénico-regio-luxury-almond-touch-4-rollos-de-180-hojas-dobles.webp",
+      "path": "limpieza_y_mascotas/opt/7501036625159___higiénico-regio-luxury-almond-touch-4-rollos-de-180-hojas-dobles.webp"
+    },
+    {
+      "name": "7501036625845___higiénico-regio-rinde-+-6-rollos-de-500-hd",
+      "file": "7501036625845___higiénico-regio-rinde-+-6-rollos-de-500-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036625845___higiénico-regio-rinde-+-6-rollos-de-500-hd.webp"
+    },
+    {
+      "name": "7501036625999___higienico-regio-aires-lavanda-18-rollos-de-230-hd",
+      "file": "7501036625999___higienico-regio-aires-lavanda-18-rollos-de-230-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036625999___higienico-regio-aires-lavanda-18-rollos-de-230-hd.webp"
+    },
+    {
+      "name": "7501036626088___higiénico-regio-aires-lavanda-32-rollos-de-200-hd",
+      "file": "7501036626088___higiénico-regio-aires-lavanda-32-rollos-de-200-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036626088___higiénico-regio-aires-lavanda-32-rollos-de-200-hd.webp"
+    },
+    {
+      "name": "7501036626163___higienico-regio-aires-lavanda-4-rollos-de-300-hd",
+      "file": "7501036626163___higienico-regio-aires-lavanda-4-rollos-de-300-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036626163___higienico-regio-aires-lavanda-4-rollos-de-300-hd.webp"
+    },
+    {
+      "name": "7501036626170___higienico-regio-aires-lavanda-4-rollos-de-200-hd",
+      "file": "7501036626170___higienico-regio-aires-lavanda-4-rollos-de-200-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036626170___higienico-regio-aires-lavanda-4-rollos-de-200-hd.webp"
+    },
+    {
+      "name": "7501036626286___servilletas-regio-hogar-con-400-piezas",
+      "file": "7501036626286___servilletas-regio-hogar-con-400-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501036626286___servilletas-regio-hogar-con-400-piezas.webp"
+    },
+    {
+      "name": "7501036626385___multitoalla-regio-1000-usos-de-140-hojas",
+      "file": "7501036626385___multitoalla-regio-1000-usos-de-140-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501036626385___multitoalla-regio-1000-usos-de-140-hojas.webp"
+    },
+    {
+      "name": "7501036626392.jpg___multitoalla-regio-1000-usos-2-rollos-de-140-hojas",
+      "file": "7501036626392.jpg___multitoalla-regio-1000-usos-2-rollos-de-140-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501036626392.jpg___multitoalla-regio-1000-usos-2-rollos-de-140-hojas.webp"
+    },
+    {
+      "name": "7501036626460___multitoalla-regio-gran-absorción-con-105-hd",
+      "file": "7501036626460___multitoalla-regio-gran-absorción-con-105-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501036626460___multitoalla-regio-gran-absorción-con-105-hd.webp"
+    },
+    {
+      "name": "7501050410311___higiénico-hortensia-supreme-verde-4-rollos-con-400-hojas",
+      "file": "7501050410311___higiénico-hortensia-supreme-verde-4-rollos-con-400-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501050410311___higiénico-hortensia-supreme-verde-4-rollos-con-400-hojas.webp"
+    },
+    {
+      "name": "7501050411301___higiénico-adorable-4-rollos-360-h",
+      "file": "7501050411301___higiénico-adorable-4-rollos-360-h.webp",
+      "path": "limpieza_y_mascotas/opt/7501050411301___higiénico-adorable-4-rollos-360-h.webp"
+    },
+    {
+      "name": "7501050411349___higienico-hortensia-supreme-4-rollos-de-360-hojas",
+      "file": "7501050411349___higienico-hortensia-supreme-4-rollos-de-360-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501050411349___higienico-hortensia-supreme-4-rollos-de-360-hojas.webp"
+    },
+    {
+      "name": "7501050411585___higienico-big-facial-quality-4-rollos-con-800-hd",
+      "file": "7501050411585___higienico-big-facial-quality-4-rollos-con-800-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501050411585___higienico-big-facial-quality-4-rollos-con-800-hd.webp"
+    },
+    {
+      "name": "7501050411646___higiénico-big-facial-quality-4-piezas-de-340-hojas",
+      "file": "7501050411646___higiénico-big-facial-quality-4-piezas-de-340-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501050411646___higiénico-big-facial-quality-4-piezas-de-340-hojas.webp"
+    },
+    {
+      "name": "7501050420884___servilleta-adorable-100-hojas",
+      "file": "7501050420884___servilleta-adorable-100-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501050420884___servilleta-adorable-100-hojas.webp"
+    },
+    {
+      "name": "7501050430470___toalla-de-cocina-facial-quality-120-hojas",
+      "file": "7501050430470___toalla-de-cocina-facial-quality-120-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501050430470___toalla-de-cocina-facial-quality-120-hojas.webp"
+    },
+    {
+      "name": "7501050430524___toalla-de-cocina-big-facial-quality-240-hojas",
+      "file": "7501050430524___toalla-de-cocina-big-facial-quality-240-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501050430524___toalla-de-cocina-big-facial-quality-240-hojas.webp"
+    },
+    {
+      "name": "7501050430555___toalla-de-cocina-facial-quality-con-270-hojas",
+      "file": "7501050430555___toalla-de-cocina-facial-quality-con-270-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501050430555___toalla-de-cocina-facial-quality-con-270-hojas.webp"
+    },
+    {
+      "name": "7501050430562___toalla-facial-q-cocina-navidad-270-+-30-hd",
+      "file": "7501050430562___toalla-facial-q-cocina-navidad-270-+-30-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7501050430562___toalla-facial-q-cocina-navidad-270-+-30-hd.webp"
+    },
+    {
+      "name": "7501058711892___limpiador-harpic-white-shine-750-ml",
+      "file": "7501058711892___limpiador-harpic-white-shine-750-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058711892___limpiador-harpic-white-shine-750-ml.webp"
+    },
+    {
+      "name": "7501058712448___limpiador-harpic-baños-ultra-dpack-500-ml",
+      "file": "7501058712448___limpiador-harpic-baños-ultra-dpack-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058712448___limpiador-harpic-baños-ultra-dpack-500-ml.webp"
+    },
+    {
+      "name": "7501058713421___limpiador-harpic-baños-ultra-650-ml",
+      "file": "7501058713421___limpiador-harpic-baños-ultra-650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058713421___limpiador-harpic-baños-ultra-650-ml.webp"
+    },
+    {
+      "name": "7501058713858___desinfectante-lysol-multiusos-citrus-820-ml",
+      "file": "7501058713858___desinfectante-lysol-multiusos-citrus-820-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058713858___desinfectante-lysol-multiusos-citrus-820-ml.webp"
+    },
+    {
+      "name": "7501058713889___desinfectante-lysol-multiusos-clear-820-ml",
+      "file": "7501058713889___desinfectante-lysol-multiusos-clear-820-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058713889___desinfectante-lysol-multiusos-clear-820-ml.webp"
+    },
+    {
+      "name": "7501058714398___desinfectante-lysol-original-650-ml",
+      "file": "7501058714398___desinfectante-lysol-original-650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058714398___desinfectante-lysol-original-650-ml.webp"
+    },
+    {
+      "name": "7501058714749___pastilla-harpic-acuático-5-piezas-de-45-g",
+      "file": "7501058714749___pastilla-harpic-acuático-5-piezas-de-45-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501058714749___pastilla-harpic-acuático-5-piezas-de-45-g.webp"
+    },
+    {
+      "name": "7501058714992___pastillas-harpic-white-shine-5-piezas-de-45-g",
+      "file": "7501058714992___pastillas-harpic-white-shine-5-piezas-de-45-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501058714992___pastillas-harpic-white-shine-5-piezas-de-45-g.webp"
+    },
+    {
+      "name": "7501058716231___limpiador-harpic-baños-flor-lavanda-dpack-500-ml",
+      "file": "7501058716231___limpiador-harpic-baños-flor-lavanda-dpack-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716231___limpiador-harpic-baños-flor-lavanda-dpack-500-ml.webp"
+    },
+    {
+      "name": "7501058716248___limpiador-harpic-lavanda-650-ml",
+      "file": "7501058716248___limpiador-harpic-lavanda-650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716248___limpiador-harpic-lavanda-650-ml.webp"
+    },
+    {
+      "name": "7501058716477___removedor-de-manchas-vanish-líquido-pink-650-ml",
+      "file": "7501058716477___removedor-de-manchas-vanish-líquido-pink-650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716477___removedor-de-manchas-vanish-líquido-pink-650-ml.webp"
+    },
+    {
+      "name": "7501058716484___limpiador-brasso-gold-lavanda-870-ml",
+      "file": "7501058716484___limpiador-brasso-gold-lavanda-870-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716484___limpiador-brasso-gold-lavanda-870-ml.webp"
+    },
+    {
+      "name": "7501058716491___limpiador-brasso-gold-manzana-verde-870-ml",
+      "file": "7501058716491___limpiador-brasso-gold-manzana-verde-870-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716491___limpiador-brasso-gold-manzana-verde-870-ml.webp"
+    },
+    {
+      "name": "7501058716507___limpiador-brasso-gold-delicia-floral-870-ml",
+      "file": "7501058716507___limpiador-brasso-gold-delicia-floral-870-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716507___limpiador-brasso-gold-delicia-floral-870-ml.webp"
+    },
+    {
+      "name": "7501058716514___limpiador-brasso-gold-marino-870-ml",
+      "file": "7501058716514___limpiador-brasso-gold-marino-870-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716514___limpiador-brasso-gold-marino-870-ml.webp"
+    },
+    {
+      "name": "7501058716545___harpic-baños-sarro-y-mugre-dpack-500-ml",
+      "file": "7501058716545___harpic-baños-sarro-y-mugre-dpack-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716545___harpic-baños-sarro-y-mugre-dpack-500-ml.webp"
+    },
+    {
+      "name": "7501058716552___limpiador-harpic-extra-fuerte-200-ml",
+      "file": "7501058716552___limpiador-harpic-extra-fuerte-200-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716552___limpiador-harpic-extra-fuerte-200-ml.webp"
+    },
+    {
+      "name": "7501058716651___desinfectante-lysol-citrus-5000-ml",
+      "file": "7501058716651___desinfectante-lysol-citrus-5000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716651___desinfectante-lysol-citrus-5000-ml.webp"
+    },
+    {
+      "name": "7501058716729___desengrasante-brasso-max-plus-dpack-400-ml",
+      "file": "7501058716729___desengrasante-brasso-max-plus-dpack-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716729___desengrasante-brasso-max-plus-dpack-400-ml.webp"
+    },
+    {
+      "name": "7501058716781___destapacaños-harpic-destop-500-ml",
+      "file": "7501058716781___destapacaños-harpic-destop-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058716781___destapacaños-harpic-destop-500-ml.webp"
+    },
+    {
+      "name": "7501058717207___desinfectante-lysol-multiusos-dpack-500-ml",
+      "file": "7501058717207___desinfectante-lysol-multiusos-dpack-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058717207___desinfectante-lysol-multiusos-dpack-500-ml.webp"
+    },
+    {
+      "name": "7501058717382___desengrasante-brasso-naranja-dpack-500-ml",
+      "file": "7501058717382___desengrasante-brasso-naranja-dpack-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058717382___desengrasante-brasso-naranja-dpack-500-ml.webp"
+    },
+    {
+      "name": "7501058743121___cera-liquida-nugget-negra-60-ml",
+      "file": "7501058743121___cera-liquida-nugget-negra-60-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058743121___cera-liquida-nugget-negra-60-ml.webp"
+    },
+    {
+      "name": "7501058752017___desengrasante-brasso-limón-dpack-500-ml",
+      "file": "7501058752017___desengrasante-brasso-limón-dpack-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058752017___desengrasante-brasso-limón-dpack-500-ml.webp"
+    },
+    {
+      "name": "7501058752796___desinfectante-lysol-crisp-linen-de-475-ml",
+      "file": "7501058752796___desinfectante-lysol-crisp-linen-de-475-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058752796___desinfectante-lysol-crisp-linen-de-475-ml.webp"
+    },
+    {
+      "name": "7501058753441___removedor-manchas-vanish-polvo-pink-120-g",
+      "file": "7501058753441___removedor-manchas-vanish-polvo-pink-120-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501058753441___removedor-manchas-vanish-polvo-pink-120-g.webp"
+    },
+    {
+      "name": "7501058753458___removedor-de-manchas-vanish-polvo-white-120-g",
+      "file": "7501058753458___removedor-de-manchas-vanish-polvo-white-120-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501058753458___removedor-de-manchas-vanish-polvo-white-120-g.webp"
+    },
+    {
+      "name": "7501058754189___limpiador-brasso-amonia-dpack-500-ml",
+      "file": "7501058754189___limpiador-brasso-amonia-dpack-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058754189___limpiador-brasso-amonia-dpack-500-ml.webp"
+    },
+    {
+      "name": "7501058755179___desengrasante-brasso-naranja-650-ml",
+      "file": "7501058755179___desengrasante-brasso-naranja-650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058755179___desengrasante-brasso-naranja-650-ml.webp"
+    },
+    {
+      "name": "7501058766991___aromatizante-air-wick-repuesto-manzana-y-canela-2-piezas-de-21-ml",
+      "file": "7501058766991___aromatizante-air-wick-repuesto-manzana-y-canela-2-piezas-de-21-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058766991___aromatizante-air-wick-repuesto-manzana-y-canela-2-piezas-de-21-ml.webp"
+    },
+    {
+      "name": "7501058770301___desengrasante-easy-off-limpiador-hornos-411-g",
+      "file": "7501058770301___desengrasante-easy-off-limpiador-hornos-411-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501058770301___desengrasante-easy-off-limpiador-hornos-411-g.webp"
+    },
+    {
+      "name": "7501058770776___limpiador-harpic-power-ultra-750-ml-más-airwick-237-ml",
+      "file": "7501058770776___limpiador-harpic-power-ultra-750-ml-más-airwick-237-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058770776___limpiador-harpic-power-ultra-750-ml-más-airwick-237-ml.webp"
+    },
+    {
+      "name": "7501058784353___removedor-de-manchas-vanish-polvo-rosa-450-g",
+      "file": "7501058784353___removedor-de-manchas-vanish-polvo-rosa-450-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501058784353___removedor-de-manchas-vanish-polvo-rosa-450-g.webp"
+    },
+    {
+      "name": "7501058792662___toalla-lysol-wipes-citrus-80-piezas",
+      "file": "7501058792662___toalla-lysol-wipes-citrus-80-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501058792662___toalla-lysol-wipes-citrus-80-piezas.webp"
+    },
+    {
+      "name": "7501058794161___aromatizante-air-wick-eléctrico-magnolia-repuesto-5-piezas-de-20-ml",
+      "file": "7501058794161___aromatizante-air-wick-eléctrico-magnolia-repuesto-5-piezas-de-20-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058794161___aromatizante-air-wick-eléctrico-magnolia-repuesto-5-piezas-de-20-ml.webp"
+    },
+    {
+      "name": "7501058795984___desinfectante-lysol-aerosol-mango-hibiscus-561-ml",
+      "file": "7501058795984___desinfectante-lysol-aerosol-mango-hibiscus-561-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058795984___desinfectante-lysol-aerosol-mango-hibiscus-561-ml.webp"
+    },
+    {
+      "name": "7501058796585___removedor-de-manchas-vanish-gel-color-pro-2-piezas-de-925-ml",
+      "file": "7501058796585___removedor-de-manchas-vanish-gel-color-pro-2-piezas-de-925-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058796585___removedor-de-manchas-vanish-gel-color-pro-2-piezas-de-925-ml.webp"
+    },
+    {
+      "name": "7501058796882___desinfectante-lysol-aerosol-354-g",
+      "file": "7501058796882___desinfectante-lysol-aerosol-354-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501058796882___desinfectante-lysol-aerosol-354-g.webp"
+    },
+    {
+      "name": "7501058797032___aromatizante-air-wick-spray-fresh-lavanda-y-lirio-237-ml",
+      "file": "7501058797032___aromatizante-air-wick-spray-fresh-lavanda-y-lirio-237-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058797032___aromatizante-air-wick-spray-fresh-lavanda-y-lirio-237-ml.webp"
+    },
+    {
+      "name": "7501058797049___aromatizante-en-spray-air-wick-cool-frambuesa-y-limón-237-ml",
+      "file": "7501058797049___aromatizante-en-spray-air-wick-cool-frambuesa-y-limón-237-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058797049___aromatizante-en-spray-air-wick-cool-frambuesa-y-limón-237-ml.webp"
+    },
+    {
+      "name": "7501058798046___desinfectante-lysol-aerosol-lemon-breeze-502-ml",
+      "file": "7501058798046___desinfectante-lysol-aerosol-lemon-breeze-502-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058798046___desinfectante-lysol-aerosol-lemon-breeze-502-ml.webp"
+    },
+    {
+      "name": "7501058798237___aromatizante-air-wick-aerosol-lavanda-300-ml",
+      "file": "7501058798237___aromatizante-air-wick-aerosol-lavanda-300-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058798237___aromatizante-air-wick-aerosol-lavanda-300-ml.webp"
+    },
+    {
+      "name": "7501058798244___aromatizante-air-wick-aerosol-magnolia-300-ml",
+      "file": "7501058798244___aromatizante-air-wick-aerosol-magnolia-300-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058798244___aromatizante-air-wick-aerosol-magnolia-300-ml.webp"
+    },
+    {
+      "name": "7501058798251___aromatizante-air-wick-aerosol-acqua-marina-300-ml",
+      "file": "7501058798251___aromatizante-air-wick-aerosol-acqua-marina-300-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501058798251___aromatizante-air-wick-aerosol-acqua-marina-300-ml.webp"
+    },
+    {
+      "name": "7501060423004___globo-payaso-surtido-zeppelin-neón-número-270-con-50-piezas",
+      "file": "7501060423004___globo-payaso-surtido-zeppelin-neón-número-270-con-50-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501060423004___globo-payaso-surtido-zeppelin-neón-número-270-con-50-piezas.webp"
+    },
+    {
+      "name": "7501071906589___limpiador-poett-suavidad-de-algodón-1180-ml",
+      "file": "7501071906589___limpiador-poett-suavidad-de-algodón-1180-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501071906589___limpiador-poett-suavidad-de-algodón-1180-ml.webp"
+    },
+    {
+      "name": "7501071906800___blanqueador-clorox-ropa-colores-vivos-2-de-930-ml",
+      "file": "7501071906800___blanqueador-clorox-ropa-colores-vivos-2-de-930-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501071906800___blanqueador-clorox-ropa-colores-vivos-2-de-930-ml.webp"
+    },
+    {
+      "name": "7501071906817___limpiador-poett-frescura-de-lavanda-1.18-l",
+      "file": "7501071906817___limpiador-poett-frescura-de-lavanda-1.18-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501071906817___limpiador-poett-frescura-de-lavanda-1.18-l.webp"
+    },
+    {
+      "name": "7501071907739___limpiador-poett-espiritu-play-1800-ml",
+      "file": "7501071907739___limpiador-poett-espiritu-play-1800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501071907739___limpiador-poett-espiritu-play-1800-ml.webp"
+    },
+    {
+      "name": "7501071907753___limpiador-poett-espiritu-play-4000-ml",
+      "file": "7501071907753___limpiador-poett-espiritu-play-4000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501071907753___limpiador-poett-espiritu-play-4000-ml.webp"
+    },
+    {
+      "name": "7501071907784___limpiador-poett-flores-de-primavera-9-l",
+      "file": "7501071907784___limpiador-poett-flores-de-primavera-9-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501071907784___limpiador-poett-flores-de-primavera-9-l.webp"
+    },
+    {
+      "name": "7501071908514___blanqueador-clorox-1160-ml",
+      "file": "7501071908514___blanqueador-clorox-1160-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501071908514___blanqueador-clorox-1160-ml.webp"
+    },
+    {
+      "name": "7501071908545___limpiador-poett-fresca-primavera-1.18-l",
+      "file": "7501071908545___limpiador-poett-fresca-primavera-1.18-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501071908545___limpiador-poett-fresca-primavera-1.18-l.webp"
+    },
+    {
+      "name": "7501072201614___dog-chow-adulto-razas-medianas-25-kg",
+      "file": "7501072201614___dog-chow-adulto-razas-medianas-25-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072201614___dog-chow-adulto-razas-medianas-25-kg.webp"
+    },
+    {
+      "name": "7501072201904___cat-chow-pescado-y-mariscos-20-kg",
+      "file": "7501072201904___cat-chow-pescado-y-mariscos-20-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072201904___cat-chow-pescado-y-mariscos-20-kg.webp"
+    },
+    {
+      "name": "7501072203588___beneful-adulto-2-kg",
+      "file": "7501072203588___beneful-adulto-2-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072203588___beneful-adulto-2-kg.webp"
+    },
+    {
+      "name": "7501072203908___alimento-para-perro-beneful-adulto-minis-original-carne-2-kg",
+      "file": "7501072203908___alimento-para-perro-beneful-adulto-minis-original-carne-2-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072203908___alimento-para-perro-beneful-adulto-minis-original-carne-2-kg.webp"
+    },
+    {
+      "name": "7501072204141___beneful-adulto-minis-original-carne-4-kg",
+      "file": "7501072204141___beneful-adulto-minis-original-carne-4-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072204141___beneful-adulto-minis-original-carne-4-kg.webp"
+    },
+    {
+      "name": "7501072206725___alimento-para-perro-dog-chow-puppy-4-kg",
+      "file": "7501072206725___alimento-para-perro-dog-chow-puppy-4-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072206725___alimento-para-perro-dog-chow-puppy-4-kg.webp"
+    },
+    {
+      "name": "7501072207326.jpg___purina-gatina-pollo-15-kg",
+      "file": "7501072207326.jpg___purina-gatina-pollo-15-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072207326.jpg___purina-gatina-pollo-15-kg.webp"
+    },
+    {
+      "name": "7501072209788___felix-carne-85-g",
+      "file": "7501072209788___felix-carne-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072209788___felix-carne-85-g.webp"
+    },
+    {
+      "name": "7501072209795___felix-pavo-85-g",
+      "file": "7501072209795___felix-pavo-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072209795___felix-pavo-85-g.webp"
+    },
+    {
+      "name": "7501072209801___felix-atún-85-g",
+      "file": "7501072209801___felix-atún-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072209801___felix-atún-85-g.webp"
+    },
+    {
+      "name": "7501072209849___alimento-para-gato-felix-pouch-salmón-85-g",
+      "file": "7501072209849___alimento-para-gato-felix-pouch-salmón-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072209849___alimento-para-gato-felix-pouch-salmón-85-g.webp"
+    },
+    {
+      "name": "7501072209870___felix-pollo-85-g",
+      "file": "7501072209870___felix-pollo-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072209870___felix-pollo-85-g.webp"
+    },
+    {
+      "name": "7501072212658___alimento-para-gato-cat-chow-adulto-pollo-85-g",
+      "file": "7501072212658___alimento-para-gato-cat-chow-adulto-pollo-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072212658___alimento-para-gato-cat-chow-adulto-pollo-85-g.webp"
+    },
+    {
+      "name": "7501072212665___purina-cat-chow-pescado-85-g",
+      "file": "7501072212665___purina-cat-chow-pescado-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072212665___purina-cat-chow-pescado-85-g.webp"
+    },
+    {
+      "name": "7501072212672___cat-chow-gatos-esterilizados-sabor-carne-85-g",
+      "file": "7501072212672___cat-chow-gatos-esterilizados-sabor-carne-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072212672___cat-chow-gatos-esterilizados-sabor-carne-85-g.webp"
+    },
+    {
+      "name": "7501072212696___cat-chow-gatos-esterilizados-sabor-pescado-85g",
+      "file": "7501072212696___cat-chow-gatos-esterilizados-sabor-pescado-85g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072212696___cat-chow-gatos-esterilizados-sabor-pescado-85g.webp"
+    },
+    {
+      "name": "7501072213792___alimento-para-perro-dog-chow-adultos-mini-pouch-corcarne-100-g",
+      "file": "7501072213792___alimento-para-perro-dog-chow-adultos-mini-pouch-corcarne-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072213792___alimento-para-perro-dog-chow-adultos-mini-pouch-corcarne-100-g.webp"
+    },
+    {
+      "name": "7501072215734___beneful-cachorro-minis-crecimiento-carne-10-kg",
+      "file": "7501072215734___beneful-cachorro-minis-crecimiento-carne-10-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072215734___beneful-cachorro-minis-crecimiento-carne-10-kg.webp"
+    },
+    {
+      "name": "7501072216045___beneful-salud-radiante-salmón-10-kg",
+      "file": "7501072216045___beneful-salud-radiante-salmón-10-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072216045___beneful-salud-radiante-salmón-10-kg.webp"
+    },
+    {
+      "name": "7501072217547___alimento-para-perro-dog-chow-adulto-minis-y-pequeños-500-g",
+      "file": "7501072217547___alimento-para-perro-dog-chow-adulto-minis-y-pequeños-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072217547___alimento-para-perro-dog-chow-adulto-minis-y-pequeños-500-g.webp"
+    },
+    {
+      "name": "7501072217554___dog-chow-adulto-500-g",
+      "file": "7501072217554___dog-chow-adulto-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072217554___dog-chow-adulto-500-g.webp"
+    },
+    {
+      "name": "7501072217561___dog-chow-puppy-500-g",
+      "file": "7501072217561___dog-chow-puppy-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072217561___dog-chow-puppy-500-g.webp"
+    },
+    {
+      "name": "7501072218766___campeón-raza-pequeña-2-kg",
+      "file": "7501072218766___campeón-raza-pequeña-2-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7501072218766___campeón-raza-pequeña-2-kg.webp"
+    },
+    {
+      "name": "7501072219480___botana-dog-chow-mix-para-todas-las-razas-100-g",
+      "file": "7501072219480___botana-dog-chow-mix-para-todas-las-razas-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072219480___botana-dog-chow-mix-para-todas-las-razas-100-g.webp"
+    },
+    {
+      "name": "7501072219503___botana-dog-chow-croc-para-todas-las-razas-100-g",
+      "file": "7501072219503___botana-dog-chow-croc-para-todas-las-razas-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501072219503___botana-dog-chow-croc-para-todas-las-razas-100-g.webp"
+    },
+    {
+      "name": "7501072221544___alimento-para-gato-felix-travesuras-pouch-salmón-60-gr",
+      "file": "7501072221544___alimento-para-gato-felix-travesuras-pouch-salmón-60-gr.webp",
+      "path": "limpieza_y_mascotas/opt/7501072221544___alimento-para-gato-felix-travesuras-pouch-salmón-60-gr.webp"
+    },
+    {
+      "name": "7501102221803___veladoras-profina-génesis-número-8",
+      "file": "7501102221803___veladoras-profina-génesis-número-8.webp",
+      "path": "limpieza_y_mascotas/opt/7501102221803___veladoras-profina-génesis-número-8.webp"
+    },
+    {
+      "name": "7501102232168___veladora-profina-farolito-16-piezas",
+      "file": "7501102232168___veladora-profina-farolito-16-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501102232168___veladora-profina-farolito-16-piezas.webp"
+    },
+    {
+      "name": "7501166503105___recipiente-cubasa-taparrosca-fruti-250-ml",
+      "file": "7501166503105___recipiente-cubasa-taparrosca-fruti-250-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501166503105___recipiente-cubasa-taparrosca-fruti-250-ml.webp"
+    },
+    {
+      "name": "7501166508087___vaso-para-cafe-500-ml-pieza",
+      "file": "7501166508087___vaso-para-cafe-500-ml-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7501166508087___vaso-para-cafe-500-ml-pieza.webp"
+    },
+    {
+      "name": "7501199413006___detergente-mas-líquido-color-415-ml",
+      "file": "7501199413006___detergente-mas-líquido-color-415-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501199413006___detergente-mas-líquido-color-415-ml.webp"
+    },
+    {
+      "name": "7501199413266___detergente-líquido-mas-oscura-4.65-l",
+      "file": "7501199413266___detergente-líquido-mas-oscura-4.65-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501199413266___detergente-líquido-mas-oscura-4.65-l.webp"
+    },
+    {
+      "name": "7501199413280___detergente-mas-líquido-color-830-ml",
+      "file": "7501199413280___detergente-mas-líquido-color-830-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501199413280___detergente-mas-líquido-color-830-ml.webp"
+    },
+    {
+      "name": "7501199413297___detergente-mas-líquido-oscura-830-ml",
+      "file": "7501199413297___detergente-mas-líquido-oscura-830-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501199413297___detergente-mas-líquido-oscura-830-ml.webp"
+    },
+    {
+      "name": "7501199413433___detergente-líquido-persil-universal-830-ml",
+      "file": "7501199413433___detergente-líquido-persil-universal-830-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501199413433___detergente-líquido-persil-universal-830-ml.webp"
+    },
+    {
+      "name": "7501199414041___detergente-viva-líquido-4650-ml",
+      "file": "7501199414041___detergente-viva-líquido-4650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501199414041___detergente-viva-líquido-4650-ml.webp"
+    },
+    {
+      "name": "7501199414409___detergente-viva-polvo-lavanda-850-g",
+      "file": "7501199414409___detergente-viva-polvo-lavanda-850-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501199414409___detergente-viva-polvo-lavanda-850-g.webp"
+    },
+    {
+      "name": "7501199414416___detergente-viva-polvo-regular-850-g",
+      "file": "7501199414416___detergente-viva-polvo-regular-850-g.webp",
+      "path": "limpieza_y_mascotas/opt/7501199414416___detergente-viva-polvo-regular-850-g.webp"
+    },
+    {
+      "name": "7501199415772___detergente-123-liquido-fresca-blancura-1-lt",
+      "file": "7501199415772___detergente-123-liquido-fresca-blancura-1-lt.webp",
+      "path": "limpieza_y_mascotas/opt/7501199415772___detergente-123-liquido-fresca-blancura-1-lt.webp"
+    },
+    {
+      "name": "7501199420912___detergente-mas-líquido-oscura-415-ml",
+      "file": "7501199420912___detergente-mas-líquido-oscura-415-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501199420912___detergente-mas-líquido-oscura-415-ml.webp"
+    },
+    {
+      "name": "7501268200018___blanqueador-la-valenciana-500-ml",
+      "file": "7501268200018___blanqueador-la-valenciana-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501268200018___blanqueador-la-valenciana-500-ml.webp"
+    },
+    {
+      "name": "7501347002274___cesto-pra027-papelero-pieza",
+      "file": "7501347002274___cesto-pra027-papelero-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7501347002274___cesto-pra027-papelero-pieza.webp"
+    },
+    {
+      "name": "7501353600730___vaso-imperial-380-ml-pieza",
+      "file": "7501353600730___vaso-imperial-380-ml-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7501353600730___vaso-imperial-380-ml-pieza.webp"
+    },
+    {
+      "name": "7501386030191___desengrasante-bosque-verde-1000-ml",
+      "file": "7501386030191___desengrasante-bosque-verde-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501386030191___desengrasante-bosque-verde-1000-ml.webp"
+    },
+    {
+      "name": "7501431205208___vaso-desechable-bosco-plástico-número-5.5-traslúcido-con-50-piezas",
+      "file": "7501431205208___vaso-desechable-bosco-plástico-número-5.5-traslúcido-con-50-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501431205208___vaso-desechable-bosco-plástico-número-5.5-traslúcido-con-50-piezas.webp"
+    },
+    {
+      "name": "7501431205215___vaso-bosco-plástico-número-6-traslúcido-con-50-piezas",
+      "file": "7501431205215___vaso-bosco-plástico-número-6-traslúcido-con-50-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501431205215___vaso-bosco-plástico-número-6-traslúcido-con-50-piezas.webp"
+    },
+    {
+      "name": "7501431205239___vaso-bosco-plástico-#8-traslucido-50-pzas",
+      "file": "7501431205239___vaso-bosco-plástico-#8-traslucido-50-pzas.webp",
+      "path": "limpieza_y_mascotas/opt/7501431205239___vaso-bosco-plástico-#8-traslucido-50-pzas.webp"
+    },
+    {
+      "name": "7501431213203___charola-convermex-855-térmica-lisa-blanca-50-piezas",
+      "file": "7501431213203___charola-convermex-855-térmica-lisa-blanca-50-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7501431213203___charola-convermex-855-térmica-lisa-blanca-50-piezas.webp"
+    },
+    {
+      "name": "7501557200316___veladora-aramo-limonero-crystal",
+      "file": "7501557200316___veladora-aramo-limonero-crystal.webp",
+      "path": "limpieza_y_mascotas/opt/7501557200316___veladora-aramo-limonero-crystal.webp"
+    },
+    {
+      "name": "7501557200699___veladora-aramo-caramelito-#3",
+      "file": "7501557200699___veladora-aramo-caramelito-#3.webp",
+      "path": "limpieza_y_mascotas/opt/7501557200699___veladora-aramo-caramelito-#3.webp"
+    },
+    {
+      "name": "7501557207087___veladora-aramo-caramelito-#7",
+      "file": "7501557207087___veladora-aramo-caramelito-#7.webp",
+      "path": "limpieza_y_mascotas/opt/7501557207087___veladora-aramo-caramelito-#7.webp"
+    },
+    {
+      "name": "7501557207209___veladora-aramo-ecológica-plástico-colores-30-horas-una-pieza",
+      "file": "7501557207209___veladora-aramo-ecológica-plástico-colores-30-horas-una-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7501557207209___veladora-aramo-ecológica-plástico-colores-30-horas-una-pieza.webp"
+    },
+    {
+      "name": "7501557210643___veladora-aramo-citronela-vaso-de-cartón-12-oz",
+      "file": "7501557210643___veladora-aramo-citronela-vaso-de-cartón-12-oz.webp",
+      "path": "limpieza_y_mascotas/opt/7501557210643___veladora-aramo-citronela-vaso-de-cartón-12-oz.webp"
+    },
+    {
+      "name": "7501557219837___esponja-bosque-verde-multiusos",
+      "file": "7501557219837___esponja-bosque-verde-multiusos.webp",
+      "path": "limpieza_y_mascotas/opt/7501557219837___esponja-bosque-verde-multiusos.webp"
+    },
+    {
+      "name": "7501557219899___trapeador-bosque-verde-magitel",
+      "file": "7501557219899___trapeador-bosque-verde-magitel.webp",
+      "path": "limpieza_y_mascotas/opt/7501557219899___trapeador-bosque-verde-magitel.webp"
+    },
+    {
+      "name": "7501557230665___veladora-aramo-caramelo-gigante-del-número-100",
+      "file": "7501557230665___veladora-aramo-caramelo-gigante-del-número-100.webp",
+      "path": "limpieza_y_mascotas/opt/7501557230665___veladora-aramo-caramelo-gigante-del-número-100.webp"
+    },
+    {
+      "name": "7501557230672___veladora-aramo-caramelo-gigante-del-número-500",
+      "file": "7501557230672___veladora-aramo-caramelo-gigante-del-número-500.webp",
+      "path": "limpieza_y_mascotas/opt/7501557230672___veladora-aramo-caramelo-gigante-del-número-500.webp"
+    },
+    {
+      "name": "7501557230689___veladora-aramo-caramelo-gigante-del-número-1000",
+      "file": "7501557230689___veladora-aramo-caramelo-gigante-del-número-1000.webp",
+      "path": "limpieza_y_mascotas/opt/7501557230689___veladora-aramo-caramelo-gigante-del-número-1000.webp"
+    },
+    {
+      "name": "7501557238999___veladora-aramo-esmeralda-colosal-pieza",
+      "file": "7501557238999___veladora-aramo-esmeralda-colosal-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7501557238999___veladora-aramo-esmeralda-colosal-pieza.webp"
+    },
+    {
+      "name": "7501681100049___blanqueador-b-clorhada-960-ml",
+      "file": "7501681100049___blanqueador-b-clorhada-960-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501681100049___blanqueador-b-clorhada-960-ml.webp"
+    },
+    {
+      "name": "7501681100223___blanqueador-b-clorhada-lima-limón-4-l",
+      "file": "7501681100223___blanqueador-b-clorhada-lima-limón-4-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501681100223___blanqueador-b-clorhada-lima-limón-4-l.webp"
+    },
+    {
+      "name": "7501681100421.jpg___blanqueador-b-clorhada-mascotas-1-l",
+      "file": "7501681100421.jpg___blanqueador-b-clorhada-mascotas-1-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501681100421.jpg___blanqueador-b-clorhada-mascotas-1-l.webp"
+    },
+    {
+      "name": "7501681100428.jpg___blanqueador-b-clorhada-mascotas-3800-ml",
+      "file": "7501681100428.jpg___blanqueador-b-clorhada-mascotas-3800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501681100428.jpg___blanqueador-b-clorhada-mascotas-3800-ml.webp"
+    },
+    {
+      "name": "7501681100469___blanqueador-b-clorhada-en-gel-más-detergente-1-l",
+      "file": "7501681100469___blanqueador-b-clorhada-en-gel-más-detergente-1-l.webp",
+      "path": "limpieza_y_mascotas/opt/7501681100469___blanqueador-b-clorhada-en-gel-más-detergente-1-l.webp"
+    },
+    {
+      "name": "7501681100766.jpg___blanqueador-b-clorhada-3800-ml",
+      "file": "7501681100766.jpg___blanqueador-b-clorhada-3800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501681100766.jpg___blanqueador-b-clorhada-3800-ml.webp"
+    },
+    {
+      "name": "7501727701292___caja-zapatera-chica-de-25x15x9-pieza",
+      "file": "7501727701292___caja-zapatera-chica-de-25x15x9-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7501727701292___caja-zapatera-chica-de-25x15x9-pieza.webp"
+    },
+    {
+      "name": "7501780600136___vaso-número-123-cafetero-255-ml",
+      "file": "7501780600136___vaso-número-123-cafetero-255-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501780600136___vaso-número-123-cafetero-255-ml.webp"
+    },
+    {
+      "name": "7501780600440___vaso-número-115-hb-290-ml",
+      "file": "7501780600440___vaso-número-115-hb-290-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501780600440___vaso-número-115-hb-290-ml.webp"
+    },
+    {
+      "name": "7501780601218___vaso-número-172-tequilero-45-ml",
+      "file": "7501780601218___vaso-número-172-tequilero-45-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501780601218___vaso-número-172-tequilero-45-ml.webp"
+    },
+    {
+      "name": "7501780609139___flanera-número-226-jumbo-320-ml",
+      "file": "7501780609139___flanera-número-226-jumbo-320-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7501780609139___flanera-número-226-jumbo-320-ml.webp"
+    },
+    {
+      "name": "7501943412200___papel-higiénico-petalo-ultra-resistente-4-rollos-de-400-hojas",
+      "file": "7501943412200___papel-higiénico-petalo-ultra-resistente-4-rollos-de-400-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7501943412200___papel-higiénico-petalo-ultra-resistente-4-rollos-de-400-hojas.webp"
+    },
+    {
+      "name": "7502002872843___alimento-para-gato-minino-500-g",
+      "file": "7502002872843___alimento-para-gato-minino-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502002872843___alimento-para-gato-minino-500-g.webp"
+    },
+    {
+      "name": "7502002873376___alimento-perro-ganador-premium-adulto-razas-medianas-y-grandes-10-kg",
+      "file": "7502002873376___alimento-perro-ganador-premium-adulto-razas-medianas-y-grandes-10-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7502002873376___alimento-perro-ganador-premium-adulto-razas-medianas-y-grandes-10-kg.webp"
+    },
+    {
+      "name": "7502002873390___alimento-para-perro-ganador-adulto-razas-medianas-a-grandes-de-20-kg",
+      "file": "7502002873390___alimento-para-perro-ganador-adulto-razas-medianas-a-grandes-de-20-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7502002873390___alimento-para-perro-ganador-adulto-razas-medianas-a-grandes-de-20-kg.webp"
+    },
+    {
+      "name": "7502002873505___alimento-para-perro-ganador-razas-pequeñas-original-2000-g",
+      "file": "7502002873505___alimento-para-perro-ganador-razas-pequeñas-original-2000-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502002873505___alimento-para-perro-ganador-razas-pequeñas-original-2000-g.webp"
+    },
+    {
+      "name": "7502002873574___alimento-para-perro-top-choice-adulto-razas-medianas-y-grandes-7-kg",
+      "file": "7502002873574___alimento-para-perro-top-choice-adulto-razas-medianas-y-grandes-7-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7502002873574___alimento-para-perro-top-choice-adulto-razas-medianas-y-grandes-7-kg.webp"
+    },
+    {
+      "name": "7502002873734___alimento-para-perro-ganador-premium-adulto-razas-mediana-y-grande-4-kg",
+      "file": "7502002873734___alimento-para-perro-ganador-premium-adulto-razas-mediana-y-grande-4-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7502002873734___alimento-para-perro-ganador-premium-adulto-razas-mediana-y-grande-4-kg.webp"
+    },
+    {
+      "name": "7502210610473___plato-con-3-divisiones-café-pieza",
+      "file": "7502210610473___plato-con-3-divisiones-café-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7502210610473___plato-con-3-divisiones-café-pieza.webp"
+    },
+    {
+      "name": "7502210618530___vaso-de-plastico-con-tapa-donas-320-ml-pieza",
+      "file": "7502210618530___vaso-de-plastico-con-tapa-donas-320-ml-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7502210618530___vaso-de-plastico-con-tapa-donas-320-ml-pieza.webp"
+    },
+    {
+      "name": "7502218264548___quitasarro-bosque-verde-1000-ml",
+      "file": "7502218264548___quitasarro-bosque-verde-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502218264548___quitasarro-bosque-verde-1000-ml.webp"
+    },
+    {
+      "name": "7502218269291___detergente-líquido-lavatrastes-bosque-verde-naranja-500-ml",
+      "file": "7502218269291___detergente-líquido-lavatrastes-bosque-verde-naranja-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502218269291___detergente-líquido-lavatrastes-bosque-verde-naranja-500-ml.webp"
+    },
+    {
+      "name": "7502218269314___detergente-líquido-lavatrastes-bosque-verde-limón-500-ml",
+      "file": "7502218269314___detergente-líquido-lavatrastes-bosque-verde-limón-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502218269314___detergente-líquido-lavatrastes-bosque-verde-limón-500-ml.webp"
+    },
+    {
+      "name": "7502222491114___insecticida-oko-aerosol-mata-cucarachas-400-ml",
+      "file": "7502222491114___insecticida-oko-aerosol-mata-cucarachas-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502222491114___insecticida-oko-aerosol-mata-cucarachas-400-ml.webp"
+    },
+    {
+      "name": "7502222491145___insecticida-oko-aerosol-casa-y-jardín-200-ml",
+      "file": "7502222491145___insecticida-oko-aerosol-casa-y-jardín-200-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502222491145___insecticida-oko-aerosol-casa-y-jardín-200-ml.webp"
+    },
+    {
+      "name": "7502222491152___insecticida-oko-aerosol-casa-y-jardín-400-ml",
+      "file": "7502222491152___insecticida-oko-aerosol-casa-y-jardín-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502222491152___insecticida-oko-aerosol-casa-y-jardín-400-ml.webp"
+    },
+    {
+      "name": "7502222491275___insecticida-oko-aerosol-green-250-ml",
+      "file": "7502222491275___insecticida-oko-aerosol-green-250-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502222491275___insecticida-oko-aerosol-green-250-ml.webp"
+    },
+    {
+      "name": "7502224610018___atomizador-500-ml-pieza",
+      "file": "7502224610018___atomizador-500-ml-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7502224610018___atomizador-500-ml-pieza.webp"
+    },
+    {
+      "name": "7502224610063___atomizador-de-gusano-500-ml-pieza",
+      "file": "7502224610063___atomizador-de-gusano-500-ml-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7502224610063___atomizador-de-gusano-500-ml-pieza.webp"
+    },
+    {
+      "name": "7502240726663___lubricante-quaker-ultra-heavy-20w50-de-946-ml",
+      "file": "7502240726663___lubricante-quaker-ultra-heavy-20w50-de-946-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502240726663___lubricante-quaker-ultra-heavy-20w50-de-946-ml.webp"
+    },
+    {
+      "name": "7502241360101___insecticida-eléctrico-vape-antimosquitos",
+      "file": "7502241360101___insecticida-eléctrico-vape-antimosquitos.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360101___insecticida-eléctrico-vape-antimosquitos.webp"
+    },
+    {
+      "name": "7502241360125___insecticida-vape-repuesto-tabletas-con-24-piezas",
+      "file": "7502241360125___insecticida-vape-repuesto-tabletas-con-24-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360125___insecticida-vape-repuesto-tabletas-con-24-piezas.webp"
+    },
+    {
+      "name": "7502241360163___insecticida-vape-espiral-regular-50-piezas",
+      "file": "7502241360163___insecticida-vape-espiral-regular-50-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360163___insecticida-vape-espiral-regular-50-piezas.webp"
+    },
+    {
+      "name": "7502241360248___insecticida-vape-aerosol-naranja-250-ml",
+      "file": "7502241360248___insecticida-vape-aerosol-naranja-250-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360248___insecticida-vape-aerosol-naranja-250-ml.webp"
+    },
+    {
+      "name": "7502241360262___insecticida-vape-en-aerosol-naranja-400-ml",
+      "file": "7502241360262___insecticida-vape-en-aerosol-naranja-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360262___insecticida-vape-en-aerosol-naranja-400-ml.webp"
+    },
+    {
+      "name": "7502241360422___insecticida-vape-aerosol-lavanda-250-ml",
+      "file": "7502241360422___insecticida-vape-aerosol-lavanda-250-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360422___insecticida-vape-aerosol-lavanda-250-ml.webp"
+    },
+    {
+      "name": "7502241360439___insecticida-vape-aerosol-lavanda-400-ml",
+      "file": "7502241360439___insecticida-vape-aerosol-lavanda-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360439___insecticida-vape-aerosol-lavanda-400-ml.webp"
+    },
+    {
+      "name": "7502241360521___insecticida-vape-espiral-regular-con-10-piezas",
+      "file": "7502241360521___insecticida-vape-espiral-regular-con-10-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360521___insecticida-vape-espiral-regular-con-10-piezas.webp"
+    },
+    {
+      "name": "7502241360538___insecticida-vape-espiral-lavanda-con-10-piezas",
+      "file": "7502241360538___insecticida-vape-espiral-lavanda-con-10-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360538___insecticida-vape-espiral-lavanda-con-10-piezas.webp"
+    },
+    {
+      "name": "7502241360583___insecticida-vape-aerosol-naranja-600-ml",
+      "file": "7502241360583___insecticida-vape-aerosol-naranja-600-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360583___insecticida-vape-aerosol-naranja-600-ml.webp"
+    },
+    {
+      "name": "7502241360613___insecticida-vape-aerosol-lavanda-600-ml",
+      "file": "7502241360613___insecticida-vape-aerosol-lavanda-600-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360613___insecticida-vape-aerosol-lavanda-600-ml.webp"
+    },
+    {
+      "name": "7502241360668___insecticida-vape-aerosol-cero-400-ml",
+      "file": "7502241360668___insecticida-vape-aerosol-cero-400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7502241360668___insecticida-vape-aerosol-cero-400-ml.webp"
+    },
+    {
+      "name": "7502247332645___higienico-premier-rendiplus-12-piezas-300hd",
+      "file": "7502247332645___higienico-premier-rendiplus-12-piezas-300hd.webp",
+      "path": "limpieza_y_mascotas/opt/7502247332645___higienico-premier-rendiplus-12-piezas-300hd.webp"
+    },
+    {
+      "name": "7502247332652___higiénico-premier-rendiplus-6-piezas-de-500-hd",
+      "file": "7502247332652___higiénico-premier-rendiplus-6-piezas-de-500-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7502247332652___higiénico-premier-rendiplus-6-piezas-de-500-hd.webp"
+    },
+    {
+      "name": "7502247332843.jpg___higienico-premier-rendiplus-24-rollos-de-271-hd",
+      "file": "7502247332843.jpg___higienico-premier-rendiplus-24-rollos-de-271-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7502247332843.jpg___higienico-premier-rendiplus-24-rollos-de-271-hd.webp"
+    },
+    {
+      "name": "7502247332980___higienico-premier-max-4-rollos-de-500-hd",
+      "file": "7502247332980___higienico-premier-max-4-rollos-de-500-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7502247332980___higienico-premier-max-4-rollos-de-500-hd.webp"
+    },
+    {
+      "name": "7502247333116___higiénico-elite-cuidado-clásico-perfumado-4-rollos",
+      "file": "7502247333116___higiénico-elite-cuidado-clásico-perfumado-4-rollos.webp",
+      "path": "limpieza_y_mascotas/opt/7502247333116___higiénico-elite-cuidado-clásico-perfumado-4-rollos.webp"
+    },
+    {
+      "name": "7502247335226.jpg___toalla-elite-cocina-megarollo-180-hd-pieza",
+      "file": "7502247335226.jpg___toalla-elite-cocina-megarollo-180-hd-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7502247335226.jpg___toalla-elite-cocina-megarollo-180-hd-pieza.webp"
+    },
+    {
+      "name": "7502247335677.jpg___higienico-elite-color-4-rollos-de-287-hd",
+      "file": "7502247335677.jpg___higienico-elite-color-4-rollos-de-287-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7502247335677.jpg___higienico-elite-color-4-rollos-de-287-hd.webp"
+    },
+    {
+      "name": "7502254580046___aluminio-azteca-modelo-400-con-1400-g",
+      "file": "7502254580046___aluminio-azteca-modelo-400-con-1400-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502254580046___aluminio-azteca-modelo-400-con-1400-g.webp"
+    },
+    {
+      "name": "7502269061141___bomba-bosque-verde-para-wc-con-bastón",
+      "file": "7502269061141___bomba-bosque-verde-para-wc-con-bastón.webp",
+      "path": "limpieza_y_mascotas/opt/7502269061141___bomba-bosque-verde-para-wc-con-bastón.webp"
+    },
+    {
+      "name": "7502269061158___tendedero-bosque-verde-cáñamo-con-8-metros",
+      "file": "7502269061158___tendedero-bosque-verde-cáñamo-con-8-metros.webp",
+      "path": "limpieza_y_mascotas/opt/7502269061158___tendedero-bosque-verde-cáñamo-con-8-metros.webp"
+    },
+    {
+      "name": "7502269061233___fibra-bosque-verde-metalica-40-g",
+      "file": "7502269061233___fibra-bosque-verde-metalica-40-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502269061233___fibra-bosque-verde-metalica-40-g.webp"
+    },
+    {
+      "name": "7502279700221___papel-higiénico-elite-ultra-suave-32-rollos-de-220-hd",
+      "file": "7502279700221___papel-higiénico-elite-ultra-suave-32-rollos-de-220-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7502279700221___papel-higiénico-elite-ultra-suave-32-rollos-de-220-hd.webp"
+    },
+    {
+      "name": "7502279700771___papel-higiénico-elite-ultra-duo-12-rollos",
+      "file": "7502279700771___papel-higiénico-elite-ultra-duo-12-rollos.webp",
+      "path": "limpieza_y_mascotas/opt/7502279700771___papel-higiénico-elite-ultra-duo-12-rollos.webp"
+    },
+    {
+      "name": "7502279740005___carnaza-señor-hueso-nudo-2-3-1-de-85-g",
+      "file": "7502279740005___carnaza-señor-hueso-nudo-2-3-1-de-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502279740005___carnaza-señor-hueso-nudo-2-3-1-de-85-g.webp"
+    },
+    {
+      "name": "7502279740036___carnaza-señor-hueso-triturada-pelota",
+      "file": "7502279740036___carnaza-señor-hueso-triturada-pelota.webp",
+      "path": "limpieza_y_mascotas/opt/7502279740036___carnaza-señor-hueso-triturada-pelota.webp"
+    },
+    {
+      "name": "7502279740043___carnaza-señor-hueso-triturada-palitos-20-piezas",
+      "file": "7502279740043___carnaza-señor-hueso-triturada-palitos-20-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7502279740043___carnaza-señor-hueso-triturada-palitos-20-piezas.webp"
+    },
+    {
+      "name": "7502279740975___carnaza-señor-hueso-plano-triturada-con-3-piezas",
+      "file": "7502279740975___carnaza-señor-hueso-plano-triturada-con-3-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7502279740975___carnaza-señor-hueso-plano-triturada-con-3-piezas.webp"
+    },
+    {
+      "name": "7502281120949___alimento-para-gato-minino-plus-recetas-carnitas-de-atun-85-g",
+      "file": "7502281120949___alimento-para-gato-minino-plus-recetas-carnitas-de-atun-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281120949___alimento-para-gato-minino-plus-recetas-carnitas-de-atun-85-g.webp"
+    },
+    {
+      "name": "7502281120956___alimento-para-gato-minino-plus-recetas-pavo-ahumado-85-g",
+      "file": "7502281120956___alimento-para-gato-minino-plus-recetas-pavo-ahumado-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281120956___alimento-para-gato-minino-plus-recetas-pavo-ahumado-85-g.webp"
+    },
+    {
+      "name": "7502281120963___alimento-para-gato-minino-caldo-con-verduras-85-g",
+      "file": "7502281120963___alimento-para-gato-minino-caldo-con-verduras-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281120963___alimento-para-gato-minino-caldo-con-verduras-85-g.webp"
+    },
+    {
+      "name": "7502281120970___alimento-para-gato-minino-plus-recetas-salmon-a-la-plancha-85-g",
+      "file": "7502281120970___alimento-para-gato-minino-plus-recetas-salmon-a-la-plancha-85-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281120970___alimento-para-gato-minino-plus-recetas-salmon-a-la-plancha-85-g.webp"
+    },
+    {
+      "name": "7502281120987___alimento-para-perro-ganador-recetas-delicias-de-pavo-100-g",
+      "file": "7502281120987___alimento-para-perro-ganador-recetas-delicias-de-pavo-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281120987___alimento-para-perro-ganador-recetas-delicias-de-pavo-100-g.webp"
+    },
+    {
+      "name": "7502281120994___alimento-para-perro-ganador-recetas-pollo-a-la-cacerola-100-g",
+      "file": "7502281120994___alimento-para-perro-ganador-recetas-pollo-a-la-cacerola-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281120994___alimento-para-perro-ganador-recetas-pollo-a-la-cacerola-100-g.webp"
+    },
+    {
+      "name": "7502281121007___alimento-para-perro-ganador-recetas-lomo-de-cerdo-100-g",
+      "file": "7502281121007___alimento-para-perro-ganador-recetas-lomo-de-cerdo-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281121007___alimento-para-perro-ganador-recetas-lomo-de-cerdo-100-g.webp"
+    },
+    {
+      "name": "7502281121014___alimento-para-perro-ganador-estofado-de-pato-100-g",
+      "file": "7502281121014___alimento-para-perro-ganador-estofado-de-pato-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281121014___alimento-para-perro-ganador-estofado-de-pato-100-g.webp"
+    },
+    {
+      "name": "7502281121076___alimento-para-perro-full-life-adulto-raza-pequeña-2-kg",
+      "file": "7502281121076___alimento-para-perro-full-life-adulto-raza-pequeña-2-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7502281121076___alimento-para-perro-full-life-adulto-raza-pequeña-2-kg.webp"
+    },
+    {
+      "name": "7502281122042___botana-ganador-bites-óptima-digestión-razas-medianas-100-g",
+      "file": "7502281122042___botana-ganador-bites-óptima-digestión-razas-medianas-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281122042___botana-ganador-bites-óptima-digestión-razas-medianas-100-g.webp"
+    },
+    {
+      "name": "7502281122059___botana-ganador-bites-antisarro-razas-pequeñas-100-g",
+      "file": "7502281122059___botana-ganador-bites-antisarro-razas-pequeñas-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281122059___botana-ganador-bites-antisarro-razas-pequeñas-100-g.webp"
+    },
+    {
+      "name": "7502281122905___alimento-para-perro-top-choice-razas-pequeñas-20-kg",
+      "file": "7502281122905___alimento-para-perro-top-choice-razas-pequeñas-20-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7502281122905___alimento-para-perro-top-choice-razas-pequeñas-20-kg.webp"
+    },
+    {
+      "name": "7502281124794___alimento-ganador-cachorro-todas-las-razas-higado-y-pollo-100-g",
+      "file": "7502281124794___alimento-ganador-cachorro-todas-las-razas-higado-y-pollo-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281124794___alimento-ganador-cachorro-todas-las-razas-higado-y-pollo-100-g.webp"
+    },
+    {
+      "name": "7502281124817___alimento-ganador-adulto-razas-pequeñas-pollo-y-pato-100-g",
+      "file": "7502281124817___alimento-ganador-adulto-razas-pequeñas-pollo-y-pato-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281124817___alimento-ganador-adulto-razas-pequeñas-pollo-y-pato-100-g.webp"
+    },
+    {
+      "name": "7502281124824___alimento-ganador-adulto-todas-las-razas-pollo-y-pavo-100-g",
+      "file": "7502281124824___alimento-ganador-adulto-todas-las-razas-pollo-y-pavo-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281124824___alimento-ganador-adulto-todas-las-razas-pollo-y-pavo-100-g.webp"
+    },
+    {
+      "name": "7502281124831___alimento-ganador-adulto-todas-las-razas-pollo-y-salmón-100-g",
+      "file": "7502281124831___alimento-ganador-adulto-todas-las-razas-pollo-y-salmón-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281124831___alimento-ganador-adulto-todas-las-razas-pollo-y-salmón-100-g.webp"
+    },
+    {
+      "name": "7502281125517___alimento-ganador-cachorro-todas-las-razas-higado-y-pavo-100-g",
+      "file": "7502281125517___alimento-ganador-cachorro-todas-las-razas-higado-y-pavo-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7502281125517___alimento-ganador-cachorro-todas-las-razas-higado-y-pavo-100-g.webp"
+    },
+    {
+      "name": "7503000614428___servilleta-nomica-interdoblada-250-unidades",
+      "file": "7503000614428___servilleta-nomica-interdoblada-250-unidades.webp",
+      "path": "limpieza_y_mascotas/opt/7503000614428___servilleta-nomica-interdoblada-250-unidades.webp"
+    },
+    {
+      "name": "7503002319536___removedor-manchas-vanish-líquido-para-color-1750-ml",
+      "file": "7503002319536___removedor-manchas-vanish-líquido-para-color-1750-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503002319536___removedor-manchas-vanish-líquido-para-color-1750-ml.webp"
+    },
+    {
+      "name": "7503004599240___veladora-san-francisco-refacción-mixta-san-judasvirgen-pieza",
+      "file": "7503004599240___veladora-san-francisco-refacción-mixta-san-judasvirgen-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7503004599240___veladora-san-francisco-refacción-mixta-san-judasvirgen-pieza.webp"
+    },
+    {
+      "name": "7503004599820___veladora-san-francisco-limonero-estrella",
+      "file": "7503004599820___veladora-san-francisco-limonero-estrella.webp",
+      "path": "limpieza_y_mascotas/opt/7503004599820___veladora-san-francisco-limonero-estrella.webp"
+    },
+    {
+      "name": "7503015619104___escoba-bosque-verde-abanico-mediana-pieza",
+      "file": "7503015619104___escoba-bosque-verde-abanico-mediana-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7503015619104___escoba-bosque-verde-abanico-mediana-pieza.webp"
+    },
+    {
+      "name": "7503015619166___escoba-bosque-verde-abanico-grande",
+      "file": "7503015619166___escoba-bosque-verde-abanico-grande.webp",
+      "path": "limpieza_y_mascotas/opt/7503015619166___escoba-bosque-verde-abanico-grande.webp"
+    },
+    {
+      "name": "7503016375016___bolsa-para-basura-la-casera-grande-62-x-80-cm-de-15-piezas",
+      "file": "7503016375016___bolsa-para-basura-la-casera-grande-62-x-80-cm-de-15-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503016375016___bolsa-para-basura-la-casera-grande-62-x-80-cm-de-15-piezas.webp"
+    },
+    {
+      "name": "7503016375023___bolsa-para-basura-la-casera-de-jareta-50-x-60-de-21-piezas",
+      "file": "7503016375023___bolsa-para-basura-la-casera-de-jareta-50-x-60-de-21-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503016375023___bolsa-para-basura-la-casera-de-jareta-50-x-60-de-21-piezas.webp"
+    },
+    {
+      "name": "7503016375214___bolsa-para-basura-la-casera-mediana-50-x-60-cm-de-21-piezas",
+      "file": "7503016375214___bolsa-para-basura-la-casera-mediana-50-x-60-cm-de-21-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503016375214___bolsa-para-basura-la-casera-mediana-50-x-60-cm-de-21-piezas.webp"
+    },
+    {
+      "name": "7503016375238___bolsa-para-basura-la-casera-grande-62-x-80-cm-de-15-piezas",
+      "file": "7503016375238___bolsa-para-basura-la-casera-grande-62-x-80-cm-de-15-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503016375238___bolsa-para-basura-la-casera-grande-62-x-80-cm-de-15-piezas.webp"
+    },
+    {
+      "name": "7503019146651___bolsa-para-basura-la-casera-jumbo-75-x-90-cm-de-10-piezas",
+      "file": "7503019146651___bolsa-para-basura-la-casera-jumbo-75-x-90-cm-de-10-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503019146651___bolsa-para-basura-la-casera-jumbo-75-x-90-cm-de-10-piezas.webp"
+    },
+    {
+      "name": "7503019146668___bolsa-para-basura-la-casera-grande-62-x-80-cm-de-14-piezas",
+      "file": "7503019146668___bolsa-para-basura-la-casera-grande-62-x-80-cm-de-14-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503019146668___bolsa-para-basura-la-casera-grande-62-x-80-cm-de-14-piezas.webp"
+    },
+    {
+      "name": "7503019146675___bolsa-para-basura-la-casera-mediana-50-x-60-cm-de-21-piezas",
+      "file": "7503019146675___bolsa-para-basura-la-casera-mediana-50-x-60-cm-de-21-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503019146675___bolsa-para-basura-la-casera-mediana-50-x-60-cm-de-21-piezas.webp"
+    },
+    {
+      "name": "7503019146682___bolsa-para-basura-la-casera-chica-40-x-45-cm-de-24-piezas",
+      "file": "7503019146682___bolsa-para-basura-la-casera-chica-40-x-45-cm-de-24-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503019146682___bolsa-para-basura-la-casera-chica-40-x-45-cm-de-24-piezas.webp"
+    },
+    {
+      "name": "7503020773358___bolsa-para-basura-mega-fuerte-jumbo-con-10-piezas",
+      "file": "7503020773358___bolsa-para-basura-mega-fuerte-jumbo-con-10-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503020773358___bolsa-para-basura-mega-fuerte-jumbo-con-10-piezas.webp"
+    },
+    {
+      "name": "7503020773846___bolsa-vitabag-camiseta-biodegradable-polipapel-grande-80-con-piezas",
+      "file": "7503020773846___bolsa-vitabag-camiseta-biodegradable-polipapel-grande-80-con-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503020773846___bolsa-vitabag-camiseta-biodegradable-polipapel-grande-80-con-piezas.webp"
+    },
+    {
+      "name": "7503020773860___bolsa-vitabag-camiseta-biodegradable-poliseda-mediana-190-piezas",
+      "file": "7503020773860___bolsa-vitabag-camiseta-biodegradable-poliseda-mediana-190-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503020773860___bolsa-vitabag-camiseta-biodegradable-poliseda-mediana-190-piezas.webp"
+    },
+    {
+      "name": "7503022208131___servilleta-bosque-verde-con-400-piezas",
+      "file": "7503022208131___servilleta-bosque-verde-con-400-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7503022208131___servilleta-bosque-verde-con-400-piezas.webp"
+    },
+    {
+      "name": "7503022208155___higiénico-bosque-verde-4-rollos-de-1000-hojas",
+      "file": "7503022208155___higiénico-bosque-verde-4-rollos-de-1000-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7503022208155___higiénico-bosque-verde-4-rollos-de-1000-hojas.webp"
+    },
+    {
+      "name": "7503026029060___lustrador-pledge-maderas-original-275-ml",
+      "file": "7503026029060___lustrador-pledge-maderas-original-275-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503026029060___lustrador-pledge-maderas-original-275-ml.webp"
+    },
+    {
+      "name": "7503026029091___lustrador-pledge-multisuperficies-limón-378-ml",
+      "file": "7503026029091___lustrador-pledge-multisuperficies-limón-378-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503026029091___lustrador-pledge-multisuperficies-limón-378-ml.webp"
+    },
+    {
+      "name": "7503026029152___lustrador-pledge-maderas-naranja-378-ml",
+      "file": "7503026029152___lustrador-pledge-maderas-naranja-378-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503026029152___lustrador-pledge-maderas-naranja-378-ml.webp"
+    },
+    {
+      "name": "7503035298709___limpiador-mr-musculo-baños-platinum-650-ml",
+      "file": "7503035298709___limpiador-mr-musculo-baños-platinum-650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503035298709___limpiador-mr-musculo-baños-platinum-650-ml.webp"
+    },
+    {
+      "name": "7503035298716___limpiador-mr-musculo-baños-platinum-500-ml",
+      "file": "7503035298716___limpiador-mr-musculo-baños-platinum-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503035298716___limpiador-mr-musculo-baños-platinum-500-ml.webp"
+    },
+    {
+      "name": "7503039601277___spray-neutralizador-de-olores-cevre-frutos-rojos-350-ml",
+      "file": "7503039601277___spray-neutralizador-de-olores-cevre-frutos-rojos-350-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503039601277___spray-neutralizador-de-olores-cevre-frutos-rojos-350-ml.webp"
+    },
+    {
+      "name": "7503039601284___spray-neutralizador-de-olores-cevre-cherry-blossom-350-ml",
+      "file": "7503039601284___spray-neutralizador-de-olores-cevre-cherry-blossom-350-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503039601284___spray-neutralizador-de-olores-cevre-cherry-blossom-350-ml.webp"
+    },
+    {
+      "name": "7503039601369___aromatizante-cevre-frutos-rojos-5-ml",
+      "file": "7503039601369___aromatizante-cevre-frutos-rojos-5-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503039601369___aromatizante-cevre-frutos-rojos-5-ml.webp"
+    },
+    {
+      "name": "7503039601376___aromatizante-cevre-melón-bambú-5-ml",
+      "file": "7503039601376___aromatizante-cevre-melón-bambú-5-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503039601376___aromatizante-cevre-melón-bambú-5-ml.webp"
+    },
+    {
+      "name": "7503039601390___aromatizante-cevre-granada-azahar-5-ml",
+      "file": "7503039601390___aromatizante-cevre-granada-azahar-5-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7503039601390___aromatizante-cevre-granada-azahar-5-ml.webp"
+    },
+    {
+      "name": "7503040863077___veladora-aramo-luz-ecológica-limón-sacramento-pieza",
+      "file": "7503040863077___veladora-aramo-luz-ecológica-limón-sacramento-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7503040863077___veladora-aramo-luz-ecológica-limón-sacramento-pieza.webp"
+    },
+    {
+      "name": "7503040863237___veladora-aramluz-vidrio-tequilero-muertos",
+      "file": "7503040863237___veladora-aramluz-vidrio-tequilero-muertos.webp",
+      "path": "limpieza_y_mascotas/opt/7503040863237___veladora-aramluz-vidrio-tequilero-muertos.webp"
+    },
+    {
+      "name": "7503040863893___veladora-aramo-vidrio-cubero-largo-virgen-de-guadalupe-san-judas-pieza",
+      "file": "7503040863893___veladora-aramo-vidrio-cubero-largo-virgen-de-guadalupe-san-judas-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7503040863893___veladora-aramo-vidrio-cubero-largo-virgen-de-guadalupe-san-judas-pieza.webp"
+    },
+    {
+      "name": "7503048973143___veladora-aramluz-refacción-#-4-divino-cristo",
+      "file": "7503048973143___veladora-aramluz-refacción-#-4-divino-cristo.webp",
+      "path": "limpieza_y_mascotas/opt/7503048973143___veladora-aramluz-refacción-#-4-divino-cristo.webp"
+    },
+    {
+      "name": "7503048973198___veladora-aramo-refacción-número-13-muertos-pieza",
+      "file": "7503048973198___veladora-aramo-refacción-número-13-muertos-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7503048973198___veladora-aramo-refacción-número-13-muertos-pieza.webp"
+    },
+    {
+      "name": "7503048973297___veladora-eco-vidrio-limonero-muertos",
+      "file": "7503048973297___veladora-eco-vidrio-limonero-muertos.webp",
+      "path": "limpieza_y_mascotas/opt/7503048973297___veladora-eco-vidrio-limonero-muertos.webp"
+    },
+    {
+      "name": "7503048973440___veladora-trenzado-mini-aramluz",
+      "file": "7503048973440___veladora-trenzado-mini-aramluz.webp",
+      "path": "limpieza_y_mascotas/opt/7503048973440___veladora-trenzado-mini-aramluz.webp"
+    },
+    {
+      "name": "7503048973457___veladora-trenzado-grande-aramluz",
+      "file": "7503048973457___veladora-trenzado-grande-aramluz.webp",
+      "path": "limpieza_y_mascotas/opt/7503048973457___veladora-trenzado-grande-aramluz.webp"
+    },
+    {
+      "name": "7506174513382___alimento-para-gatos-whiskas-gatitos-res-1.4-k",
+      "file": "7506174513382___alimento-para-gatos-whiskas-gatitos-res-1.4-k.webp",
+      "path": "limpieza_y_mascotas/opt/7506174513382___alimento-para-gatos-whiskas-gatitos-res-1.4-k.webp"
+    },
+    {
+      "name": "7506174514440___alimento-para-perro-adulto-pal-todas-las-razas-20-kg",
+      "file": "7506174514440___alimento-para-perro-adulto-pal-todas-las-razas-20-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7506174514440___alimento-para-perro-adulto-pal-todas-las-razas-20-kg.webp"
+    },
+    {
+      "name": "7506174514693___alimento-para-perro-adulto-pal-todas-las-razas-500-g",
+      "file": "7506174514693___alimento-para-perro-adulto-pal-todas-las-razas-500-g.webp",
+      "path": "limpieza_y_mascotas/opt/7506174514693___alimento-para-perro-adulto-pal-todas-las-razas-500-g.webp"
+    },
+    {
+      "name": "7506174514747___pedigree-alimento-seco-para-cachorros-de-todos-los-tamaños-420-g",
+      "file": "7506174514747___pedigree-alimento-seco-para-cachorros-de-todos-los-tamaños-420-g.webp",
+      "path": "limpieza_y_mascotas/opt/7506174514747___pedigree-alimento-seco-para-cachorros-de-todos-los-tamaños-420-g.webp"
+    },
+    {
+      "name": "7506174514761___pedigree-alimento-seco-para-perro-adulto-razas-pequeñas-420-g",
+      "file": "7506174514761___pedigree-alimento-seco-para-perro-adulto-razas-pequeñas-420-g.webp",
+      "path": "limpieza_y_mascotas/opt/7506174514761___pedigree-alimento-seco-para-perro-adulto-razas-pequeñas-420-g.webp"
+    },
+    {
+      "name": "7506174515027___alimento-para-gato-kitekat-ad-carne-y-pollo-1300-g",
+      "file": "7506174515027___alimento-para-gato-kitekat-ad-carne-y-pollo-1300-g.webp",
+      "path": "limpieza_y_mascotas/opt/7506174515027___alimento-para-gato-kitekat-ad-carne-y-pollo-1300-g.webp"
+    },
+    {
+      "name": "7506174515218___alimento-para-perro-pedigree-biscrock-adulto-100-g",
+      "file": "7506174515218___alimento-para-perro-pedigree-biscrock-adulto-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7506174515218___alimento-para-perro-pedigree-biscrock-adulto-100-g.webp"
+    },
+    {
+      "name": "7506174515225___alimento-para-perro-pedigree-biscrock-razas-pequeñas-100-g",
+      "file": "7506174515225___alimento-para-perro-pedigree-biscrock-razas-pequeñas-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7506174515225___alimento-para-perro-pedigree-biscrock-razas-pequeñas-100-g.webp"
+    },
+    {
+      "name": "7506174515232___alimento-para-perro-pedigree-biscrock-puppy-100-g",
+      "file": "7506174515232___alimento-para-perro-pedigree-biscrock-puppy-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7506174515232___alimento-para-perro-pedigree-biscrock-puppy-100-g.webp"
+    },
+    {
+      "name": "7506174516130___alimento-para-perro-pedigree-adulto-20-kg",
+      "file": "7506174516130___alimento-para-perro-pedigree-adulto-20-kg.webp",
+      "path": "limpieza_y_mascotas/opt/7506174516130___alimento-para-perro-pedigree-adulto-20-kg.webp"
+    },
+    {
+      "name": "7506174516147___alimento-para-perro-pedigree-pancita-saludable-salmón-100-g",
+      "file": "7506174516147___alimento-para-perro-pedigree-pancita-saludable-salmón-100-g.webp",
+      "path": "limpieza_y_mascotas/opt/7506174516147___alimento-para-perro-pedigree-pancita-saludable-salmón-100-g.webp"
+    },
+    {
+      "name": "7506245103702___dog-bowl-c-hogar-doble-3702-pieza",
+      "file": "7506245103702___dog-bowl-c-hogar-doble-3702-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7506245103702___dog-bowl-c-hogar-doble-3702-pieza.webp"
+    },
+    {
+      "name": "7506245103719___dog-bowl-chato-pieza",
+      "file": "7506245103719___dog-bowl-chato-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/7506245103719___dog-bowl-chato-pieza.webp"
+    },
+    {
+      "name": "7506425618347___higiénico-suavel-6-rollos-de-300-hojas-dobles",
+      "file": "7506425618347___higiénico-suavel-6-rollos-de-300-hojas-dobles.webp",
+      "path": "limpieza_y_mascotas/opt/7506425618347___higiénico-suavel-6-rollos-de-300-hojas-dobles.webp"
+    },
+    {
+      "name": "7506425618385___higiénico-vogue-manzanilla-6-rollos-con-600-hojas-dobles",
+      "file": "7506425618385___higiénico-vogue-manzanilla-6-rollos-con-600-hojas-dobles.webp",
+      "path": "limpieza_y_mascotas/opt/7506425618385___higiénico-vogue-manzanilla-6-rollos-con-600-hojas-dobles.webp"
+    },
+    {
+      "name": "7506425622016___kleenex-cottonel-elegance-con-4-rollos",
+      "file": "7506425622016___kleenex-cottonel-elegance-con-4-rollos.webp",
+      "path": "limpieza_y_mascotas/opt/7506425622016___kleenex-cottonel-elegance-con-4-rollos.webp"
+    },
+    {
+      "name": "7506425624805___servilleta-pétalo-blanca-con-125-piezas",
+      "file": "7506425624805___servilleta-pétalo-blanca-con-125-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7506425624805___servilleta-pétalo-blanca-con-125-piezas.webp"
+    },
+    {
+      "name": "7506425627653___servitoalla-petalo-multicorte-160-hojas",
+      "file": "7506425627653___servitoalla-petalo-multicorte-160-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7506425627653___servitoalla-petalo-multicorte-160-hojas.webp"
+    },
+    {
+      "name": "7506425633555___higienico-petalo-ultra-resistente-4-rollos-de-377-hojas-más-2-rollos",
+      "file": "7506425633555___higienico-petalo-ultra-resistente-4-rollos-de-377-hojas-más-2-rollos.webp",
+      "path": "limpieza_y_mascotas/opt/7506425633555___higienico-petalo-ultra-resistente-4-rollos-de-377-hojas-más-2-rollos.webp"
+    },
+    {
+      "name": "7506425645435___servitoalla-pétalo-quick-clean-140-hd",
+      "file": "7506425645435___servitoalla-pétalo-quick-clean-140-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7506425645435___servitoalla-pétalo-quick-clean-140-hd.webp"
+    },
+    {
+      "name": "7506425645466___higiénico-suavel-4-rollos-325-hojas-dobles",
+      "file": "7506425645466___higiénico-suavel-4-rollos-325-hojas-dobles.webp",
+      "path": "limpieza_y_mascotas/opt/7506425645466___higiénico-suavel-4-rollos-325-hojas-dobles.webp"
+    },
+    {
+      "name": "7506425648436___higienico-kleenex-cottonelle-elegance-xl-32-rollos-de-228-hd",
+      "file": "7506425648436___higienico-kleenex-cottonelle-elegance-xl-32-rollos-de-228-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7506425648436___higienico-kleenex-cottonelle-elegance-xl-32-rollos-de-228-hd.webp"
+    },
+    {
+      "name": "7506425649495.jpg___servitoalla-petalo-jumbo-230-hd",
+      "file": "7506425649495.jpg___servitoalla-petalo-jumbo-230-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7506425649495.jpg___servitoalla-petalo-jumbo-230-hd.webp"
+    },
+    {
+      "name": "7506425649693___higienico-suavel-40-rollos-180-hd",
+      "file": "7506425649693___higienico-suavel-40-rollos-180-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7506425649693___higienico-suavel-40-rollos-180-hd.webp"
+    },
+    {
+      "name": "7506425650316___servilletas-fancy-resistente-con-400-servilletas",
+      "file": "7506425650316___servilletas-fancy-resistente-con-400-servilletas.webp",
+      "path": "limpieza_y_mascotas/opt/7506425650316___servilletas-fancy-resistente-con-400-servilletas.webp"
+    },
+    {
+      "name": "7506425651092___higiénico-pétalo-rendimax-16-rollos-de-300-hd",
+      "file": "7506425651092___higiénico-pétalo-rendimax-16-rollos-de-300-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7506425651092___higiénico-pétalo-rendimax-16-rollos-de-300-hd.webp"
+    },
+    {
+      "name": "7506425654758___higiénico-pétalo-ultra-resist-con-6-rollos-de-600-hd",
+      "file": "7506425654758___higiénico-pétalo-ultra-resist-con-6-rollos-de-600-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7506425654758___higiénico-pétalo-ultra-resist-con-6-rollos-de-600-hd.webp"
+    },
+    {
+      "name": "7506425657438___higiénico-kleenex-cottonelle-extra-comfort-6-rollos-150-h",
+      "file": "7506425657438___higiénico-kleenex-cottonelle-extra-comfort-6-rollos-150-h.webp",
+      "path": "limpieza_y_mascotas/opt/7506425657438___higiénico-kleenex-cottonelle-extra-comfort-6-rollos-150-h.webp"
+    },
+    {
+      "name": "7506425657445___higiénico-kleenex-cottonelle-extra-comfort-con-18-rollos-de-150-hojas-triples",
+      "file": "7506425657445___higiénico-kleenex-cottonelle-extra-comfort-con-18-rollos-de-150-hojas-triples.webp",
+      "path": "limpieza_y_mascotas/opt/7506425657445___higiénico-kleenex-cottonelle-extra-comfort-con-18-rollos-de-150-hojas-triples.webp"
+    },
+    {
+      "name": "7506425657506___servitoalla-pétalo-compact-clean-200-hojas",
+      "file": "7506425657506___servitoalla-pétalo-compact-clean-200-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7506425657506___servitoalla-pétalo-compact-clean-200-hojas.webp"
+    },
+    {
+      "name": "7506425657520.jpg___servitoalla-pétalo-húmeda-desengrasante-50-hojas",
+      "file": "7506425657520.jpg___servitoalla-pétalo-húmeda-desengrasante-50-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7506425657520.jpg___servitoalla-pétalo-húmeda-desengrasante-50-hojas.webp"
+    },
+    {
+      "name": "7506425658763___higiénico-kleenex-100-años-con-4-rollos-de-215-hd",
+      "file": "7506425658763___higiénico-kleenex-100-años-con-4-rollos-de-215-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7506425658763___higiénico-kleenex-100-años-con-4-rollos-de-215-hd.webp"
+    },
+    {
+      "name": "7506425660698.jpg___higiénico-kleenex-cottonelle-extra-comfort-4-rollos-150-hojas-triples",
+      "file": "7506425660698.jpg___higiénico-kleenex-cottonelle-extra-comfort-4-rollos-150-hojas-triples.webp",
+      "path": "limpieza_y_mascotas/opt/7506425660698.jpg___higiénico-kleenex-cottonelle-extra-comfort-4-rollos-150-hojas-triples.webp"
+    },
+    {
+      "name": "7506425660810___higiénico-suavel-alegria-floral-4-rollos-de-350-hd",
+      "file": "7506425660810___higiénico-suavel-alegria-floral-4-rollos-de-350-hd.webp",
+      "path": "limpieza_y_mascotas/opt/7506425660810___higiénico-suavel-alegria-floral-4-rollos-de-350-hd.webp"
+    },
+    {
+      "name": "7506425662012___servilleta-delsey-con-500-piezas",
+      "file": "7506425662012___servilleta-delsey-con-500-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7506425662012___servilleta-delsey-con-500-piezas.webp"
+    },
+    {
+      "name": "75078898___detergente-axion-líquido-limón-220-ml",
+      "file": "75078898___detergente-axion-líquido-limón-220-ml.webp",
+      "path": "limpieza_y_mascotas/opt/75078898___detergente-axion-líquido-limón-220-ml.webp"
+    },
+    {
+      "name": "7509546059501___suavizante-suavitel-aroma-de-sol-3-l",
+      "file": "7509546059501___suavizante-suavitel-aroma-de-sol-3-l.webp",
+      "path": "limpieza_y_mascotas/opt/7509546059501___suavizante-suavitel-aroma-de-sol-3-l.webp"
+    },
+    {
+      "name": "7509546080680___suavizante-suavitel-aqua-2800-ml",
+      "file": "7509546080680___suavizante-suavitel-aqua-2800-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546080680___suavizante-suavitel-aqua-2800-ml.webp"
+    },
+    {
+      "name": "7509546657981___lavatrastes-axion-bicarbonato-y-limón-líquido-1.4-l",
+      "file": "7509546657981___lavatrastes-axion-bicarbonato-y-limón-líquido-1.4-l.webp",
+      "path": "limpieza_y_mascotas/opt/7509546657981___lavatrastes-axion-bicarbonato-y-limón-líquido-1.4-l.webp"
+    },
+    {
+      "name": "7509546663357___lavatrastes-líquido-axion-limón-640-ml",
+      "file": "7509546663357___lavatrastes-líquido-axion-limón-640-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546663357___lavatrastes-líquido-axion-limón-640-ml.webp"
+    },
+    {
+      "name": "7509546677880___detergente-axion-líquido-xtreme-640-ml",
+      "file": "7509546677880___detergente-axion-líquido-xtreme-640-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546677880___detergente-axion-líquido-xtreme-640-ml.webp"
+    },
+    {
+      "name": "7509546678306___limpiador-fabuloso-lavanda-1400-ml",
+      "file": "7509546678306___limpiador-fabuloso-lavanda-1400-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546678306___limpiador-fabuloso-lavanda-1400-ml.webp"
+    },
+    {
+      "name": "7509546680118___suavizante-suavitel-complete-anochecer-700-ml",
+      "file": "7509546680118___suavizante-suavitel-complete-anochecer-700-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546680118___suavizante-suavitel-complete-anochecer-700-ml.webp"
+    },
+    {
+      "name": "7509546680132___suavizante-de-telas-suavitel-complete-fresca-primavera-700-ml",
+      "file": "7509546680132___suavizante-de-telas-suavitel-complete-fresca-primavera-700-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546680132___suavizante-de-telas-suavitel-complete-fresca-primavera-700-ml.webp"
+    },
+    {
+      "name": "7509546680156___suavizante-de-telas-suavitel-complete-acqua-700-ml",
+      "file": "7509546680156___suavizante-de-telas-suavitel-complete-acqua-700-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546680156___suavizante-de-telas-suavitel-complete-acqua-700-ml.webp"
+    },
+    {
+      "name": "7509546680163___suavizante-de-telas-suavitel-fresco-aroma-de-sol-700-ml",
+      "file": "7509546680163___suavizante-de-telas-suavitel-fresco-aroma-de-sol-700-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546680163___suavizante-de-telas-suavitel-fresco-aroma-de-sol-700-ml.webp"
+    },
+    {
+      "name": "7509546687179___suavizante-suavitel-cuidado-supremo-manzana-740-ml",
+      "file": "7509546687179___suavizante-suavitel-cuidado-supremo-manzana-740-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546687179___suavizante-suavitel-cuidado-supremo-manzana-740-ml.webp"
+    },
+    {
+      "name": "7509546689487.jpg___suavizante-suavitel-momentos-mágicos-abrazo-de-amor-650-ml",
+      "file": "7509546689487.jpg___suavizante-suavitel-momentos-mágicos-abrazo-de-amor-650-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546689487.jpg___suavizante-suavitel-momentos-mágicos-abrazo-de-amor-650-ml.webp"
+    },
+    {
+      "name": "7509546694504___limpiador-fabuloso-brisa-primavera-1000-ml",
+      "file": "7509546694504___limpiador-fabuloso-brisa-primavera-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7509546694504___limpiador-fabuloso-brisa-primavera-1000-ml.webp"
+    },
+    {
+      "name": "752216085073___cuchara-jaguar-sopera-25-piezas",
+      "file": "752216085073___cuchara-jaguar-sopera-25-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/752216085073___cuchara-jaguar-sopera-25-piezas.webp"
+    },
+    {
+      "name": "752216085134___charola-jaguar-número-855-ps-reciclado-50-piezas",
+      "file": "752216085134___charola-jaguar-número-855-ps-reciclado-50-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/752216085134___charola-jaguar-número-855-ps-reciclado-50-piezas.webp"
+    },
+    {
+      "name": "752216085363___charola-jaguar-número-66-ps-reciclado-50-piezas",
+      "file": "752216085363___charola-jaguar-número-66-ps-reciclado-50-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/752216085363___charola-jaguar-número-66-ps-reciclado-50-piezas.webp"
+    },
+    {
+      "name": "752216092323___charola-jaguar-hamburguesa-6x6-con-125-piezas",
+      "file": "752216092323___charola-jaguar-hamburguesa-6x6-con-125-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/752216092323___charola-jaguar-hamburguesa-6x6-con-125-piezas.webp"
+    },
+    {
+      "name": "752216095188___charola-jaguar-número-835-térmica-50-con-piezas",
+      "file": "752216095188___charola-jaguar-número-835-térmica-50-con-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/752216095188___charola-jaguar-número-835-térmica-50-con-piezas.webp"
+    },
+    {
+      "name": "752216095713___tenedor-jaguar-jumbo-25-piezas",
+      "file": "752216095713___tenedor-jaguar-jumbo-25-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/752216095713___tenedor-jaguar-jumbo-25-piezas.webp"
+    },
+    {
+      "name": "752216096031___charola-jaguar-almeja-8x8-lisa-50-piezas",
+      "file": "752216096031___charola-jaguar-almeja-8x8-lisa-50-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/752216096031___charola-jaguar-almeja-8x8-lisa-50-piezas.webp"
+    },
+    {
+      "name": "752216096048___charola-jaguar-almeja5-8x8-con-3-divisiones-50-piezas",
+      "file": "752216096048___charola-jaguar-almeja5-8x8-con-3-divisiones-50-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/752216096048___charola-jaguar-almeja5-8x8-con-3-divisiones-50-piezas.webp"
+    },
+    {
+      "name": "7591005574007___repelente-raidolitos-verde-10-piezas",
+      "file": "7591005574007___repelente-raidolitos-verde-10-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7591005574007___repelente-raidolitos-verde-10-piezas.webp"
+    },
+    {
+      "name": "7591005574014___repelente-raidolitos-lavanda-con-10-piezas",
+      "file": "7591005574014___repelente-raidolitos-lavanda-con-10-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/7591005574014___repelente-raidolitos-lavanda-con-10-piezas.webp"
+    },
+    {
+      "name": "7591005994324___aromatizante-ambiental-glade-toque-campos-de-lavanda-aparato-y-repuesto-de-9-g",
+      "file": "7591005994324___aromatizante-ambiental-glade-toque-campos-de-lavanda-aparato-y-repuesto-de-9-g.webp",
+      "path": "limpieza_y_mascotas/opt/7591005994324___aromatizante-ambiental-glade-toque-campos-de-lavanda-aparato-y-repuesto-de-9-g.webp"
+    },
+    {
+      "name": "7702111299917___cuaderno-norma-uno-profesional-cuadro-5-con-100-hojas",
+      "file": "7702111299917___cuaderno-norma-uno-profesional-cuadro-5-con-100-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/7702111299917___cuaderno-norma-uno-profesional-cuadro-5-con-100-hojas.webp"
+    },
+    {
+      "name": "7706800227007___limpiador-mr-musculo-antihongos-tr-500-ml",
+      "file": "7706800227007___limpiador-mr-musculo-antihongos-tr-500-ml.webp",
+      "path": "limpieza_y_mascotas/opt/7706800227007___limpiador-mr-musculo-antihongos-tr-500-ml.webp"
+    },
+    {
+      "name": "823703160389___tender-higiénico-con-32-rollos-de-200-hojas",
+      "file": "823703160389___tender-higiénico-con-32-rollos-de-200-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/823703160389___tender-higiénico-con-32-rollos-de-200-hojas.webp"
+    },
+    {
+      "name": "823703170159___lampara-led-enerplus-11w-luz-fria",
+      "file": "823703170159___lampara-led-enerplus-11w-luz-fria.webp",
+      "path": "limpieza_y_mascotas/opt/823703170159___lampara-led-enerplus-11w-luz-fria.webp"
+    },
+    {
+      "name": "823703180202___veladora-santuario-esmeralda-#-1",
+      "file": "823703180202___veladora-santuario-esmeralda-#-1.webp",
+      "path": "limpieza_y_mascotas/opt/823703180202___veladora-santuario-esmeralda-#-1.webp"
+    },
+    {
+      "name": "823703180219___veladora-santuario-esmeralda-#-3",
+      "file": "823703180219___veladora-santuario-esmeralda-#-3.webp",
+      "path": "limpieza_y_mascotas/opt/823703180219___veladora-santuario-esmeralda-#-3.webp"
+    },
+    {
+      "name": "823703300044___limpiador-maxi-hogar-pino-1000-ml",
+      "file": "823703300044___limpiador-maxi-hogar-pino-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/823703300044___limpiador-maxi-hogar-pino-1000-ml.webp"
+    },
+    {
+      "name": "823703300051___limpiador-maxi-hogar-limon-2000-ml",
+      "file": "823703300051___limpiador-maxi-hogar-limon-2000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/823703300051___limpiador-maxi-hogar-limon-2000-ml.webp"
+    },
+    {
+      "name": "823703300112___limpiador-maxi-hogar-pino-5000-ml",
+      "file": "823703300112___limpiador-maxi-hogar-pino-5000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/823703300112___limpiador-maxi-hogar-pino-5000-ml.webp"
+    },
+    {
+      "name": "823703300549___desengrasante-maxi-hogar-1000-ml",
+      "file": "823703300549___desengrasante-maxi-hogar-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/823703300549___desengrasante-maxi-hogar-1000-ml.webp"
+    },
+    {
+      "name": "823703300556___limpiador-maxi-hogar-vidrios-1000-ml",
+      "file": "823703300556___limpiador-maxi-hogar-vidrios-1000-ml.webp",
+      "path": "limpieza_y_mascotas/opt/823703300556___limpiador-maxi-hogar-vidrios-1000-ml.webp"
+    },
+    {
+      "name": "823703301102___limpiador-maxi-hogar-lavanda-de-10-l",
+      "file": "823703301102___limpiador-maxi-hogar-lavanda-de-10-l.webp",
+      "path": "limpieza_y_mascotas/opt/823703301102___limpiador-maxi-hogar-lavanda-de-10-l.webp"
+    },
+    {
+      "name": "823703301119___suavizante-maxi-hogar-aroma-primaveral-10-l",
+      "file": "823703301119___suavizante-maxi-hogar-aroma-primaveral-10-l.webp",
+      "path": "limpieza_y_mascotas/opt/823703301119___suavizante-maxi-hogar-aroma-primaveral-10-l.webp"
+    },
+    {
+      "name": "823703400140___alimento-para-perro-krocan-económico-24-k",
+      "file": "823703400140___alimento-para-perro-krocan-económico-24-k.webp",
+      "path": "limpieza_y_mascotas/opt/823703400140___alimento-para-perro-krocan-económico-24-k.webp"
+    },
+    {
+      "name": "823703400201___arena-para-gato-bishito-3-kg",
+      "file": "823703400201___arena-para-gato-bishito-3-kg.webp",
+      "path": "limpieza_y_mascotas/opt/823703400201___arena-para-gato-bishito-3-kg.webp"
+    },
+    {
+      "name": "823703800155___aluminio-máxima-modelo-50",
+      "file": "823703800155___aluminio-máxima-modelo-50.webp",
+      "path": "limpieza_y_mascotas/opt/823703800155___aluminio-máxima-modelo-50.webp"
+    },
+    {
+      "name": "823703800476___servilleta-máxima-cuadrada-250-piezas",
+      "file": "823703800476___servilleta-máxima-cuadrada-250-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/823703800476___servilleta-máxima-cuadrada-250-piezas.webp"
+    },
+    {
+      "name": "823703801879___higiénico-maxima-almendra-4-rollo-con-400-hojas-dobles",
+      "file": "823703801879___higiénico-maxima-almendra-4-rollo-con-400-hojas-dobles.webp",
+      "path": "limpieza_y_mascotas/opt/823703801879___higiénico-maxima-almendra-4-rollo-con-400-hojas-dobles.webp"
+    },
+    {
+      "name": "823703801930___aluminio-máxima-modelo-400-pieza",
+      "file": "823703801930___aluminio-máxima-modelo-400-pieza.webp",
+      "path": "limpieza_y_mascotas/opt/823703801930___aluminio-máxima-modelo-400-pieza.webp"
+    },
+    {
+      "name": "823703802104___detergente-líquido-máxima-ropa-a-color-7-l",
+      "file": "823703802104___detergente-líquido-máxima-ropa-a-color-7-l.webp",
+      "path": "limpieza_y_mascotas/opt/823703802104___detergente-líquido-máxima-ropa-a-color-7-l.webp"
+    },
+    {
+      "name": "823703802777___servilletas-máxima-rectangular-ecológica-400-piezas",
+      "file": "823703802777___servilletas-máxima-rectangular-ecológica-400-piezas.webp",
+      "path": "limpieza_y_mascotas/opt/823703802777___servilletas-máxima-rectangular-ecológica-400-piezas.webp"
+    },
+    {
+      "name": "823703802784___higiénico-máxima-ecológico-4-rollos-de-375-hojas-dobles",
+      "file": "823703802784___higiénico-máxima-ecológico-4-rollos-de-375-hojas-dobles.webp",
+      "path": "limpieza_y_mascotas/opt/823703802784___higiénico-máxima-ecológico-4-rollos-de-375-hojas-dobles.webp"
+    },
+    {
+      "name": "823703802845___aluminio-máxima-precortado-con-150-hojas",
+      "file": "823703802845___aluminio-máxima-precortado-con-150-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/823703802845___aluminio-máxima-precortado-con-150-hojas.webp"
+    },
+    {
+      "name": "823703802852___toalla-maxima-cocina-2-pz-con-80-hojas",
+      "file": "823703802852___toalla-maxima-cocina-2-pz-con-80-hojas.webp",
+      "path": "limpieza_y_mascotas/opt/823703802852___toalla-maxima-cocina-2-pz-con-80-hojas.webp"
+    },
+    {
+      "name": "823703803217___higiénico-máxima-colors-4-rollos-de-400-hd",
+      "file": "823703803217___higiénico-máxima-colors-4-rollos-de-400-hd.webp",
+      "path": "limpieza_y_mascotas/opt/823703803217___higiénico-máxima-colors-4-rollos-de-400-hd.webp"
+    },
+    {
+      "name": "999479___croqueta-cat-chow-de-pescado-y-mar-kilo",
+      "file": "999479___croqueta-cat-chow-de-pescado-y-mar-kilo.webp",
+      "path": "limpieza_y_mascotas/opt/999479___croqueta-cat-chow-de-pescado-y-mar-kilo.webp"
+    }
+  ]
+}
