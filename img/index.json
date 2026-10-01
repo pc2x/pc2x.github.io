@@ -17,10 +17,10 @@
       "imageCount": 211
     },
     {
-      "name": "canes_y_pescados",
-      "path": "canes_y_pescados",
-      "optPath": "canes_y_pescados/opt",
-      "indexPath": "canes_y_pescados/opt/index.json",
+      "name": "carnes_y_pescados",
+      "path": "carnes_y_pescados",
+      "optPath": "carnes_y_pescados/opt",
+      "indexPath": "carnes_y_pescados/opt/index.json",
       "imageCount": 54
     },
     {
