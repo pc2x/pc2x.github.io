@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T01:56:14Z",
+  "generatedAt": "2026-10-08T02:41:38Z",
   "folder": "comidas",
-  "count": 635,
+  "count": 663,
   "images": [
     {
       "name": "affogato cafe",
@@ -67,6 +67,11 @@
       "name": "aguachile verde",
       "file": "aguachile verde.webp",
       "path": "comidas/opt/aguachile verde.webp"
+    },
+    {
+      "name": "alita",
+      "file": "alita.webp",
+      "path": "comidas/opt/alita.webp"
     },
     {
       "name": "alitas bbq",
@@ -194,6 +199,11 @@
       "path": "comidas/opt/arroz vietnami.webp"
     },
     {
+      "name": "avocado toast",
+      "file": "avocado toast.webp",
+      "path": "comidas/opt/avocado toast.webp"
+    },
+    {
       "name": "azulito",
       "file": "azulito.webp",
       "path": "comidas/opt/azulito.webp"
@@ -232,6 +242,11 @@
       "name": "baguette",
       "file": "baguette.webp",
       "path": "comidas/opt/baguette.webp"
+    },
+    {
+      "name": "baguettes",
+      "file": "baguettes.webp",
+      "path": "comidas/opt/baguettes.webp"
     },
     {
       "name": "banderillas coreanas",
@@ -292,6 +307,11 @@
       "name": "boneless parmesano",
       "file": "boneless parmesano.webp",
       "path": "comidas/opt/boneless parmesano.webp"
+    },
+    {
+      "name": "boneless",
+      "file": "boneless.webp",
+      "path": "comidas/opt/boneless.webp"
     },
     {
       "name": "botella de agua 1 litro",
@@ -382,6 +402,11 @@
       "name": "cafe expresso",
       "file": "cafe expresso.webp",
       "path": "comidas/opt/cafe expresso.webp"
+    },
+    {
+      "name": "cafe frio 2",
+      "file": "cafe frio 2.webp",
+      "path": "comidas/opt/cafe frio 2.webp"
     },
     {
       "name": "cafe frio",
@@ -554,6 +579,11 @@
       "path": "comidas/opt/carajillo.webp"
     },
     {
+      "name": "caramel macchiato",
+      "file": "caramel macchiato.webp",
+      "path": "comidas/opt/caramel macchiato.webp"
+    },
+    {
       "name": "caribean burguer",
       "file": "caribean burguer.webp",
       "path": "comidas/opt/caribean burguer.webp"
@@ -572,6 +602,11 @@
       "name": "cecina con guacamole",
       "file": "cecina con guacamole.webp",
       "path": "comidas/opt/cecina con guacamole.webp"
+    },
+    {
+      "name": "cecina encebollada",
+      "file": "cecina encebollada.webp",
+      "path": "comidas/opt/cecina encebollada.webp"
     },
     {
       "name": "cerry soda",
@@ -1029,6 +1064,11 @@
       "path": "comidas/opt/curry mixto.webp"
     },
     {
+      "name": "dalgona",
+      "file": "dalgona.webp",
+      "path": "comidas/opt/dalgona.webp"
+    },
+    {
       "name": "dedos de queso",
       "file": "dedos de queso.webp",
       "path": "comidas/opt/dedos de queso.webp"
@@ -1064,9 +1104,29 @@
       "path": "comidas/opt/desayuno familiar.webp"
     },
     {
+      "name": "desayuno frances",
+      "file": "desayuno frances.webp",
+      "path": "comidas/opt/desayuno frances.webp"
+    },
+    {
+      "name": "desayuno ingles",
+      "file": "desayuno ingles.webp",
+      "path": "comidas/opt/desayuno ingles.webp"
+    },
+    {
       "name": "desayuno la canoa",
       "file": "desayuno la canoa.webp",
       "path": "comidas/opt/desayuno la canoa.webp"
+    },
+    {
+      "name": "desayuno mexicano",
+      "file": "desayuno mexicano.webp",
+      "path": "comidas/opt/desayuno mexicano.webp"
+    },
+    {
+      "name": "desayuno venezolano",
+      "file": "desayuno venezolano.webp",
+      "path": "comidas/opt/desayuno venezolano.webp"
     },
     {
       "name": "descorche",
@@ -1149,9 +1209,19 @@
       "path": "comidas/opt/enchiladas jitomate.webp"
     },
     {
+      "name": "enchiladas poblanas 2",
+      "file": "enchiladas poblanas 2.webp",
+      "path": "comidas/opt/enchiladas poblanas 2.webp"
+    },
+    {
       "name": "enchiladas poblanas",
       "file": "enchiladas poblanas.webp",
       "path": "comidas/opt/enchiladas poblanas.webp"
+    },
+    {
+      "name": "enchiladas rojas",
+      "file": "enchiladas rojas.webp",
+      "path": "comidas/opt/enchiladas rojas.webp"
     },
     {
       "name": "enchiladas suizas",
@@ -1224,6 +1294,11 @@
       "path": "comidas/opt/ensalada rusa.webp"
     },
     {
+      "name": "ensalada",
+      "file": "ensalada.webp",
+      "path": "comidas/opt/ensalada.webp"
+    },
+    {
       "name": "extra de huevo",
       "file": "extra de huevo.webp",
       "path": "comidas/opt/extra de huevo.webp"
@@ -1257,6 +1332,11 @@
       "name": "extra pollo empanizado",
       "file": "extra pollo empanizado.webp",
       "path": "comidas/opt/extra pollo empanizado.webp"
+    },
+    {
+      "name": "extra ranch",
+      "file": "extra ranch.webp",
+      "path": "comidas/opt/extra ranch.webp"
     },
     {
       "name": "fajitas de arrachera",
@@ -1307,6 +1387,11 @@
       "name": "fortachon",
       "file": "fortachon.webp",
       "path": "comidas/opt/fortachon.webp"
+    },
+    {
+      "name": "frappe cafe",
+      "file": "frappe cafe.webp",
+      "path": "comidas/opt/frappe cafe.webp"
     },
     {
       "name": "frappe",
@@ -1472,6 +1557,11 @@
       "name": "huevos a la mexicana",
       "file": "huevos a la mexicana.webp",
       "path": "comidas/opt/huevos a la mexicana.webp"
+    },
+    {
+      "name": "huevos al gusto 2",
+      "file": "huevos al gusto 2.webp",
+      "path": "comidas/opt/huevos al gusto 2.webp"
     },
     {
       "name": "huevos al gusto",
@@ -1694,6 +1784,11 @@
       "path": "comidas/opt/lasaña.webp"
     },
     {
+      "name": "latte",
+      "file": "latte.webp",
+      "path": "comidas/opt/latte.webp"
+    },
+    {
       "name": "licuado de avena",
       "file": "licuado de avena.webp",
       "path": "comidas/opt/licuado de avena.webp"
@@ -1819,6 +1914,11 @@
       "path": "comidas/opt/michelato.webp"
     },
     {
+      "name": "milanesa empanizada",
+      "file": "milanesa empanizada.webp",
+      "path": "comidas/opt/milanesa empanizada.webp"
+    },
+    {
       "name": "milanesa suiza",
       "file": "milanesa suiza.webp",
       "path": "comidas/opt/milanesa suiza.webp"
@@ -1942,6 +2042,16 @@
       "name": "Moogo gay pen con pollo",
       "file": "Moogo gay pen con pollo.webp",
       "path": "comidas/opt/Moogo gay pen con pollo.webp"
+    },
+    {
+      "name": "muffin con helado",
+      "file": "muffin con helado.webp",
+      "path": "comidas/opt/muffin con helado.webp"
+    },
+    {
+      "name": "muffin",
+      "file": "muffin.webp",
+      "path": "comidas/opt/muffin.webp"
     },
     {
       "name": "mundet 355",
@@ -2074,6 +2184,11 @@
       "path": "comidas/opt/pan hogaza con pechuga.webp"
     },
     {
+      "name": "pan",
+      "file": "pan.webp",
+      "path": "comidas/opt/pan.webp"
+    },
+    {
       "name": "pancake",
       "file": "pancake.webp",
       "path": "comidas/opt/pancake.webp"
@@ -2122,6 +2237,16 @@
       "name": "papas gajos",
       "file": "papas gajos.webp",
       "path": "comidas/opt/papas gajos.webp"
+    },
+    {
+      "name": "papas rejilla",
+      "file": "papas rejilla.webp",
+      "path": "comidas/opt/papas rejilla.webp"
+    },
+    {
+      "name": "parfait de frutas",
+      "file": "parfait de frutas.webp",
+      "path": "comidas/opt/parfait de frutas.webp"
     },
     {
       "name": "pasta alfredo con camarones",
@@ -2649,6 +2774,11 @@
       "path": "comidas/opt/salsa de ostion.webp"
     },
     {
+      "name": "salsa extra",
+      "file": "salsa extra.webp",
+      "path": "comidas/opt/salsa extra.webp"
+    },
+    {
       "name": "salsa ranch",
       "file": "salsa ranch.webp",
       "path": "comidas/opt/salsa ranch.webp"
@@ -3059,6 +3189,11 @@
       "path": "comidas/opt/tisana.webp"
     },
     {
+      "name": "toast",
+      "file": "toast.webp",
+      "path": "comidas/opt/toast.webp"
+    },
+    {
       "name": "topochico 600",
       "file": "topochico 600.webp",
       "path": "comidas/opt/topochico 600.webp"
@@ -3137,6 +3272,11 @@
       "name": "vodka con agua quina",
       "file": "vodka con agua quina.webp",
       "path": "comidas/opt/vodka con agua quina.webp"
+    },
+    {
+      "name": "waffle",
+      "file": "waffle.webp",
+      "path": "comidas/opt/waffle.webp"
     },
     {
       "name": "waffles",

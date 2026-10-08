@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:56:15Z",
+  "generatedAt": "2026-10-08T02:41:39Z",
   "count": 20,
   "folders": [
     {
@@ -35,7 +35,7 @@
       "path": "comidas",
       "optPath": "comidas/opt",
       "indexPath": "comidas/opt/index.json",
-      "imageCount": 635
+      "imageCount": 663
     },
     {
       "name": "congelados",
