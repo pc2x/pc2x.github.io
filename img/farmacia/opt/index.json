@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T05:50:41Z",
+  "generatedAt": "2026-10-08T05:55:43Z",
   "folder": "farmacia",
-  "count": 334,
+  "count": 335,
   "images": [
     {
       "name": "013117014495___ropa-interior-desechable-affective-active-talla-extra-grande-10-piezas",
@@ -1112,6 +1112,11 @@
       "name": "7501547509016___indarzona-antirreum-con-30-capsulas",
       "file": "7501547509016___indarzona-antirreum-con-30-capsulas.webp",
       "path": "farmacia/opt/7501547509016___indarzona-antirreum-con-30-capsulas.webp"
+    },
+    {
+      "name": "7501573900153__docsi_clorfenamina_4_mg_caja_con_20_tabletas",
+      "file": "7501573900153__docsi_clorfenamina_4_mg_caja_con_20_tabletas.webp",
+      "path": "farmacia/opt/7501573900153__docsi_clorfenamina_4_mg_caja_con_20_tabletas.webp"
     },
     {
       "name": "7501685170116___lub-soft-lube-original-sico-56.7-g",

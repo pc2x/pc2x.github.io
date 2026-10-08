@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T05:50:42Z",
+  "generatedAt": "2026-10-08T05:55:43Z",
   "count": 20,
   "folders": [
     {
@@ -63,7 +63,7 @@
       "path": "farmacia",
       "optPath": "farmacia/opt",
       "indexPath": "farmacia/opt/index.json",
-      "imageCount": 334
+      "imageCount": 335
     },
     {
       "name": "frutas_y_verduras",
