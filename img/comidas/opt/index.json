@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T07:20:32Z",
+  "generatedAt": "2026-10-08T01:56:14Z",
   "folder": "comidas",
-  "count": 633,
+  "count": 635,
   "images": [
     {
       "name": "affogato cafe",
@@ -2072,6 +2072,16 @@
       "name": "pan hogaza con pechuga",
       "file": "pan hogaza con pechuga.webp",
       "path": "comidas/opt/pan hogaza con pechuga.webp"
+    },
+    {
+      "name": "pancake",
+      "file": "pancake.webp",
+      "path": "comidas/opt/pancake.webp"
+    },
+    {
+      "name": "pancakes",
+      "file": "pancakes.webp",
+      "path": "comidas/opt/pancakes.webp"
     },
     {
       "name": "pantera rosa",
