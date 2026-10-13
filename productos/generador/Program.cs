@@ -7,8 +7,8 @@ using System.Text.Json;
 using System.Text.RegularExpressions;
 
 const int VersionesConservadas = 2;
+const int AvisosPorArchivo = 20;
 const string SeparadorCodigoImagen = "___";
-string[] columnasEsperadas = ["sku", "nombre", "descripcion", "precio", "categoria", "imagen_name", "pagina", "departamento_venta"];
 
 Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
@@ -24,142 +24,144 @@ var imgDir = Path.Combine(Path.GetDirectoryName(productosDir)!, "img");
 var fuenteDir = Path.Combine(productosDir, "fuente");
 var versionesDir = Path.Combine(productosDir, "v");
 
-string csvPath;
-if (args.Length > 0)
+var csvPaths = args.Length > 0
+    ? args.Select(Path.GetFullPath).ToList()
+    : Directory.Exists(fuenteDir) ? Directory.GetFiles(fuenteDir, "*.csv").ToList() : [];
+if (csvPaths.Count == 0)
 {
-    csvPath = Path.GetFullPath(args[0]);
-}
-else
-{
-    var csvs = Directory.Exists(fuenteDir) ? Directory.GetFiles(fuenteDir, "*.csv") : [];
-    if (csvs.Length != 1)
-    {
-        Console.Error.WriteLine($"Se esperaba exactamente un .csv en {fuenteDir} (hay {csvs.Length}).");
-        Console.Error.WriteLine("Uso: CatalogoProductosGenerador.exe [ruta.csv]");
-        return 1;
-    }
-    csvPath = csvs[0];
-}
-
-if (!File.Exists(csvPath))
-{
-    Console.Error.WriteLine($"No existe el CSV: {csvPath}");
+    Console.Error.WriteLine($"No hay archivos .csv en {fuenteDir}.");
+    Console.Error.WriteLine("Uso: CatalogoProductosGenerador.exe [a.csv b.csv ...]   (sin argumentos: todos los .csv de productos/fuente)");
     return 1;
 }
 
 Console.WriteLine("CatalogoProductosGenerador");
 Console.WriteLine($"Productos: {productosDir}");
-Console.WriteLine($"CSV:       {csvPath}");
 Console.WriteLine();
 
-var (texto, codificacion) = leer_texto(csvPath);
-Console.WriteLine($"Codificación detectada: {codificacion}");
-
-var filas = parsear_csv(texto);
-if (filas.Count == 0)
+var fuentes = new List<FuenteCsv>();
+foreach (var ruta in csvPaths)
 {
-    Console.Error.WriteLine("El CSV está vacío.");
-    return 1;
-}
-
-var encabezados = filas[0].Select(h => h.Trim().ToLowerInvariant()).ToArray();
-var indices = new Dictionary<string, int>();
-foreach (var columna in columnasEsperadas)
-{
-    var idx = Array.IndexOf(encabezados, columna);
-    if (idx < 0)
+    if (!File.Exists(ruta))
     {
-        Console.Error.WriteLine($"Falta la columna '{columna}' en el encabezado.");
+        Console.Error.WriteLine($"No existe el CSV: {ruta}");
         return 1;
     }
-    indices[columna] = idx;
+
+    var fuente = leer_fuente(ruta);
+    if (fuente is null)
+    {
+        return 1;
+    }
+    fuentes.Add(fuente);
 }
+
+// Gana el primer archivo que trae un código: los que tienen categoría van antes que los que no.
+fuentes = fuentes
+    .OrderByDescending(f => f.Columnas.ContainsKey("categoria"))
+    .ThenBy(f => Path.GetFileName(f.Ruta), StringComparer.OrdinalIgnoreCase)
+    .ToList();
 
 var imagenes = cargar_imagenes(imgDir);
 Console.WriteLine($"Imágenes en catálogo: {imagenes.porNombre.Count} por nombre, {imagenes.porCodigo.Count} por código");
+Console.WriteLine();
 
 var categorias = new List<string>();
 var categoriasIdx = new Dictionary<string, int>(StringComparer.Ordinal);
 var departamentos = new List<string>();
 var departamentosIdx = new Dictionary<string, int>(StringComparer.Ordinal);
 var productos = new List<Producto>();
-var vistos = new HashSet<string>(StringComparer.Ordinal);
-var descartadas = 0;
-var repetidas = 0;
-var conImagen = 0;
-var conPrecio = 0;
+var porCodigo = new Dictionary<string, int>(StringComparer.Ordinal);
 
-for (var i = 1; i < filas.Count; i++)
+foreach (var fuente in fuentes)
 {
-    var fila = filas[i];
-    if (fila.Count == 1 && string.IsNullOrWhiteSpace(fila[0]))
-    {
-        continue;
-    }
+    Console.WriteLine($"=== {Path.GetFileName(fuente.Ruta)} ({fuente.Codificacion}, separador '{fuente.Separador}', {fuente.Filas.Count - 1} filas) ===");
+    var columnas = fuente.Columnas;
+    var columnasCodigo = new[] { "upc", "sku" }.Where(columnas.ContainsKey).ToList();
+    // En el CSV de la tienda el nombre va en "nombre"; en el de retail viene en "descripcion".
+    var columnaNombre = columnas.ContainsKey("nombre") ? "nombre" : "descripcion";
+    var descartadas = 0;
+    var repetidas = 0;
+    var preciosCompletados = 0;
+    var nuevos = 0;
+    var avisos = 0;
 
-    string valor(string columna) => indices[columna] < fila.Count ? fila[indices[columna]] : string.Empty;
-
-    var codigo = normalizar_codigo(valor("sku"));
-    var nombre = formato_oracion(valor("nombre"));
-    if (codigo.Length == 0 || nombre.Length == 0)
+    void aviso(string mensaje)
     {
-        descartadas++;
-        Console.WriteLine($"  DESC línea {i + 1}: sin código o sin nombre");
-        continue;
-    }
-
-    if (!vistos.Add(codigo))
-    {
-        repetidas++;
-        Console.WriteLine($"  REP  línea {i + 1}: código {codigo} repetido (se conserva el primero)");
-        continue;
-    }
-
-    var precio = decimal.TryParse(valor("precio").Trim(), NumberStyles.Number, CultureInfo.InvariantCulture, out var p) && p > 0
-        ? Math.Round(p, 2)
-        : 0m;
-    if (precio > 0)
-    {
-        conPrecio++;
-    }
-
-    int? categoria = null;
-    var textoCategoria = formato_oracion(valor("categoria"));
-    if (textoCategoria.Length > 0)
-    {
-        if (!categoriasIdx.TryGetValue(textoCategoria, out var c))
+        if (avisos++ < AvisosPorArchivo)
         {
-            c = categorias.Count;
-            categorias.Add(textoCategoria);
-            categoriasIdx[textoCategoria] = c;
+            Console.WriteLine("  " + mensaje);
         }
-        categoria = c;
     }
 
-    int? departamento = null;
-    var textoDepartamento = espacios_simples(valor("departamento_venta"));
-    if (textoDepartamento.Length > 0)
+    for (var i = 1; i < fuente.Filas.Count; i++)
     {
-        if (!departamentosIdx.TryGetValue(textoDepartamento, out var d))
+        var fila = ajustar_columnas(fuente.Filas[i], fuente.Encabezados.Length, columnas[columnaNombre], fuente.Separador);
+        if (fila.Count == 1 && string.IsNullOrWhiteSpace(fila[0]))
         {
-            d = departamentos.Count;
-            departamentos.Add(textoDepartamento);
-            departamentosIdx[textoDepartamento] = d;
+            continue;
         }
-        departamento = d;
+
+        string valor(string columna) => columnas.TryGetValue(columna, out var idx) && idx < fila.Count ? fila[idx] : string.Empty;
+
+        var codigos = columnasCodigo
+            .Select(c => (original: valor(c), normalizado: normalizar_codigo(valor(c))))
+            .Where(c => c.normalizado.Length > 0)
+            .DistinctBy(c => c.normalizado)
+            .ToList();
+        var nombre = formato_oracion(valor(columnaNombre));
+        if (codigos.Count == 0 || nombre.Length == 0 || nombre.Equals("Sin nombre en archivo", StringComparison.OrdinalIgnoreCase))
+        {
+            descartadas++;
+            aviso($"DESC línea {i + 1}: sin código o sin nombre");
+            continue;
+        }
+
+        var precio = decimal.TryParse(valor("precio").Trim(), NumberStyles.Number, CultureInfo.InvariantCulture, out var p) && p > 0
+            ? Math.Round(p, 2)
+            : 0m;
+
+        int? categoria = indice_de(formato_oracion(valor("categoria")), categorias, categoriasIdx);
+        int? departamento = indice_de(espacios_simples(valor("departamento_venta")), departamentos, departamentosIdx);
+
+        string? imagen = null;
+        foreach (var codigo in codigos)
+        {
+            imagen ??= resolver_imagen(valor("imagen_name"), codigo.normalizado, imagenes);
+        }
+
+        // UPC y SKU son llaves del mismo producto: el que escanee cualquiera de los dos lo encuentra.
+        foreach (var codigo in codigos)
+        {
+            if (porCodigo.TryGetValue(codigo.normalizado, out var existente))
+            {
+                if (productos[existente].Precio == 0 && precio > 0)
+                {
+                    productos[existente] = productos[existente] with { Precio = precio };
+                    preciosCompletados++;
+                }
+                else
+                {
+                    repetidas++;
+                    aviso($"REP  línea {i + 1}: código {codigo.normalizado} repetido (se conserva el primero)");
+                }
+                continue;
+            }
+
+            porCodigo[codigo.normalizado] = productos.Count;
+            productos.Add(new Producto(codigo.normalizado, nombre, precio, categoria, departamento, imagen));
+            nuevos++;
+        }
     }
 
-    var imagen = resolver_imagen(valor("imagen_name"), codigo, imagenes);
-    if (imagen is not null)
+    if (avisos > AvisosPorArchivo)
     {
-        conImagen++;
+        Console.WriteLine($"  ... y {avisos - AvisosPorArchivo} avisos más");
     }
-
-    productos.Add(new Producto(codigo, nombre, precio, categoria, departamento, imagen));
+    Console.WriteLine($"Nuevos: {nuevos} | Descartados: {descartadas} | Repetidos: {repetidas} | Precios completados: {preciosCompletados}");
+    Console.WriteLine();
 }
 
-Console.WriteLine();
-Console.WriteLine($"Productos: {productos.Count} | Descartados: {descartadas} | Repetidos: {repetidas} | Con imagen: {conImagen} | Con precio: {conPrecio}");
+Console.WriteLine($"Productos: {productos.Count} | Con imagen: {productos.Count(p => p.Imagen is not null)} | Con precio: {productos.Count(p => p.Precio > 0)}");
 Console.WriteLine($"Categorías: {categorias.Count} | Departamentos: {departamentos.Count}");
 
 if (productos.Count == 0)
@@ -278,7 +280,72 @@ static (string texto, string codificacion) leer_texto(string ruta)
     }
 }
 
-static List<List<string>> parsear_csv(string texto)
+static FuenteCsv? leer_fuente(string ruta)
+{
+    var (texto, codificacion) = leer_texto(ruta);
+    var primeraLinea = texto.Split('\n', 2)[0];
+    // El CSV de la tienda usa ';' y el de retail ','; se elige el que más aparece en el encabezado.
+    var separador = primeraLinea.Count(c => c == ';') >= primeraLinea.Count(c => c == ',') ? ';' : ',';
+    var filas = parsear_csv(texto, separador);
+    if (filas.Count == 0)
+    {
+        Console.Error.WriteLine($"El CSV está vacío: {ruta}");
+        return null;
+    }
+
+    var encabezados = filas[0].Select(h => h.Trim().ToLowerInvariant()).ToArray();
+    var columnas = new Dictionary<string, int>(StringComparer.Ordinal);
+    for (var i = 0; i < encabezados.Length; i++)
+    {
+        columnas.TryAdd(encabezados[i], i);
+    }
+
+    if (!columnas.ContainsKey("sku") && !columnas.ContainsKey("upc"))
+    {
+        Console.Error.WriteLine($"{Path.GetFileName(ruta)}: falta la columna 'sku' o 'upc'.");
+        return null;
+    }
+    if (!columnas.ContainsKey("nombre") && !columnas.ContainsKey("descripcion"))
+    {
+        Console.Error.WriteLine($"{Path.GetFileName(ruta)}: falta la columna 'nombre' o 'descripcion'.");
+        return null;
+    }
+
+    return new FuenteCsv(ruta, codificacion, separador, encabezados, columnas, filas);
+}
+
+// Filas con el separador sin comillas dentro del nombre traen columnas de más: se reintegran al nombre.
+static List<string> ajustar_columnas(List<string> fila, int esperadas, int columnaNombre, char separador)
+{
+    var sobrantes = fila.Count - esperadas;
+    if (sobrantes <= 0)
+    {
+        return fila;
+    }
+
+    var ajustada = new List<string>(esperadas);
+    ajustada.AddRange(fila.Take(columnaNombre));
+    ajustada.Add(string.Join(separador, fila.Skip(columnaNombre).Take(sobrantes + 1)));
+    ajustada.AddRange(fila.Skip(columnaNombre + sobrantes + 1));
+    return ajustada;
+}
+
+static int? indice_de(string texto, List<string> lista, Dictionary<string, int> indices)
+{
+    if (texto.Length == 0)
+    {
+        return null;
+    }
+    if (!indices.TryGetValue(texto, out var idx))
+    {
+        idx = lista.Count;
+        lista.Add(texto);
+        indices[texto] = idx;
+    }
+    return idx;
+}
+
+static List<List<string>> parsear_csv(string texto, char separador)
 {
     var filas = new List<List<string>>();
     var fila = new List<string>();
@@ -314,7 +381,7 @@ static List<List<string>> parsear_csv(string texto)
             case '"' when campo.Length == 0:
                 entreComillas = true;
                 break;
-            case ';':
+            case var _ when ch == separador:
                 fila.Add(campo.ToString());
                 campo.Clear();
                 break;
@@ -481,6 +548,14 @@ static string siguiente_version(string versionesDir)
         .Max() + 1;
     return $"{hoy:yyyy-MM-dd}.{consecutivo}";
 }
+
+internal sealed record FuenteCsv(
+    string Ruta,
+    string Codificacion,
+    char Separador,
+    string[] Encabezados,
+    Dictionary<string, int> Columnas,
+    List<List<string>> Filas);
 
 internal sealed record Producto(string Codigo, string Nombre, decimal Precio, int? Categoria, int? Departamento, string? Imagen);
 
