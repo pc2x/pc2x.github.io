@@ -26,11 +26,16 @@ var versionesDir = Path.Combine(productosDir, "v");
 
 var csvPaths = args.Length > 0
     ? args.Select(Path.GetFullPath).ToList()
-    : Directory.Exists(fuenteDir) ? Directory.GetFiles(fuenteDir, "*.csv").ToList() : [];
+    : Directory.Exists(fuenteDir)
+        ? Directory.EnumerateFiles(fuenteDir)
+            .Where(f => Path.GetExtension(f).Equals(".csv", StringComparison.OrdinalIgnoreCase)
+                        || Path.GetExtension(f).Equals(".json", StringComparison.OrdinalIgnoreCase))
+            .ToList()
+        : [];
 if (csvPaths.Count == 0)
 {
-    Console.Error.WriteLine($"No hay archivos .csv en {fuenteDir}.");
-    Console.Error.WriteLine("Uso: CatalogoProductosGenerador.exe [a.csv b.csv ...]   (sin argumentos: todos los .csv de productos/fuente)");
+    Console.Error.WriteLine($"No hay archivos .csv ni .json en {fuenteDir}.");
+    Console.Error.WriteLine("Uso: CatalogoProductosGenerador.exe [a.csv b.json ...]   (sin argumentos: todos los .csv y .json de productos/fuente)");
     return 1;
 }
 
@@ -55,11 +60,18 @@ foreach (var ruta in csvPaths)
     fuentes.Add(fuente);
 }
 
-// Gana el primer archivo que trae un código: los que tienen categoría van antes que los que no.
+// Gana el primer archivo que trae un código (nombre, categoría e imagen); los siguientes solo agregan códigos
+// faltantes y completan precios en 0. Orden: con departamento, con categoría, sin categoría; a igualdad, el más reciente.
 fuentes = fuentes
-    .OrderByDescending(f => f.Columnas.ContainsKey("categoria"))
-    .ThenBy(f => Path.GetFileName(f.Ruta), StringComparer.OrdinalIgnoreCase)
+    .OrderByDescending(f => (f.Columnas.ContainsKey("departamento_venta") ? 2 : 0) + (f.Columnas.ContainsKey("categoria") ? 1 : 0))
+    .ThenByDescending(f => File.GetLastWriteTimeUtc(f.Ruta))
     .ToList();
+Console.WriteLine("Prioridad de fuentes:");
+for (var i = 0; i < fuentes.Count; i++)
+{
+    Console.WriteLine($"  {i + 1}. {Path.GetFileName(fuentes[i].Ruta)}");
+}
+Console.WriteLine();
 
 var imagenes = cargar_imagenes(imgDir);
 Console.WriteLine($"Imágenes en catálogo: {imagenes.porNombre.Count} por nombre, {imagenes.porCodigo.Count} por código");
@@ -74,7 +86,8 @@ var porCodigo = new Dictionary<string, int>(StringComparer.Ordinal);
 
 foreach (var fuente in fuentes)
 {
-    Console.WriteLine($"=== {Path.GetFileName(fuente.Ruta)} ({fuente.Codificacion}, separador '{fuente.Separador}', {fuente.Filas.Count - 1} filas) ===");
+    var formato = fuente.Separador == '\0' ? "JSON" : $"separador '{fuente.Separador}'";
+    Console.WriteLine($"=== {Path.GetFileName(fuente.Ruta)} ({fuente.Codificacion}, {formato}, {fuente.Filas.Count - 1} filas) ===");
     var columnas = fuente.Columnas;
     var columnasCodigo = new[] { "upc", "sku" }.Where(columnas.ContainsKey).ToList();
     // En el CSV de la tienda el nombre va en "nombre"; en el de retail viene en "descripcion".
@@ -283,10 +296,28 @@ static (string texto, string codificacion) leer_texto(string ruta)
 static FuenteCsv? leer_fuente(string ruta)
 {
     var (texto, codificacion) = leer_texto(ruta);
-    var primeraLinea = texto.Split('\n', 2)[0];
-    // El CSV de la tienda usa ';' y el de retail ','; se elige el que más aparece en el encabezado.
-    var separador = primeraLinea.Count(c => c == ';') >= primeraLinea.Count(c => c == ',') ? ';' : ',';
-    var filas = parsear_csv(texto, separador);
+    char separador;
+    List<List<string>> filas;
+    if (Path.GetExtension(ruta).Equals(".json", StringComparison.OrdinalIgnoreCase))
+    {
+        separador = '\0';
+        try
+        {
+            filas = filas_desde_json(texto);
+        }
+        catch (JsonException e)
+        {
+            Console.Error.WriteLine($"{Path.GetFileName(ruta)}: JSON inválido ({e.Message}).");
+            return null;
+        }
+    }
+    else
+    {
+        var primeraLinea = texto.Split('\n', 2)[0];
+        // El CSV de la tienda usa ';' y el de retail ','; se elige el que más aparece en el encabezado.
+        separador = primeraLinea.Count(c => c == ';') >= primeraLinea.Count(c => c == ',') ? ';' : ',';
+        filas = parsear_csv(texto, separador);
+    }
     if (filas.Count == 0)
     {
         Console.Error.WriteLine($"El CSV está vacío: {ruta}");
@@ -312,6 +343,37 @@ static FuenteCsv? leer_fuente(string ruta)
     }
 
     return new FuenteCsv(ruta, codificacion, separador, encabezados, columnas, filas);
+}
+
+// Arreglo de objetos planos ([{ "sku": "...", "nombre": "...", "precio": 3.0, ... }]) convertido a filas,
+// con las llaves como encabezado; así pasa por las mismas reglas que un CSV.
+static List<List<string>> filas_desde_json(string texto)
+{
+    using var documento = JsonDocument.Parse(texto);
+    var objetos = documento.RootElement.EnumerateArray().Where(e => e.ValueKind == JsonValueKind.Object).ToList();
+    var llaves = objetos
+        .SelectMany(o => o.EnumerateObject().Select(p => p.Name.Trim().ToLowerInvariant()))
+        .Distinct(StringComparer.Ordinal)
+        .ToList();
+
+    var filas = new List<List<string>> { llaves };
+    foreach (var objeto in objetos)
+    {
+        var fila = Enumerable.Repeat(string.Empty, llaves.Count).ToList();
+        foreach (var propiedad in objeto.EnumerateObject())
+        {
+            fila[llaves.IndexOf(propiedad.Name.Trim().ToLowerInvariant())] = propiedad.Value.ValueKind switch
+            {
+                JsonValueKind.String => propiedad.Value.GetString() ?? string.Empty,
+                JsonValueKind.Number => propiedad.Value.GetDecimal().ToString(CultureInfo.InvariantCulture),
+                JsonValueKind.Null or JsonValueKind.Undefined => string.Empty,
+                _ => propiedad.Value.GetRawText()
+            };
+        }
+        filas.Add(fila);
+    }
+
+    return filas;
 }
 
 // Filas con el separador sin comillas dentro del nombre traen columnas de más: se reintegran al nombre.
