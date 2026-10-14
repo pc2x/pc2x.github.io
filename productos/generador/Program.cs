@@ -82,7 +82,9 @@ var categoriasIdx = new Dictionary<string, int>(StringComparer.Ordinal);
 var departamentos = new List<string>();
 var departamentosIdx = new Dictionary<string, int>(StringComparer.Ordinal);
 var productos = new List<Producto>();
+// Cada código normalizado (SKU o UPC) apunta a su producto; un producto puede tener varios códigos.
 var porCodigo = new Dictionary<string, int>(StringComparer.Ordinal);
+var entradas = new List<(string codigo, int producto)>();
 
 foreach (var fuente in fuentes)
 {
@@ -142,26 +144,50 @@ foreach (var fuente in fuentes)
             imagen ??= resolver_imagen(valor("imagen_name"), codigo.normalizado, imagenes);
         }
 
-        // UPC y SKU son llaves del mismo producto: el que escanee cualquiera de los dos lo encuentra.
-        foreach (var codigo in codigos)
+        // Sin UPC, el UPC es el mismo SKU (y al revés); pueden traer valores distintos.
+        var sku = valor("sku").Trim();
+        var upc = valor("upc").Trim();
+        if (sku.Length == 0)
         {
-            if (porCodigo.TryGetValue(codigo.normalizado, out var existente))
+            sku = upc;
+        }
+        var upcPropio = upc.Length > 0 && normalizar_codigo(upc) != normalizar_codigo(sku) ? upc : null;
+
+        // UPC y SKU son llaves del mismo producto: el que escanee cualquiera de los dos lo encuentra.
+        var existente = codigos
+            .Select(c => porCodigo.TryGetValue(c.normalizado, out var idx) ? idx : -1)
+            .FirstOrDefault(idx => idx >= 0, -1);
+        if (existente < 0)
+        {
+            existente = productos.Count;
+            productos.Add(new Producto(sku, upcPropio, nombre, precio, categoria, departamento, imagen));
+        }
+        else
+        {
+            var actual = productos[existente];
+            if (actual.Precio == 0 && precio > 0)
             {
-                if (productos[existente].Precio == 0 && precio > 0)
-                {
-                    productos[existente] = productos[existente] with { Precio = precio };
-                    preciosCompletados++;
-                }
-                else
-                {
-                    repetidas++;
-                    aviso($"REP  línea {i + 1}: código {codigo.normalizado} repetido (se conserva el primero)");
-                }
-                continue;
+                actual = actual with { Precio = precio };
+                preciosCompletados++;
+            }
+            else if (codigos.All(c => porCodigo.ContainsKey(c.normalizado)))
+            {
+                repetidas++;
+                aviso($"REP  línea {i + 1}: código {codigos[0].normalizado} repetido (se conserva el primero)");
             }
 
-            porCodigo[codigo.normalizado] = productos.Count;
-            productos.Add(new Producto(codigo.normalizado, nombre, precio, categoria, departamento, imagen));
+            // Un UPC distinto al SKU que ya se tenía se agrega al producto existente.
+            if (actual.Upc is null && upcPropio is not null && normalizar_codigo(upcPropio) != normalizar_codigo(actual.Sku))
+            {
+                actual = actual with { Upc = upcPropio };
+            }
+            productos[existente] = actual with { Imagen = actual.Imagen ?? imagen };
+        }
+
+        foreach (var codigo in codigos.Where(c => !porCodigo.ContainsKey(c.normalizado)))
+        {
+            porCodigo[codigo.normalizado] = existente;
+            entradas.Add((codigo.normalizado, existente));
             nuevos++;
         }
     }
@@ -174,7 +200,8 @@ foreach (var fuente in fuentes)
     Console.WriteLine();
 }
 
-Console.WriteLine($"Productos: {productos.Count} | Con imagen: {productos.Count(p => p.Imagen is not null)} | Con precio: {productos.Count(p => p.Precio > 0)}");
+Console.WriteLine($"Códigos: {entradas.Count} | Productos: {productos.Count} | Con UPC distinto al SKU: {productos.Count(p => p.Upc is not null)}");
+Console.WriteLine($"Con imagen: {productos.Count(p => p.Imagen is not null)} | Con precio: {productos.Count(p => p.Precio > 0)}");
 Console.WriteLine($"Categorías: {categorias.Count} | Departamentos: {departamentos.Count}");
 
 if (productos.Count == 0)
@@ -202,11 +229,21 @@ await using (var json = new Utf8JsonWriter(gzip, new JsonWriterOptions { Encoder
     departamentos.ForEach(json.WriteStringValue);
     json.WriteEndArray();
     json.WriteStartArray("productos");
-    foreach (var producto in productos)
+    // s (SKU) y u (UPC) se omiten cuando son iguales a k: sku = s ?? k, upc = u ?? k.
+    foreach (var (codigo, idx) in entradas)
     {
+        var producto = productos[idx];
         json.WriteStartObject();
-        json.WriteString("k", producto.Codigo);
+        json.WriteString("k", codigo);
         json.WriteString("n", producto.Nombre);
+        if (producto.Sku != codigo)
+        {
+            json.WriteString("s", producto.Sku);
+        }
+        if ((producto.Upc ?? producto.Sku) is var upcSalida && upcSalida != codigo)
+        {
+            json.WriteString("u", upcSalida);
+        }
         json.WriteNumber("p", producto.Precio);
         if (producto.Categoria is { } c)
         {
@@ -238,7 +275,7 @@ var indice = new
     version,
     generado = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ", CultureInfo.InvariantCulture),
     archivo = $"v/{version}/catalogo.json.gz",
-    total = productos.Count,
+    total = entradas.Count,
     bytes = bytesGz,
     sha256
 };
@@ -619,7 +656,8 @@ internal sealed record FuenteCsv(
     Dictionary<string, int> Columnas,
     List<List<string>> Filas);
 
-internal sealed record Producto(string Codigo, string Nombre, decimal Precio, int? Categoria, int? Departamento, string? Imagen);
+/// <summary>Upc es null cuando es el mismo que el SKU.</summary>
+internal sealed record Producto(string Sku, string? Upc, string Nombre, decimal Precio, int? Categoria, int? Departamento, string? Imagen);
 
 internal sealed record Imagenes(Dictionary<string, string> porNombre, Dictionary<string, string> porCodigo);
 
