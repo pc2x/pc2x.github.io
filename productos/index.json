@@ -1,8 +1,8 @@
 {
-  "version": "2026-10-13.4",
-  "generado": "2026-10-14T00:01:47Z",
-  "archivo": "v/2026-10-13.4/catalogo.json.gz",
-  "total": 197221,
-  "bytes": 3714909,
-  "sha256": "b2d1300a65f85aafdafde12f4a28f841bfe78cf3a0305c1fe96d41f3f08c1ddd"
+  "version": "2026-10-13.5",
+  "generado": "2026-10-14T01:31:31Z",
+  "archivo": "v/2026-10-13.5/catalogo.json.gz",
+  "total": 197227,
+  "bytes": 3715104,
+  "sha256": "10066ea056798c92f23f3e7c49a7ae5c1f3212e88cc5e6285984efd1d449e067"
 }
