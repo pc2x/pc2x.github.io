@@ -42,9 +42,15 @@
     if (!header) {
       return;
     }
-    const actualizar = () => header.classList.toggle('is-scrolled', window.scrollY > 24);
+    const logo_hero = document.querySelector('.hero-logo');
+    const actualizar = () => {
+      header.classList.toggle('is-scrolled', window.scrollY > 24);
+      const logo_oculto = !logo_hero || logo_hero.getBoundingClientRect().bottom <= header.offsetHeight;
+      header.classList.toggle('logo-visible', logo_oculto);
+    };
     actualizar();
     window.addEventListener('scroll', actualizar, { passive: true });
+    window.addEventListener('resize', actualizar);
   }
 
   function iniciar_menu_movil() {
