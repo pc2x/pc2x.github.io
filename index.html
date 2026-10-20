@@ -1,2294 +1,445 @@
 <!DOCTYPE html>
 <html lang="es-MX">
-
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Lethorpos</title>
-  <meta name="author" content="L e t h o r p o s">
-  <meta name="generator" content="Starfield Technologies; Go Daddy Website Builder 8.0.0000">
-  <link rel="manifest" href="/manifest.webmanifest">
-  <link rel="apple-touch-icon" sizes="57x57"
-    href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m">
-  <link rel="apple-touch-icon" sizes="60x60"
-    href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:60,h:60,m">
-  <link rel="apple-touch-icon" sizes="72x72"
-    href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:72,h:72,m">
-  <link rel="apple-touch-icon" sizes="114x114"
-    href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:114,h:114,m">
-  <link rel="apple-touch-icon" sizes="120x120"
-    href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:120,h:120,m">
-  <link rel="apple-touch-icon" sizes="144x144"
-    href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:144,h:144,m">
-  <link rel="apple-touch-icon" sizes="152x152"
-    href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:152,h:152,m">
-  <link rel="apple-touch-icon" sizes="180x180"
-    href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:180,h:180,m">
-  <meta property="og:url" content="https://lethorpos.com/">
-  <meta property="og:site_name" content="L e t h o r p o s">
-  <meta property="og:title" content="L e t h o r p o s">
+  <title>LethorPos | Punto de venta para restaurantes y tiendas</title>
+  <meta name="description" content="LethorPos es el punto de venta para restaurantes, cafeterías y tiendas: mesas, comandas a cocina, inventario, caja y reportes. Funciona sin internet en Windows y Android.">
+  <meta name="theme-color" content="#070d1a">
+  <link rel="canonical" href="https://lethorpos.com/">
+
   <meta property="og:type" content="website">
-  <meta property="og:image" content="https://img1.wsimg.com/isteam/getty/672924556">
+  <meta property="og:site_name" content="LethorPos">
+  <meta property="og:title" content="LethorPos | Vende más rápido, atiende mejor">
+  <meta property="og:description" content="Punto de venta para restaurantes y tiendas. Mesas, cocina, inventario, caja y reportes. Funciona sin internet.">
+  <meta property="og:url" content="https://lethorpos.com/">
+  <meta property="og:image" content="https://lethorpos.com/assets/marca/logo.png">
   <meta property="og:locale" content="es_MX">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="L e t h o r p o s">
-  <meta name="twitter:description" content="Soluciones innovadoras para Restaurantes">
-  <meta name="twitter:image" content="https://img1.wsimg.com/isteam/getty/672924556">
-  <meta name="twitter:image:alt" content="L e t h o r p o s">
-  <meta name="theme-color" content="#969696">
-  <style>
-    .x {
-      -ms-text-size-adjust: 100%;
-      -webkit-text-size-adjust: 100%;
-      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-      margin: 0;
-      box-sizing: border-box
-    }
-
-    .x *,
-    .x :after,
-    .x :before {
-      box-sizing: inherit
-    }
-
-    .x-el a[href^="mailto:"]:not(.x-el),
-    .x-el a[href^="tel:"]:not(.x-el) {
-      color: inherit;
-      font-size: inherit;
-      text-decoration: inherit
-    }
-
-    .x-el-article,
-    .x-el-aside,
-    .x-el-details,
-    .x-el-figcaption,
-    .x-el-figure,
-    .x-el-footer,
-    .x-el-header,
-    .x-el-hgroup,
-    .x-el-main,
-    .x-el-menu,
-    .x-el-nav,
-    .x-el-section,
-    .x-el-summary {
-      display: block
-    }
-
-    .x-el-audio,
-    .x-el-canvas,
-    .x-el-progress,
-    .x-el-video {
-      display: inline-block;
-      vertical-align: baseline
-    }
-
-    .x-el-audio:not([controls]) {
-      display: none;
-      height: 0
-    }
-
-    .x-el-template {
-      display: none
-    }
-
-    .x-el-a {
-      background-color: transparent;
-      color: inherit
-    }
-
-    .x-el-a:active,
-    .x-el-a:hover {
-      outline: 0
-    }
-
-    .x-el-abbr[title] {
-      border-bottom: 1px dotted
-    }
-
-    .x-el-b,
-    .x-el-strong {
-      font-weight: 700
-    }
-
-    .x-el-dfn {
-      font-style: italic
-    }
-
-    .x-el-mark {
-      background: #ff0;
-      color: #000
-    }
-
-    .x-el-small {
-      font-size: 80%
-    }
-
-    .x-el-sub,
-    .x-el-sup {
-      font-size: 75%;
-      line-height: 0;
-      position: relative;
-      vertical-align: baseline
-    }
-
-    .x-el-sup {
-      top: -.5em
-    }
-
-    .x-el-sub {
-      bottom: -.25em
-    }
-
-    .x-el-img {
-      vertical-align: middle;
-      border: 0
-    }
-
-    .x-el-svg:not(:root) {
-      overflow: hidden
-    }
-
-    .x-el-figure {
-      margin: 0
-    }
-
-    .x-el-hr {
-      box-sizing: content-box;
-      height: 0
-    }
-
-    .x-el-pre {
-      overflow: auto
-    }
-
-    .x-el-code,
-    .x-el-kbd,
-    .x-el-pre,
-    .x-el-samp {
-      font-family: monospace, monospace;
-      font-size: 1em
-    }
-
-    .x-el-button,
-    .x-el-input,
-    .x-el-optgroup,
-    .x-el-select,
-    .x-el-textarea {
-      color: inherit;
-      font: inherit;
-      margin: 0
-    }
-
-    .x-el-button {
-      overflow: visible
-    }
-
-    .x-el-button,
-    .x-el-select {
-      text-transform: none
-    }
-
-    .x-el-button,
-    .x-el-input[type=button],
-    .x-el-input[type=reset],
-    .x-el-input[type=submit] {
-      -webkit-appearance: button;
-      cursor: pointer
-    }
-
-    .x-el-button[disabled],
-    .x-el-input[disabled] {
-      cursor: default
-    }
-
-    .x-el-button::-moz-focus-inner,
-    .x-el-input::-moz-focus-inner {
-      border: 0;
-      padding: 0
-    }
-
-    .x-el-input {
-      line-height: normal
-    }
-
-    .x-el-input[type=checkbox],
-    .x-el-input[type=radio] {
-      box-sizing: border-box;
-      padding: 0
-    }
-
-    .x-el-input[type=number]::-webkit-inner-spin-button,
-    .x-el-input[type=number]::-webkit-outer-spin-button {
-      height: auto
-    }
-
-    .x-el-input[type=search] {
-      -webkit-appearance: textfield;
-      box-sizing: content-box
-    }
-
-    .x-el-input[type=search]::-webkit-search-cancel-button,
-    .x-el-input[type=search]::-webkit-search-decoration {
-      -webkit-appearance: none
-    }
-
-    .x-el-textarea {
-      border: 0
-    }
-
-    .x-el-fieldset {
-      border: 1px solid silver;
-      margin: 0 2px;
-      padding: .35em .625em .75em
-    }
-
-    .x-el-legend {
-      border: 0;
-      padding: 0
-    }
-
-    .x-el-textarea {
-      overflow: auto
-    }
-
-    .x-el-optgroup {
-      font-weight: 700
-    }
-
-    .x-el-table {
-      border-collapse: collapse;
-      border-spacing: 0
-    }
-
-    .x-el-td,
-    .x-el-th {
-      padding: 0
-    }
-
-    .x {
-      -webkit-font-smoothing: antialiased
-    }
-
-    .x-el-hr {
-      border: 0
-    }
-
-    .x-el-fieldset,
-    .x-el-input,
-    .x-el-select,
-    .x-el-textarea {
-      margin-top: 0;
-      margin-bottom: 0
-    }
-
-    .x-el-fieldset,
-    .x-el-input[type=email],
-    .x-el-input[type=text],
-    .x-el-textarea {
-      width: 100%
-    }
-
-    .x-el-input,
-    .x-el-label {
-      vertical-align: middle
-    }
-
-    .x-el-input {
-      border-style: none;
-      padding: .5em
-    }
-
-    .x-el-select:not([multiple]) {
-      vertical-align: middle
-    }
-
-    .x-el-textarea {
-      line-height: 1.75;
-      padding: .5em
-    }
-
-    .x-el.d-none {
-      display: none !important
-    }
-
-    .sideline-footer {
-      margin-top: auto
-    }
-
-    .disable-scroll {
-      touch-action: none;
-      overflow: hidden;
-      position: fixed;
-      max-width: 100vw
-    }
-
-    @keyframes loaderscale {
-      0% {
-        transform: scale(1);
-        opacity: 1
-      }
-
-      45% {
-        transform: scale(.1);
-        opacity: .7
-      }
-
-      80% {
-        transform: scale(1);
-        opacity: 1
-      }
-    }
-
-    .x-loader svg {
-      display: inline-block
-    }
-
-    .x-loader svg:first-child {
-      animation: loaderscale .75s cubic-bezier(.2, .68, .18, 1.08) -.24s infinite
-    }
-
-    .x-loader svg:nth-child(2) {
-      animation: loaderscale .75s cubic-bezier(.2, .68, .18, 1.08) -.12s infinite
-    }
-
-    .x-loader svg:nth-child(3) {
-      animation: loaderscale .75s cubic-bezier(.2, .68, .18, 1.08) 0s infinite
-    }
-
-    .x-icon>svg {
-      transition: transform .33s ease-in-out
-    }
-
-    .x-icon>svg.rotate-90 {
-      transform: rotate(-90deg)
-    }
-
-    .x-icon>svg.rotate90 {
-      transform: rotate(90deg)
-    }
-
-    .x-icon>svg.rotate-180 {
-      transform: rotate(-180deg)
-    }
-
-    .x-icon>svg.rotate180 {
-      transform: rotate(180deg)
-    }
-
-    .x-rt ol,
-    .x-rt ul {
-      text-align: left
-    }
-
-    .x-rt p {
-      margin: 0
-    }
-
-    .mte-inline-block {
-      display: inline-block
-    }
-
-    @media only screen and (min-device-width:1025px) {
-
-      :root select,
-      _::-webkit-full-page-media,
-      _:future {
-        font-family: sans-serif !important
-      }
-    }
-  </style>
-  <style data-glamor="cxs-default-sheet">
-    .x .c1-1 {
-      letter-spacing: normal
-    }
-
-    .x .c1-2 {
-      text-transform: none
-    }
-
-    .x .c1-3 {
-      background-color: rgb(255, 255, 255)
-    }
-
-    .x .c1-4 {
-      width: 100%
-    }
-
-    .x .c1-5>div {
-      position: relative
-    }
-
-    .x .c1-6>div {
-      overflow: hidden
-    }
-
-    .x .c1-7>div {
-      margin-top: auto
-    }
-
-    .x .c1-8>div {
-      margin-right: auto
-    }
-
-    .x .c1-9>div {
-      margin-bottom: auto
-    }
-
-    .x .c1-a>div {
-      margin-left: auto
-    }
-
-    .x .c1-b {
-      font-family: 'Source Sans Pro', arial, sans-serif
-    }
-
-    .x .c1-c {
-      font-size: 16px
-    }
-
-    .x .c1-h {
-      background-color: rgb(0, 0, 0)
-    }
-
-    .x .c1-i {
-      background-color: rgb(22, 22, 22)
-    }
-
-    .x .c1-j {
-      padding-top: 56px
-    }
-
-    .x .c1-k {
-      padding-bottom: 56px
-    }
-
-    .x .c1-l {
-      overflow: hidden
-    }
-
-    .x .c1-m {
-      padding: 0px !important
-    }
-
-    .x .c1-p {
-      position: relative
-    }
-
-    .x .c1-q {
-      flex-grow: 1
-    }
-
-    .x .c1-r {
-      display: flex
-    }
-
-    .x .c1-s {
-      align-items: center
-    }
-
-    .x .c1-t {
-      justify-content: flex-start
-    }
-
-    .x .c1-u {
-      flex-direction: column
-    }
-
-    .x .c1-v {
-      min-height: 360px
-    }
-
-    .x .c1-w {
-      background-position: center
-    }
-
-    .x .c1-x {
-      background-size: auto, cover
-    }
-
-    .x .c1-y {
-      background-blend-mode: normal
-    }
-
-    .x .c1-z {
-      background-repeat: no-repeat
-    }
-
-    .x .c1-10 {
-      text-shadow: none
-    }
-
-    .x .c1-1n {
-      position: static
-    }
-
-    .x .c1-1p {
-      z-index: 3
-    }
-
-    .x .c1-1q {
-      background-color: transparent
-    }
-
-    .x .c1-1r {
-      z-index: auto
-    }
-
-    .x .c1-1w {
-      flex-wrap: nowrap
-    }
-
-    .x .c1-1x {
-      margin-top: 0px
-    }
-
-    .x .c1-1y {
-      margin-right: 0px
-    }
-
-    .x .c1-1z {
-      margin-bottom: 0px
-    }
-
-    .x .c1-20 {
-      margin-left: 0px
-    }
-
-    .x .c1-21 {
-      padding-top: 24px
-    }
-
-    .x .c1-22 {
-      padding-right: 24px
-    }
-
-    .x .c1-23 {
-      padding-bottom: 24px
-    }
-
-    .x .c1-24 {
-      padding-left: 24px
-    }
-
-    .x .c1-27 {
-      width: 0px
-    }
-
-    .x .c1-28 {
-      padding-right: 0px
-    }
-
-    .x .c1-29 {
-      padding-left: 0px
-    }
-
-    .x .c1-2a {
-      text-align: center
-    }
-
-    .x .c1-2b {
-      justify-content: center
-    }
-
-    .x .c1-2c {
-      overflow-wrap: break-word
-    }
-
-    .x .c1-2d {
-      padding-left: 8px
-    }
-
-    .x .c1-2e {
-      padding-right: 8px
-    }
-
-    .x .c1-2f {
-      display: inline-block
-    }
-
-    .x .c1-2g {
-      font-family: 'Playfair Display', Georgia, serif
-    }
-
-    .x .c1-2k {
-      letter-spacing: inherit
-    }
-
-    .x .c1-2l {
-      text-transform: inherit
-    }
-
-    .x .c1-2m {
-      text-decoration: none
-    }
-
-    .x .c1-2n {
-      word-wrap: break-word
-    }
-
-    .x .c1-2o {
-      display: inline
-    }
-
-    .x .c1-2p {
-      cursor: pointer
-    }
-
-    .x .c1-2q {
-      border-top: 0px
-    }
-
-    .x .c1-2r {
-      border-right: 0px
-    }
-
-    .x .c1-2s {
-      border-bottom: 0px
-    }
-
-    .x .c1-2t {
-      border-left: 0px
-    }
-
-    .x .c1-2u {
-      max-width: 100%
-    }
-
-    .x .c1-2v {
-      color: rgb(150, 150, 150)
-    }
-
-    .x .c1-2w {
-      font-weight: inherit
-    }
-
-    .x .c1-2x:hover {
-      color: rgb(171, 171, 171)
-    }
-
-    .x .c1-2y:active {
-      color: rgb(198, 198, 198)
-    }
-
-    .x .c1-2z {
-      letter-spacing: 4px
-    }
-
-    .x .c1-30 {
-      text-transform: uppercase
-    }
-
-    .x .c1-31 {
-      line-height: 1.2
-    }
-
-    .x .c1-32 {
-      font-family: 'Montserrat', sans-serif
-    }
-
-    .x .c1-33 {
-      color: #fff !important
-    }
-
-    .x .c1-34 {
-      font-size: 22px
-    }
-
-    .x .c1-35 {
-      font-weight: 700
-    }
-
-    .x .c1-36 * {
-      color: #fff !important
-    }
-
-    .x .c1-3b {
-      word-wrap: normal !important
-    }
-
-    .x .c1-3c {
-      overflow-wrap: normal !important
-    }
-
-    .x .c1-3d {
-      display: none
-    }
-
-    .x .c1-3e {
-      visibility: hidden
-    }
-
-    .x .c1-3f {
-      position: absolute
-    }
-
-    .x .c1-3g {
-      width: auto
-    }
-
-    .x .c1-3h {
-      overflow: visible
-    }
-
-    .x .c1-3i {
-      left: 0px
-    }
-
-    .x .c1-3j {
-      font-size: 26px
-    }
-
-    .x .c1-3o {
-      font-size: 18px
-    }
-
-    .x .c1-3t {
-      justify-content: flex-end
-    }
-
-    .x .c1-3u {
-      margin-left: auto
-    }
-
-    .x .c1-3v {
-      margin-right: auto
-    }
-
-    .x .c1-3z {
-      padding-left: 48px
-    }
-
-    .x .c1-40 {
-      padding-right: 48px
-    }
-
-    .x .c1-41 {
-      gap: 32px
-    }
-
-    .x .c1-42 {
-      flex-basis: 44%
-    }
-
-    .x .c1-43 {
-      max-width: 44%
-    }
-
-    .x .c1-4h {
-      flex-shrink: 0
-    }
-
-    .x .c1-4i {
-      flex-basis: auto
-    }
-
-    .x .c1-4o {
-      margin-bottom: 8px
-    }
-
-    .x .c1-4p {
-      display: block
-    }
-
-    .x .c1-4q {
-      white-space: pre-line
-    }
-
-    .x .c1-4r {
-      font-size: 32px
-    }
-
-    .x .c1-4s {
-      color: rgb(255, 255, 255)
-    }
-
-    .x .c1-4t {
-      font-weight: 400
-    }
-
-    .x .c1-52 {
-      font-size: 40px
-    }
-
-    .x .c1-57 {
-      font-size: 28px
-    }
-
-    .x .c1-5a {
-      line-height: 1.4
-    }
-
-    .x .c1-5b {
-      margin-bottom: 40px
-    }
-
-    .x .c1-5c {
-      font-size: unset
-    }
-
-    .x .c1-5d {
-      color: inherit
-    }
-
-    .x .c1-5e {
-      font-family: unset
-    }
-
-    .x .c1-5f {
-      letter-spacing: unset
-    }
-
-    .x .c1-5g {
-      text-transform: unset
-    }
-
-    .x .c1-5h {
-      line-height: 0px
-    }
-
-    .x .c1-5i {
-      border-color: rgb(27, 27, 27)
-    }
-
-    .x .c1-5j {
-      border-bottom-width: 2px
-    }
-
-    .x .c1-5k {
-      border-style: solid
-    }
-
-    .x .c1-5l {
-      margin-top: 24px
-    }
-
-    .x .c1-5m {
-      width: 50px
-    }
-
-    .x .c1-5n {
-      box-sizing: border-box
-    }
-
-    .x .c1-5o {
-      flex-direction: row
-    }
-
-    .x .c1-5p {
-      flex-wrap: wrap
-    }
-
-    .x .c1-5q {
-      flex-grow: 3
-    }
-
-    .x .c1-5r {
-      flex-shrink: 1
-    }
-
-    .x .c1-5s {
-      flex-basis: 100%
-    }
-
-    .x .c1-5t {
-      padding-top: 0px
-    }
-
-    .x .c1-5u {
-      padding-bottom: 0px
-    }
-
-    .x .c1-5x {
-      line-height: 1.5
-    }
-
-    .x .c1-5y {
-      text-wrap: pretty
-    }
-
-    .x .c1-5z {
-      font-size: 14px
-    }
-
-    .x .c1-65 {
-      font-size: inherit !important
-    }
-
-    .x .c1-66 {
-      line-height: inherit
-    }
-
-    .x .c1-67 {
-      font-style: italic
-    }
-
-    .x .c1-68 {
-      text-decoration: line-through
-    }
-
-    .x .c1-69 {
-      text-decoration: underline
-    }
-
-    .x .c1-6b {
-      margin-bottom: 4px
-    }
-
-    .x .c1-6c {
-      color: rgb(226, 226, 226)
-    }
-
-    .x .c1-6d {
-      vertical-align: middle
-    }
-
-    .x .c1-6e {
-      position: fixed
-    }
-
-    .x .c1-6f {
-      right: 24px
-    }
-
-    .x .c1-6g {
-      bottom: 24px
-    }
-
-    .x .c1-6h {
-      z-index: 9999
-    }
-
-    .x .c1-6i {
-      width: 65px
-    }
-
-    .x .c1-6j {
-      height: 65px
-    }
-
-    .x .c1-6l {
-      height: 100%
-    }
-
-    .x .c1-6m {
-      border-radius: 50%
-    }
-
-    .x .c1-6n {
-      background-color: rgb(150, 150, 150)
-    }
-
-    .x .c1-6o {
-      box-shadow: 0px 3px 18px rgba(0, 0, 0, 0.25)
-    }
-
-    .x .c1-6p {
-      transform: translateZ(0)
-    }
-
-    .x .c1-6q {
-      color: rgb(0, 0, 0)
-    }
-
-    .x .c1-6r {
-      right: 0px
-    }
-
-    .x .c1-6s {
-      z-index: 10000
-    }
-
-    .x .c1-6t {
-      height: auto
-    }
-
-    .x .c1-6u {
-      text-align: left
-    }
-
-    .x .c1-6v {
-      background-color: rgb(137, 137, 137)
-    }
-
-    .x .c1-6w {
-      border-radius: 0px
-    }
-
-    .x .c1-6x {
-      overflow-y: auto
-    }
-
-    .x .c1-6y {
-      transition: all 1s ease-in
-    }
-
-    .x .c1-6z {
-      box-shadow: 0 2px 6px 0px rgba(0, 0, 0, 0.3)
-    }
-
-    .x .c1-70 {
-      contain: content
-    }
-
-    .x .c1-71 {
-      bottom: -500px
-    }
-
-    .x .c1-79 {
-      line-height: 1.25
-    }
-
-    .x .c1-7a {
-      padding-bottom: 8px
-    }
-
-    .x .c1-7f {
-      max-height: 300px
-    }
-
-    .x .c1-7h {
-      justify-content: space-between
-    }
-
-    .x .c1-7i {
-      letter-spacing: 0.071em
-    }
-
-    .x .c1-7j {
-      word-break: break-word
-    }
-
-    .x .c1-7k {
-      flex-basis: 50%
-    }
-
-    .x .c1-7l {
-      border-style: none
-    }
-
-    .x .c1-7m {
-      padding-left: 16px
-    }
-
-    .x .c1-7n {
-      padding-right: 16px
-    }
-
-    .x .c1-7o {
-      padding-top: 4px
-    }
-
-    .x .c1-7p {
-      padding-bottom: 4px
-    }
-
-    .x .c1-7q {
-      min-height: 40px
-    }
-
-    .x .c1-7r {
-      border-radius: 4px
-    }
-
-    .x .c1-7s {
-      font-size: 12px
-    }
-
-    .x .c1-7t:nth-child(2) {
-      margin-left: 24px
-    }
-
-    .x .c1-7u:hover {
-      background-color: rgb(255, 255, 255)
-    }
-  </style>
-  <style data-glamor="cxs-media-sheet">
-    @media (max-width: 450px) {
-      .x .c1-11 {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:450,m")
-      }
-    }
-
-    @media (max-width: 450px) and (-webkit-min-device-pixel-ratio: 2),
-    (max-width: 450px) and (min-resolution: 192dpi) {
-      .x .c1-12 {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:900,m")
-      }
-    }
-
-    @media (max-width: 450px) and (-webkit-min-device-pixel-ratio: 3),
-    (max-width: 450px) and (min-resolution: 288dpi) {
-      .x .c1-13 {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:1350,m")
-      }
-    }
-
-    @media (min-width: 451px) and (max-width: 767px) {
-      .x .c1-14 {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:767,m")
-      }
-    }
-
-    @media (min-width: 451px) and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 2),
-    (min-width: 451px) and (max-width: 767px) and (min-resolution: 192dpi) {
-      .x .c1-15 {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:1534,m")
-      }
-    }
-
-    @media (min-width: 451px) and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 3),
-    (min-width: 451px) and (max-width: 767px) and (min-resolution: 288dpi) {
-      .x .c1-16 {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:2301,m")
-      }
-    }
-
-    @media (min-width: 768px) and (max-width: 1023px) {
-      .x .c1-17 {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:1023,m")
-      }
-    }
-
-    @media (min-width: 768px) and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2),
-    (min-width: 768px) and (max-width: 1023px) and (min-resolution: 192dpi) {
-      .x .c1-18 {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:2046,m")
-      }
-    }
-
-    @media (min-width: 768px) and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 3),
-    (min-width: 768px) and (max-width: 1023px) and (min-resolution: 288dpi) {
-      .x .c1-19 {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:3069,m")
-      }
-    }
-
-    @media (min-width: 1024px) and (max-width: 1279px) {
-      .x .c1-1a {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:1279,m")
-      }
-    }
-
-    @media (min-width: 1024px) and (max-width: 1279px) and (-webkit-min-device-pixel-ratio: 2),
-    (min-width: 1024px) and (max-width: 1279px) and (min-resolution: 192dpi) {
-      .x .c1-1b {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:2558,m")
-      }
-    }
-
-    @media (min-width: 1024px) and (max-width: 1279px) and (-webkit-min-device-pixel-ratio: 3),
-    (min-width: 1024px) and (max-width: 1279px) and (min-resolution: 288dpi) {
-      .x .c1-1c {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:3837,m")
-      }
-    }
-
-    @media (min-width: 1280px) and (max-width: 1535px) {
-      .x .c1-1d {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:1535,m")
-      }
-    }
-
-    @media (min-width: 1280px) and (max-width: 1535px) and (-webkit-min-device-pixel-ratio: 2),
-    (min-width: 1280px) and (max-width: 1535px) and (min-resolution: 192dpi) {
-      .x .c1-1e {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:3070,m")
-      }
-    }
-
-    @media (min-width: 1280px) and (max-width: 1535px) and (-webkit-min-device-pixel-ratio: 3),
-    (min-width: 1280px) and (max-width: 1535px) and (min-resolution: 288dpi) {
-      .x .c1-1f {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:4605,m")
-      }
-    }
-
-    @media (min-width: 1536px) and (max-width: 1920px) {
-      .x .c1-1g {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:1920,m")
-      }
-    }
-
-    @media (min-width: 1536px) and (max-width: 1920px) and (-webkit-min-device-pixel-ratio: 2),
-    (min-width: 1536px) and (max-width: 1920px) and (min-resolution: 192dpi) {
-      .x .c1-1h {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:3840,m")
-      }
-    }
-
-    @media (min-width: 1536px) and (max-width: 1920px) and (-webkit-min-device-pixel-ratio: 3),
-    (min-width: 1536px) and (max-width: 1920px) and (min-resolution: 288dpi) {
-      .x .c1-1i {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:5760,m")
-      }
-    }
-
-    @media (min-width: 1921px) {
-      .x .c1-1j {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:100%25")
-      }
-    }
-
-    @media (min-width: 1921px) and (-webkit-min-device-pixel-ratio: 2),
-    (min-width: 1921px) and (min-resolution: 192dpi) {
-      .x .c1-1k {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:100%25")
-      }
-    }
-
-    @media (min-width: 1921px) and (-webkit-min-device-pixel-ratio: 3),
-    (min-width: 1921px) and (min-resolution: 288dpi) {
-      .x .c1-1l {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("//img1.wsimg.com/isteam/getty/672924556/:/rs=w:100%25")
-      }
-    }
-  </style>
-  <style data-glamor="cxs-xs-sheet">
-    @media (max-width: 767px) {
-      .x .c1-n {
-        padding-top: 40px
-      }
-    }
-
-    @media (max-width: 767px) {
-      .x .c1-o {
-        padding-bottom: 40px
-      }
-    }
-
-    @media (max-width: 767px) {
-      .x .c1-2h {
-        justify-content: center
-      }
-    }
-
-    @media (max-width: 767px) {
-      .x .c1-2i {
-        max-width: 100%
-      }
-    }
-
-    @media (max-width: 767px) {
-      .x .c1-44 {
-        width: 100%
-      }
-    }
-
-    @media (max-width: 767px) {
-      .x .c1-45 {
-        display: flex
-      }
-    }
-
-    @media (max-width: 767px) {
-      .x .c1-4u {
-        margin-top: 0
-      }
-    }
-
-    @media (max-width: 767px) {
-      .x .c1-4v {
-        margin-right: auto
-      }
-    }
-
-    @media (max-width: 767px) {
-      .x .c1-4w {
-        margin-bottom: 0
-      }
-    }
-
-    @media (max-width: 767px) {
-      .x .c1-4x {
-        margin-left: auto
-      }
-    }
-  </style>
-  <style data-glamor="cxs-sm-sheet">
-    @media (min-width: 768px) {
-      .x .c1-d {
-        font-size: 16px
-      }
-    }
-
-    @media (min-width: 768px) and (max-width: 1023px) {
-      .x .c1-2j {
-        width: auto
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-37 {
-        font-size: 24px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-3k {
-        font-size: 30px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-3p {
-        font-size: 18px
-      }
-    }
-
-    @media (min-width: 768px) and (max-width: 1023px) {
-      .x .c1-46 {
-        width: 100%
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-49 {
-        width: 100%
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-4y {
-        font-size: 38px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-53 {
-        font-size: 48px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-60 {
-        font-size: 14px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-72 {
-        width: 400px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-73 {
-        max-height: 500px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-74 {
-        border-radius: 7px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-75 {
-        margin-top: 24px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-76 {
-        margin-right: 24px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-77 {
-        margin-bottom: 24px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-78 {
-        margin-left: 24px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-7b {
-        font-size: 22px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-7g {
-        max-height: 200px
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-7v {
-        width: auto
-      }
-    }
-
-    @media (min-width: 768px) {
-      .x .c1-7w {
-        font-size: 12px
-      }
-    }
-  </style>
-  <style data-glamor="cxs-md-sheet">
-    @media (min-width: 1024px) {
-      .x .c1-e {
-        font-size: 16px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-1m {
-        min-height: 65vh
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-1o {
-        position: static
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-1s {
-        padding-top: 0px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-1t {
-        padding-bottom: 0px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-1u {
-        padding-left: 0px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-1v {
-        padding-right: 0px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-26 {
-        display: none
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-38 {
-        font-size: 24px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-3l {
-        font-size: 30px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-3q {
-        font-size: 18px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-3w {
-        display: flex
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-3x {
-        width: 100%
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-3y {
-        flex-direction: column
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-47 {
-        margin-top: 0px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-48 {
-        margin-bottom: 0px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4a {
-        width: 984px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4b {
-        justify-content: center
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4c {
-        margin-left: auto
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4d {
-        margin-right: auto
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4e {
-        max-width: 66%
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4j {
-        padding-top: 56px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4k {
-        padding-bottom: 56px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4l {
-        text-align: center
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4m {
-        max-width: 100%
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4n {
-        align-items: center
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-4z {
-        font-size: 38px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-54 {
-        font-size: 48px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-5v {
-        flex-basis: 0%
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-5w {
-        max-width: none
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-61 {
-        text-align: left
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-62 {
-        font-size: 14px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-6a {
-        text-align: right
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-6k {
-        z-index: 9999
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-7c {
-        font-size: 22px
-      }
-    }
-
-    @media (min-width: 1024px) {
-      .x .c1-7x {
-        font-size: 12px
-      }
-    }
-  </style>
-  <style data-glamor="cxs-lg-sheet">
-    @media (min-width: 1280px) {
-      .x .c1-f {
-        font-size: 16px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-39 {
-        font-size: 26px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-3m {
-        font-size: 35px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-3r {
-        font-size: 18px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-4f {
-        width: 1160px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-50 {
-        font-size: 44px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-55 {
-        font-size: 62px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-58 {
-        font-size: 32px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-63 {
-        font-size: 14px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-7d {
-        font-size: 22px
-      }
-    }
-
-    @media (min-width: 1280px) {
-      .x .c1-7y {
-        font-size: 12px
-      }
-    }
-  </style>
-  <style data-glamor="cxs-xl-sheet">
-    @media (min-width: 1536px) {
-      .x .c1-g {
-        font-size: 18px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-3a {
-        font-size: 29px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-3n {
-        font-size: 38px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-3s {
-        font-size: 19px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-4g {
-        width: 1280px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-51 {
-        font-size: 48px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-56 {
-        font-size: 64px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-59 {
-        font-size: 36px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-64 {
-        font-size: 16px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-7e {
-        font-size: 24px
-      }
-    }
-
-    @media (min-width: 1536px) {
-      .x .c1-7z {
-        font-size: 14px
-      }
-    }
-  </style>
-  <style>
-    @keyframes opacity-bounce {
-      0% {
-        opacity: 0;
-        transform: translateY(100%);
-      }
-
-      60% {
-        transform: translateY(-20%);
-      }
-
-      100% {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
-  <style>
-    .grecaptcha-badge {
-      visibility: hidden;
-    }
-  </style>
-  <style>
-    .page-inner {
-      background-color: rgb(0, 0, 0);
-      min-height: 100vh;
-    }
-  </style>
-  <script>"use strict";
-
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function () {
-        navigator.serviceWorker.register('/sw.js');
-      });
-    }</script>
-  <script>
-    "undefined" === typeof _trfq && (window._trfq = []);
-
-
-    const UAWAnalytics = (function () {
-      const InteractiveType = { "ActionTaken": "action_taken", "Button": "btn", "Checkbox": "checkbox", "Dropdown": "dropdown", "Input": "input", "Link": "link", "Tooltip": "tooltip", "Viewable": "viewable" };
-      const ErrorCode = { "Failed": "failed", "FailedToDisplay": "failed_to_display", "NoValidAdDecisions": "no_valid_ad_decisions", "NothingToDisplay": "nothing_to_display" };
-      const Interaction = { "Click": "click", "Change": "change", "Check": "check", "Truncate": "truncate", "UnCheck": "uncheck", "Select": "select", "Error": "error", "Impression": "impression" };
-      const getExpEvent = function getExpEvent(eid, interaction) {
-        return {
-          schema: 'add_event',
-          version: 'v1',
-          data: {
-            eid: eid,
-            type: interaction
-          }
-        };
-      };
-      const convertToTrafficLiteEvent = function convertToTrafficLiteEvent(event) {
-        return ['cmdLogEvent', event.data.type, event.data.eid, event.properties];
-      };
-      const triggerEvents = function triggerEvents() {
-        var events = [];
-        for (var _i = 0; _i < arguments.length; _i++) {
-          events[_i] = arguments[_i];
-        }
-        if (typeof window !== 'undefined') {
-          for (var _a = 0, events_1 = events; _a < events_1.length; _a++) {
-            var e = events_1[_a];
-            if (window._trfq) {
-              (window._trfq || []).push(convertToTrafficLiteEvent(e));
-            }
-            else {
-              (window._expDataLayer || []).push(e);
-            }
-          }
-        }
-      };
-
-      return {
-        Interaction,
-        getExpEvent,
-        convertToTrafficLiteEvent,
-        triggerEvents
-      };
-    })();
-
-
-    const placements = document.querySelectorAll('.placement-container');
-    if (placements && placements.length) {
-      placements.forEach(function (placement) {
-        const impressionId = placement.getAttribute('data-impressionid');
-        const baseEID = "ads.adPlacementKey_gd-wam-pos1.omsId_baseline/psName_WAM_BANNER_V1/impressionId_" + impressionId;
-
-        const onClick = function (eid) {
-          UAWAnalytics.triggerEvents(UAWAnalytics.getExpEvent(eid, UAWAnalytics.Interaction.Click));
-        };
-
-        const onImpression = function () {
-          UAWAnalytics.triggerEvents(UAWAnalytics.getExpEvent(baseEID, UAWAnalytics.Interaction.Impression));
-        };
-
-        // Track clicks
-        placement.addEventListener('click', function (e) {
-          const eidElement = e.target.closest('[data-eid]');
-          if (eidElement) {
-            onClick(eidElement.getAttribute('data-eid'));
-          }
-        });
-
-        // Use Intersection Observer API for visibility detection and impression tracking
-        if ('IntersectionObserver' in window) {
-          const observer = new IntersectionObserver(function (entries) {
-            entries.forEach(function (entry) {
-              if (entry.isIntersecting) {
-                onImpression();
-                observer.disconnect();
-              }
-            });
-          }, { rootMargin: '100px 0px' });
-          observer.observe(placement);
-        } else {
-          // Fallback for browsers that do not support Intersection Observer
-          const checkVisibility = function () {
-            const rect = placement.getBoundingClientRect();
-            if (rect.top < window.innerHeight && rect.bottom > 0) {
-              onImpression();
-              window.removeEventListener('scroll', checkVisibility);
-            }
-            window.removeEventListener('scroll', checkVisibility);
-          }
-          window.addEventListener('scroll', checkVisibility);
-          checkVisibility();
-        }
-      });
-    }
-
-  </script>
-  <style id="dynamic-tagline-53558-style">
-    #dynamic-tagline-53558 {
-      font-size: 48px !important;
-    }
-  </style>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-layout13-Theme-publish-Theme-a148e55d.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-d750a9f7.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-_rollupPluginBabelHelpers-5804ec33.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-defaultSocialIconPack-a2c518b6.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-imageToHeaderTreatments-cbda470b.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-index-52fbaa26.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-index3-84bb078b.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-legacyOverrides-42582241.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-loaders-fffeeba5.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-overlayTypes-6afcb3a5.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-themeOverrides-e736c017.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/form/formIdentifiers-99523055.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/traffic2-0a7e72c6.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Recaptcha/badge-e542c4f1.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Carousel-7574d33c.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/ColorSwatch-4196a0a9.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/DynamicFontScaler-6cccd626.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-dataAids-dc689f22.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-index2-87bd33e6.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-navigationDrawer-27f5f1f5.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-searchFormLocations-c86f2a99.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/_commonjsHelpers-67085353.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/_react_commonjs-external-a1351e34.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/_rollupPluginBabelHelpers-8ce54c82.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/interopRequireDefault-c83974f7.js"></script>
-  <script crossorigin="Anonymous"
-    src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/dynamicFontScaler-ecd443bf.js"></script>
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="icon" type="image/svg+xml" href="assets/marca/icono.svg">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/marca/icono-192.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/marca/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+
+  <link rel="preload" href="assets/fonts/plus-jakarta-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.min.css">
+  <link rel="stylesheet" href="assets/fontawesome/css/solid.min.css">
+  <link rel="stylesheet" href="assets/fontawesome/css/brands.min.css">
+  <link rel="stylesheet" href="assets/css/tokens.css">
+  <link rel="stylesheet" href="assets/css/landing.css">
+  <script src="assets/js/landing.js" defer></script>
 </head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
 
-<body class="x x-fonts-playfair-display x-fonts-source-sans-pro x-fonts-montserrat">
-  <div id="layout-a-86-c-9363-7-f-23-420-d-9-c-28-725526-c-80132"
-    class="layout layout-layout layout-layout-layout-13 locale-es-MX lang-es">
-    <div data-ux="Page" id="page-53545"
-      class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-4 c1-5 c1-6 c1-7 c1-8 c1-9 c1-a c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
-      <div data-ux="Block" class="x-el x-el-div page-inner c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
-        <div id="71a5b96d-5d09-4403-9988-2116efa4263f" class="widget widget-header widget-header-header-9">
-          <div data-ux="Header" role="main" data-aid="HEADER_WIDGET" id="n-53546"
-            class="x-el x-el-div x-el x-el c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-h c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
-            <div>
-              <div id="freemium-ad-53548">
-                <div data-freemium-ad="true"
-                  style="overflow: hidden; width: 100%; z-index: 10000; position: fixed; left: 0px;">
-                </div>
-                <div style="width: 100%; min-height: 50px;"></div>
+  <header class="site-header" id="site-header">
+    <div class="container header-inner">
+      <a class="header-logo" href="#inicio" aria-label="LethorPos, inicio">
+        <img src="assets/marca/logo-claro.svg" alt="LethorPos" width="180" height="50">
+      </a>
+
+      <nav class="header-nav" id="header-nav" aria-label="Principal">
+        <a href="#giros">Giros</a>
+        <a href="#funciones">Funciones</a>
+        <a href="#plataformas">Plataformas</a>
+        <a href="#precio">Precio</a>
+        <a href="#preguntas">Preguntas</a>
+        <a class="btn btn-primary btn-sm nav-cta" href="https://lethorsoft.com/comprar?producto=lethorpos" data-compra>
+          Comprar
+        </a>
+      </nav>
+
+      <button class="nav-toggle" id="nav-toggle" type="button" aria-expanded="false" aria-controls="header-nav" aria-label="Abrir menú">
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+      </button>
+    </div>
+  </header>
+
+  <main id="contenido">
+    <!-- Hero -->
+    <section class="hero band-dark" id="inicio">
+      <div class="hero-glow" aria-hidden="true"></div>
+      <div class="hero-grid-dots" aria-hidden="true"></div>
+
+      <div class="container hero-inner">
+        <div class="hero-copy reveal">
+          <p class="eyebrow eyebrow-dark">
+            <i class="fa-solid fa-bolt" aria-hidden="true"></i>
+            Punto de venta para restaurantes y tiendas
+          </p>
+          <h1>Vende más <span class="text-gradient">rápido</span>, atiende <span class="text-gradient">mejor</span>.</h1>
+          <p class="hero-lead">
+            LethorPos lleva tus mesas, comandas, cocina, inventario y caja en un solo sistema.
+            Sigue vendiendo aunque se vaya el internet, desde tu computadora, tableta o celular.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary btn-lg" href="https://lethorsoft.com/comprar?producto=lethorpos" data-compra>
+              Comprar LethorPos
+              <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+            </a>
+            <a class="btn btn-ghost btn-lg" href="#funciones">Ver funciones</a>
+          </div>
+          <ul class="hero-trust">
+            <li><i class="fa-solid fa-circle-check" aria-hidden="true"></i> Todas las funciones incluidas</li>
+            <li><i class="fa-solid fa-circle-check" aria-hidden="true"></i> Pago seguro con PayPal</li>
+            <li><i class="fa-solid fa-circle-check" aria-hidden="true"></i> Activación inmediata</li>
+          </ul>
+        </div>
+
+        <div class="hero-visual reveal" aria-hidden="true">
+          <div class="device">
+            <div class="device-screen">
+              <div class="pos-topbar">
+                <span class="pos-brand"><img src="assets/marca/icono.svg" alt="" width="18" height="18"> Salón principal</span>
+                <span class="pos-pill"><i class="fa-solid fa-clock"></i> 14:32</span>
               </div>
-              <section data-ux="Section" data-aid="HEADER_SECTION"
-                class="x-el x-el-section c1-1 c1-2 c1-i c1-j c1-k c1-l c1-m c1-b c1-c c1-n c1-o c1-d c1-e c1-f c1-g">
-                <div data-ux="HeaderMedia" class="x-el x-el-div c1-1 c1-2 c1-p c1-q c1-b c1-c c1-d c1-e c1-f c1-g">
-                  <div role="img" data-aid="BACKGROUND_IMAGE_RENDERED" data-ux="HeaderMediaFillBackground"
-                    data-ht="Fill"
-                    class="x-el x-el-div c1-1 c1-2 c1-r c1-s c1-t c1-u c1-v c1-w c1-x c1-y c1-z c1-10 c1-b c1-c c1-11 c1-12 c1-13 c1-14 c1-15 c1-16 c1-17 c1-18 c1-19 c1-1a c1-1b c1-1c c1-1d c1-1e c1-1f c1-1g c1-1h c1-1i c1-1j c1-1k c1-1l c1-d c1-1m c1-e c1-f c1-g">
-                    <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1n c1-4 c1-b c1-c c1-d c1-1o c1-e c1-f c1-g">
-                      <div data-ux="Block"
-                        class="x-el x-el-div c1-1 c1-2 c1-1p c1-4 c1-1q c1-b c1-c c1-d c1-e c1-f c1-g">
-                        <nav data-ux="Block"
-                          class="x-el x-el-nav c1-1 c1-2 c1-p c1-1q c1-1r c1-b c1-c c1-d c1-1s c1-1t c1-1u c1-1v c1-e c1-f c1-g">
-                          <div data-ux="Block"
-                            class="x-el x-el-div c1-1 c1-2 c1-s c1-1w c1-4 c1-r c1-1x c1-1y c1-1z c1-20 c1-21 c1-22 c1-23 c1-24 c1-25 c1-b c1-c c1-d c1-26 c1-e c1-f c1-g">
-                            <div data-ux="Block"
-                              class="x-el x-el-div c1-1 c1-2 c1-27 c1-28 c1-29 c1-b c1-c c1-d c1-e c1-f c1-g"></div>
-                            <div data-ux="Block"
-                              class="x-el x-el-div c1-1 c1-2 c1-r c1-4 c1-2a c1-2b c1-2c c1-2d c1-2e c1-b c1-c c1-d c1-e c1-f c1-g">
-                              <div data-ux="Block" data-aid="HEADER_LOGO_RENDERED"
-                                class="x-el x-el-div c1-2f c1-2g c1-4 c1-c c1-2h c1-2i c1-2j c1-d c1-e c1-f c1-g"><a
-                                  rel="" role="link" aria-haspopup="menu" data-ux="Link"
-                                  data-page="287f429b-ed6e-416e-aa2a-319409973b79" title="L e t h o r p o s" href="/"
-                                  data-typography="LinkAlpha"
-                                  class="x-el x-el-a c1-2k c1-2l c1-2m c1-2n c1-2c c1-2o c1-2p c1-2q c1-2r c1-2s c1-2t c1-2u c1-4 c1-b c1-2v c1-c c1-2w c1-2x c1-2y c1-d c1-e c1-f c1-g"
-                                  data-tccl="ux2.HEADER.header9.Logo.Fill.Link.Default.53549.click,click">
-                                  <div data-ux="Block" id="logo-container-53550"
-                                    class="x-el x-el-div c1-1 c1-2 c1-2f c1-4 c1-p c1-b c1-c c1-d c1-e c1-f c1-g">
-                                    <h3 role="heading" aria-level="3" data-ux="LogoHeading" id="logo-text-53551"
-                                      data-aid="HEADER_LOGO_TEXT_RENDERED" headertreatment="Fill"
-                                      fontscalemultiplier="0.8" data-typography="LogoAlpha" data-font-scaled="true"
-                                      class="x-el x-el-h3 c1-2z c1-30 c1-2n c1-2c c1-31 c1-20 c1-1y c1-1x c1-1z c1-2u c1-2f c1-32 c1-33 c1-34 c1-35 c1-36 c1-37 c1-38 c1-39 c1-3a">
-                                      L e t h o r p o s</h3><span role="heading" aria-level="NaN" data-ux="scaler"
-                                      data-size="xxlarge" data-scaler-id="scaler-logo-container-53550"
-                                      aria-hidden="true" fontscalemultiplier="0.8" data-typography="LogoAlpha"
-                                      data-font-scaled="true"
-                                      class="x-el x-el-span c1-2z c1-30 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-2u c1-3d c1-32 c1-3e c1-3f c1-3g c1-3h c1-3i c1-3j c1-33 c1-35 c1-36 c1-3k c1-3l c1-3m c1-3n">L
-                                      e t h o r p o s</span><span role="heading" aria-level="NaN" data-ux="scaler"
-                                      data-size="xlarge" data-scaler-id="scaler-logo-container-53550" aria-hidden="true"
-                                      fontscalemultiplier="0.8" data-typography="LogoAlpha" data-font-scaled="true"
-                                      class="x-el x-el-span c1-2z c1-30 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-2u c1-3d c1-32 c1-3e c1-3f c1-3g c1-3h c1-3i c1-34 c1-33 c1-35 c1-36 c1-37 c1-38 c1-39 c1-3a">L
-                                      e t h o r p o s</span><span role="heading" aria-level="NaN" data-ux="scaler"
-                                      data-size="large" data-scaler-id="scaler-logo-container-53550" aria-hidden="true"
-                                      fontscalemultiplier="0.8" data-typography="LogoAlpha" data-font-scaled="true"
-                                      class="x-el x-el-span c1-2z c1-30 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-2u c1-3d c1-32 c1-3e c1-3f c1-3g c1-3h c1-3i c1-3o c1-33 c1-35 c1-36 c1-3p c1-3q c1-3r c1-3s">L
-                                      e t h o r p o s</span>
-                                  </div>
-                                </a></div>
-                            </div>
-                            <div data-ux="Block"
-                              class="x-el x-el-div c1-1 c1-2 c1-27 c1-28 c1-29 c1-r c1-3t c1-b c1-c c1-d c1-e c1-f c1-g">
-                            </div>
-                          </div>
-                          <div data-ux="Container" id="navBarId-53553"
-                            class="x-el x-el-div c1-1 c1-2 c1-3u c1-3v c1-29 c1-28 c1-2u c1-3d c1-b c1-c c1-d c1-3w c1-3x c1-3y c1-e c1-f c1-g">
-                            <div data-ux="Container"
-                              class="x-el x-el-div c1-1 c1-2 c1-3u c1-3v c1-3z c1-40 c1-2u c1-r c1-4 c1-21 c1-23 c1-2b c1-41 c1-b c1-c c1-d c1-e c1-f c1-g">
-                              <div data-ux="Block"
-                                class="x-el x-el-div c1-1 c1-2 c1-r c1-s c1-2b c1-42 c1-43 c1-b c1-c c1-d c1-e c1-f c1-g">
-                                <div data-ux="Block"
-                                  class="x-el x-el-div c1-1 c1-2 c1-r c1-s c1-2b c1-4 c1-b c1-c c1-d c1-e c1-f c1-g">
-                                  <div data-ux="Block" data-aid="HEADER_LOGO_RENDERED"
-                                    class="x-el x-el-div c1-2f c1-2g c1-4 c1-2a c1-c c1-44 c1-45 c1-2h c1-46 c1-d c1-e c1-f c1-g">
-                                    <a rel="" role="link" aria-haspopup="menu" data-ux="Link"
-                                      data-page="287f429b-ed6e-416e-aa2a-319409973b79" title="L e t h o r p o s"
-                                      href="/" data-typography="LinkAlpha"
-                                      class="x-el x-el-a c1-2k c1-2l c1-2m c1-2n c1-2c c1-2o c1-2p c1-2q c1-2r c1-2s c1-2t c1-2u c1-4 c1-b c1-2v c1-c c1-2w c1-2x c1-2y c1-d c1-e c1-f c1-g"
-                                      data-tccl="ux2.HEADER.header9.Logo.Fill.Link.Default.53554.click,click">
-                                      <div data-ux="Block" id="logo-container-53555"
-                                        class="x-el x-el-div c1-1 c1-2 c1-2f c1-4 c1-p c1-b c1-c c1-d c1-e c1-f c1-g">
-                                        <h3 role="heading" aria-level="3" data-ux="LogoHeading" id="logo-text-53556"
-                                          data-aid="HEADER_LOGO_TEXT_RENDERED" headertreatment="Fill"
-                                          fontscalemultiplier="0.8" data-typography="LogoAlpha" data-font-scaled="true"
-                                          class="x-el x-el-h3 c1-2z c1-30 c1-2n c1-2c c1-31 c1-20 c1-1y c1-1x c1-1z c1-2u c1-2f c1-32 c1-33 c1-34 c1-35 c1-36 c1-37 c1-38 c1-39 c1-3a">
-                                          L e t h o r p o s</h3><span role="heading" aria-level="NaN" data-ux="scaler"
-                                          data-size="xxlarge" data-scaler-id="scaler-logo-container-53555"
-                                          aria-hidden="true" fontscalemultiplier="0.8" data-typography="LogoAlpha"
-                                          data-font-scaled="true"
-                                          class="x-el x-el-span c1-2z c1-30 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-2u c1-3d c1-32 c1-3e c1-3f c1-3g c1-3h c1-3i c1-3j c1-33 c1-35 c1-36 c1-3k c1-3l c1-3m c1-3n">L
-                                          e t h o r p o s</span><span role="heading" aria-level="NaN" data-ux="scaler"
-                                          data-size="xlarge" data-scaler-id="scaler-logo-container-53555"
-                                          aria-hidden="true" fontscalemultiplier="0.8" data-typography="LogoAlpha"
-                                          data-font-scaled="true"
-                                          class="x-el x-el-span c1-2z c1-30 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-2u c1-3d c1-32 c1-3e c1-3f c1-3g c1-3h c1-3i c1-34 c1-33 c1-35 c1-36 c1-37 c1-38 c1-39 c1-3a">L
-                                          e t h o r p o s</span><span role="heading" aria-level="NaN" data-ux="scaler"
-                                          data-size="large" data-scaler-id="scaler-logo-container-53555"
-                                          aria-hidden="true" fontscalemultiplier="0.8" data-typography="LogoAlpha"
-                                          data-font-scaled="true"
-                                          class="x-el x-el-span c1-2z c1-30 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-2u c1-3d c1-32 c1-3e c1-3f c1-3g c1-3h c1-3i c1-3o c1-33 c1-35 c1-36 c1-3p c1-3q c1-3r c1-3s">L
-                                          e t h o r p o s</span>
-                                      </div>
-                                    </a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </nav>
-                      </div>
-                    </div>
-                    <div data-ux="Block"
-                      class="x-el x-el-div c1-1 c1-2 c1-4 c1-q c1-3d c1-s c1-u c1-2b c1-1x c1-1z c1-b c1-c c1-d c1-47 c1-48 c1-3w c1-e c1-f c1-g">
-                      <div data-ux="Container"
-                        class="x-el x-el-div c1-1 c1-2 c1-20 c1-1y c1-24 c1-22 c1-2u c1-r c1-b c1-c c1-49 c1-d c1-4a c1-4b c1-4c c1-4d c1-4e c1-e c1-4f c1-f c1-4g c1-g">
-                        <div data-ux="Hero"
-                          class="x-el x-el-div c1-1 c1-2 c1-p c1-1x c1-1z c1-21 c1-23 c1-4 c1-r c1-2b c1-u c1-q c1-4h c1-4i c1-2a c1-b c1-c c1-d c1-4j c1-4k c1-4l c1-4m c1-4n c1-e c1-f c1-g">
-                          <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-4o c1-b c1-c c1-d c1-e c1-f c1-g">
-                            <div id="tagline-container-53557" defaultfontsize="xxlarge"
-                              class="x-el x-el-div c1-1 c1-2 c1-2n c1-2c c1-4p c1-p c1-2u c1-3g c1-31 c1-b c1-c c1-d c1-e c1-f c1-g"
-                              style="">
-                              <h1 role="heading" aria-level="1" data-ux="Tagline" maxlines="4"
-                                data-aid="HEADER_TAGLINE_RENDERED" id="dynamic-tagline-53558"
-                                containerid="tagline-container-53557" data-typography="HeadingAlpha"
-                                class="x-el x-el-h1 c1-1 c1-2 c1-2n c1-2c c1-31 c1-20 c1-1y c1-1x c1-1z c1-4q c1-4r c1-2u c1-2f c1-2g c1-4s c1-4t c1-4u c1-4v c1-4w c1-4x c1-4y c1-4z c1-50 c1-51"
-                                data-last-size="48px">Soluciones innovadoras para Restaurantes</h1><span role="heading"
-                                aria-level="NaN" data-ux="scaler" data-size="xxlarge"
-                                data-scaler-id="scaler-tagline-container-53557" aria-hidden="true"
-                                data-typography="HeadingAlpha"
-                                class="x-el x-el-span c1-1 c1-2 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-4q c1-2u c1-3d c1-3e c1-3f c1-3g c1-3h c1-3i c1-4r c1-2g c1-4s c1-4t c1-4u c1-4v c1-4w c1-4x c1-4y c1-4z c1-50 c1-51"
-                                style="display: none;">Soluciones innovadoras para Restaurantes</span><span
-                                role="heading" aria-level="NaN" data-ux="scaler" data-size="xxxlarge"
-                                data-scaler-id="scaler-tagline-container-53557" aria-hidden="true"
-                                data-typography="HeadingAlpha"
-                                class="x-el x-el-span c1-1 c1-2 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-4q c1-2u c1-3d c1-3e c1-3f c1-3g c1-3h c1-3i c1-52 c1-2g c1-4s c1-4t c1-4u c1-4v c1-4w c1-4x c1-53 c1-54 c1-55 c1-56"
-                                style="display: none;">Soluciones innovadoras para Restaurantes</span><span
-                                role="heading" aria-level="NaN" data-ux="scaler" data-size="xlarge"
-                                data-scaler-id="scaler-tagline-container-53557" aria-hidden="true"
-                                data-typography="HeadingAlpha"
-                                class="x-el x-el-span c1-1 c1-2 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-4q c1-2u c1-3d c1-3e c1-3f c1-3g c1-3h c1-3i c1-57 c1-2g c1-4s c1-4t c1-4u c1-4v c1-4w c1-4x c1-3k c1-3l c1-58 c1-59"
-                                style="display: none;">Soluciones innovadoras para Restaurantes</span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div data-ux="Block"
-                      class="x-el x-el-div c1-1 c1-2 c1-4 c1-q c1-r c1-s c1-u c1-2b c1-1x c1-1z c1-b c1-c c1-d c1-47 c1-48 c1-26 c1-e c1-f c1-g">
-                      <div data-ux="Container"
-                        class="x-el x-el-div c1-1 c1-2 c1-20 c1-1y c1-24 c1-22 c1-2u c1-r c1-b c1-c c1-49 c1-d c1-4a c1-4b c1-4c c1-4d c1-4e c1-e c1-4f c1-f c1-4g c1-g">
-                        <div data-ux="Hero"
-                          class="x-el x-el-div c1-1 c1-2 c1-p c1-1x c1-1z c1-21 c1-23 c1-4 c1-r c1-2b c1-u c1-q c1-4h c1-4i c1-2a c1-b c1-c c1-d c1-4j c1-4k c1-4l c1-4m c1-4n c1-e c1-f c1-g">
-                          <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-4o c1-b c1-c c1-d c1-e c1-f c1-g">
-                            <div id="tagline-container-53559" defaultfontsize="xxlarge"
-                              class="x-el x-el-div c1-1 c1-2 c1-2n c1-2c c1-4p c1-p c1-2u c1-3g c1-31 c1-b c1-c c1-d c1-e c1-f c1-g">
-                              <h1 role="heading" aria-level="1" data-ux="Tagline" maxlines="4"
-                                data-aid="HEADER_TAGLINE_RENDERED" id="dynamic-tagline-53560"
-                                containerid="tagline-container-53559" data-typography="HeadingAlpha"
-                                class="x-el x-el-h1 c1-1 c1-2 c1-2n c1-2c c1-31 c1-20 c1-1y c1-1x c1-1z c1-4q c1-4r c1-2u c1-2f c1-2g c1-4s c1-4t c1-4u c1-4v c1-4w c1-4x c1-4y c1-4z c1-50 c1-51">
-                                Soluciones innovadoras para Restaurantes</h1><span role="heading" aria-level="NaN"
-                                data-ux="scaler" data-size="xxlarge" data-scaler-id="scaler-tagline-container-53559"
-                                aria-hidden="true" data-typography="HeadingAlpha"
-                                class="x-el x-el-span c1-1 c1-2 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-4q c1-2u c1-3d c1-3e c1-3f c1-3g c1-3h c1-3i c1-4r c1-2g c1-4s c1-4t c1-4u c1-4v c1-4w c1-4x c1-4y c1-4z c1-50 c1-51">Soluciones
-                                innovadoras para Restaurantes</span><span role="heading" aria-level="NaN"
-                                data-ux="scaler" data-size="xxxlarge" data-scaler-id="scaler-tagline-container-53559"
-                                aria-hidden="true" data-typography="HeadingAlpha"
-                                class="x-el x-el-span c1-1 c1-2 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-4q c1-2u c1-3d c1-3e c1-3f c1-3g c1-3h c1-3i c1-52 c1-2g c1-4s c1-4t c1-4u c1-4v c1-4w c1-4x c1-53 c1-54 c1-55 c1-56">Soluciones
-                                innovadoras para Restaurantes</span><span role="heading" aria-level="NaN"
-                                data-ux="scaler" data-size="xlarge" data-scaler-id="scaler-tagline-container-53559"
-                                aria-hidden="true" data-typography="HeadingAlpha"
-                                class="x-el x-el-span c1-1 c1-2 c1-3b c1-3c c1-31 c1-20 c1-1y c1-1x c1-1z c1-4q c1-2u c1-3d c1-3e c1-3f c1-3g c1-3h c1-3i c1-57 c1-2g c1-4s c1-4t c1-4u c1-4v c1-4w c1-4x c1-3k c1-3l c1-58 c1-59">Soluciones
-                                innovadoras para Restaurantes</span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+              <div class="pos-body">
+                <div class="pos-mesas">
+                  <div class="mesa mesa-ocupada"><b>1</b><small>$485</small></div>
+                  <div class="mesa"><b>2</b><small>Libre</small></div>
+                  <div class="mesa mesa-ocupada mesa-activa"><b>3</b><small>$742</small></div>
+                  <div class="mesa"><b>4</b><small>Libre</small></div>
+                  <div class="mesa mesa-ocupada"><b>5</b><small>$318</small></div>
+                  <div class="mesa"><b>6</b><small>Libre</small></div>
+                  <div class="mesa mesa-redonda"><b>7</b><small>Libre</small></div>
+                  <div class="mesa mesa-ocupada mesa-redonda"><b>8</b><small>$1,120</small></div>
+                  <div class="mesa"><b>9</b><small>Libre</small></div>
                 </div>
-              </section>
-            </div>
-          </div>
-        </div>
-        <div id="59abc4cb-0171-41d6-b786-527483c82eb2" class="widget widget-social widget-social-social-1"></div>
-        <div id="9348b19c-e100-4b57-87f3-917139bec823" class="widget widget-contact widget-contact-contact-3">
-          <div data-ux="Widget" role="region" id="9348b19c-e100-4b57-87f3-917139bec823"
-            class="x-el x-el-div x-el c1-1 c1-2 c1-h c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
-            <div>
-              <section data-ux="Section"
-                class="x-el x-el-section c1-1 c1-2 c1-h c1-j c1-k c1-p c1-b c1-c c1-n c1-o c1-d c1-e c1-f c1-g">
-                <div data-ux="Container"
-                  class="x-el x-el-div c1-1 c1-2 c1-3u c1-3v c1-24 c1-22 c1-2u c1-b c1-c c1-49 c1-d c1-4a c1-e c1-4f c1-f c1-4g c1-g">
-                  <h2 role="heading" aria-level="2" data-ux="SectionHeading" data-aid="CONTACT_SECTION_TITLE_REND"
-                    data-typography="HeadingBeta"
-                    class="x-el x-el-h2 c1-1 c1-2 c1-2n c1-2c c1-5a c1-3u c1-1y c1-1x c1-5b c1-2a c1-2g c1-4r c1-2v c1-4t c1-4y c1-4l c1-4c c1-4z c1-50 c1-51">
-                    <span data-ux="Element" class="x-el x-el-span c1-5c c1-5d c1-5e c1-5f c1-5g">Contact Us</span>
-                    <div data-ux="Block" class="x-el x-el-div c1-4 c1-5h c1-2g c1-4r c1-4y c1-4z c1-50 c1-51">
-                      <hr aria-hidden="true" role="separator" data-ux="SectionHeadingHR"
-                        class="x-el x-el-hr c1-5i c1-5j c1-5k c1-5l c1-1z c1-5m c1-2f c1-2g c1-4r c1-4y c1-4z c1-50 c1-51">
-                    </div>
-                  </h2>
-                  <div data-ux="Content" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"></div>
-                </div>
-              </section>
-            </div>
-          </div>
-        </div>
-        <div id="73419053-1186-44c0-948d-11d982a8b886" class="widget widget-footer widget-footer-footer-2">
-          <div data-ux="Widget" role="contentinfo" id="73419053-1186-44c0-948d-11d982a8b886"
-            class="x-el x-el-div x-el c1-1 c1-2 c1-h c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
-            <div>
-              <section data-ux="Section"
-                class="x-el x-el-section c1-1 c1-2 c1-h c1-j c1-k c1-b c1-c c1-n c1-o c1-d c1-e c1-f c1-g">
-                <div data-ux="Container"
-                  class="x-el x-el-div c1-1 c1-2 c1-3u c1-3v c1-24 c1-22 c1-2u c1-b c1-c c1-49 c1-d c1-4a c1-e c1-4f c1-f c1-4g c1-g">
-                  <div data-ux="Layout" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
-                    <div data-ux="Grid"
-                      class="x-el x-el-div c1-1 c1-2 c1-r c1-5n c1-5o c1-5p c1-1x c1-1y c1-1z c1-20 c1-s c1-2a c1-b c1-c c1-d c1-e c1-f c1-g">
-                      <div data-ux="GridCell"
-                        class="x-el x-el-div c1-1 c1-2 c1-5n c1-5q c1-5r c1-5s c1-2u c1-5t c1-28 c1-5u c1-29 c1-b c1-c c1-d c1-5v c1-5w c1-e c1-f c1-g">
-                        <div data-ux="FooterDetails" data-aid="FOOTER_COPYRIGHT_RENDERED" data-typography="DetailsAlpha"
-                          class="x-el c1-1 c1-2 c1-2n c1-2c c1-5x c1-1x c1-1z c1-5y c1-b c1-2v c1-5z c1-4t c1-60 c1-61 c1-62 c1-63 c1-64 x-rt">
-                          <p style="margin:0"><span>Copyright © 2025 L e t h o r p o s - Todos los derechos
-                              reservados.</span></p>
-                        </div>
-                      </div>
-                      <div data-ux="GridCell"
-                        class="x-el x-el-div c1-1 c1-2 c1-5n c1-5q c1-5r c1-5s c1-2u c1-5t c1-28 c1-5u c1-29 c1-b c1-c c1-d c1-5v c1-5w c1-e c1-f c1-g">
-                        <div data-ux="Block"
-                          class="x-el x-el-div c1-1 c1-2 c1-5l c1-b c1-c c1-d c1-6a c1-47 c1-e c1-f c1-g">
-                          <p data-ux="FooterDetails" data-aid="FOOTER_POWERED_BY_AIRO_RENDERED"
-                            data-typography="DetailsAlpha"
-                            class="x-el x-el-p c1-1 c1-2 c1-2n c1-2c c1-5x c1-5l c1-6b c1-5y c1-b c1-2v c1-5z c1-4t c1-60 c1-6a c1-47 c1-62 c1-63 c1-64">
-                          </p>
-                          <a rel="nofollow noopener" role="link" aria-haspopup="true" data-ux="Link" target="_blank"
-                            data-aid="FOOTER_POWERED_BY_AIRO_RENDERED_LINK"
-                            href="https://www.godaddy.com/websites/website-builder?isc=pwugc&amp;utm_source=wsb&amp;utm_medium=applications&amp;utm_campaign=es-mx_corp_applications_base"
-                            data-typography="LinkAlpha"
-                            class="x-el x-el-a c1-2k c1-2l c1-2m c1-2n c1-2c c1-2o c1-2p c1-b c1-2v c1-c c1-2w c1-2x c1-2y c1-d c1-e c1-f c1-g"
-                            data-tccl="ux2.FOOTER.footer2.Layout.Default.Link.Default.53561.click,click">
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section>
-            </div>
-          </div>
-        </div>
-        <div id="001300e4-3f95-45b5-a17b-e1adc6c45ebf" class="widget widget-messaging widget-messaging-messaging-1">
-          <div data-ux="Element" id="bs-1" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><span
-              data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8">
-              <div data-ux="Block"
-                class="x-el x-el-div c2-1 c2-2 c2-9 c2-a c2-b c2-c c2-d c2-e c2-3 c2-4 c2-5 c2-f c2-6 c2-7 c2-8">
-                <style>
-                  .grecaptcha-badge {
-                    visibility: hidden;
-                  }
-                </style>
-                <div data-ux="Block" data-aid="MESSAGING_FAB" data-edit-interactive="true"
-                  data-traffic2="pandc.vnext.editor_preview.messaging_fab_open.click"
-                  data-tccl="ux2.messaging.fab.open,click"
-                  class="x-el x-el-div c2-1 c2-2 c2-g c2-h c2-i c2-j c2-k c2-l c2-m c2-n c2-o c2-p c2-3 c2-4 c2-5 c2-6 c2-7 c2-8">
-                  <svg viewBox="0 0 24 24" fill="currentColor" width="44" height="44" data-ux="Icon"
-                    class="x-el x-el-svg c2-1 c2-2 c2-q c2-r c2-s c2-3 c2-4 c2-5 c2-6 c2-7 c2-8">
-                    <g fill="currentColor">
-                      <rect x="4" y="6" width="16" height="10.222" rx="1.129"></rect>
-                      <path
-                        d="M8.977 18.578l.2-2.722a.564.564 0 01.564-.523h3.61c.548 0 .774.705.327 1.024l-3.81 2.721a.564.564 0 01-.89-.5z">
-                      </path>
-                    </g>
-                  </svg>
+                <div class="pos-ticket">
+                  <p class="ticket-title">Mesa 3 <span>4 personas</span></p>
+                  <ul>
+                    <li><span>2 Tacos al pastor</span><b>$180</b></li>
+                    <li><span>1 Enchiladas suizas</span><b>$165</b></li>
+                    <li><span>2 Aguas de horchata</span><b>$90</b></li>
+                    <li><span>1 Arrachera</span><b>$307</b></li>
+                  </ul>
+                  <div class="ticket-total"><span>Total</span><b>$742.00</b></div>
+                  <div class="ticket-btn">Cobrar</div>
                 </div>
               </div>
-            </span></div>
-        </div>
-        <div id="283fff0a-2a50-454e-8cce-1ae39874c948" class="widget widget-popup widget-popup-popup-1"></div>
-        <div id="67db6865-6396-443a-8295-c20aa171a5ac"
-          class="widget widget-cookie-banner widget-cookie-banner-cookie-1">
-          <div data-ux="Group" data-aid="FOOTER_COOKIE_BANNER_RENDERED" id="67db6865-6396-443a-8295-c20aa171a5ac-banner"
-            class="x-el x-el-div c1-1 c1-2 c1-6e c1-6r c1-6s c1-4 c1-6t c1-6u c1-6v c1-6w c1-6x c1-6y c1-6z c1-70 c1-71 c1-21 c1-22 c1-23 c1-24 c1-1x c1-1y c1-1z c1-20 c1-25 c1-b c1-c c1-72 c1-73 c1-74 c1-75 c1-76 c1-77 c1-78 c1-d c1-e c1-f c1-g">
-            <h4 role="heading" aria-level="4" data-ux="Heading" data-aid="FOOTER_COOKIE_TITLE_RENDERED"
-              data-typography="HeadingDelta"
-              class="x-el x-el-h4 c1-1 c1-2 c1-2n c1-2c c1-79 c1-20 c1-1y c1-1x c1-1z c1-7a c1-b c1-4s c1-34 c1-4t c1-7b c1-7c c1-7d c1-7e">
-              Este sitio web utiliza cookies</h4>
-            <div data-ux="Text" data-aid="FOOTER_COOKIE_MESSAGE_RENDERED" data-typography="BodyAlpha"
-              class="x-el c1-1 c1-2 c1-2n c1-2c c1-5x c1-1x c1-1z c1-5y c1-7f c1-6x c1-b c1-4s c1-c c1-4t c1-7g c1-d c1-e c1-f c1-g x-rt">
-              <p style="margin:0"><span>Usamos cookies para analizar el tráfico del sitio web y optimizar tu experiencia
-                  en el sitio. Al aceptar nuestro uso de cookies, tus datos se agruparán con los datos de todos los
-                  demás usuarios.</span></p>
             </div>
-            <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-r c1-7h c1-b c1-c c1-d c1-e c1-f c1-g"><a
-                data-ux-btn="primary" data-ux="ButtonPrimary" color="HIGHCONTRAST" href=""
-                data-aid="FOOTER_COOKIE_CLOSE_RENDERED" id="67db6865-6396-443a-8295-c20aa171a5ac-accept"
-                data-typography="ButtonAlpha"
-                class="x-el x-el-a c1-7i c1-30 c1-r c1-u c1-2b c1-2p c1-5l c1-6b c1-7j c1-7k c1-q c1-7l c1-s c1-2a c1-2m c1-2c c1-2n c1-p c1-2u c1-4 c1-7m c1-7n c1-7o c1-7p c1-7q c1-7r c1-6q c1-3 c1-b c1-35 c1-10 c1-7s c1-7t c1-7u c1-7v c1-7w c1-7x c1-7y c1-7z"
-                data-tccl="ux2.COOKIE_BANNER.cookie1.Group.Default.Button.Primary.53563.click,click">Aceptar</a></div>
+          </div>
+
+          <div class="chip chip-a"><i class="fa-solid fa-network-wired"></i> Sin internet</div>
+          <div class="chip chip-b"><i class="fa-solid fa-fire-burner"></i> Cocina en tiempo real</div>
+          <div class="chip chip-c"><i class="fa-brands fa-windows"></i><i class="fa-brands fa-android"></i> Windows + Android</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Giros -->
+    <section class="section band-light" id="giros">
+      <div class="container">
+        <header class="section-head reveal">
+          <p class="eyebrow">Hecho para tu giro</p>
+          <h2>Un solo sistema, dos formas de vender</h2>
+          <p>Nació en la cocina de un restaurante y hoy también despacha en el mostrador de cualquier tienda.</p>
+        </header>
+
+        <div class="giros-grid">
+          <article class="giro-card reveal">
+            <div class="giro-icon"><i class="fa-solid fa-utensils" aria-hidden="true"></i></div>
+            <h3>Restaurantes y cafeterías</h3>
+            <p>Atiende mesas, envía comandas a cocina y cobra cuentas divididas sin perder el ritmo del servicio.</p>
+            <ul class="check-list">
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Plano de mesas configurable por área</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Pantalla de cocina y envío por tiempos</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Extras y preferencias por platillo (sin cebolla, término, etc.)</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Cambio de mesa y cuentas por comensal</li>
+            </ul>
+          </article>
+
+          <article class="giro-card reveal">
+            <div class="giro-icon giro-icon-alt"><i class="fa-solid fa-store" aria-hidden="true"></i></div>
+            <h3>Tiendas y abarrotes</h3>
+            <p>Escanea, cobra y controla tu inventario con un catálogo que ya trae imágenes de miles de productos.</p>
+            <ul class="check-list">
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Venta rápida con lector de código de barras</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Alta de productos por código con imagen automática</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Importación masiva desde Excel</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Listas de precio por cliente o mayoreo</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Funciones -->
+    <section class="section band-soft" id="funciones">
+      <div class="container">
+        <header class="section-head reveal">
+          <p class="eyebrow">Funciones</p>
+          <h2>Todo lo que tu negocio necesita, incluido</h2>
+          <p>Sin pagos extra ni sorpresas: con tu suscripción tienes LethorPos completo.</p>
+        </header>
+
+        <div class="bento">
+          <article class="bento-card bento-mesas reveal">
+            <div class="bento-text">
+              <div class="feature-icon"><i class="fa-solid fa-chair" aria-hidden="true"></i></div>
+              <h3>Mesas con diseñador de plano</h3>
+              <p>Dibuja tu salón, terraza o barra. Ve de un vistazo qué mesas están libres, ocupadas y cuánto llevan.</p>
+            </div>
+            <div class="mini-plano" aria-hidden="true">
+              <span class="mp mp-ocupada">1</span><span class="mp">2</span><span class="mp mp-ocupada">3</span><span class="mp mp-larga">Barra</span>
+              <span class="mp mp-r">4</span><span class="mp mp-r mp-ocupada">5</span><span class="mp">6</span><span class="mp mp-ocupada">7</span>
+            </div>
+          </article>
+
+          <article class="bento-card bento-cocina reveal">
+            <div class="bento-text">
+              <div class="feature-icon"><i class="fa-solid fa-fire-burner" aria-hidden="true"></i></div>
+              <h3>Pantalla de cocina</h3>
+              <p>Las comandas llegan solas a cocina y barra, con envío por tiempos.</p>
+            </div>
+            <div class="mini-kds" aria-hidden="true">
+              <div class="kds-ticket"><b>Mesa 3</b><span>2 Pastor</span><span>1 Suizas</span><em class="kds-ok">Listo</em></div>
+              <div class="kds-ticket"><b>Mesa 8</b><span>1 Arrachera</span><span>2 Sopa</span><em>4 min</em></div>
+            </div>
+          </article>
+
+          <article class="bento-card reveal">
+            <div class="feature-icon"><i class="fa-solid fa-cash-register" aria-hidden="true"></i></div>
+            <h3>Cobro rápido</h3>
+            <p>Efectivo, tarjeta o pagos mixtos, propinas, devoluciones y reimpresión de tickets.</p>
+          </article>
+
+          <article class="bento-card reveal">
+            <div class="feature-icon"><i class="fa-solid fa-layer-group" aria-hidden="true"></i></div>
+            <h3>Tu menú a tu manera</h3>
+            <p>Organiza tus productos por categorías y ofrece extras, tamaños y preferencias, con o sin costo.</p>
+          </article>
+
+          <article class="bento-card reveal">
+            <div class="feature-icon"><i class="fa-solid fa-tags" aria-hidden="true"></i></div>
+            <h3>Precios y promociones</h3>
+            <p>Listas de precio, promociones programadas y descuentos con autorización.</p>
+          </article>
+
+          <article class="bento-card reveal">
+            <div class="feature-icon"><i class="fa-solid fa-boxes-stacked" aria-hidden="true"></i></div>
+            <h3>Inventario</h3>
+            <p>Existencias que se descuentan con cada venta y movimientos siempre a la vista.</p>
+          </article>
+
+          <article class="bento-card reveal">
+            <div class="feature-icon"><i class="fa-solid fa-vault" aria-hidden="true"></i></div>
+            <h3>Caja y turnos</h3>
+            <p>Apertura y cierre de turno, ingresos, retiros y cortes cuadrados al centavo.</p>
+          </article>
+
+          <article class="bento-card reveal">
+            <div class="feature-icon"><i class="fa-solid fa-chart-line" aria-hidden="true"></i></div>
+            <h3>Reportes al instante</h3>
+            <p>Mira cómo van tus ventas e imprime el resumen del día, del turno, cancelaciones y descuentos.</p>
+          </article>
+
+          <article class="bento-card bento-wide reveal">
+            <div class="feature-icon"><i class="fa-solid fa-user-shield" aria-hidden="true"></i></div>
+            <div>
+              <h3>Usuarios, roles y permisos</h3>
+              <p>Define qué puede hacer cada quien. Cancelaciones y descuentos necesitan la autorización del encargado, y todo queda registrado.</p>
+            </div>
+          </article>
+
+          <article class="bento-card bento-wide reveal">
+            <div class="feature-icon"><i class="fa-solid fa-print" aria-hidden="true"></i></div>
+            <div>
+              <h3>Tickets con tu logo</h3>
+              <p>Imprime tickets, comandas y reportes con tu logo en las impresoras de ticket de tu mostrador y cocina.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Plataformas -->
+    <section class="section band-dark plataformas" id="plataformas">
+      <div class="hero-glow hero-glow-alt" aria-hidden="true"></div>
+      <div class="container">
+        <header class="section-head section-head-dark reveal">
+          <p class="eyebrow eyebrow-dark">Funciona donde lo necesitas</p>
+          <h2>Tu negocio no se detiene si se cae el internet</h2>
+          <p>Un equipo de tu negocio guarda toda la información y los demás se conectan a él desde el mismo lugar, con o sin internet.</p>
+        </header>
+
+        <div class="plataformas-grid">
+          <article class="plat-card reveal">
+            <div class="plat-icon"><i class="fa-brands fa-windows" aria-hidden="true"></i></div>
+            <h3>En tu computadora</h3>
+            <p>Instálalo en una PC con Windows y listo: se abre solo cada vez que enciendes el equipo.</p>
+          </article>
+          <article class="plat-card reveal">
+            <div class="plat-icon"><i class="fa-brands fa-android" aria-hidden="true"></i></div>
+            <h3>O en una tableta</h3>
+            <p>¿Negocio pequeño? Una tableta Android puede ser todo tu sistema y tu caja al mismo tiempo.</p>
+          </article>
+          <article class="plat-card reveal">
+            <div class="plat-icon"><i class="fa-solid fa-mobile-screen" aria-hidden="true"></i></div>
+            <h3>Todo tu equipo conectado</h3>
+            <p>Meseros con celular, cajas con PC y cocina con pantalla. Se conectan solos, sin configuraciones complicadas.</p>
+          </article>
+          <article class="plat-card reveal">
+            <div class="plat-icon"><i class="fa-solid fa-images" aria-hidden="true"></i></div>
+            <h3>Catálogo de imágenes</h3>
+            <p>Miles de productos con foto listos para tu tienda, y siguen disponibles aunque no haya internet.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- CFDI -->
+    <section class="section band-light" id="facturacion">
+      <div class="container">
+        <div class="cfdi-card reveal">
+          <div class="cfdi-icon"><i class="fa-solid fa-file-invoice-dollar" aria-hidden="true"></i></div>
+          <div class="cfdi-copy">
+            <span class="badge">Próximamente</span>
+            <h2>Facturación electrónica</h2>
+            <p>
+              Muy pronto podrás facturar a tus clientes desde LethorPos: guarda sus datos fiscales una vez
+              y genera sus facturas en segundos, con los impuestos ya calculados.
+            </p>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-  <script src="//img1.wsimg.com/blobby/go/a86c9363-7f23-420d-9c28-725526c80132/gpub/7778c619aed43fb2/script.js"
-    crossorigin=""></script>
-  <script src="//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.50.3.js"
-    crossorigin=""></script>
-  <script src="//img1.wsimg.com/blobby/go/a86c9363-7f23-420d-9c28-725526c80132/gpub/bf7af60badcca829/script.js"
-    crossorigin=""></script>
-  <script type="text/javascript" src="//img1.wsimg.com/traffic-assets/js/tccl-tti.min.js"></script>
-  <script defer="" src="//img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js" crossorigin=""></script>
-</body>
+    </section>
 
+    <!-- Precio -->
+    <section class="section band-dark precio" id="precio">
+      <div class="hero-glow" aria-hidden="true"></div>
+      <div class="container precio-inner">
+        <header class="section-head section-head-dark reveal">
+          <p class="eyebrow eyebrow-dark">Precio</p>
+          <h2>Un plan, todo incluido</h2>
+          <p>Sin contratos forzosos ni costos ocultos. Empieza hoy mismo.</p>
+        </header>
+
+        <div class="price-card reveal">
+          <div class="price-card-inner">
+            <p class="price-plan" id="precio-nombre">Plan estándar</p>
+            <p class="price-amount">
+              <span class="price-value" id="precio-monto">$600</span>
+              <span class="price-meta"><span id="precio-moneda">MXN</span> / <span id="precio-periodo">mes</span></span>
+            </p>
+            <p class="price-desc" id="precio-descripcion">
+              LethorPos completo: ventas, mesas, inventario, cocina, reportes y compras.
+            </p>
+            <ul class="check-list check-list-dark">
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Punto de venta para restaurante y tienda</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Mesas, comandas y pantalla de cocina</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Inventario, caja, turnos y reportes</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Úsalo en computadora, tableta y celular</li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Actualizaciones incluidas</li>
+            </ul>
+            <a class="btn btn-primary btn-lg btn-block btn-shine" href="https://lethorsoft.com/comprar?producto=lethorpos" data-compra>
+              Comprar ahora
+              <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+            </a>
+            <p class="price-note">
+              <i class="fa-brands fa-paypal" aria-hidden="true"></i>
+              Pago seguro con PayPal a través de LethorSoft.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Preguntas -->
+    <section class="section band-light" id="preguntas">
+      <div class="container faq-inner">
+        <header class="section-head reveal">
+          <p class="eyebrow">Preguntas frecuentes</p>
+          <h2>Resolvemos tus dudas</h2>
+        </header>
+
+        <div class="faq reveal">
+          <details>
+            <summary>¿Cómo compro LethorPos?</summary>
+            <p>
+              Da clic en <strong>Comprar</strong>. Te llevamos al portal de LethorSoft, donde capturas tu correo,
+              confirmas un código de verificación y pagas con PayPal. Todo toma un par de minutos.
+            </p>
+          </details>
+          <details>
+            <summary>¿Qué pasa después de pagar?</summary>
+            <p>
+              Tu licencia queda registrada a tu correo y la puedes consultar en <em>Mis licencias</em> dentro del
+              portal de LethorSoft. Con ella activas LethorPos en el equipo principal de tu negocio.
+            </p>
+          </details>
+          <details>
+            <summary>¿Necesito internet para vender?</summary>
+            <p>
+              No. LethorPos trabaja dentro de tu negocio: si se cae el internet sigues tomando pedidos, mandando
+              comandas a cocina y cobrando con normalidad.
+            </p>
+          </details>
+          <details>
+            <summary>¿En qué equipos funciona?</summary>
+            <p>
+              LethorPos se instala en una computadora con Windows o en una tableta Android. Después, tus cajas,
+              meseros y pantallas de cocina se conectan desde sus propias computadoras, tabletas o celulares.
+            </p>
+          </details>
+          <details>
+            <summary>¿Sirve para tienda o solo para restaurante?</summary>
+            <p>
+              Para ambos. Tiene modo restaurante con mesas y cocina, y modo general para tiendas con lector de
+              código de barras, catálogo con imágenes e inventario.
+            </p>
+          </details>
+          <details>
+            <summary>¿Puedo cancelar cuando quiera?</summary>
+            <p>
+              Sí. La suscripción es mensual y no tiene plazo forzoso: si no la renuevas, simplemente deja de
+              estar vigente al terminar el periodo pagado.
+            </p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- Llamado final -->
+    <section class="cta-final band-dark">
+      <div class="hero-glow" aria-hidden="true"></div>
+      <div class="container cta-inner reveal">
+        <img class="cta-icon" src="assets/marca/icono-dark.svg" alt="" width="96" height="96">
+        <h2>Tu próximo servicio puede ser el más rápido</h2>
+        <p>Compra en minutos y empieza a vender con LethorPos hoy mismo.</p>
+        <a class="btn btn-primary btn-lg btn-shine" href="https://lethorsoft.com/comprar?producto=lethorpos" data-compra>
+          Comprar LethorPos
+          <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <img src="assets/marca/logo-claro.svg" alt="LethorPos" width="160" height="44">
+        <p>Do it fast, serve it better.</p>
+      </div>
+      <nav class="footer-nav" aria-label="Pie de página">
+        <a href="#funciones">Funciones</a>
+        <a href="#precio">Precio</a>
+        <a href="#preguntas">Preguntas</a>
+        <a href="https://lethorsoft.com/comprar?producto=lethorpos" data-compra>Comprar</a>
+      </nav>
+      <a class="footer-company" href="https://lethorsoft.com" data-lethorsoft>
+        <span>Un producto de</span>
+        <span class="footer-company-name">
+          <img src="assets/marca/lethorsoft_icono.png" alt="" width="24" height="24">
+          <span>Lethor<b>Soft</b></span>
+        </span>
+      </a>
+    </div>
+    <div class="container footer-bottom">
+      <p>&copy; <span id="anio-actual">2026</span> LethorSoft. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+</body>
 </html>

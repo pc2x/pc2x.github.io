@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 138" role="img" aria-label="LethorPOS">
+  <title>LethorPOS</title>
+  <style>
+    .logo-word { fill: #ffffff; }
+    .logo-accent { fill: #3b82f6; }
+    .logo-tagline { fill: #94a3b8; }
+  </style>
+  <svg x="-5" y="-16" width="170" height="170" viewBox="50 5 940 940">
+  <defs>
+    <path id="lethorpos-forma-soporte" d="M440 620 L742 590 L806 742 Q812 772 781 772 L416 772 Q384 772 392 744 Z"/>
+    <rect id="lethorpos-forma-tableta" transform="matrix(0.994 -0.115 -0.277 0.961 300 240)" width="540" height="442" rx="48"/>
+    <clipPath id="lethorpos-icono-tableta">
+      <use href="#lethorpos-forma-soporte"/>
+      <use href="#lethorpos-forma-tableta"/>
+    </clipPath>
+  </defs>
+  <use href="#lethorpos-forma-soporte" fill="none" stroke="#cbd5e1" stroke-width="40" stroke-linejoin="round"/>
+  <use href="#lethorpos-forma-tableta" fill="none" stroke="#cbd5e1" stroke-width="40" stroke-linejoin="round"/>
+  <use href="#lethorpos-forma-soporte" fill="#1f2023"/>
+  <rect fill="#ffffff" x="500" y="722" width="120" height="18" rx="9"/>
+
+  <use href="#lethorpos-forma-tableta" fill="#1f2023"/>
+  <g transform="matrix(0.994 -0.115 -0.277 0.961 300 240)">
+    <rect x="34" y="34" width="472" height="374" rx="26" fill="#ffffff"/>
+
+    <rect x="54" y="54" width="208" height="159" rx="20" fill="#1a6cf0"/>
+    <rect x="278" y="54" width="208" height="159" rx="20" fill="#1f2023"/>
+    <rect x="54" y="229" width="208" height="159" rx="20" fill="#1f2023"/>
+    <rect x="278" y="229" width="208" height="159" rx="20" fill="#1a6cf0"/>
+
+    <g fill="#ffffff">
+      <path transform="translate(134 131)" d="M-14 -45 h7 v25 h3.5 v-25 h7 v25 h3.5 v-25 h7 v30 q0 14 -9 17 v43 q0 5 -5 5 q-5 0 -5 -5 v-43 q-9 -3 -9 -17 z"/>
+      <path transform="translate(178 131)" d="M-5 -40 q0 -7 6 -5 q13 8 13 45 h-7 v45 q0 5 -6 5 q-6 0 -6 -5 z"/>
+    </g>
+
+    <g transform="translate(382 131)">
+      <path d="M-50 -40 H-34 L-18 18 H38 M-30 -26 H52 L42 6 H-22 M-26 -10 H47 M0 -26 L2 6 M24 -26 L22 6" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-10" cy="34" r="8" fill="#ffffff"/>
+      <circle cx="32" cy="34" r="8" fill="#ffffff"/>
+    </g>
+
+    <g transform="translate(158 310)">
+      <rect x="-42" y="-2" width="84" height="48" rx="4" fill="#ffffff"/>
+      <rect x="-15" y="12" width="30" height="34" rx="4" fill="#1f2023"/>
+      <path fill="#ffffff" d="M-50 -30 L-40 -50 H40 L50 -30 V-22 q0 12 -12.5 12 q-12.5 0 -12.5 -12 q0 12 -12.5 12 q-12.5 0 -12.5 -12 q0 12 -12.5 12 q-12.5 0 -12.5 -12 q0 12 -12.5 12 q-12.5 0 -12.5 -12 Z"/>
+      <path d="M-20 -50 L-25 -22 M0 -50 V-22 M20 -50 L25 -22" stroke="#1f2023" stroke-width="4"/>
+    </g>
+
+    <g transform="translate(382 308.5)" fill="#ffffff">
+      <rect x="-14" y="-44" width="28" height="88" rx="6"/>
+      <rect x="-44" y="-14" width="88" height="28" rx="6"/>
+    </g>
+  </g>
+
+  <path d="M119.8 543.2 A455 165 -18 1 0 869.2 299.8 A400 170 -18 1 1 119.8 543.2 Z" fill="none" stroke="#ffffff" stroke-width="16" stroke-linejoin="round" clip-path="url(#lethorpos-icono-tableta)"/>
+  <path d="M119.8 543.2 A455 165 -18 1 0 869.2 299.8 A400 170 -18 1 1 119.8 543.2 Z" fill="#1a6cf0"/>
+
+  </svg>
+  <text x="169" y="86" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="58" font-weight="800"
+    letter-spacing="-1.2" textLength="318" lengthAdjust="spacingAndGlyphs"><tspan class="logo-word">Lethor</tspan><tspan class="logo-accent">POS</tspan></text>
+  <text class="logo-tagline" x="173" y="116" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="13"
+    font-weight="600" letter-spacing="2.2" textLength="310" lengthAdjust="spacing">DO IT FAST, SERVE IT BETTER</text>
+</svg>
