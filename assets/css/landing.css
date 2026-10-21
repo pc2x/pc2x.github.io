@@ -970,6 +970,57 @@ p {
   font-size: 15px;
 }
 
+.descarga-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-top: var(--space-5);
+  padding: var(--space-5);
+  border-radius: var(--radius-lg);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(34, 211, 238, 0.35);
+  scroll-margin-top: 96px;
+}
+
+.descarga-copy h3 {
+  color: #ffffff;
+  font-size: 22px;
+  margin-bottom: var(--space-1);
+}
+
+.descarga-copy p {
+  color: var(--on-dark-muted);
+  font-size: 15px;
+}
+
+.descarga-acciones {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-1);
+  flex-shrink: 0;
+}
+
+.descarga-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px 16px;
+  font-size: 14px;
+}
+
+.descarga-meta a {
+  color: var(--on-dark-muted);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.descarga-meta a:hover {
+  color: #ffffff;
+}
+
 /* ---------- CFDI ---------- */
 
 #facturacion {
@@ -1525,6 +1576,12 @@ p {
   .giros-grid,
   .plataformas-grid {
     grid-template-columns: 1fr;
+  }
+
+  .descarga-card {
+    flex-direction: column;
+    align-items: stretch;
+    padding: var(--space-4) var(--space-3);
   }
 
   .giro-card {

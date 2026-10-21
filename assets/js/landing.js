@@ -5,6 +5,25 @@
   const URL_COMPRA = `${URL_LETHORSOFT}/comprar?producto=lethorpos`;
   const URL_PRECIOS = `${URL_LETHORSOFT}/api/precios`;
   const PRODUCTO = 'lethorpos';
+  const URL_DESCARGA = 'https://github.com/pc2x/Lethorpos-releases/releases/latest';
+  const URL_RELEASE_API = 'https://api.github.com/repos/pc2x/Lethorpos-releases/releases/latest';
+
+  const DESCARGAS_POR_SO = {
+    windows: {
+      icono: 'fa-windows',
+      texto: 'Descargar para Windows',
+      principal: /^LethorPos-Setup-.*\.exe$/i,
+      cliente: /^LethorPos-Cliente-Windows-.*\.exe$/i,
+      texto_cliente: 'Cliente ligero para Windows'
+    },
+    android: {
+      icono: 'fa-android',
+      texto: 'Descargar para Android',
+      principal: /^LethorPos-Android-.*\.apk$/i,
+      cliente: /^LethorPos-Cliente-Android-.*\.apk$/i,
+      texto_cliente: 'Cliente ligero para Android'
+    }
+  };
 
   const PERIODOS = {
     mensual: 'mes',
@@ -21,6 +40,7 @@
     iniciar_menu_movil();
     iniciar_reveal();
     cargar_precio();
+    cargar_descarga();
 
     const anio = document.getElementById('anio-actual');
     if (anio) {
@@ -31,6 +51,9 @@
   function aplicar_enlaces() {
     document.querySelectorAll('[data-compra]').forEach((enlace) => {
       enlace.href = URL_COMPRA;
+    });
+    document.querySelectorAll('[data-descarga]').forEach((enlace) => {
+      enlace.href = URL_DESCARGA;
     });
     document.querySelectorAll('[data-lethorsoft]').forEach((enlace) => {
       enlace.href = URL_LETHORSOFT;
@@ -146,6 +169,60 @@
     asignar_texto('precio-periodo', PERIODOS[precio.tipo_cobro] || precio.tipo_cobro || 'mes');
     if (precio.nombre_publico) {
       asignar_texto('precio-nombre', precio.nombre_publico);
+    }
+  }
+
+  function detectar_so() {
+    const agente = navigator.userAgent || '';
+    if (/android/i.test(agente)) {
+      return 'android';
+    }
+    if (/iphone|ipad|ipod/i.test(agente) || (/macintosh/i.test(agente) && navigator.maxTouchPoints > 1)) {
+      return null;
+    }
+    if (/windows/i.test(agente)) {
+      return 'windows';
+    }
+    return null;
+  }
+
+  async function cargar_descarga() {
+    const config = DESCARGAS_POR_SO[detectar_so()];
+    if (!config) {
+      return;
+    }
+    try {
+      const respuesta = await fetch(URL_RELEASE_API, { headers: { Accept: 'application/vnd.github+json' } });
+      if (!respuesta.ok) {
+        return;
+      }
+      const release = await respuesta.json();
+      const archivos = Array.isArray(release && release.assets) ? release.assets : [];
+      const buscar = (patron) => archivos.find((a) => a && patron.test(a.name));
+
+      const principal = buscar(config.principal);
+      if (principal) {
+        const boton = document.getElementById('descarga-principal');
+        const icono = document.getElementById('descarga-icono');
+        if (boton) {
+          boton.href = principal.browser_download_url;
+          boton.removeAttribute('target');
+        }
+        if (icono) {
+          icono.className = `fa-brands ${config.icono}`;
+        }
+        asignar_texto('descarga-texto', config.texto);
+      }
+
+      const cliente = buscar(config.cliente);
+      const enlace_cliente = document.getElementById('descarga-cliente');
+      if (cliente && enlace_cliente) {
+        enlace_cliente.href = cliente.browser_download_url;
+        enlace_cliente.textContent = config.texto_cliente;
+        enlace_cliente.hidden = false;
+      }
+    } catch {
+      // Sin conexión o límite de la API: se queda el enlace a la página de descargas.
     }
   }
 
