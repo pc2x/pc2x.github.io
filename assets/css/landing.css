@@ -512,56 +512,6 @@ p {
   }
 }
 
-/* ---------- Giros ---------- */
-
-.giros-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: var(--space-3);
-}
-
-.giro-card {
-  padding: var(--space-5);
-  border-radius: var(--radius-lg);
-  border: 1px solid var(--line);
-  background: linear-gradient(180deg, #ffffff 0%, var(--surface-2) 100%);
-  box-shadow: var(--shadow-sm);
-  transition: transform var(--dur-med) var(--ease-out), box-shadow var(--dur-med) var(--ease-out);
-}
-
-.giro-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-lg);
-}
-
-.giro-card h3 {
-  font-size: 26px;
-  font-weight: 800;
-  margin-bottom: var(--space-1);
-}
-
-.giro-card > p {
-  color: var(--muted);
-  margin-bottom: var(--space-3);
-}
-
-.giro-icon {
-  display: grid;
-  place-items: center;
-  width: 60px;
-  height: 60px;
-  margin-bottom: var(--space-3);
-  border-radius: 18px;
-  background: var(--gradient-brand);
-  color: #ffffff;
-  font-size: 26px;
-  box-shadow: 0 10px 24px rgba(26, 108, 240, 0.35);
-}
-
-.giro-icon-alt {
-  background: linear-gradient(135deg, var(--navy) 0%, var(--brand-500) 100%);
-}
-
 .check-list {
   list-style: none;
   margin: 0;
@@ -1400,7 +1350,6 @@ p {
     padding: var(--space-4) var(--space-3);
   }
 
-  .giros-grid,
   .plataformas-grid {
     grid-template-columns: 1fr;
   }
@@ -1408,10 +1357,6 @@ p {
   .descarga-card {
     flex-direction: column;
     align-items: stretch;
-    padding: var(--space-4) var(--space-3);
-  }
-
-  .giro-card {
     padding: var(--space-4) var(--space-3);
   }
 
