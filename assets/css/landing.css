@@ -373,6 +373,13 @@ p {
   margin-bottom: 0;
 }
 
+.hero-prueba {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: clamp(18px, 2vw, 22px);
+  font-weight: 500;
+  margin: var(--space-2) 0 0;
+}
+
 .hero-actions {
   display: flex;
   flex-wrap: wrap;

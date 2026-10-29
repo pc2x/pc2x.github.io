@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T05:55:42Z",
+  "generatedAt": "2026-10-29T22:20:08Z",
   "folder": "comidas",
-  "count": 663,
+  "count": 671,
   "images": [
     {
       "name": "affogato cafe",
@@ -22,6 +22,11 @@
       "name": "agua caliente para cafe",
       "file": "agua caliente para cafe.webp",
       "path": "comidas/opt/agua caliente para cafe.webp"
+    },
+    {
+      "name": "agua de litro",
+      "file": "agua de litro.webp",
+      "path": "comidas/opt/agua de litro.webp"
     },
     {
       "name": "agua de sabor 2",
@@ -197,6 +202,11 @@
       "name": "arroz vietnami",
       "file": "arroz vietnami.webp",
       "path": "comidas/opt/arroz vietnami.webp"
+    },
+    {
+      "name": "avena granulada",
+      "file": "avena granulada.webp",
+      "path": "comidas/opt/avena granulada.webp"
     },
     {
       "name": "avocado toast",
@@ -1329,6 +1339,16 @@
       "path": "comidas/opt/extra de res.webp"
     },
     {
+      "name": "extra ensalada",
+      "file": "extra ensalada.webp",
+      "path": "comidas/opt/extra ensalada.webp"
+    },
+    {
+      "name": "extra mermelada",
+      "file": "extra mermelada.webp",
+      "path": "comidas/opt/extra mermelada.webp"
+    },
+    {
       "name": "extra pollo empanizado",
       "file": "extra pollo empanizado.webp",
       "path": "comidas/opt/extra pollo empanizado.webp"
@@ -1337,6 +1357,11 @@
       "name": "extra ranch",
       "file": "extra ranch.webp",
       "path": "comidas/opt/extra ranch.webp"
+    },
+    {
+      "name": "extra tocino",
+      "file": "extra tocino.webp",
+      "path": "comidas/opt/extra tocino.webp"
     },
     {
       "name": "fajitas de arrachera",
@@ -1517,6 +1542,11 @@
       "name": "hamburguesa infantil",
       "file": "hamburguesa infantil.webp",
       "path": "comidas/opt/hamburguesa infantil.webp"
+    },
+    {
+      "name": "hash brown",
+      "file": "hash brown.webp",
+      "path": "comidas/opt/hash brown.webp"
     },
     {
       "name": "helados",
@@ -1787,6 +1817,11 @@
       "name": "latte",
       "file": "latte.webp",
       "path": "comidas/opt/latte.webp"
+    },
+    {
+      "name": "leche avena",
+      "file": "leche avena.webp",
+      "path": "comidas/opt/leche avena.webp"
     },
     {
       "name": "licuado de avena",
@@ -2742,6 +2777,11 @@
       "name": "ruso negro",
       "file": "ruso negro.webp",
       "path": "comidas/opt/ruso negro.webp"
+    },
+    {
+      "name": "salchicha",
+      "file": "salchicha.webp",
+      "path": "comidas/opt/salchicha.webp"
     },
     {
       "name": "salmon a la plancha",
