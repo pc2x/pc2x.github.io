@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T22:20:08Z",
+  "generatedAt": "2026-10-29T22:30:37Z",
   "folder": "comidas",
-  "count": 671,
+  "count": 686,
   "images": [
     {
       "name": "affogato cafe",
@@ -1419,6 +1419,41 @@
       "path": "comidas/opt/frappe cafe.webp"
     },
     {
+      "name": "frappe chocolate abuelita",
+      "file": "frappe chocolate abuelita.webp",
+      "path": "comidas/opt/frappe chocolate abuelita.webp"
+    },
+    {
+      "name": "frappe chocolate",
+      "file": "frappe chocolate.webp",
+      "path": "comidas/opt/frappe chocolate.webp"
+    },
+    {
+      "name": "frappe fresa",
+      "file": "frappe fresa.webp",
+      "path": "comidas/opt/frappe fresa.webp"
+    },
+    {
+      "name": "frappe moka",
+      "file": "frappe moka.webp",
+      "path": "comidas/opt/frappe moka.webp"
+    },
+    {
+      "name": "frappe nutella",
+      "file": "frappe nutella.webp",
+      "path": "comidas/opt/frappe nutella.webp"
+    },
+    {
+      "name": "frappe oreo",
+      "file": "frappe oreo.webp",
+      "path": "comidas/opt/frappe oreo.webp"
+    },
+    {
+      "name": "frappe vainilla",
+      "file": "frappe vainilla.webp",
+      "path": "comidas/opt/frappe vainilla.webp"
+    },
+    {
       "name": "frappe",
       "file": "frappe.webp",
       "path": "comidas/opt/frappe.webp"
@@ -1584,6 +1619,11 @@
       "path": "comidas/opt/huaraches.webp"
     },
     {
+      "name": "huevitos",
+      "file": "huevitos.webp",
+      "path": "comidas/opt/huevitos.webp"
+    },
+    {
       "name": "huevos a la mexicana",
       "file": "huevos a la mexicana.webp",
       "path": "comidas/opt/huevos a la mexicana.webp"
@@ -1639,6 +1679,11 @@
       "path": "comidas/opt/huevos rancheros.webp"
     },
     {
+      "name": "huevos",
+      "file": "huevos.webp",
+      "path": "comidas/opt/huevos.webp"
+    },
+    {
       "name": "hunan beef",
       "file": "hunan beef.webp",
       "path": "comidas/opt/hunan beef.webp"
@@ -1657,6 +1702,11 @@
       "name": "hunan con puerco",
       "file": "hunan con puerco.webp",
       "path": "comidas/opt/hunan con puerco.webp"
+    },
+    {
+      "name": "ice latte",
+      "file": "ice latte.webp",
+      "path": "comidas/opt/ice latte.webp"
     },
     {
       "name": "ingrediente extra",
@@ -1924,6 +1974,11 @@
       "path": "comidas/opt/mango chela.webp"
     },
     {
+      "name": "mangochela",
+      "file": "mangochela.webp",
+      "path": "comidas/opt/mangochela.webp"
+    },
+    {
       "name": "manzana en tocino",
       "file": "manzana en tocino.webp",
       "path": "comidas/opt/manzana en tocino.webp"
@@ -2154,6 +2209,11 @@
       "path": "comidas/opt/omelette del huerto.webp"
     },
     {
+      "name": "omelette dos",
+      "file": "omelette dos.webp",
+      "path": "comidas/opt/omelette dos.webp"
+    },
+    {
       "name": "omelette magari",
       "file": "omelette magari.webp",
       "path": "comidas/opt/omelette magari.webp"
@@ -2232,6 +2292,11 @@
       "name": "pancakes",
       "file": "pancakes.webp",
       "path": "comidas/opt/pancakes.webp"
+    },
+    {
+      "name": "pancito",
+      "file": "pancito.webp",
+      "path": "comidas/opt/pancito.webp"
     },
     {
       "name": "pantera rosa",
@@ -2647,6 +2712,11 @@
       "name": "postre",
       "file": "postre.webp",
       "path": "comidas/opt/postre.webp"
+    },
+    {
+      "name": "promo",
+      "file": "promo.webp",
+      "path": "comidas/opt/promo.webp"
     },
     {
       "name": "puerco a la naranja",
@@ -3227,6 +3297,11 @@
       "name": "tisana",
       "file": "tisana.webp",
       "path": "comidas/opt/tisana.webp"
+    },
+    {
+      "name": "toast 2",
+      "file": "toast 2.webp",
+      "path": "comidas/opt/toast 2.webp"
     },
     {
       "name": "toast",
