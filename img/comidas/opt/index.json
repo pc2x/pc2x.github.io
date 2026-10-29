@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T22:37:21Z",
+  "generatedAt": "2026-10-29T22:39:10Z",
   "folder": "comidas",
-  "count": 691,
+  "count": 692,
   "images": [
     {
       "name": "affogato cafe",
@@ -1967,6 +1967,11 @@
       "name": "macarrones con tocino",
       "file": "macarrones con tocino.webp",
       "path": "comidas/opt/macarrones con tocino.webp"
+    },
+    {
+      "name": "makondo",
+      "file": "makondo.webp",
+      "path": "comidas/opt/makondo.webp"
     },
     {
       "name": "malteadas",
