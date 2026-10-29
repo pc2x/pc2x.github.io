@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T22:39:10Z",
+  "generatedAt": "2026-10-29T22:45:10Z",
   "folder": "comidas",
-  "count": 692,
+  "count": 694,
   "images": [
     {
       "name": "affogato cafe",
@@ -1709,6 +1709,11 @@
       "path": "comidas/opt/hunan con puerco.webp"
     },
     {
+      "name": "ice caramel macchiato",
+      "file": "ice caramel macchiato.webp",
+      "path": "comidas/opt/ice caramel macchiato.webp"
+    },
+    {
       "name": "ice latte",
       "file": "ice latte.webp",
       "path": "comidas/opt/ice latte.webp"
@@ -1967,6 +1972,11 @@
       "name": "macarrones con tocino",
       "file": "macarrones con tocino.webp",
       "path": "comidas/opt/macarrones con tocino.webp"
+    },
+    {
+      "name": "macchiato",
+      "file": "macchiato.webp",
+      "path": "comidas/opt/macchiato.webp"
     },
     {
       "name": "makondo",
