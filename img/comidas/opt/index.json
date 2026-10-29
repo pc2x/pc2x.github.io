@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T22:30:37Z",
+  "generatedAt": "2026-10-29T22:37:21Z",
   "folder": "comidas",
-  "count": 686,
+  "count": 691,
   "images": [
     {
       "name": "affogato cafe",
@@ -147,6 +147,11 @@
       "name": "aperol",
       "file": "aperol.webp",
       "path": "comidas/opt/aperol.webp"
+    },
+    {
+      "name": "arepas",
+      "file": "arepas.webp",
+      "path": "comidas/opt/arepas.webp"
     },
     {
       "name": "arizona",
@@ -1994,6 +1999,16 @@
       "path": "comidas/opt/michelada 2.webp"
     },
     {
+      "name": "michelada 3",
+      "file": "michelada 3.webp",
+      "path": "comidas/opt/michelada 3.webp"
+    },
+    {
+      "name": "michelada de tamarindo",
+      "file": "michelada de tamarindo.webp",
+      "path": "comidas/opt/michelada de tamarindo.webp"
+    },
+    {
       "name": "michelada",
       "file": "michelada.webp",
       "path": "comidas/opt/michelada.webp"
@@ -3159,6 +3174,11 @@
       "path": "comidas/opt/tacos_2.webp"
     },
     {
+      "name": "tamarinchela",
+      "file": "tamarinchela.webp",
+      "path": "comidas/opt/tamarinchela.webp"
+    },
+    {
       "name": "tampiqueña 2",
       "file": "tampiqueña 2.webp",
       "path": "comidas/opt/tampiqueña 2.webp"
@@ -3357,6 +3377,11 @@
       "name": "vegetales",
       "file": "vegetales.webp",
       "path": "comidas/opt/vegetales.webp"
+    },
+    {
+      "name": "venezolano",
+      "file": "venezolano.webp",
+      "path": "comidas/opt/venezolano.webp"
     },
     {
       "name": "Verduras mixtas en salsa blanca con almendras",
