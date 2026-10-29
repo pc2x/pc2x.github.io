@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T22:45:10Z",
+  "generatedAt": "2026-10-29T22:47:20Z",
   "folder": "comidas",
-  "count": 694,
+  "count": 695,
   "images": [
     {
       "name": "affogato cafe",
@@ -832,6 +832,11 @@
       "name": "chocolate abuelita",
       "file": "chocolate abuelita.webp",
       "path": "comidas/opt/chocolate abuelita.webp"
+    },
+    {
+      "name": "chocomilk",
+      "file": "chocomilk.webp",
+      "path": "comidas/opt/chocomilk.webp"
     },
     {
       "name": "chomey de camaron",
