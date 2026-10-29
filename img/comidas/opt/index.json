@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T22:47:20Z",
+  "generatedAt": "2026-10-29T22:51:51Z",
   "folder": "comidas",
-  "count": 695,
+  "count": 696,
   "images": [
     {
       "name": "affogato cafe",
@@ -1932,6 +1932,11 @@
       "name": "licuado manzana verde",
       "file": "licuado manzana verde.webp",
       "path": "comidas/opt/licuado manzana verde.webp"
+    },
+    {
+      "name": "licuado",
+      "file": "licuado.webp",
+      "path": "comidas/opt/licuado.webp"
     },
     {
       "name": "limonada frutos rojos",
