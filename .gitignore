@@ -18,7 +18,15 @@
 /img/snacks/full
 /img/utensilios_domesticos/full
 /img/general/full
+/img/optimizer/bin
+/img/optimizer/obj
+/img/optimizer/*.csproj.user
 /productos/fuente
 /productos/generador/bin
 /productos/generador/obj
+/productos/generador/*.csproj.user
 /productos/index.json.tmp
+/herramientas/CatalogoOnlineManager/bin
+/herramientas/CatalogoOnlineManager/obj
+/herramientas/CatalogoOnlineManager/*.csproj.user
+/herramientas/CatalogoOnlineManager.exe

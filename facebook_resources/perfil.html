@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+  <meta charset="utf-8">
+  <title>LethorPOS | Foto de perfil Facebook (1080x1080)</title>
+  <link rel="stylesheet" href="../assets/css/tokens.css">
+  <style>
+    html, body {
+      margin: 0;
+      width: 1080px;
+      height: 1080px;
+      overflow: hidden;
+      background: var(--ink-950);
+    }
+
+    .lienzo {
+      position: relative;
+      width: 1080px;
+      height: 1080px;
+      overflow: hidden;
+      background:
+        radial-gradient(circle at 50% 42%, rgba(26, 108, 240, 0.55) 0%, rgba(26, 108, 240, 0) 58%),
+        radial-gradient(circle at 70% 85%, rgba(34, 211, 238, 0.22) 0%, rgba(34, 211, 238, 0) 50%),
+        linear-gradient(160deg, var(--ink-800) 0%, var(--ink-950) 70%);
+    }
+
+    .puntos {
+      position: absolute;
+      inset: 0;
+      background-image: radial-gradient(rgba(148, 163, 184, 0.18) 2px, transparent 2px);
+      background-size: 44px 44px;
+      -webkit-mask-image: radial-gradient(circle at 50% 50%, #000 0%, transparent 62%);
+      mask-image: radial-gradient(circle at 50% 50%, #000 0%, transparent 62%);
+    }
+
+    /* Anillo dentro del círculo que recorta Facebook */
+    .anillo {
+      position: absolute;
+      inset: 34px;
+      border-radius: 50%;
+      padding: 14px;
+      background: var(--gradient-brand);
+      -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+      -webkit-mask-composite: xor;
+      mask-composite: exclude;
+      box-shadow: 0 0 60px rgba(34, 211, 238, 0.35);
+    }
+
+    .icono {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 950px;
+      height: 950px;
+      transform: translate(-49%, -53%);
+      filter: drop-shadow(0 24px 48px rgba(26, 108, 240, 0.55));
+    }
+  </style>
+</head>
+<body>
+  <div class="lienzo">
+    <div class="puntos"></div>
+    <div class="anillo"></div>
+    <img class="icono" src="../assets/marca/icono-dark.svg" alt="LethorPOS">
+  </div>
+</body>
+</html>

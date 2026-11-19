@@ -9,6 +9,8 @@ using System.Text.RegularExpressions;
 const int VersionesConservadas = 2;
 const int AvisosPorArchivo = 20;
 const string SeparadorCodigoImagen = "___";
+// La descripción se repite en cada código del producto; con tope el catálogo no crece de más.
+const int LargoMaximoDetalle = 250;
 
 Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
@@ -24,35 +26,87 @@ var imgDir = Path.Combine(Path.GetDirectoryName(productosDir)!, "img");
 var fuenteDir = Path.Combine(productosDir, "fuente");
 var versionesDir = Path.Combine(productosDir, "v");
 
-var csvPaths = args.Length > 0
-    ? args.Select(Path.GetFullPath).ToList()
-    : Directory.Exists(fuenteDir)
-        ? Directory.EnumerateFiles(fuenteDir)
+var modoActualizar = false;
+var rutasActualizar = new List<string>();
+var rutasExplicitas = new List<string>();
+foreach (var arg in args)
+{
+    if (arg.Equals("--actualizar", StringComparison.OrdinalIgnoreCase)
+        || arg.Equals("-a", StringComparison.OrdinalIgnoreCase))
+    {
+        modoActualizar = true;
+        continue;
+    }
+
+    (modoActualizar ? rutasActualizar : rutasExplicitas).Add(Path.GetFullPath(arg));
+}
+
+static List<string> listar_fuentes_dir(string dir) =>
+    Directory.Exists(dir)
+        ? Directory.EnumerateFiles(dir)
             .Where(f => Path.GetExtension(f).Equals(".csv", StringComparison.OrdinalIgnoreCase)
                         || Path.GetExtension(f).Equals(".json", StringComparison.OrdinalIgnoreCase))
+            .Select(Path.GetFullPath)
             .ToList()
         : [];
-if (csvPaths.Count == 0)
+
+// Sin --actualizar: args = CSVs a procesar (o todos los de fuente/).
+// Con --actualizar: siempre se cargan los de fuente/ (merge normal) y luego los CSV indicados sobrescriben.
+var csvBase = modoActualizar
+    ? listar_fuentes_dir(fuenteDir)
+    : rutasExplicitas.Count > 0
+        ? rutasExplicitas
+        : listar_fuentes_dir(fuenteDir);
+
+if (modoActualizar && rutasActualizar.Count == 0)
+{
+    Console.Error.WriteLine("Con --actualizar indica al menos un CSV/JSON de actualización.");
+    Console.Error.WriteLine("Uso: CatalogoProductosGenerador.exe --actualizar export.csv");
+    return 1;
+}
+
+if (csvBase.Count == 0 && rutasActualizar.Count == 0)
 {
     Console.Error.WriteLine($"No hay archivos .csv ni .json en {fuenteDir}.");
-    Console.Error.WriteLine("Uso: CatalogoProductosGenerador.exe [a.csv b.json ...]   (sin argumentos: todos los .csv y .json de productos/fuente)");
+    Console.Error.WriteLine("Uso: CatalogoProductosGenerador.exe [a.csv b.json ...]");
+    Console.Error.WriteLine("     CatalogoProductosGenerador.exe --actualizar export.csv");
     return 1;
 }
 
 Console.WriteLine("CatalogoProductosGenerador");
 Console.WriteLine($"Productos: {productosDir}");
+if (modoActualizar)
+{
+    Console.WriteLine("Modo: actualizar (los CSV de --actualizar reemplazan nombre/precio/categoría/imagen/detalle)");
+}
 Console.WriteLine();
 
-var fuentes = new List<FuenteCsv>();
-foreach (var ruta in csvPaths)
+FuenteCsv? cargar_fuente(string ruta, bool actualizar)
 {
     if (!File.Exists(ruta))
     {
         Console.Error.WriteLine($"No existe el CSV: {ruta}");
-        return 1;
+        return null;
     }
 
     var fuente = leer_fuente(ruta);
+    return fuente is null ? null : fuente with { Actualizar = actualizar };
+}
+
+var fuentes = new List<FuenteCsv>();
+foreach (var ruta in csvBase)
+{
+    var fuente = cargar_fuente(ruta, actualizar: false);
+    if (fuente is null)
+    {
+        return 1;
+    }
+    fuentes.Add(fuente);
+}
+
+foreach (var ruta in rutasActualizar)
+{
+    var fuente = cargar_fuente(ruta, actualizar: true);
     if (fuente is null)
     {
         return 1;
@@ -62,14 +116,19 @@ foreach (var ruta in csvPaths)
 
 // Gana el primer archivo que trae un código (nombre, categoría e imagen); los siguientes solo agregan códigos
 // faltantes y completan precios en 0. Orden: con departamento, con categoría, sin categoría; a igualdad, el más reciente.
-fuentes = fuentes
+// Las fuentes de --actualizar van al final para que sobrescriban.
+var bases = fuentes
+    .Where(f => !f.Actualizar)
     .OrderByDescending(f => (f.Columnas.ContainsKey("departamento_venta") ? 2 : 0) + (f.Columnas.ContainsKey("categoria") ? 1 : 0))
     .ThenByDescending(f => File.GetLastWriteTimeUtc(f.Ruta))
     .ToList();
+var actualizaciones = fuentes.Where(f => f.Actualizar).ToList();
+fuentes = [.. bases, .. actualizaciones];
 Console.WriteLine("Prioridad de fuentes:");
 for (var i = 0; i < fuentes.Count; i++)
 {
-    Console.WriteLine($"  {i + 1}. {Path.GetFileName(fuentes[i].Ruta)}");
+    var marca = fuentes[i].Actualizar ? " [actualizar]" : "";
+    Console.WriteLine($"  {i + 1}. {Path.GetFileName(fuentes[i].Ruta)}{marca}");
 }
 Console.WriteLine();
 
@@ -91,12 +150,15 @@ foreach (var fuente in fuentes)
     var formato = fuente.Separador == '\0' ? "JSON" : $"separador '{fuente.Separador}'";
     Console.WriteLine($"=== {Path.GetFileName(fuente.Ruta)} ({fuente.Codificacion}, {formato}, {fuente.Filas.Count - 1} filas) ===");
     var columnas = fuente.Columnas;
-    var columnasCodigo = new[] { "upc", "sku" }.Where(columnas.ContainsKey).ToList();
+    // ean (farmacia) se trata como upc; sku/upc siguen siendo las columnas de tienda/retail.
+    var columnasCodigo = new[] { "upc", "sku", "ean" }.Where(columnas.ContainsKey).ToList();
     // En el CSV de la tienda el nombre va en "nombre"; en el de retail viene en "descripcion".
     var columnaNombre = columnas.ContainsKey("nombre") ? "nombre" : "descripcion";
     var descartadas = 0;
     var repetidas = 0;
     var preciosCompletados = 0;
+    var detallesCompletados = 0;
+    var actualizados = 0;
     var nuevos = 0;
     var avisos = 0;
 
@@ -137,6 +199,7 @@ foreach (var fuente in fuentes)
 
         int? categoria = indice_de(formato_oracion(valor("categoria")), categorias, categoriasIdx);
         int? departamento = indice_de(espacios_simples(valor("departamento_venta")), departamentos, departamentosIdx);
+        var detalle = detalle_de(valor("detalle"), nombre);
 
         string? imagen = null;
         foreach (var codigo in codigos)
@@ -145,8 +208,14 @@ foreach (var fuente in fuentes)
         }
 
         // Sin UPC, el UPC es el mismo SKU (y al revés); pueden traer valores distintos.
+        // Si solo hay ean (farmacia), ese código es el sku del producto.
         var sku = valor("sku").Trim();
         var upc = valor("upc").Trim();
+        var ean = valor("ean").Trim();
+        if (upc.Length == 0)
+        {
+            upc = ean;
+        }
         if (sku.Length == 0)
         {
             sku = upc;
@@ -160,7 +229,23 @@ foreach (var fuente in fuentes)
         if (existente < 0)
         {
             existente = productos.Count;
-            productos.Add(new Producto(sku, upcPropio, nombre, precio, categoria, departamento, imagen));
+            productos.Add(new Producto(sku, upcPropio, nombre, precio, categoria, departamento, imagen, detalle));
+        }
+        else if (fuente.Actualizar)
+        {
+            var actual = productos[existente];
+            productos[existente] = actual with
+            {
+                Sku = sku.Length > 0 ? sku : actual.Sku,
+                Upc = upcPropio ?? actual.Upc,
+                Nombre = nombre,
+                Precio = precio,
+                Categoria = categoria ?? actual.Categoria,
+                Departamento = departamento ?? actual.Departamento,
+                Imagen = imagen ?? actual.Imagen,
+                Detalle = detalle ?? actual.Detalle
+            };
+            actualizados++;
         }
         else
         {
@@ -181,6 +266,11 @@ foreach (var fuente in fuentes)
             {
                 actual = actual with { Upc = upcPropio };
             }
+            if (actual.Detalle is null && detalle is not null)
+            {
+                actual = actual with { Detalle = detalle };
+                detallesCompletados++;
+            }
             productos[existente] = actual with { Imagen = actual.Imagen ?? imagen };
         }
 
@@ -196,12 +286,13 @@ foreach (var fuente in fuentes)
     {
         Console.WriteLine($"  ... y {avisos - AvisosPorArchivo} avisos más");
     }
-    Console.WriteLine($"Nuevos: {nuevos} | Descartados: {descartadas} | Repetidos: {repetidas} | Precios completados: {preciosCompletados}");
+    Console.WriteLine(
+        $"Nuevos: {nuevos} | Actualizados: {actualizados} | Descartados: {descartadas} | Repetidos: {repetidas} | Precios completados: {preciosCompletados} | Descripciones completadas: {detallesCompletados}");
     Console.WriteLine();
 }
 
 Console.WriteLine($"Códigos: {entradas.Count} | Productos: {productos.Count} | Con UPC distinto al SKU: {productos.Count(p => p.Upc is not null)}");
-Console.WriteLine($"Con imagen: {productos.Count(p => p.Imagen is not null)} | Con precio: {productos.Count(p => p.Precio > 0)}");
+Console.WriteLine($"Con imagen: {productos.Count(p => p.Imagen is not null)} | Con precio: {productos.Count(p => p.Precio > 0)} | Con descripción: {productos.Count(p => p.Detalle is not null)}");
 Console.WriteLine($"Categorías: {categorias.Count} | Departamentos: {departamentos.Count}");
 
 if (productos.Count == 0)
@@ -256,6 +347,10 @@ await using (var json = new Utf8JsonWriter(gzip, new JsonWriterOptions { Encoder
         if (producto.Imagen is { } img)
         {
             json.WriteString("i", img);
+        }
+        if (producto.Detalle is { } detalleSalida)
+        {
+            json.WriteString("e", detalleSalida);
         }
         json.WriteEndObject();
     }
@@ -368,9 +463,9 @@ static FuenteCsv? leer_fuente(string ruta)
         columnas.TryAdd(encabezados[i], i);
     }
 
-    if (!columnas.ContainsKey("sku") && !columnas.ContainsKey("upc"))
+    if (!columnas.ContainsKey("sku") && !columnas.ContainsKey("upc") && !columnas.ContainsKey("ean"))
     {
-        Console.Error.WriteLine($"{Path.GetFileName(ruta)}: falta la columna 'sku' o 'upc'.");
+        Console.Error.WriteLine($"{Path.GetFileName(ruta)}: falta la columna 'sku', 'upc' o 'ean'.");
         return null;
     }
     if (!columnas.ContainsKey("nombre") && !columnas.ContainsKey("descripcion"))
@@ -524,6 +619,17 @@ static string espacios_simples(string? texto)
     return Regex.Replace((texto ?? string.Empty).Normalize(NormalizationForm.FormC), @"\s+", " ").Trim();
 }
 
+// Columna "detalle" (no "descripcion", que en CSV de retail es el nombre). Null si queda vacía o repite el nombre.
+static string? detalle_de(string? texto, string nombre)
+{
+    var limpio = espacios_simples(texto);
+    if (limpio.Length > LargoMaximoDetalle)
+    {
+        limpio = limpio[..LargoMaximoDetalle].TrimEnd();
+    }
+    return limpio.Length == 0 || limpio.Equals(nombre, StringComparison.OrdinalIgnoreCase) ? null : limpio;
+}
+
 static string formato_oracion(string? texto)
 {
     var limpio = espacios_simples(texto).ToLower(CultureInfo.GetCultureInfo("es-MX"));
@@ -654,10 +760,11 @@ internal sealed record FuenteCsv(
     char Separador,
     string[] Encabezados,
     Dictionary<string, int> Columnas,
-    List<List<string>> Filas);
+    List<List<string>> Filas,
+    bool Actualizar = false);
 
-/// <summary>Upc es null cuando es el mismo que el SKU.</summary>
-internal sealed record Producto(string Sku, string? Upc, string Nombre, decimal Precio, int? Categoria, int? Departamento, string? Imagen);
+/// <summary>Upc es null cuando es el mismo que el SKU; Detalle es la descripción opcional.</summary>
+internal sealed record Producto(string Sku, string? Upc, string Nombre, decimal Precio, int? Categoria, int? Departamento, string? Imagen, string? Detalle);
 
 internal sealed record Imagenes(Dictionary<string, string> porNombre, Dictionary<string, string> porCodigo);
 

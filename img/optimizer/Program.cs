@@ -21,6 +21,7 @@ var skipDirNames = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
 };
 
 var threads = Environment.ProcessorCount;
+var force = false;
 var folderArgs = new List<string>();
 for (var i = 0; i < args.Length; i++)
 {
@@ -34,6 +35,11 @@ for (var i = 0; i < args.Length; i++)
         }
         threads = n;
         i++;
+        continue;
+    }
+    if (arg.Equals("--force", StringComparison.OrdinalIgnoreCase) || arg.Equals("-f", StringComparison.OrdinalIgnoreCase))
+    {
+        force = true;
         continue;
     }
     folderArgs.Add(arg);
@@ -67,6 +73,7 @@ Console.WriteLine("ImageOptimizer");
 Console.WriteLine($"Base: {exeDir}");
 Console.WriteLine($"Carpetas a procesar: {targets.Count}");
 Console.WriteLine($"Hilos: {threads}");
+Console.WriteLine($"Forzar regeneración: {(force ? "sí" : "no")}");
 Console.WriteLine();
 
 if (targets.Count == 0)
@@ -76,6 +83,7 @@ if (targets.Count == 0)
     Console.Error.WriteLine("     ImageOptimizer.exe comidas      → solo esa carpeta");
     Console.Error.WriteLine("     ImageOptimizer.exe a b          → varias carpetas");
     Console.Error.WriteLine("     ImageOptimizer.exe -t 4 comidas → limita a 4 hilos (por defecto: núcleos del CPU)");
+    Console.Error.WriteLine("     ImageOptimizer.exe --force General → regenera WebP aunque ya existan en opt/");
     return 1;
 }
 
@@ -151,7 +159,8 @@ foreach (var targetDir in targets)
         var name = Path.GetFileNameWithoutExtension(sourcePath);
         var destPath = Path.Combine(optDir, name + ".webp");
 
-        if (File.Exists(destPath))
+        var existia = File.Exists(destPath);
+        if (!force && existia)
         {
             Interlocked.Increment(ref skipped);
             return;
@@ -172,7 +181,7 @@ foreach (var targetDir in targets)
 
             await image.SaveAsWebpAsync(destPath, encoder, ct);
             Interlocked.Increment(ref converted);
-            Console.WriteLine($"  OK  {name}.webp");
+            Console.WriteLine($"  OK  {name}.webp{(existia ? " (reemplazado)" : "")}");
         }
         catch (Exception ex)
         {
