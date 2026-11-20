@@ -25,6 +25,7 @@
 /productos/generador/bin
 /productos/generador/obj
 /productos/generador/*.csproj.user
+/productos/CatalogoProductosGenerador.exe
 /productos/index.json.tmp
 /herramientas/CatalogoOnlineManager/bin
 /herramientas/CatalogoOnlineManager/obj

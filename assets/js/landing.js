@@ -50,7 +50,8 @@
 
   function aplicar_enlaces() {
     document.querySelectorAll('[data-compra]').forEach((enlace) => {
-      enlace.href = URL_COMPRA;
+      const plan = (enlace.getAttribute('data-plan-compra') || '').trim();
+      enlace.href = plan ? `${URL_COMPRA}&plan=${encodeURIComponent(plan)}` : URL_COMPRA;
     });
     document.querySelectorAll('[data-descarga]').forEach((enlace) => {
       enlace.href = URL_DESCARGA;
@@ -140,10 +141,8 @@
       if (!Array.isArray(precios)) {
         return;
       }
-      const precio = precios.find((p) => p && p.producto === PRODUCTO && p.activo !== false);
-      if (precio) {
-        mostrar_precio(precio);
-      }
+      const por_producto = precios.filter((p) => p && p.producto === PRODUCTO && p.activo !== false);
+      por_producto.forEach((precio) => mostrar_precio(precio));
     } catch {
       // Sin conexión o CORS: se queda el precio de respaldo del HTML.
     }
@@ -152,6 +151,12 @@
   function mostrar_precio(precio) {
     const monto = Number(precio.monto);
     if (!Number.isFinite(monto) || monto <= 0) {
+      return;
+    }
+
+    const plan = (precio.plan || 'estandar').toLowerCase();
+    const tarjeta = document.querySelector(`.price-card[data-plan="${plan}"]`);
+    if (!tarjeta) {
       return;
     }
 
@@ -164,11 +169,22 @@
       maximumFractionDigits: 2
     });
 
-    asignar_texto('precio-monto', formato.format(monto));
-    asignar_texto('precio-moneda', moneda);
-    asignar_texto('precio-periodo', PERIODOS[precio.tipo_cobro] || precio.tipo_cobro || 'mes');
+    asignar_en(tarjeta, '[data-precio-monto]', formato.format(monto));
+    asignar_en(tarjeta, '[data-precio-moneda]', moneda);
+    asignar_en(tarjeta, '[data-precio-periodo]', PERIODOS[precio.tipo_cobro] || precio.tipo_cobro || 'mes');
     if (precio.nombre_publico) {
-      asignar_texto('precio-nombre', precio.nombre_publico);
+      asignar_en(tarjeta, '[data-precio-nombre]', precio.nombre_publico);
+    }
+    if (precio.descripcion) {
+      asignar_en(tarjeta, '[data-precio-descripcion]', precio.descripcion);
+    }
+    const cupo = Number(precio.clientes_simultaneos);
+    if (Number.isFinite(cupo) && cupo > 0) {
+      asignar_en(
+        tarjeta,
+        '[data-precio-cupo]',
+        cupo === 1 ? '1 dispositivo' : `Hasta ${cupo} dispositivos`
+      );
     }
   }
 
@@ -228,6 +244,13 @@
 
   function asignar_texto(id, texto) {
     const el = document.getElementById(id);
+    if (el) {
+      el.textContent = texto;
+    }
+  }
+
+  function asignar_en(raiz, selector, texto) {
+    const el = raiz.querySelector(selector);
     if (el) {
       el.textContent = texto;
     }

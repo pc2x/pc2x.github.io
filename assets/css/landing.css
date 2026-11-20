@@ -922,15 +922,43 @@ p {
   position: relative;
 }
 
+.price-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-4);
+  align-items: stretch;
+  max-width: 980px;
+  margin: 0 auto;
+}
+
 .price-card {
   position: relative;
-  max-width: 520px;
-  margin: 0 auto;
   padding: 2px;
   border-radius: var(--radius-lg);
   background: conic-gradient(from var(--angulo, 0deg), var(--brand-500), var(--accent-cyan), #6366f1, var(--brand-500));
-  box-shadow: 0 40px 100px rgba(26, 108, 240, 0.3);
+  box-shadow: 0 28px 70px rgba(26, 108, 240, 0.22);
   animation: girar-borde 8s linear infinite;
+}
+
+.price-card-destacada {
+  box-shadow: 0 40px 100px rgba(26, 108, 240, 0.35);
+}
+
+.price-badge {
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: var(--brand-500);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
 }
 
 @property --angulo {
@@ -982,6 +1010,13 @@ p {
   color: var(--on-dark-muted);
   font-size: 18px;
   font-weight: 500;
+}
+
+.price-cupo {
+  color: #7dd3fc;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: var(--space-3);
 }
 
 .price-desc {
@@ -1398,6 +1433,11 @@ p {
     height: 72px;
     border-radius: 22px;
     font-size: 32px;
+  }
+
+  .price-grid {
+    grid-template-columns: 1fr;
+    max-width: 520px;
   }
 
   .price-card-inner {

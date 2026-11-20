@@ -1,8 +1,8 @@
 {
-  "version": "2026-11-19.2",
-  "generado": "2026-11-19T21:47:07Z",
-  "archivo": "v/2026-11-19.2/catalogo.json.gz",
+  "version": "2026-11-19.4",
+  "generado": "2026-11-19T21:58:07Z",
+  "archivo": "v/2026-11-19.4/catalogo.json.gz",
   "total": 197549,
   "bytes": 3721586,
-  "sha256": "795c398e8a4aa494cd729a85c024d492905a45fefa873e335928e001557f5e8b"
+  "sha256": "09fbee2f3ff96c341c22654cad012185c276a68d95050db4dddad1e05f1e422b"
 }

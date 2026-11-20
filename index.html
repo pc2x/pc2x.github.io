@@ -325,39 +325,72 @@
       <div class="container precio-inner">
         <header class="section-head section-head-dark reveal">
           <p class="eyebrow eyebrow-dark">Precio</p>
-          <h2>Un plan, todo incluido</h2>
+          <h2>Elige tu plan</h2>
           <p>Sin contratos forzosos ni costos ocultos. Empieza hoy mismo.</p>
         </header>
 
-        <div class="price-card reveal">
-          <div class="price-card-inner">
-            <p class="price-plan" id="precio-nombre">Plan estándar</p>
-            <p class="price-amount">
-              <span class="price-value" id="precio-monto">$600</span>
-              <span class="price-meta"><span id="precio-moneda">MXN</span> / <span id="precio-periodo">mes</span></span>
-            </p>
-            <p class="price-desc" id="precio-descripcion">
-              LethorPos completo: ventas, mesas, inventario, cocina, reportes y compras.
-            </p>
-            <ul class="check-list check-list-dark">
-              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Punto de venta para restaurante y tienda</li>
-              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Mesas, comandas y pantalla de cocina</li>
-              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Inventario, caja, turnos y reportes</li>
-              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Úsalo en computadora, tableta y celular</li>
-              <li><i class="fa-solid fa-check" aria-hidden="true"></i> Actualizaciones incluidas</li>
-            </ul>
-            <a class="btn btn-primary btn-lg btn-block btn-shine" href="https://lethorsoft.com/comprar?producto=lethorpos" data-compra>
-              Comprar ahora
-              <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
-            </a>
-            <p class="price-note">
-              <i class="fa-brands fa-paypal" aria-hidden="true"></i>
-              Pago seguro con PayPal a través de LethorSoft.
-            </p>
-            <p class="price-note">
-              <i class="fa-solid fa-cloud" aria-hidden="true"></i>
-              Reportes en la nube: complemento opcional, se vende por separado.
-            </p>
+        <div class="price-grid">
+          <div class="price-card reveal" data-plan="basico">
+            <div class="price-card-inner">
+              <p class="price-plan" data-precio-nombre>Plan básico</p>
+              <p class="price-amount">
+                <span class="price-value" data-precio-monto>$299</span>
+                <span class="price-meta"><span data-precio-moneda>MXN</span> / <span data-precio-periodo>mes</span></span>
+              </p>
+              <p class="price-cupo" data-precio-cupo>1 dispositivo</p>
+              <p class="price-desc" data-precio-descripcion>
+                LethorPos completo para un solo equipo: ventas, mesas, inventario, cocina, reportes y compras.
+              </p>
+              <ul class="check-list check-list-dark">
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Punto de venta para restaurante y tienda</li>
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Mesas, comandas y pantalla de cocina</li>
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Inventario, caja, turnos y reportes</li>
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Licencia para 1 dispositivo</li>
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Actualizaciones incluidas</li>
+              </ul>
+              <a class="btn btn-primary btn-lg btn-block btn-shine" href="https://lethorsoft.com/comprar?producto=lethorpos&amp;plan=basico" data-compra data-plan-compra="basico">
+                Comprar ahora
+                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+              </a>
+              <p class="price-note">
+                <i class="fa-brands fa-paypal" aria-hidden="true"></i>
+                Pago seguro con PayPal a través de LethorSoft.
+              </p>
+            </div>
+          </div>
+
+          <div class="price-card price-card-destacada reveal" data-plan="estandar">
+            <p class="price-badge">Recomendado</p>
+            <div class="price-card-inner">
+              <p class="price-plan" data-precio-nombre>Plan estándar</p>
+              <p class="price-amount">
+                <span class="price-value" data-precio-monto>$600</span>
+                <span class="price-meta"><span data-precio-moneda>MXN</span> / <span data-precio-periodo>mes</span></span>
+              </p>
+              <p class="price-cupo" data-precio-cupo>Hasta 3 dispositivos</p>
+              <p class="price-desc" data-precio-descripcion>
+                LethorPos completo: ventas, mesas, inventario, cocina, reportes y compras.
+              </p>
+              <ul class="check-list check-list-dark">
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Punto de venta para restaurante y tienda</li>
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Mesas, comandas y pantalla de cocina</li>
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Inventario, caja, turnos y reportes</li>
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Hasta 3 dispositivos conectados</li>
+                <li><i class="fa-solid fa-check" aria-hidden="true"></i> Actualizaciones incluidas</li>
+              </ul>
+              <a class="btn btn-primary btn-lg btn-block btn-shine" href="https://lethorsoft.com/comprar?producto=lethorpos&amp;plan=estandar" data-compra data-plan-compra="estandar">
+                Comprar ahora
+                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+              </a>
+              <p class="price-note">
+                <i class="fa-brands fa-paypal" aria-hidden="true"></i>
+                Pago seguro con PayPal a través de LethorSoft.
+              </p>
+              <p class="price-note">
+                <i class="fa-solid fa-cloud" aria-hidden="true"></i>
+                Reportes en la nube: complemento opcional, se vende por separado.
+              </p>
+            </div>
           </div>
         </div>
       </div>

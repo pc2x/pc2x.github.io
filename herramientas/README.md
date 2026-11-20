@@ -27,9 +27,8 @@ Queda en `herramientas\CatalogoOnlineManager.exe` (ignorado por `.gitignore`). A
 
 ## CLI legado (opcional)
 
-Siguen disponibles para scripts:
+Siguen disponibles para scripts (los `.exe` se generan en local; no van a git):
 
-- `img\ImageOptimizer.exe`
-- `productos\CatalogoProductosGenerador.exe`
+- `img\ImageOptimizer.exe` → `publicar-optimizador.cmd`
+- `productos\CatalogoProductosGenerador.exe` → `publicar-generador-productos.cmd`
 - `actualizar-catalogo-desde-zip.cmd`
-- `publicar-optimizador.cmd` / `publicar-generador-productos.cmd`
