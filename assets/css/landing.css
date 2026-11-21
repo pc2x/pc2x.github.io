@@ -675,6 +675,26 @@ p {
   color: var(--accent-cyan);
 }
 
+.bento-card.bento-suscripcion {
+  grid-column: span 6;
+  background: var(--gradient-brand-soft);
+  border-color: rgba(26, 108, 240, 0.2);
+}
+
+.bento-suscripcion h3 {
+  color: var(--text);
+}
+
+.bento-suscripcion p {
+  color: var(--muted);
+}
+
+.bento-suscripcion .feature-icon {
+  background: rgba(26, 108, 240, 0.12);
+  border-color: rgba(26, 108, 240, 0.22);
+  color: var(--brand-600);
+}
+
 .mini-plano {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -1408,6 +1428,7 @@ p {
 
   .bento-card,
   .bento-card.bento-nube,
+  .bento-card.bento-suscripcion,
   .bento-mesas,
   .bento-cocina,
   .bento-wide {
