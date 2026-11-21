@@ -1,0 +1,102 @@
+{
+  "categorias": [
+    {
+      "id": "tabletas",
+      "titulo": "Tabletas",
+      "descripcion": "Equipos Android recomendados para caja, meseros o como sistema completo en negocios pequeños."
+    },
+    {
+      "id": "impresoras",
+      "titulo": "Impresoras",
+      "descripcion": "Impresoras térmicas de 80 mm compatibles con ESC/POS para tickets y comandas."
+    },
+    {
+      "id": "cajones",
+      "titulo": "Cajones de dinero",
+      "descripcion": "Cajones metálicos para el efectivo de la caja. Ideal combinarlos con una impresora que tenga puerto RJ11."
+    }
+  ],
+  "productos": [
+    {
+      "id": "galaxy-tab-a11",
+      "categoria": "tabletas",
+      "nombre": "Samsung Galaxy Tab A11",
+      "specs": "64 GB · 4 GB RAM · pantalla 8.7\" · gris",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/galaxy-tab-a11.svg",
+      "url": "https://www.mercadolibre.com.mx/galaxy-tab-a11-64-gb-4-gb-de-ram-pantalla-de-87-color-gris/p/MLM65189679"
+    },
+    {
+      "id": "compaq-kit",
+      "categoria": "tabletas",
+      "nombre": "Kit Compaq tablet 8.7\"",
+      "specs": "128 GB · 6 GB RAM · incluye audífonos",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/compaq-kit.svg",
+      "url": "https://www.mercadolibre.com.mx/kit-compaq-tablet-android-128gb-6gb-ram-87-gris-audifonos-inalambricos-con-microfono-led/up/MLMU5864463734"
+    },
+    {
+      "id": "compaq-qtab-87",
+      "categoria": "tabletas",
+      "nombre": "Compaq QTAB 8.7 HD",
+      "specs": "64 GB · 6 GB RAM · Android octa-core",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/compaq-qtab-87.svg",
+      "url": "https://www.mercadolibre.com.mx/compaq-tablet-qtab-87-hd-6-ram-64gb-android-octacore-wifi/up/MLMU3228877744"
+    },
+    {
+      "id": "lenovo-tab-one",
+      "categoria": "tabletas",
+      "nombre": "Lenovo Tab One",
+      "specs": "128 GB · 4 GB RAM · 8.7\" HD · incluye estuche",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/lenovo-tab-one.svg",
+      "url": "https://www.mercadolibre.com.mx/tablet-lenovo-tab-one-4gb-128gb-incluye-estuche-87-hd-gris/p/MLM47814335"
+    },
+    {
+      "id": "impresora-usb-wifi",
+      "categoria": "impresoras",
+      "nombre": "Impresora térmica USB/WiFi",
+      "specs": "80 mm · USB y WiFi",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/impresora-usb-wifi.svg",
+      "url": "https://articulo.mercadolibre.com.mx/MLM-2610834038-impresora-termica-de-recibos-usbwifi-de-80-mm-_JM"
+    },
+    {
+      "id": "impresora-usb-eth",
+      "categoria": "impresoras",
+      "nombre": "Impresora térmica USB/Ethernet",
+      "specs": "80 mm · autocorte · USB y Ethernet",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/impresora-usb-eth.svg",
+      "url": "https://articulo.mercadolibre.com.mx/MLM-1352805770-impresora-termica-recibos-ticket-80mm-autocorte-usb-ethernet-_JM"
+    },
+    {
+      "id": "impresora-escpos",
+      "categoria": "impresoras",
+      "nombre": "Impresora ESC/POS autocorte",
+      "specs": "80 mm · ESC/POS · USB y Ethernet",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/impresora-escpos.svg",
+      "url": "https://www.mercadolibre.com.mx/impresora-de-tickets-termica-80mm-negro-protocolo-escpos-con-funcion-de-corte-automatico-impresora-de-recibos-para-punto-de-venta-restaurante-tienda-soporte-conexion-usb-y-ethernet/p/MLM62449112"
+    },
+    {
+      "id": "impresora-rj11",
+      "categoria": "impresoras",
+      "nombre": "Impresora ESC/POS con puerto caja",
+      "specs": "80 mm · autocorte · USB/Ethernet · RJ11",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/impresora-rj11.svg",
+      "url": "https://www.mercadolibre.com.mx/impresora-tickets-recibos-80mm-escpos-autocorte-usb-ethernet-impresion-de-alta-velocidad-rj11-24v-1a-puerto-de-caja-registradora-alertas-de-sonidoorden/p/MLM75404182"
+    },
+    {
+      "id": "cajon-dinero",
+      "categoria": "cajones",
+      "nombre": "Cajón de dinero metálico Surpday",
+      "specs": "4 divisiones de billetes · 3 de monedas · para punto de venta",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/cajon-dinero.svg",
+      "url": "https://www.mercadolibre.com.mx/cajon-de-dinero-metalico-surpday-para-punto-de-venta-con-4-divisiones-de-billetes-y-3-de-monedas-punto-de-venta/p/MLM67289761"
+    }
+  ]
+}

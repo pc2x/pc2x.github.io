@@ -1,0 +1,19 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400' role='img'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#0b1426'/>
+      <stop offset='100%' stop-color='#1e3a5f'/>
+    </linearGradient>
+  </defs>
+  <rect width='400' height='400' fill='url(#bg)'/>
+  <rect x='70' y='130' width='260' height='150' rx='16' fill='#13213b' stroke='#e8eef8' stroke-width='6'/>
+  <rect x='95' y='155' width='50' height='70' rx='6' fill='#1a6cf0' opacity='0.85'/>
+  <rect x='155' y='155' width='50' height='70' rx='6' fill='#3b82f6' opacity='0.85'/>
+  <rect x='215' y='155' width='50' height='70' rx='6' fill='#22d3ee' opacity='0.75'/>
+  <rect x='275' y='155' width='35' height='70' rx='6' fill='#9fb0c8' opacity='0.55'/>
+  <circle cx='105' cy='250' r='12' fill='#9fb0c8'/>
+  <circle cx='145' cy='250' r='12' fill='#9fb0c8'/>
+  <circle cx='185' cy='250' r='12' fill='#9fb0c8'/>
+  <rect x='160' y='100' width='80' height='30' rx='8' fill='#1a6cf0'/>
+  <text x='200' y='340' text-anchor='middle' font-family='Segoe UI, Arial, sans-serif' font-size='22' font-weight='700' fill='#e8eef8'>Cajón</text>
+</svg>
