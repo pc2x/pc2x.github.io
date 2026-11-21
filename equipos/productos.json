@@ -90,6 +90,15 @@
       "url": "https://www.mercadolibre.com.mx/impresora-tickets-recibos-80mm-escpos-autocorte-usb-ethernet-impresion-de-alta-velocidad-rj11-24v-1a-puerto-de-caja-registradora-alertas-de-sonidoorden/p/MLM75404182"
     },
     {
+      "id": "impresora-58-bt",
+      "categoria": "impresoras",
+      "nombre": "Enduro MiniPrinter 58 mm",
+      "specs": "58 mm · Bluetooth y USB · portátil",
+      "tienda": "Mercado Libre",
+      "imagen": "../assets/img/equipos/impresora-58-bt.svg",
+      "url": "https://www.mercadolibre.com.mx/impresora-termica-enduro-miniprinter-58mm-bluetooth-usb-pos/up/MLMU724070771"
+    },
+    {
       "id": "cajon-dinero",
       "categoria": "cajones",
       "nombre": "Cajón de dinero metálico Surpday",
